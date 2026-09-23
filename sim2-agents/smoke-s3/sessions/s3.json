@@ -1,0 +1,326 @@
+{
+ "turns": [
+  {
+   "slug": "adrian-johns",
+   "name": "Adrian Johns",
+   "text": "I'd like to start by disagreeing with the story in our concept note. On that story, trust in scholarship once rested on a signal that was expensive to fake. Technology made it cheap, there was a panic, and then clever people invented better signals. I've spent most of my career on early print, and I don't think it went that way.\n\nPrint did not start out trustworthy. In early modern London the bogus could easily crowd out the genuine. Piracy, spurious editions and false claims of authorship were the rule, not the exception. Printers left to themselves had no particular reason to let the book do what scholars hoped it would. Naturalists and experimenters had to take hold of the trade and force it to serve them, and that took decades. Registers, licensing, journals, refereeing and the unwritten courtesies of the trade came out of that effort. The book trade's courtesies had little legal weight, but they carried moral force, and they mattered as much as the law.\n\nSo I want the room to argue with three claims.\n\nFirst, credibility has always been maintained infrastructure, never a natural property of a medium or a signal. The trust at a distance that let science and trade go global lasted only because someone policed it constantly. That's still true. So every proposal we make should say who does the policing, who pays for it, and who guards the guards.\n\nSecond, commons and enclosure are not opposites. Historically they were made together. Literary property was invented because of piracy, and pirates did as much cultural work as the people chasing them. There is a real line to draw here, and the people enforcing property rights are sometimes right. That's exactly what makes drawing it hard, and it's why slogans won't help.\n\nThird, automation rarely removes human labour. It moves that labour. The work a machine replaces tends to come back as the processing and curating of data. When we talk about the scholarly record as training input, we are talking about labour that has been made invisible.\n\nA last caution. The technologies sold to guarantee authenticity have a history too. Watermarks, tags and global registries have often been vapourware, and the tracking industry and the policing industry tend to merge. A tool built to catch fakes can be turned to watching people. So before we build new trust signals, let's ask who ends up holding them.",
+   "recall": [
+    {
+     "query": "print credibility made by communities policing the book trade",
+     "ids": [
+      "adrian-johns/by/1998--the-nature-of-the-book-book.md#2",
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#11",
+      "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#21",
+      "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#27",
+      "adrian-johns/av/—--the-history-and-politics-of-policing-intellectual-property.md#5",
+      "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#19"
+     ]
+    },
+    {
+     "query": "piracy and intellectual property drawing the line enclosure commons",
+     "ids": [
+      "adrian-johns/by/2009--piracy-book.md#5",
+      "adrian-johns/by/2010--rorotoko-cover-interview-piracy.md#0",
+      "adrian-johns/by/2013--the-information-defense-industry-and-the-culture-of-networks.md#37",
+      "adrian-johns/by/2009--piracy-book.md#3",
+      "adrian-johns/by/2010--rorotoko-cover-interview-piracy.md#5",
+      "adrian-johns/av/—--franke-forum-adrian-johns-on-the-politics-of-media-piracy.md#5"
+     ]
+    },
+    {
+     "query": "human labor reinstated in curating data, invisible labor",
+     "ids": [
+      "adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md#30",
+      "adrian-johns/by/2018--censorship-series-session-5.md#50",
+      "adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md#42",
+      "adrian-johns/by/2018--censorship-series-session-2.md#136",
+      "adrian-johns/by/2018--censorship-series-session-5.md#51",
+      "adrian-johns/by/2018--censorship-series-session-5.md#52"
+     ]
+    },
+    {
+     "query": "authenticity infrastructure registries vaporware surveillance",
+     "ids": [
+      "adrian-johns/by/2018--censorship-series-session-9.md#117",
+      "adrian-johns/by/2016--lay-assaying-and-the-scientific-citizen-1.md#2",
+      "adrian-johns/by/2018--censorship-series-session-9.md#115",
+      "adrian-johns/by/2016--lay-assaying-and-the-scientific-citizen-1.md#0",
+      "adrian-johns/by/2016--lay-assaying-and-the-scientific-citizen-1.md#1",
+      "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#36"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 403,
+   "role": "lead",
+   "i": 0,
+   "ts": "14:19:22"
+  },
+  {
+   "slug": "adam-bly",
+   "name": "Adam Bly",
+   "text": "Adrian, I'll take your challenge on two points, and I'm answering partly as a test case.\n\nOn watermarks, I agree with you. In 2023 Amy Brand and I wrote that watermarking falls well short. Some people will discount anything marked, some won't notice the mark, and plenty will trust the output because it's convenient. Whether something was generated by AI is a separate question from whether it's credible. What we argued for was an audit trail: back to the data, the method and the study, so you can ask how a conclusion was reached. You're right that this is maintained infrastructure. Someone has to keep retraction status current and keep the provenance intact. I don't pretend it maintains itself.\n\nOn commons and enclosure being made together, I live that. System began in 2022 under CC BY-SA, like Wikipedia. Our public graph now comes out as an annual snapshot under a non-commercial licence. It's built with a patented method and paid for by enterprise licences. I think that's defensible, but it is precisely the line you say is hard to draw. So guard the guards: hold me to the public-benefit charter.\n\nMy caution for the room is not to treat every AI extraction of the record as enclosure. Chatbots that sound authoritative but aren't grounded in anything are a different thing from systems that cite findings back to their sources.",
+   "recall": [
+    {
+     "query": "provenance audit trail trust signals",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/by/2015--wef-data-driven-development.md#52",
+      "adam-bly/by/2015--wef-data-driven-development.md#34",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#3",
+      "adam-bly/by/2015--wef-data-driven-development.md#30",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#23"
+     ]
+    },
+    {
+     "query": "commons public graph license open knowledge base enterprise",
+     "ids": [
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#13",
+      "adam-bly/by/2024--danny-hillis-joins-system.md#1",
+      "adam-bly/by/2026--system-public-graph-dataset.md#0",
+      "adam-bly/by/2026--system-charter.md#2",
+      "adam-bly/by/2022--announcing-public-beta-of-system.md#2",
+      "adam-bly/by/2012--science-re-imagined-nasig.md#28"
+     ]
+    },
+    {
+     "query": "who decides society not corporations institutions trust",
+     "ids": [
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#5",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#5",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#1",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#3",
+      "adam-bly/av/2018--broken-nature-a-public-symposium-3-complex-systems.md#49",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#4"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 229,
+   "role": "panel",
+   "i": 1,
+   "ts": "14:19:32"
+  }
+ ],
+ "queue": [
+  {
+   "slug": "benjamin-bratton",
+   "role": "panel",
+   "max_words": 200,
+   "tag": "panel",
+   "prompt": "You are a named panelist in this session. Respond to the provocation and to what has been said so far. At most 200 words."
+  },
+  {
+   "slug": "jason-priem",
+   "role": "panel",
+   "max_words": 200,
+   "tag": "panel",
+   "prompt": "You are a named panelist in this session. Respond to the provocation and to what has been said so far. At most 200 words."
+  },
+  {
+   "slug": "david-weinberger",
+   "role": "panel",
+   "max_words": 200,
+   "tag": "panel",
+   "prompt": "You are a named panelist in this session. Respond to the provocation and to what has been said so far. At most 200 words."
+  },
+  {
+   "slug": "tui-shaub",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "ramon-alvarado",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "mahzarin-banaji",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "adam-becker",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "mike-caulfield",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "leslie-chan",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "kenneth-cukier",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "anil-dash",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "selena-deckelmann",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "esther-dyson",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "james-evans",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "henry-farrell",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "tamar-gendler",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "brent-hecht",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "katherine-maher",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "kara-miller",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "tim-oreilly",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "ivan-oransky",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "peter-pomerantsev",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "peter-salib",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "steven-sloman",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "alex-springer",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "sherry-turkle",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "nick-vincent",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "amy-brand",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  },
+  {
+   "slug": "david-krakauer",
+   "role": "floor",
+   "max_words": 200,
+   "tag": "floor",
+   "prompt": "You are in the room, not on the panel. The convener has opened the floor and it is your turn. Address the session question and what has been said; disagree with the panel where your record does. At most 200 words."
+  }
+ ],
+ "floor_since_check": 0,
+ "done": false
+}

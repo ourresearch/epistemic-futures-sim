@@ -326,7 +326,7 @@ class Run:
 | Seed | {self.seed} (per-session round-robin offsets only) |
 | Prompt hashes | shared attendee instructions `{h(SHARED_INSTRUCTIONS)}`; convener system `{h(CONVENER_SYSTEM)}`; recall tool `{h(json.dumps(R.TOOL, sort_keys=True))}` |
 | Cards | `cards/` (33; sim 1's cards reused unchanged) |
-| Retrieval | hybrid BM25 + multilingual-e5-base (RRF), MMR λ=0.7, k≤10, scoped to the caller's own dossier; chunk IDs logged per turn |
+| Retrieval | hybrid BM25 + multilingual-e5-base (RRF), MMR λ=0.6 (normalised RRF relevance − max cosine to chosen; exact-duplicate texts skipped), k≤10, scoped to the caller's own dossier; chunk IDs logged per turn |
 | API calls | {tot['calls']} |
 | Tokens | input {tot['input']:,}; cache write {tot['cache_write']:,}; cache read {tot['cache_read']:,}; output {tot['output']:,} |
 | Cost (list price, see common.PRICE) | ${tot['usd']:.2f} |

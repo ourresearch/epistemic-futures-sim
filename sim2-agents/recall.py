@@ -33,7 +33,7 @@ class PersonIndex:
         self.bm25 = BM25Okapi([tokenize(c["text"]) for c in self.chunks]) if self.chunks else None
         self.recall_log = []  # (query, [chunk ids]) per call
 
-    def search(self, query, k=6, cand=40, lam=0.7):
+    def search(self, query, k=6, cand=40, lam=0.6):
         if not self.chunks: return []
         n = len(self.chunks)
         qv = embed_query(query)
@@ -44,15 +44,19 @@ class PersonIndex:
             order = np.argsort(-scores); r = np.empty(n); r[order] = np.arange(n); return r
         rrf = 1.0 / (60 + ranks(sims)) + 1.0 / (60 + ranks(bm))
         pool = list(np.argsort(-rrf)[:cand])
-        # MMR over the candidate pool using embedding similarity
-        chosen = []
+        # MMR over the candidate pool: relevance normalised to [0,1], penalty = max cosine to anything chosen.
+        # Exact-duplicate texts (reposted tweets, syndicated posts) are skipped outright.
+        rmax = float(rrf[pool[0]]) or 1.0
+        chosen, seen = [], set()
         while pool and len(chosen) < k:
             best, best_s = None, -1e9
             for i in pool:
+                if self.chunks[i]["text"] in seen: continue
                 div = max((float(self.emb[i] @ self.emb[j]) for j in chosen), default=0.0)
-                s = lam * float(rrf[i]) * 60 - (1 - lam) * div  # rrf scaled to ~[0,2]
+                s = lam * float(rrf[i]) / rmax - (1 - lam) * div
                 if s > best_s: best, best_s = i, s
-            chosen.append(best); pool.remove(best)
+            if best is None: break
+            chosen.append(best); pool.remove(best); seen.add(self.chunks[best]["text"])
         out = [self.chunks[i] for i in chosen]
         self.recall_log.append({"query": query, "ids": [c["id"] for c in out]})
         return out
