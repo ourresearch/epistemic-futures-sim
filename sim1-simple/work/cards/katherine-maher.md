@@ -1,0 +1,110 @@
+# Katherine Maher — position card
+
+## 1. Role at summit + bio
+
+**Session 1 ("The Epistemic Landscape") participant.** She has been President and CEO of NPR since March 2024. Before that she was CEO and Executive Director of the Wikimedia Foundation (2016–21; she joined in 2014), briefly CEO of Web Summit (2023–24), and earlier worked at Access Now, NDI, the World Bank and UNICEF. She chairs the Signal Foundation and has sat on the DPLA board and the US Secretary of State's Foreign Affairs Policy Board.
+
+At NPR she has faced:
+- the Uri Berliner bias controversy, two weeks into the job
+- hostile scrutiny of her old tweets and her 2022 TED "truth" remarks
+- a March 2025 House DOGE-subcommittee hearing
+- a White House executive order, which NPR sued over
+- the 2025 rescission of federal funding and the closure of CPB
+- a 2026 newsroom restructuring
+
+She brings two institutional viewpoints: the open-knowledge commons (Wikipedia as training data, volunteer curation, verifiability) and public-interest journalism under political attack.
+
+## 2. Core recent positions
+
+1. **The internet exposed pre-existing institutional failures; it did not create them.** "It is not that the internet has destroyed trust. It is that the internet has surfaced fissures within systems and... allowed them to grow." `katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md` (2024). She calls algorithmic distrust "secondary questions" to whether institutions are "fit for purpose."
+2. **Verifiability and "what can be known," not "truth."** "Our reverence for the truth might be a distraction that's getting in the way of finding common ground and getting things done." She proposes "minimum viable truth." `katherine-maher/by/2022--ted-what-wikipedia-teaches-about-truth-and-beliefs.md` (2022; the passage critics later seized on)
+3. **Keep humans in the loop; AI should assist, not replace.** "Without humans, A.I. can wreak havoc... A.I. that is deployed by and for humans can improve the experience of both people consuming information and those producing it." `katherine-maher/by/2019--without-humans-ai-can-wreak-havoc.md` (2019). Restated in 2025: "we should really be thinking of this as assistive in the sense that we direct and correct it." `katherine-maher/by/2025--on-with-kara-swisher-gop-attacks-editorial-criticisms.md`
+4. **No AI-generated content in front of audiences; human work is the differentiator.** "We are not producing anything that is going in front of our audience that has been written by AI or produced by AI." AI voices would need consent from journalists and audiences. `katherine-maher/by/2026--state-of-local-news-podcast-restructuring.md` (2026)
+5. **Human-curated knowledge beats synthetic data.** "Models trained on models are not demonstrating really, sort of, the high-quality outcomes that models trained on knowledge are demonstrating." `2024--possible-podcast...` (2024)
+6. **Paid access services for AI companies, not paywalls.** At Wikimedia, "We want to be on the receiving end of some of that value so that we can continue to perpetuate the value that we create." The content stays free; companies pay for reliable APIs (Wikimedia Enterprise). A paywall is not "the long-term solution set." `2024--possible-podcast...` (2024); also `2025--on-with-kara-swisher...`
+7. **Citation and attribution work even if few people check them.** "Very few people engage with the citations... But the fact that they are there allows people to do so"; "you only need a tiny percentage of people" to validate. She cites a medical-research AI with "36 citations per synthesis." `2024--possible-podcast...` (2024)
+8. **Models should be contestable and correctable like Wikipedia.** Model training lacks Wikipedia's public "closed-loop... [ability] to identify and then correct" bias. She wants disclosure, "discernibility" and published results. `2024--possible-podcast...` (2024)
+9. **Avoid false dichotomies; listen to Global South optimism.** "Polling shows... the vast majority of the world is actually quite optimistic about the role of AI... we're only seeing downside risk, not upside opportunity." `2024--possible-podcast...` (2024)
+10. **Public media is civic infrastructure, and the case rests on public interest, not public funding.** "Public media is a form of civic infrastructure." `katherine-maher/by/2025--congressional-testimony-doge-subcommittee.md` (2025). The post-defunding task is "public interest as opposed to public funding." `2026--state-of-local-news-podcast...` (2026)
+11. **Build trustworthy AI from trusted institutions.** She floats "a model that is trained on public broadcasting, a model that allows for people to ask questions of high-quality, high-integrity institutions," possibly with public broadcasters abroad. `2025--on-with-kara-swisher...` (2025)
+12. **Wikipedia is "anti-scale": micro-communities with shared rules.** "The whole idea of Wikipedia is anti-scale... it is all micro-communities of discourse." Scale by replicating, "not... from the center outward." `2024--possible-podcast...` (2024)
+13. **The right to knowledge ranks with the right to expression.** "We think a lot about the right to knowledge as being just as important as the right to expression." `katherine-maher/by/2021--atlantic-council-big-tech-trusted-as-wikipedia.md` (2021)
+
+## 3. Relation to the concept note
+
+- **Strong endorsement of the core diagnosis (already broken, now accelerating).** Her "surfaced fissures" argument (2024) is nearly the note's thesis. She would add that institutions were built for homogeneous publics and never became accountable to more diverse ones.
+- **Endorses "keep humans meaningfully in the loop" and "human judgment becomes the scarce ingredient."** This is her 2019 op-ed almost word for word, and NPR's 2026 no-AI-output commitment.
+- **Endorses the model-collapse half of the vicious circle.** "Models trained on models" vs. "models trained on knowledge... vetted, researched, peer-reviewed... edited" (2024).
+- **Endorses "ultimate annotators" and the unpaid-labor critique, since Wikipedians are the prototype.** "Wikipedia is still one of the largest training data sets" (2024). She will offer Wikimedia Enterprise as a working model of "fair compensation." She differs on enclosure: her model keeps the commons free and charges for service. She will resist framing the fix as locking the commons up.
+- **Endorses fluency-as-privilege and the equity angle.** She says often that Wikipedia is "horribly biased" by gender, geography and colonial history (2024), and that knowledge must expand "who is in the room."
+- **Pushes back on the note's cynical opening** ("we don't come to AI with open arms"). She warns that a US posture seeing "only... downside risk" costs democratic legitimacy with the global majority (2024). She will favor the note's "invitation to build" over its hype-skepticism.
+- **Pushes back on truth-centric language** about "veracity" and trust. She would recast it as verifiability, provenance and "the best of what can be known right now" (TED 2022). Given the political attacks, she may make this point carefully.
+- **Cognitive atrophy: little direct evidence.** Her instinct is agency-optimistic. AI tools could produce a generation that can "build the solution sets to their problems" (2024). Wikipedians edit for "joy in the act of information construction" (2024). Expect her to accept atrophy as a *design* concern (keep the human craft visible and valued), not a doom narrative.
+
+## 4. Predicted contributions
+
+**Session 1 harvest claims:**
+- "Technology didn't destroy trust. It exposed institutions that weren't fit for purpose or accountable to everyone. Diagnose the institutions, not just the feeds."
+- "The scarce, valuable input is edited, cited, human-curated knowledge. Models trained on models degrade, and the commons that supplies the good stuff is being drawn down without reinvestment."
+- "Aim for verifiability and 'what can be known,' not a contest over truth. Transparent, contestable processes (Wikipedia's) are what earn trust."
+- Possibly: "Public-interest information institutions are under direct political and financial attack right now. That is part of the landscape, not background."
+
+**Session 5 interventions:**
+- **A Wikimedia-Enterprise-style compensation model**: AI firms pay commons and public-interest institutions for reliable, attributed access, without paywalling the content.
+- **Attribution/citation and correctability standards** for AI syntheses: citations by default in high-stakes domains, public correction loops, dataset disclosure.
+- **Consortium models from trusted institutions**, such as a public-broadcasting-trained model or shared digital infrastructure across stations and broadcasters, with a firm norm that audience-facing output stays human-made.
+
+## 5. Likely dissents for the manifesto
+
+- Against **blanket anti-AI or hype-only framing**, or language that ignores Global South aspirations (`2024--possible-podcast...`).
+- Against **paywall or enclosure as the main remedy** for extraction. She prefers keeping the commons open while charging for services (`2024--possible-podcast...`; `2025--on-with-kara-swisher...`).
+- Possibly against **overtly partisan language** (e.g., the note's "Bond villains," governments "controlling the very institutions"). NPR's position is impartial public service and a strict firewall (`2025--congressional-testimony-doge-subcommittee.md`; `2025--on-with-kara-swisher...`: "that is not partisan, that's just public service"). This is inferred and medium confidence. She will defend press independence, but in nonpartisan terms.
+- Possibly against **"truth"-centric slogans**, preferring verifiability (TED 2022).
+
+## 6. Tensions and alliances
+
+- **Selena Deckelmann (Wikimedia Foundation, also S1)**: natural ally on commons, Wikipedia-as-training-data, and volunteer labor. The shared Wikimedia lineage is structural. Whether they overlapped at WMF was not checked in Deckelmann's dossier.
+- **Henry Farrell**:
+  - *Alliance*: Wikipedia as the model for knowledge interfaces (`henry-farrell/by/2024--bias-skew-and-search-engines-are-sufficient-to-explain-onlin.md`) and pay-the-producers.
+  - *Tension*: she praises citizens' assemblies as "a very useful model for addressing questions of values" (`2024--possible-podcast...`). Farrell attacks deliberation/sortition AI governance as "democracy without the politics" (`henry-farrell/by/2025--pm-the-ai-democracy-debate-is-weirdly-narrow.md`). She favors win-win licensing; he favors collective bargaining and countervailing power.
+- **Peter Pomerantsev**:
+  - *Alliance*: public-service media (Reith/BBC), Wikipedia as "the internet that might have been" (`peter-pomerantsev/by/2021--atlantic-how-to-put-out-democracys-dumpster-fire.md`), trust-building over fact-checking.
+  - *Tension*: he calls for media "less about 'objectivity' and more about helping effect change" (`peter-pomerantsev/by/2025--observer-elon-musk...`). Her stance under attack is scrupulous impartiality.
+- **Organizers and OpenAI-style governance**: in 2023 she needled OpenAI: "'AI that benefits all humanity' without a single woman or person of color on the OpenAI board." `katherine-maher/social/x-timeline.jsonl` (2023-11-22). She is likely to press on representation in whatever the summit convenes.
+
+## 7. Distinctive vocabulary
+
+"minimum viable truth," "the best of what we can know right now," "productive friction" (TED 2022); "surfaced fissures," "fit for purpose," "loyal opposition," "anti-scale," "micro-communities of discourse," "who is in the room," "confidence transfer" (2024 Possible); "right to knowledge," "purpose-driven platform rather than an expression platform" (2021 Atlantic Council); "knowledge equity," "essential infrastructure of the ecosystem of free knowledge" (`katherine-maher/by/2020--wikipedia20-capstone-making-history.md`); "civic infrastructure" (2025 testimony); "public interest as opposed to public funding," "universal service vs universal coverage" (2026); "direct and correct" (2025 Swisher); "Without humans, A.I. can wreak havoc" (2019).
+
+## 8. Confidence and gaps
+
+**High confidence** on:
+- humans-in-the-loop
+- no AI output to audiences
+- human-curated vs synthetic data
+- the Wikimedia Enterprise compensation model
+- the "surfaced fissures" diagnosis
+- verifiability over truth
+- public media as civic infrastructure
+
+**Medium confidence** on how much she will voice political alarm, given her NPR impartiality constraints, and on cognitive atrophy (no direct text).
+
+**Gaps:**
+- Her public social posting effectively stops after January 2024 (X timeline is 2019–24).
+- There is little 2025–26 first-person writing on AI beyond interviews.
+- Web Summit-era remarks (2023–24), Colbert/Bloomberg/WBUR 2025–26 appearances, and the 2024 WSJ piece (excerpt only) are not in the corpus.
+- Nothing on scholarly publishing, peer review or open access specifically.
+
+## 9. Key files
+
+1. `katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md`
+2. `katherine-maher/by/2025--on-with-kara-swisher-gop-attacks-editorial-criticisms.md`
+3. `katherine-maher/by/2026--state-of-local-news-podcast-restructuring.md`
+4. `katherine-maher/by/2019--without-humans-ai-can-wreak-havoc.md`
+5. `katherine-maher/by/2022--ted-what-wikipedia-teaches-about-truth-and-beliefs.md`
+6. `katherine-maher/by/2025--congressional-testimony-doge-subcommittee.md`
+7. `katherine-maher/by/2021--atlantic-council-big-tech-trusted-as-wikipedia.md`
+8. `katherine-maher/by/2020--wikipedia20-capstone-making-history.md`
+9. `katherine-maher/by/2025--statement-on-closure-of-cpb.md`
+10. `katherine-maher/by/2024--npr-thoughts-on-our-mission-and-our-work.md`
+11. `katherine-maher/social/x-timeline.jsonl` (2023-11-22 OpenAI board post)

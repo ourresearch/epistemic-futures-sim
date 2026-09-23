@@ -1,0 +1,83 @@
+# Position card: Adrian Johns
+
+## 1. Role at summit + bio
+
+**Role:** Listed first for Session 3, "Knowledge Infrastructure and Tools: Commons, Enclosure, and Sovereignty" (with Bly, Bratton, Priem, Weinberger). The roster lists him as "S3 lead", so he most likely gives the 5–10 minute provocation and shapes the harvest.
+
+**Bio:** Johns is Allan Grant Maclear Distinguished Service Professor of History and CHSS at Chicago. He chaired the History department 2022–25, was on leave 2025–26 and now chairs CHSS. He is the leading historian of how print came to be credible. *The Nature of the Book* (1998) argues that print was not inherently fixed or trustworthy: its credibility was built by communities that intervened in the book trade. His other books are *Piracy* (2009, on IP wars from Gutenberg to Gates, including the private "IP defense industry"), *Death of a Pirate* (2010), and *The Science of Reading* (2023; 2025 Pfizer Award). He co-edited *Beyond Craft and Code* (Osiris 38, 2023) on algorithmic cultures with **James Evans**, a fellow attendee. His CV describes a book in progress on "the policing of information" (the 2018 transcript calls it "the policing of authenticity") from the Middle Ages to now. In 2018 he co-ran the Chicago "Censorship and Information Control During Information Revolutions" series with Ada Palmer and Cory Doctorow.
+
+## 2. Core recent positions
+
+- **Print credibility was made by people, not by the technology.** "The printers had generated their own customs and conventions, which were not necessarily conducive to stabilizing knowledge. And the scholars and experimenters had had to band together to make print into a useful tool for science." (`adrian-johns/by/2010--rorotoko-cover-interview-piracy.md`, 2010)
+- **Scientists made the institutions by force.** The early scientific community "has to kind of grab [printers] by the neck and make them do what... will make printing into a... tool for science." They did this through journals, peer review and licensing, "over decades." (`adrian-johns/av/2023--adrian-johns-speaks-on-the-science-of-reading.md`, 2023)
+- **Distrust is the historical norm, and trust has to be policed without end.** "For most of human history there was fear of adulteration, rather than confidence in its absence." Also: "The credibility of this system itself could only endure with constant policing. That too remains true today." (`adrian-johns/by/2008--when-authorship-met-authenticity.md`, 2008)
+- **Be wary of stories about epochal ruptures.** "Avoid 'big culture' talk. That applies all the more when such talk is ubiquitous." Early print was "various, inauthentic, tricky to trust... not exceptions... but the rule." (`adrian-johns/by/2011--ahr-conversation-circulation-of-information.md`, 2011)
+- **The craft-versus-code (human versus algorithm) binary is out of date. Algorithms are managed human–machine assemblages.** The binary "has outlasted its usefulness." Machine learning's "agnostic character... is perhaps their most epistemically consequential aspect." (`adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md`, 2023, with Evans)
+- **Automation moves human labour into data curation rather than removing it.** "Human labor replaced by the computer would be largely reinstated at the level of processing and curating such data." Algorithms "call forth" their data. (same Osiris file, 2023)
+- **Peer review is failing at reading.** "What's happening with peer review... if countless numbers of papers are going through that contain nonsense?" and "That system is, is really tottering." He says irreproducible papers get read more. (`adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md`, 2024)
+- **Literacy "crises" come round every decade.** Asked whether any period lacked a crisis of literacy: "Since about 1920, no... every decade has had its crisis of literacy." (same 2024 file)
+- **The people who enforce property rights may be right, and that is what makes them worrying.** "The reason to be concerned is that they may very well be right, and that progress... may in some sense depend on them." The hard part is "deciding where to draw the line." (`adrian-johns/by/2013--the-information-defense-industry-and-the-culture-of-networks.md`, 2013)
+- **Open access works because funders built it into the infrastructure.** OA "does really seem to be working... because it's embedded at this kind of higher infrastructural level in the very funding culture of the sciences." (`adrian-johns/by/2018--censorship-series-session-6.md`, 2018)
+- **Authenticity rests on invisible infrastructure, and the technology sold to secure it is often vapourware and serves two masters.** Checking that goods are genuine "is not something that is just upheld by the free market... There's an entire invisible infrastructure." Global authenticity registries are "rather vapor wear like, utopian technologies." He notes that Microsoft's anti-piracy unit in Russia was reportedly co-opted to track dissidents. (`adrian-johns/by/2018--censorship-series-session-9.md`, 2018)
+- **In judging the historical actors, start without taking sides.** "It's very easy to go back into the past and see the censors as the bad guys." He argues censors' problems were "real problems," and that information management is "fertile as well as constraining." (`adrian-johns/by/2018--censorship-series-session-1.md`, 2018)
+
+## 3. Relation to the concept note
+
+- **"Many past 'epistemic crises' can be read as moments when an expensive signal of trust suddenly became cheap... a wave of democratization, a wave of moral panic, and then the slow invention of new, harder-to-fake signals":** **He would push back hard on the arc and partly accept its conclusion.** His life's work says print did not start out as an expensive, trusted signal. Books were "tricky to trust," and piracy and faked texts were everywhere (2011 AHR). Credibility came from communities intervening in and policing a trade whose incentives ran the other way ("fake news," 2023). Journals, peer review and licensing are what those communities built. He would agree that new institutions came, but not that they emerged naturally or stayed settled: the result was contested and enforced, and it needed "constant policing" (2008).
+- **"Every previous crisis of this kind was eventually met by human ingenuity that produced durable new institutions":** **He would complicate this.** "Durable" hides the maintenance work, and "ingenuity" hides the coercion: licensing, privileges, a private anti-piracy police, and censors who "are not idiots." He would call this a Whig reading of history.
+- **"Some is plain moral panic":** **He would endorse this.** Literacy crises recur every decade (2024). In the 2011 AHR roundtable a co-participant credits "the Editor's and Adrian's desire to de-exceptionalize the idea that our age is the only one inundated with information overload."
+- **"The disruption AI brings may be precisely the opening":** Johns is sceptical of rupture narratives on both sides. Of AI readers he says "we're not well-placed to understand yet what it is" (2024).
+- **"'Artificial intelligence' simply asserts what is most in dispute... a vast statistical model":** **He would partly endorse this.** The Osiris introduction says "so-called artificial intelligence" and stresses ML's indifference to what things really are. But he rejects the craft/code binary that the note's "statistical model versus knowing mind" contrast leans on.
+- **"The same surveillance logic... treating decades of accumulated human judgment as a free input" / "who pays to sustain the labor":** **He would strongly endorse the labour point.** For historians of science, revealing hidden labour has been "a defining purpose of the discipline" (Osiris). He would warn against treating enclosure as simply bad (2013).
+- **"Are researchers, scholarly publishers... in fact the ultimate annotators?":** **He would probably find this congenial but ask who does the curating, and when that work becomes visible** ("Who does it, and when is it made visible?", Osiris).
+
+## 4. Predicted contributions (Session 3)
+
+**Provocation (predicted):** "There never was a golden age of trusted print. The signals you want to rebuild were never cheap to fake, then expensive, then cheap again. They were enforced." He would use Grew's Epsom salts, the Royal Society register, Amsterdam piracy of London science books and Rushworth's "concrediting" to argue that commons and enclosure are made jointly, through policing that someone has to pay for.
+
+**Likely harvest claims:**
+1. **Credibility is maintained infrastructure, not an emergent signal.** Proposals should say who polices it, how, and who guards the guards.
+2. **Commons versus enclosure is a false binary.** The history of piracy shows openness and property made each other. The job is "deciding where to draw the line," with custom and convention as much as law ("IP in practice is a matter of custom and convention as much as it is of law per se," 2010 Rorotoko).
+3. **Curation labour gets reinstated at the data layer.** Data do not come before algorithms, so governing AI means governing and paying for that labour (Osiris).
+4. **Beware authenticity technology.** Provenance registries, detectors and watermarks are often vapourware and can be turned to surveillance (2018 Session 9). He would caution a summit tempted by technical trust signals.
+
+## 5. Likely dissents to record
+
+- **Dissent from the concept note's historical arc** as teleological "big culture" talk (`by/2011--ahr-conversation...`, `by/2008--when-authorship...`). High likelihood if the manifesto repeats the "we have done this before" line.
+- **Mild dissent from blanket anti-enclosure language.** Rights-enforcers "may very well be right" (`by/2013--the-information-defense-industry...`).
+- **Possible reservation about technical trust signals** such as AI detection and provenance registries, on dual-use grounds (`by/2018--censorship-series-session-9.md`).
+
+## 6. Tensions and alliances
+
+- **James Evans (S2): alliance, grounded.** Co-authored the Osiris 2023 introduction and "The Craft and Code Binary," and Critical Inquiry 2020 ("The New Rules of Knowledge"). They share the "algorithms as culture/assemblage" framing.
+- **Jason Priem (S3): likely alignment on OA-as-infrastructure** (Johns: OA works because it is "embedded at... higher infrastructural level"). But he would press on who polices and pays. Inferred.
+- **Mike Caulfield (S4): conceptual resonance, inferred.** Johns's "concrediting" (cross-checking every newspaper against every other, 2018 Session 4) closely parallels lateral reading.
+- **Ivan Oransky (S5): conceptual resonance, inferred.** Johns says peer review is "tottering" and nonsense papers get read more (2024).
+- **Geoffrey Bilder / concept-note authors: likely friendly correction, inferred.** The arc in the note is a popularization of the history Johns complicates.
+- **Benjamin Bratton and Adam Bly:** no grounded evidence of tension in his corpus.
+
+## 7. Distinctive vocabulary
+
+"big culture talk" and "rupture talk" (2011 AHR); "trust at a distance," "the alliance between authorship and authenticity" (2008 Nature); "IP defense industry," "Who will guard the guards" (2013); "concrediting" (2018 Session 4); "information management... fertile as well as constraining" (2018 Session 1); "assemblages," "remediation," "datafication," "end-to-end history," "algorithm-jockeys" (Osiris 2023); "craft/code binary"; "piracy as an engine of... innovation" (2009 *Piracy* publisher summary); "what on earth did they think they were doing?" (2024).
+
+## 8. Confidence and gaps
+
+- **High confidence** on the history-of-credibility views and the likely critique of the arc. These are consistent from 1998 to 2026.
+- **Medium confidence** on AI-specific positions. His only substantive AI writing is the Osiris 2023 introduction (written before the LLM era). His 2023–24 remarks on AI are brief and non-committal ("anxiety as well as promise"; "dispiriting because it seems like we're being cut out of the loop," `av/2023--333-...`).
+- **Gaps:** nothing in the corpus on copyright and AI training, LLMs or model collapse. The 2026 Faculti interview is abstract-only. The forthcoming policing-of-information book is unseen. Much of his writing is paywalled, so only abstracts are held.
+
+## 9. Key files
+
+1. `adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md`
+2. `adrian-johns/by/2008--when-authorship-met-authenticity.md`
+3. `adrian-johns/by/2011--ahr-conversation-circulation-of-information.md`
+4. `adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md`
+5. `adrian-johns/av/2023--adrian-johns-speaks-on-the-science-of-reading.md`
+6. `adrian-johns/by/2013--the-information-defense-industry-and-the-culture-of-networks.md`
+7. `adrian-johns/by/2010--rorotoko-cover-interview-piracy.md`
+8. `adrian-johns/by/2018--censorship-series-session-9.md`
+9. `adrian-johns/by/2018--censorship-series-session-1.md`
+10. `adrian-johns/by/2018--censorship-series-session-4.md`
+11. `adrian-johns/by/2018--censorship-series-session-6.md`
+12. `adrian-johns/by/2023--big-brains-phonics-vs-whole-word.md`
+13. `adrian-johns/by/2013--the-ecological-origins-of-copyright-scepticism.md`

@@ -1,0 +1,91 @@
+# Anil Dash — position card
+
+## 1. Role at summit + bio
+
+**Session 5, "Interventions and Futures"** (co-led by Geoffrey Bilder and Tui Shaub, with Brent Hecht and Ivan Oransky). In that session the room names its three most important interventions, the open questions it can't yet answer, and who is missing and should be at the next convening.
+
+Dash is a technologist, entrepreneur and writer. He blogged from 1999 (anildash.com, 3,117 posts), was chief evangelist at Six Apart, founded Expert Labs and ThinkUp, and was CEO of Fog Creek/Glitch until the Fastly acquisition. He hosted the *Function* podcast and now runs Antitech. He sits on or advises the boards of several open-web organizations: he names the Internet Archive, Wikimedia, EFF and Mozilla, and he was on Stack Overflow's board (`anil-dash/by/2026--endgame-open-web.md`). In 2025–26 he became the best-known voice for what he calls "the majority AI view." In his account, rank-and-file technologists see LLMs as useful, but the hype, the forced adoption and the Big AI companies damage that usefulness. He argues for "good AI" and says that position is different from opposing AI. He is not an academic and has no scholarly record (`anil-dash/INDEX.md`). He will speak as a builder, a communicator and an open-web defender.
+
+## 2. Core recent positions
+
+- **Treat AI as a "normal technology."** Hype, coercion and ignored critiques are the obstacles. "Technologies like LLMs have utility, but the absurd way they've been over-hyped, the fact they're being forced on everyone, and the insistence on ignoring the many valid critiques about them make it very difficult to focus on legitimate uses…" (`anil-dash/by/2025--the-majority-ai-view.md`, 2025)
+- **Define "normal" as fitness for the task, and read coercion as a warning sign.** "A normal technology is one that we evaluate on its own merits and look at in terms of suitability to task… If you have to force people to use it, there's something off here." (`anil-dash/by/2026--galaxy-brain-ai-panic-cycle-transcript.md`, 2026)
+- **LLMs help novices more than experts. Mandates insult skilled workers.** "AI is really good for helping you if you're bad at something, or at least below average. But it's probably not the right tool if you're great at something." (`anil-dash/by/2025--ai-first-is-the-new-return-to-office.md`, 2025)
+- **Build "good AI":** consent-trained, green, genuinely open source, community-governed and accessible. "Community-led: Alternative creation, ownership and governance models for AI tools that address the corporate chaos of today's big names are well past due." The same list names "stewardship by an academic or NGO." (`anil-dash/by/2025--what-would-good-ai-look-like.md`, 2025). In 2026 he points to a first working example, CorridorKey: "The bad behaviors are a choice." (`anil-dash/by/2026--one-good-ai-is-here.md`, 2026)
+- **Consent is the organizing principle.** "Technology should only ever do exactly what we have explicitly given it our consent to do." (`anil-dash/by/2025--internet-of-consent.md`, 2025)
+- **Wikipedia's AI doom loop.** Scraping without paying, plus answers without traffic, starves the volunteer pipeline. AI firms should "pay to sustain Wikipedia and its community so that there's a continuous source of new, accurate information over time." (`anil-dash/by/2026--wikipedia-at-25.md`, 2026)
+- **2026 is the "endgame" for the open web, and research is collateral damage.** "open resources like research work, scientific analysis, and fair use of content all suffer as a result of people responding to the bad actors…" (`anil-dash/by/2026--endgame-open-web.md`, 2026)
+- **Scolding users fails. Offer a better alternative.** Hundreds of millions choose these tools. "…scolding people and trying to convince them that they're not finding utility in the current platforms… will not work." (`anil-dash/by/2025--wanting-not-to-want-ai.md`, 2025)
+- **Deskilling and conservatism are specific AI harms.** "How will we build the next generation of coders skilled enough to catch the glaring errors that LLMs create in their code?" and "The past is a prison when you're inventing the future." (`anil-dash/by/2025--vibe-coding-empowering-and-imprisoning.md`, 2025)
+- **Humans should stay at the center.** "the best way to to use LLMs is for them to prompt capable humans, rather than the other way around." (`anil-dash/social/bluesky-timeline.jsonl`, 2026-05-23, own post)
+- **Don't count on US regulation. Build alternatives and certify them.** "There ought to be a law… I got bad news for you. That's not happening in the United States." He proposes a "little seal… 'This is not the world's worst AI.'" (`anil-dash/by/2026--galaxy-brain-ai-panic-cycle-transcript.md`, 2026)
+- **Tactics for shifting power:** disintermediate, keep providers switchable, free the tools, and channel public anger. "the way we fight that inevitability is with a more exciting, human, powerful alternative, not merely by repeating what we're saying no to." (`anil-dash/by/2026--fight-ai-platform-war.md`, 2026)
+
+## 3. Relation to the concept note
+
+- **Endorses the "foisted on us" sentence nearly word for word.** The note says AI "was foisted on us through forced upgrades, default settings, and mandates from managers." That is his own vocabulary: "how AI is being shoehorned into every tool and foisted upon users" (`2025--wanting-not-to-want-ai.md`). His "AI-first is the new RTO" essay is about managerial mandates. Expect him to claim this passage and sharpen it.
+- **Endorses the enshittification and surveillance-capitalism diagnosis** and the charge that the scholarly record is being treated "as a free input." He ties enshittification directly to consent (`2025--internet-of-consent.md`) and describes scraping as "Napster" for Wikipedia (`2026--wikipedia-at-25.md`).
+- **Endorses "talk more precisely."** He has long argued that "there is no 'tech,'" and that lumping unlike things together "leads to absurdly inappropriate decisions" (`2026--no-such-thing-as-tech.md`). "Normal technology" is his precise alternative to both hype and doom, which matches the note's warning against complacency and techno-doom alike.
+- **Pushes back on the note's cynicism.** The note says "we come to it cynical." Dash separates the technology from the companies and warns that blanket rejection repeats the social-media era's mistake: "people took that to mean 'no social media.'… That didn't work." He says "No LLMs" will not succeed, "Nor do I necessarily think it even should" (Galaxy Brain, 2026). He will want the manifesto to be for something.
+- **Pushes back on looking to governments.** He expects no federal help in the US and puts his hope in building, culture and local action (`2026--fight-ai-platform-war.md`; `2026--endgame-open-web.md`).
+- **Reframes the "ultimate annotators" idea (inference).** He will likely support recognition and pay for scholars and volunteers. He would recast it in terms of consent and community ownership, "controlled by creators, not extractors" (`2026--one-good-ai-is-here.md`), not as better-paid supply to the AI economy. No direct statement on scholarly annotators was found.
+
+## 4. Predicted contributions in Session 5
+
+**Interventions he would push hardest:**
+1. **A consent-and-compensation standard for using the scholarly and open-knowledge record in AI**, with a public "good AI" seal or checklist (consent-trained, open weights and data, green, community-governed, opt-in deployment). Sources: `2025--what-would-good-ai-look-like.md`, Galaxy Brain 2026.
+2. **Community-controlled, open, disintermediated AI tools for scholarship.** "lots of little, independent, community-controlled and open alternatives to Big AI" (Bluesky, 2026-06-13). Libraries, universities and NGOs would be the stewards. Open interfaces would keep providers swappable (`2026--fight-ai-platform-war.md`).
+3. **Direct funding and defense of the open infrastructure that AI depends on**: the Internet Archive, Wikipedia, open source maintainers and open APIs for researchers. AI platforms should pay (`2026--endgame-open-web.md`, `2026--wikipedia-at-25.md`).
+
+He will also shape the **form** of the manifesto. He wants a story people "can repeat for you even after you've left the room," built on "concrete, specific, perhaps even measurable goals" like "free buses," with the rule "Only say what only you can say" (`2025--talk-about-us-without-us.md`). Expect him to cut platitudes and push for one or two slogan-sized, checkable commitments.
+
+**Open questions he would name:** Can open and community models stay competitive ("frontier minus six")? Who pays for Wikipedia-style commons once traffic disappears? How do we train the next generation to catch LLM errors? Can anything radically new come from tools trained on the past? And how do we serve the hundreds of millions of people already using ChatGPT without scolding them?
+
+**Who's missing from the room** (grounded):
+- disabled people and disability advocates ("nothing about us without us," `2025--what-about-nothing-about-us.md`)
+- creators and artists whose work was taken without consent (`2025--internet-of-consent.md`)
+- rank-and-file tech workers, as opposed to tycoons (`2025--the-majority-ai-view.md`)
+- Wikipedia editors and open source maintainers (`2026--endgame-open-web.md`)
+- "regular, non-expert internet users," including cultures that treat AI media as "tolerable folk art" (`2025--wanting-not-to-want-ai.md`)
+- communities near data centers (Galaxy Brain 2026)
+- parents and schools (`2026--taking-action-ai-harms.md`)
+
+## 5. Likely dissents to record
+
+- **Against any abstention or "no LLMs" plank.** He would dissent from language implying scholars should simply refuse AI. Basis: Galaxy Brain 2026 and `2025--wanting-not-to-want-ai.md`.
+- **Against a manifesto that relies on regulators or on the good faith of Big AI.** He would record that the alternative has to be built. Basis: `2026--fight-ai-platform-war.md`.
+- **Against uncritical partnership with the leading AI companies.** He calls them "authoritarian extremists" (`2025--the-majority-ai-view.md`), and he would object to endorsing any vendor.
+
+## 6. Tensions and alliances
+
+- **Brent Hecht:** they agree on the Wikipedia/AI doom loop. Dash's "Wikipedia at 25" repeats Hecht's "paradox of reuse" in lay terms. There is also real tension. Dash urges direct support for the Internet Archive (`2026--endgame-open-web.md`). Hecht publicly questioned whether the Archive's lending "is really an advancement of that goal" and called "open" a tactic, not a value (`brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md`). Hecht is also a Microsoft Partner Director, and Dash's work targets "Big AI."
+- **Ivan Oransky:** both are hype-skeptics. Oransky's "shiny objects" warning (`ivan-oransky/by/2025--brownpoliticalreview-lifting-the-veil-interview.md`) fits Dash's "normal technology." Dash is more optimistic that a better AI can be built.
+- **Selena Deckelmann (Wikimedia):** a natural ally, given his Wikipedia-at-25 defense and his call for AI firms to pay the Wikimedia community (`2026--wikipedia-at-25.md`).
+- **Nick Vincent:** shares the consent and data-leverage framing through Hecht's work. Dash does not cite him in the corpus.
+
+## 7. Distinctive vocabulary
+
+"the majority AI view"; "normal technology"; "Big AI"; "good AI"; "Internet of consent"; "foisted upon users"; "AI-first is the new Return To Office"; "frontier minus six"; "enlightened value destruction"; "slop"; "software-brained"; "Endgame for the Open Web"; "talk about us without us"; "Only say what only you can say"; "the past is a prison"; "home-cooked, locally-grown… digital meals over factory-farmed fast food technology" (`2026--endgame-open-web.md`).
+
+## 8. Confidence and gaps
+
+**High confidence** on his AI stance. It is consistent across 2025–26 posts, interviews and Bluesky.
+
+**Gap:** almost nothing in the corpus addresses scholarly publishing, peer review or research integrity directly. His positions on "scholars as annotators," retractions and research assessment are inferred from his views on the open web and consent. His X account is protected. Some Bluesky lines are reposts, so only posts with his authorDid were quoted. His tone in a scholarly room may be less profane than on his blog.
+
+## 9. Key files
+
+1. `anil-dash/by/2025--the-majority-ai-view.md`
+2. `anil-dash/by/2026--galaxy-brain-ai-panic-cycle-transcript.md`
+3. `anil-dash/by/2025--what-would-good-ai-look-like.md`
+4. `anil-dash/by/2026--endgame-open-web.md`
+5. `anil-dash/by/2026--wikipedia-at-25.md`
+6. `anil-dash/by/2026--fight-ai-platform-war.md`
+7. `anil-dash/by/2025--wanting-not-to-want-ai.md`
+8. `anil-dash/by/2025--internet-of-consent.md`
+9. `anil-dash/by/2025--vibe-coding-empowering-and-imprisoning.md`
+10. `anil-dash/by/2025--talk-about-us-without-us.md`
+11. `anil-dash/by/2026--one-good-ai-is-here.md`
+12. `anil-dash/by/2025--ai-first-is-the-new-return-to-office.md`
+13. `anil-dash/by/2025--what-about-nothing-about-us.md`
+14. `anil-dash/by/2026--no-such-thing-as-tech.md`

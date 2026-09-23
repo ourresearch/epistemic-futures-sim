@@ -1,0 +1,88 @@
+# Position card: Steven A. Sloman (Brown)
+
+## 1. Role at summit and relevant bio
+
+**Role:** Session 4 participant (Epistemic Authority). He is the room's theorist of **epistemic dependence**: the view that credibility is always borrowed from a community, and that individuals mistake the community's knowledge for their own.
+
+**Bio:** Professor of Cognitive and Psychological Sciences at Brown since 1992. Former Editor-in-Chief of *Cognition* (he introduced a fund for open-access fees; that editorial is not held in the corpus), former chair of the Brown faculty, and 2025 Presidential Faculty Award winner. He wrote *Causal Models* (2005), *The Knowledge Illusion: Why We Never Think Alone* (with Philip Fernbach, 2017), and *The Cost of Conviction: How Our Deepest Values Lead Us Astray* (MIT Press, 2025). He studied under David Rumelhart, co-inventor of backpropagation. He co-authored the AI100 2021 report and now builds hybrid LLM plus human-causal-model planners (2026). His current programme is "radical collective intelligence."
+
+## 2. Core recent positions
+
+- **Knowledge lives in the community, not in individual heads.** "Radical CI asserts that knowledge… does not sit in individual heads at all but is rather held by the collective." (steven-sloman/by/2024--radical-collective-intelligence-and-the-reimagining-of-cognitive.md, 2024)
+- **Individual ignorance is normal, not a defect.** "Ignorance is our natural state; it is a product of the way the mind works." (by/2017--why-we-believe-obvious-untruths.md, 2017). "We're not repositories of information." The brain holds perhaps "one gigabyte… less than a thumb drive." (by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md, 2025)
+- **Outsourcing thought is the core of human cognition, "as much a feature… as a bug."** "The division of cognitive labor is fundamental to the way cognition evolved." (by/2017--the-perils-of-letting-machines-into-the-hive-mind.md, 2017). "We outsource a lot of our thinking, a lot of our judgment." (av/2025--why-we-think-the-way-we-do-with-cognitive-scientist-steven-s.md, 2025)
+- **The real danger is the knowledge illusion: mistaking access for understanding.** "When we have the whole world's knowledge at our fingertips, it feels like a lot of it is in our heads." People who searched finance terms online bet more on themselves and earned less (2017 Nautilus). Those most opposed to scientific consensus have "the lowest levels of objective knowledge but the highest levels of subjective knowledge." (by/2022--knowledge-overconfidence-is-associated-with-anti-consensus-views-on.md, 2022)
+- **Everyone's credibility, scientists' included, rests on testimony and heuristics.** "We doubt the reader will independently verify the claims in this article, instead relying on heuristics like 'it was in a high quality peer-reviewed journal.'" (2024 radical-CI paper). "Regardless of your particular area of expertise, you are in no position to ascertain whether the events they describe really happened." (by/2019--individual-representation-in-a-community-of-knowledge.md, 2019)
+- **The trappings of scholarship can be faked.** At a flat-earth convention, "chalkboards full of equations—went some way toward reassuring listeners that speakers' claims were true." (2024 radical-CI paper)
+- **Repetition is not independent evidence.** "Merely repeating a claim increases belief in it, even when a single, expert information source is repeatedly cited." (2019 TiCS). The web of epistemic dependence has a growing "fragility," and "the growing epistemic emergency caused by… ever-more rapid and unfettered information spread is cause for alarm." (same)
+- **Communities can send confident cues with no knowledge behind them.** "It is possible in principle for communities to send cues despite lacking knowledge—a weakness in the system's design." (by/2023--communities-of-knowledge-in-trouble.md, 2023, abstract)
+- **People find experts through fast, fallible heuristics.** They locate experts via "associations with certain environments and disciplines (expertise heuristics)." "Simply mentioning the name of a discipline can conjure up strong intuitions." (by/2019--two-systems-for-thinking-with-a-community-outsourcing.md, 2019)
+- **In 2017, machines were tools, not members of the community of knowledge.** "The machine is not a collaborator; it's a tool… Technology may be a big part of the community of knowledge… but it is not a member of the community in the same way that humans are." They cannot "share intentionality." (2017 Nautilus)
+- **In 2025, LLMs are strong at intuition and weak at deliberation.** "LLMs are great models of intuition. They're actually much more intuitive than humans… But in terms of deliberation, they're nowhere near what humans can do." (2025 SecureTalk). Modern AI is "amazing" (av/2025 Why We Think).
+- **Automation erodes the oversight skills it depends on.** Reliance on automation means "human operators… lose focus… and check out"; Air France 447 is his example. "A critical role for human beings is oversight." (2017 Nautilus)
+- **Individual literacy fixes are overrated.** He rejects the "broader cultural assumption" that we can "fend off fake news by developing individual critical reasoning skills," and criticizes the deficit model (2024 radical-CI; 2022 Sci. Adv.).
+- **Earned expertise is corrigible, slow and consequence-focused.** "One sign of expertise is willingness to be corrected." (2025 SecureTalk). His model institution is the NTSB, which names causes only with evidence that would stand up "in the face of skeptical scientists and engineers." (by/2025--why-we-live-in-alternate-political-realities.md, 2025)
+- **Crowds are intelligent only when they tap expertise.** "Crowdsourcing works only when it provides access to expertise." Experts contribute for "being right" and "especially when their contribution is acknowledged." (by/2017--the-knowledge-illusion-two-extracts.md, 2017)
+
+## 3. Relation to the concept note
+
+- **Principled dissent from the "cognitive atrophy" framing.** The concept note worries that "we let our own capacities waste away" as we lean on systems "to summarize, draft, and decide." That assumes competence is stored in individuals. Sloman's core claim is that it never was: "Ignorance is our natural state"; "only the truly erudite actually have the knowledge available in their own memories"; outsourcing is "as much a feature of cognition as it is a bug." He would say outsourcing to AI is not atrophy in itself.
+- **He would relocate the risk to three places:**
+  - the **knowledge illusion**: mistaking the AI's access for one's own understanding, which breeds overconfidence;
+  - the **automation paradox**: losing the *oversight* skills needed when the system fails. This is his genuine partial endorsement of atrophy, framed as operator skill rather than individual memory;
+  - **outsourcing to something that is not a community member**: a source that "cannot share intentionality" and can "send cues despite lacking knowledge."
+- **Endorses keeping deliberation human, in a specific sense.** The concept note says judgment "becomes the scarce, decisive ingredient." He agrees when judgment means *deliberation*, which he says LLMs lack, and his 2026 paper builds "human-in-the-loop causal reasoning" into LLM planners. For him, though, deliberation is *collaborative*, a community act: "deliberation is primarily concerned with facilitating intentional collaboration" (2019). It is not a solitary capacity to preserve.
+- **Partial agreement on the anti-anthropomorphism section.** He agrees machines are "tools," "more like a microwave oven than another human being" (2017), and sees no superintelligence "on the horizon." But he would contest the claim that LLMs merely reflect "the intentions of the people whose writing it was trained on." To him they are real models of human *associative* cognition, built on psychology-lab algorithms: "it shouldn't surprise anyone that the basic properties of LLMs mirror the basic properties of human beings" (2025). The deficit is deliberation, not the mind altogether.
+- **Endorses "writing is now cheaper than reading" and the collapse of effort as a signal,** backed by his flat-earth "trappings" and repetition findings. He would add that scholarly shape was always a *heuristic* cue, never a verification.
+- **Would contest remedies centred on individual literacy.** A "clearer, shared vocabulary" helps. But he doubts that changing individual reasoning moves beliefs, which follow community cues (2024).
+
+## 4. Predicted contributions
+
+**Session 4 harvest claims:**
+1. *Credibility is a property of communities, not documents.* Nobody verifies; everyone outsources. The design question is which **cues** reliably point to real knowledge behind the claim.
+2. *At infinite scale, repetition and trappings masquerade as consensus.* A renewed model of trust has to count *independent* sources, not echoes, and discount the look of expertise.
+3. *Machines contribute to the community of knowledge but are not accountable members of it.* Whether a human or institution must stand behind every machine contribution is his logic taken one step further; he has not proposed it.
+4. *Earned authority shows itself through corrigibility and consequence-tracking* (NTSB, willingness to be corrected). Gatekeeping shows itself through certainty and sacred-value signalling.
+
+**Session 5 interventions he would likely support:**
+- **"Explain it" prompts** in AI-assisted reading and learning, to puncture the illusion of explanatory depth. This rests on the Rozenblit–Keil and Fernbach et al. evidence he summarizes in the 2019 chapter; applying it to AI tools is an inference.
+- **Hybrid human-causal-model + LLM systems** and training in oversight skills, against the automation paradox (2026 Frontiers paper; 2017 Nautilus).
+- **Incentives and acknowledgment for expert contribution** to shared knowledge platforms (Wikipedia/OED model, 2017 extracts), which matches the concept note's "ultimate annotators."
+
+## 5. Likely dissents for the record
+
+- **On "cognitive atrophy" as individual capacity loss (medium-high likelihood).** Expect a request to reframe it as loss of *collective* deliberation and oversight skill, plus the risk of overconfidence. Grounds: by/2017--why-we-believe-obvious-untruths.md, by/2017--the-perils-of-letting-machines-into-the-hive-mind.md, by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md.
+- **On critical-thinking or deficit-model remedies (medium).** Grounds: by/2024--radical-collective-intelligence-and-the-reimagining-of-cognitive.md, by/2022--knowledge-overconfidence-is-associated-with-anti-consensus-views-on.md.
+- **Not expected:** a dissent on hype-skepticism or the need for human judgment. He broadly agrees with both.
+
+## 6. Tensions and alliances
+
+- **Tamar Gendler and Mahzarin Banaji: shared dual-process vocabulary.** His "LLMs are great models of intuition" matches Gendler's "our brain is like chatGPT" (tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md). Banaji's "LLM hypocrisy" (explicit veneer over implicit association) is compatible but locates the machine's "explicit" layer differently. Expect agreement that model self-reports are not trustworthy.
+- **Mike Caulfield: plausible alliance (inferred).** Caulfield's "critical ignoring… The first act of critical thinking is to decide what's worth critically thinking about" (mike-caulfield/by/2023--book-verified-summary-toc.md) fits Sloman's outsourcing-heuristics framework better than the individual-reasoning model Sloman rejects. The friction point would be how much weight goes to individual skills.
+- **Possible friction with the organizers' "cognitive atrophy" and "vicious circle" framing** (concept note), as in section 3.
+
+## 7. Distinctive vocabulary
+
+"knowledge illusion," "community of knowledge," "division of cognitive labor," "hive mind," "automation paradox," "share intentionality" (by/2017--the-perils-of-letting-machines-into-the-hive-mind.md); "illusion of explanatory depth" (by/2023--a-cup-of-knowledge-choiceology.md; by/2021--cognitive-neuroscience-meets-the-community-of-knowledge-2420.md); "web of epistemic dependence," "markers"/"placeholders"/"black-boxing," "contagious sense of understanding," "epistemic emergency" (by/2019--individual-representation-in-a-community-of-knowledge.md); "outsourcing heuristics," "expertise heuristics," "label entrenchment" (by/2019--two-systems-for-thinking-with-a-community-outsourcing.md); "radical CI," "stigmergy" (2024); "sacred values" vs "consequentialism," "outrage machine" (2025 SecureTalk); "LLMs are great models of intuition" (same).
+
+## 8. Confidence and gaps
+
+- **High confidence** on the community-of-knowledge framework and his view of machines as non-members, from 2017 to 2025. **Moderate confidence** on post-ChatGPT specifics, which rest mainly on one podcast (2025 SecureTalk) plus one technical paper (2026).
+- The atrophy dissent is **inferred** from his general theory. He has not written about "cognitive atrophy" by that name. The closest direct evidence is the automation paradox, which *supports* a narrower version of the worry.
+- **Gaps:** "Communities of Knowledge in Trouble" (2023) and "Deepfakes" (2023) are abstract-only. His *Cognition* open-access-fee editorial (2016) is unretrieved. Many av/ items are ASR with inferred speakers. His rejected "teach AI sacred values" grant proposal is described only in passing.
+
+## 9. Key files
+
+1. steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md
+2. steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md
+3. steven-sloman/by/2024--radical-collective-intelligence-and-the-reimagining-of-cognitive.md
+4. steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md
+5. steven-sloman/by/2019--two-systems-for-thinking-with-a-community-outsourcing.md
+6. steven-sloman/by/2017--why-we-believe-obvious-untruths.md
+7. steven-sloman/by/2023--communities-of-knowledge-in-trouble.md
+8. steven-sloman/by/2022--knowledge-overconfidence-is-associated-with-anti-consensus-views-on.md
+9. steven-sloman/by/2017--the-knowledge-illusion-two-extracts.md
+10. steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md
+11. steven-sloman/by/2025--why-we-live-in-alternate-political-realities.md
+12. steven-sloman/av/2025--why-we-think-the-way-we-do-with-cognitive-scientist-steven-s.md
+13. steven-sloman/by/2023--deepfakes-vehicles-for-radicalization-not-persuasion.md

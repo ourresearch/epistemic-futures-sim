@@ -1,0 +1,102 @@
+# Benjamin Bratton: position card
+
+## 1. Role at summit and bio
+
+**Role:** Session 3 participant ("Knowledge Infrastructure and Tools: Commons, Enclosure, and Sovereignty"), with Adrian Johns, Adam Bly, Jason Priem and David Weinberger.
+
+**Bio as relevant:** Professor of Philosophy of Technology and Speculative Design at UC San Diego. He directs Antikythera, a think tank on planetary computation incubated at the Berggruen Institute and independent since 2026, which runs a book series and journal with MIT Press. Since 2024 he has been a Visiting Faculty Researcher on Google's Paradigms of Intelligence team, with Blaise Agüera y Arcas and James Evans. He wrote *The Stack: On Software and Sovereignty* (2016; 10th-anniversary edition, MIT Press 2026), which introduced "platform sovereignty", the "accidental megastructure" and, more recently, "Hemispherical Stacks". He co-authored "The Model Is the Message" (Noema 2022) with Agüera y Arcas, and "Agentic AI and the next intelligence explosion" (Science 2026) and "The Silicon Interior" (2026) with Agüera y Arcas and Evans. He is strongly pro-AI and pro-diffusion, and polemical against what he calls the "Critique Industry", "AI Denial" and humanist "Reflectionism". **He is the attendee most likely to attack the concept note's framing head-on.**
+
+## 2. Core recent positions
+
+1. **Deflationary AI talk is a stage of grief ("AI Denial").** Its symptoms include "AI is just an illusion of anthropomorphism. AI is just statistics, just math, just gradient descent. AI is glorified autocomplete." (`benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md`, 2024)
+2. **"AI ethics" and "human-centered AI" amount to bargaining.** "Beyond salutes to milquetoast humanism and default anthropocentrism, the approach relies on fragile presumptions about the relationship between immediate political processes and long-term technological evolution." (same file)
+3. **The scholarly establishment's alarm is status defence.** He describes "a scholastic establishment spanning law, government and liberal arts that sees the technology as a delinquent threat to its own natural duty to supervise and narrate society." (same file)
+4. **AI is not merely a reflection of us.** "We should not, repeat not, see 'AI' simply as a direct reflection of human ideas, culture and economics, nor, vis-a-vis alignment, should it be." (`benjamin-bratton/by/2025--after-alignment.md`, 2025)
+5. **The stochastic parrot insight applies to humans.** "So yes, actually, you are a stochastic parrot, after all. Always have been." (same file)
+6. **Alignment should run both ways.** "AI must align in both directions: AI aligning to culture's wisdom, culture to AI's disclosures." AI's "epistemic overhangs... are not pathologies: they are in fact the deeper point of AI." (same file)
+7. **We need a new vocabulary, but not a deflationary one.** "Reality has outpaced the available language to parse what is already at hand. A more precise vocabulary is essential." (`benjamin-bratton/by/2022--the-model-is-the-message.md`, 2022). The same essay warns against "premature ontologization".
+8. **He named model collapse in 2022, and rejects small curated models.** He called it the "Ouroboros Language Problem" and asked whether "to tag human-produced language as a special case." He also writes: "'Just let me and my friends curate a small and correct language model for you instead' is the clear and unironic implication of some critiques." Their answer: "include it all." (same file)
+9. **Diffusion undoes artificially scarce expertise, and elite institutions lose.** "This is a net gain for those outside of Bubbleworld but a net loss for the Ivy League (Sorry, not sorry)." (`benjamin-bratton/by/2025--is-european-ai-a-lost-cause.md`, 2025). Elsewhere he says AI is "potentially one of the greatest knowledge transfers in the history of mankind" (`benjamin-bratton/by/2026--planetary-computation-and-the-future-of-life.md`, 2026).
+10. **Sovereignty now comes from exclusive rights to produce data.** "Sovereignty, including both state and private forms, is increasingly derived from the right to produce data about a person, place, or process exclusive of others' ability to do so." (`benjamin-bratton/by/2026--the-stack-tenth-anniversary-preface-and-notes.md`, 2026)
+11. **The real enclosure is geopolitical encapsulation. Open weights are the counter.** "Open-weights models have an enormously important role to play in this ecosystem." He warns of "Galapagos ontologies" that end in "a kind of capture" (`by/2026--planetary-computation-and-the-future-of-life.md`, 2026). And: "The entire concept of Nationally-circumscribed 'sovereign' AI is kinda bad" (`benjamin-bratton/social/x-timeline.jsonl`, 2026-04-16).
+12. **Copyright and royalty framings of training data are misguided.** On AI use of his books: "This is worth 1000x more to me than the 'royalties' from my academic publisher. The idea that training on my books is ripping me off feels ludicrous." (`social/x-timeline.jsonl`, 2026-06-02). Earlier: "I am not arguing against new models of economic renumeration, I just presume they will arrive through generative AI not against it." (2025-02-11). He has proposed an "AI sovereign wealth fund" (2026-06-01).
+13. **"The Commons" is often political solutionism.** "When people invoke The Commons as Political Solutionism, think of the 4000 pieces of space junk or of the Pacific Trash Gyre." (`social/x-timeline.jsonl`, 2024-08-22). A caveat from 2023: models "are trained on the noisiest, cheapest and least protected semiotics... A new tragedy of the commons" (2023-02-16).
+
+## 3. Relation to the concept note
+
+**Would dissent from:**
+- *"'Artificial intelligence' simply asserts what is most in dispute"* and *"a vast statistical model reflecting back the intentions of the people whose writing it was trained on."* He would call this textbook "AI Denial" and "Reflectionism". He answered the "neither artificial nor intelligent" line directly: fabricated from minerals is "a good definition of 'artificial'", and stochastic prediction is "a significant part of any definition of 'intelligence'" (`by/2024--the-five-stages-...md`).
+- *"Racist linear algebra."* He mocks critics who "declare that AI is racist statistical sorcery" (`by/2025--is-european-ai-a-lost-cause.md`).
+- *The energy paragraph* ("what all that electricity is actually buying us"). He writes: "Would you not be suspicious of gatekeepers who demand the arrested evolution of this machine's global diffusion because, in their words, it is not worth the electricity necessary to power it?" (same file). He also posts at length defending data centres (`social/x-timeline.jsonl`, April 2026).
+- *The tarnished-halo, "Bond villains" and surveillance-capitalism tone.* He would call it "Vibe Theory: an expression of elite anxiety masquerading as a politics of resistance" (`by/2025--is-european-ai-a-lost-cause.md`).
+- *Treating scholars and publishers as "ultimate annotators" owed compensation, and the enclosure of the scholarly commons.* He rejects "training on my books is ripping me off" (tweet above).
+
+**Would partially endorse:**
+- *"Developing a clearer, shared vocabulary"* is his own call for "more precise vocabulary", pointed the other way.
+- *Model collapse* (his Ouroboros problem).
+- *"Fluency was always a signal of privilege."* This matches his "artificially scarce agency" argument for diffusion.
+- *Resisting both complacency and techno-doom.* This matches his "Non-Grief".
+- *AI detectors.* He calls them "a favored weapon of a small vocal faculty constituency who would prefer that AI go away" (`social/x-timeline.jsonl`, 2026-08-12).
+- *Humans in the loop.* He co-signed "Crucially, humans remain in the loop" (`by/2026--agentic-ai-...md`). But his Agentworld brief imagines peer-review-like roles "occupiable by a person, a group of people, or agents, or some combination" (`by/2026--agentworld-research-brief.md`, 2026). So "humans in the loop" yes; "humans at the centre" no.
+
+## 4. Predicted contributions
+
+**Session 3 harvest claims he would push:**
+1. "The enclosure that matters is geopolitical." Models are being captured into US, China and EU stacks. Open weights and cross-hemisphere access are the commons worth defending; national "sovereign AI" and data autarchy ("Blood and Soil and Data!") are dead ends.
+2. "The scholarly record's public value is realized by diffusing it into models and to 8 billion people, not by walling it off or pricing it through copyright." Compensation should come "through generative AI not against it", for example through an AI sovereign wealth fund.
+3. "The next infrastructure is data production, not data guarding." In his words, the coming decade is about "producing new data about the world for the calibrated purpose of training" (Stack preface).
+4. "Institutions are role templates." Peer review and similar functions should be redesigned for hybrid human-agent occupancy, not preserved as they are.
+
+**Session 5 interventions:**
+- **A public dividend or AI sovereign wealth fund** instead of per-work licensing.
+- **Open-weights and local-model infrastructure:** institutions training models on their own corpora ("train a model on my corpus in my local instance").
+- **"Green lines" instead of red lines:** preconditions that maximise access (from the Antikythera "Diffusion" statement, `by/2025--diffusion-a-new-venture-for-antikythera.md`). Possibly also provenance tagging of human language, as in his Ouroboros proposal.
+
+## 5. Likely dissents to record
+
+**High likelihood** of a recorded dissent, or of withholding his signature, if the manifesto:
+- (a) adopts the "statistical model reflecting back" or "misnomer" vocabulary;
+- (b) frames the scholarly record as a commons under enclosure that needs compensation or licensing regimes;
+- (c) cites energy or environment as a reason for restraint;
+- (d) calls for slowing diffusion or for precautionary regulation.
+
+Relevant texts: "The precautionary principle can be literally fatal" and "today the EU has AI regulation but not much AI to regulate" (`by/2025--is-european-ai-a-lost-cause.md`). "Alignment overfitting is real" (`by/2025--after-alignment.md`).
+
+## 6. Tensions and alliances
+
+- **Blaise Agüera y Arcas (organizer):** his closest ally, co-author of "The Model Is the Message" and the Agentic AI and Silicon Interior pieces. Together they form an organizer-plus-participant bloc against the note's deflationary language.
+- **James Evans (S2):** co-author on agent institutions and plural intelligence explosions. Evans is more cautious and empirical (AI "contracts science's focus").
+- **Sherry Turkle (S2):** her embodiment, empathy and anthropomorphism arguments are exactly what he classifies as "phenomenological" AI Denial. Both dislike the "obsequious mirror" persona.
+- **Henry Farrell (S1 lead):** mild. In 2024 he tweeted "nice" linking Farrell and Shalizi's "AI is a familiar-looking monster" (`social/x-timeline.jsonl`, 2024-05-02). His After Alignment critique of "sociomorphism", the view that AI is a reflection of society, cuts against the cultural-technology framing.
+- **Session 3 panel (Johns, Bly, Priem, Weinberger):** no grounded interactions in his corpus. He is likely to clash with any commons-and-compensation framing and to align with open-infrastructure arguments.
+
+## 7. Distinctive vocabulary
+
+"The Stack", "planetary computation", "accidental megastructure", "Hemispherical Stacks", "platform sovereignty" (`by/2026--the-stack-tenth-anniversary-...md`); "Copernican trauma", the "five stages of AI grief", "AI Denial", "AI Lysenkoism", "Non-Grief" (`by/2024--the-five-stages-...md`); "Reflectionism", "sociomorphism", "bidirectional alignment", "epistemic overhang", "alignment overfitting", "synthetic intelligence" (`by/2025--after-alignment.md`); "cognitive infrastructures", "Ouroboros Language Problem", "premature ontologization", "Fuzzy Bright Line Problem" (`by/2022--the-model-is-the-message.md`); "Critique Industry", "Vibe Theory", "Bubbleworld", "political/regulatory solutionism" (`by/2025--is-european-ai-a-lost-cause.md`); "Diffusionism", "green lines" (`by/2025--diffusion-...md`); "Galapagos ontologies", "8 billion little unlocks" (`by/2026--planetary-computation-and-the-future-of-life.md`); "centaur societies", "agent institutions" (`by/2026--agentworld-research-brief.md`).
+
+## 8. Confidence and gaps
+
+**Confidence: high** on his anti-deflationary, pro-diffusion and anti-"Critique Industry" stance, which is consistent across 2022–2026 essays and 2026 tweets.
+
+**Confidence: medium** on how he would engage scholarly-publishing specifics. He rarely writes about journals, peer review economics or open access. The "royalties" tweet and the Agentworld peer-review passage are the main evidence.
+
+**Gaps:**
+- *The Stack* body chapters are closed.
+- *Accept All Cookies* (2025) is summary-only.
+- Many tweets are truncated.
+- Tone: he may be more conciliatory in person than on X or in Noema.
+
+## 9. Key files
+
+1. `benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md`
+2. `benjamin-bratton/by/2025--is-european-ai-a-lost-cause.md`
+3. `benjamin-bratton/by/2025--after-alignment.md`
+4. `benjamin-bratton/by/2026--the-stack-tenth-anniversary-preface-and-notes.md`
+5. `benjamin-bratton/by/2026--planetary-computation-and-the-future-of-life.md`
+6. `benjamin-bratton/by/2022--the-model-is-the-message.md`
+7. `benjamin-bratton/by/2026--agentic-ai-and-the-next-intelligence-explosion.md`
+8. `benjamin-bratton/by/2025--diffusion-a-new-venture-for-antikythera.md`
+9. `benjamin-bratton/by/2026--agentworld-research-brief.md`
+10. `benjamin-bratton/by/2025--hemispherical-stacks.md`
+11. `benjamin-bratton/social/x-timeline.jsonl` (2024-08-22, 2025-02-11, 2026-04-16, 2026-06-01, 2026-06-02, 2026-08-12)
+12. `james-evans/by/2026--the-silicon-interior-what-do-agents-believe.md`

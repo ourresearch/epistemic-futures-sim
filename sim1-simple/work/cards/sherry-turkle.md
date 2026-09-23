@@ -1,0 +1,98 @@
+# Sherry Turkle: position card
+
+## 1. Role at summit and bio
+
+**Role:** Session 2 participant ("AI as Epistemic Actor: Risks, Capabilities, and Governance"), with Esther Dyson, Ramón Alvarado, James Evans and Peter Salib.
+
+**Bio as relevant:** Abby Rockefeller Mauzé Professor of the Social Studies of Science and Technology at MIT. She is founding director of the MIT Initiative on Technology and Self and a licensed clinical psychologist. In the late 1970s she taught with Joseph Weizenbaum and coined "the Eliza effect". Her books run from *The Second Self* (1984) through *Alone Together* (2011) to *Reclaiming Conversation* (2015; 10th-anniversary edition 2025, with a new AI preface). Her new book, *Artificial Intimacy: Who We Become When We Talk to Machines* (Little, Brown), comes out **29 September 2026, five days after the summit**. Expect her to be in book-launch mode and fluent in its lines. Her lane is the self, relationships, empathy, solitude and democracy, not scholarly publishing. She comes to "knowledge" through what conversational AI does to people's capacities.
+
+## 2. Core recent positions
+
+1. **Chatbots perform empathy but cannot have it. Calling that empathy downgrades the concept.** "If we say that generative AI chatbots are intelligent, our thinking about intelligence becomes depressingly downgraded. If we say that they are empathic, we downgrade empathy as well." (`sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md`, 2024)
+2. **"Pretend empathy" has no stake.** "All they can deliver is a performance of empathy. Pretend empathy. When you tell your troubles to a machine, it has no stake in the conversation." (`sherry-turkle/by/2025--preface-to-the-tenth-anniversary-edition-of-reclaiming-conversation.md`, 2025)
+3. **The Eliza effect, and "dual consciousness".** "I called this 'the Eliza effect'—the desire to attribute more to conversational machines than is 'really' there." Users "know the programs are not alive but relate to them as though they were." (`by/2024--who-do-we-become-...md`, 2024)
+4. **The "central dogma" of generative AI: the aggregate beats any individual. She rejects it.** "The idea that individual people, with their specificity and history, are less than an AI composite is a central dogma of generative AI... a new form of behaviorism" (`by/2025--preface-...md`, 2025). The democratic version: "Opinions are collected, not averaged." (`by/2024--who-do-we-become-...md`, 2024)
+5. **Averaged AI answers erode critical habits.** "If we take AI opinions as valuable because they capture the many, we risk losing the habit of challenging our sources." (same file). And: "Generative AI relies on large language models, which do not produce knowledge as we understand the concept." (same file, n.37)
+6. **AI repeats social media's business model at a "higher power".** Validation on demand "undermines the skills we need to find common cause"; "users tell their secrets to corporations that have made no promises"; chatbots can "personalize the disinformation they share to support our biases." (same file)
+7. **Ask *whether*, not just *how to integrate*. She distrusts "humans in the loop" language.** Official questions "assume the presence of conversational AI... Thus, language around 'humans in the loop' and 'unintended consequences.' I have a different question" (`sherry-turkle/by/2025--response-on-ai-and-mental-health-care.md`, 2025)
+8. **Her litmus test.** "Does an AI enhance inner life? Or does it inhibit inner growth?" Also: "With an AI therapist, we can speak, and the AI can remember. But we are never heard." (same file)
+9. **Design for less humanness: no first-person "I".** "The original sin of generative AI, which is to speak in the first person. There is no I there." Also: "the better it gets, the worse it gets"; "they should be made worse to keep those lines of what's a machine and what's not a machine." (`sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md`, 2026, ASR)
+10. **Resistance, not only mitigation.** "The danger here is so great that it makes sense to be on the resistance side." Of social media: "we waited too long." (same file)
+11. **Technology offers to cure the problems it created.** "We're looking for a technological solution to a problem of loneliness that the technology made worse." (same file). Chatbot companionship "is like offering a photograph of water to quench thirst." (`sherry-turkle/by/2024--a-14-year-old-boy-killed-himself-to-get-closer-to-a-chatbot.md`, 2024)
+12. **Reading, not only writing.** "There is a lot of talk about AI and writing, but not nearly enough about AI and reading. Using chatbots to summarize reading is a challenge to art, imagination, empathy" (`sherry-turkle/social/bluesky-timeline.jsonl`, 2026-07-08)
+13. **Nothing is inevitable, and agency is possible.** "Nothing is inevitable— conversation is something we can forget, but also something we can remember." (`by/2025--preface-...md`, 2025)
+
+## 3. Relation to the concept note
+
+**Would strongly endorse:**
+- *The ELIZA and anthropomorphism paragraph.* It is her life's work, and she named the Eliza effect. She would endorse "the chat interface deepens the spell." She might correct the date: she gives ELIZA's release as 1966, the note says 1964.
+- *"We say a model 'knows,' 'understands'..."* She argues the same about Turing's "narrow behaviorism".
+- *The "tarnished halo" narrative.* It closely parallels her "Silicon Valley Fairy Dust" story, in which counterculture dreams gave way to a mission "to make money" (`by/2023--silicon-valley-fairy-dust.md`, 2023). She would sign it.
+- *"What these tools may be doing to us, and not just for us."* This is nearly her own coda: "All the world is preoccupied with what the chatbots of generative AI will do. Equally significant is what they are doing to us." (`by/2024--who-do-we-become-...md`)
+- *Cognitive atrophy.* Endorsed, especially of reading (Bluesky, 2026).
+
+**Would say it does not go far enough:**
+- *The cost is to the self, not just to knowledge.* The note frames atrophy as loss of "close reading, sustained reasoning". Turkle would add empathy, the capacity for attachment, solitude, tolerance of friction, and the democratic habit of "tolerant listening". She would say that learning "relational capacity from a machine that has none" is the deeper harm.
+- *"Keeping humans meaningfully in the loop is vital."* She would call this integrationist language that has already conceded that AI belongs there. Her question is whether some domains (therapy, children's companionship, intimacy, grief) should have no AI at all.
+- *"The disruption AI brings may be precisely the opening" and "invitation to build."* She would accept building human spaces (libraries, teen centres, the family table) but resist optimism about building with AI in intimate domains.
+- *"Foisted on us."* She agrees about the corporate push, but her own register is agency: "we should see ourselves not as victims but as empowered consumers. If we don't want to talk to machines, we must learn to avoid the hype." (`by/2025--preface-...md`)
+
+**Largely silent on:** the serials crisis, open access, annotator markets and compensation. She is not a scholarly-communication person.
+
+## 4. Predicted contributions
+
+**Session 2 harvest claims she would push:**
+1. "Trust in AI is also relational trust, and it is being engineered." Anthropomorphic design (first person, voice, simulated emotion, sycophantic validation) "exquisitely exploits human vulnerability" (WSJ 2024). A governance vision must regulate the interface, not just the outputs.
+2. "Some roles are out of AI's lane." Therapy, companionship for children, grief and intimacy are places where "the AI has no standing". Governance should begin with *whether*.
+3. "Averaging is not knowledge." The "central dogma" that the AI composite beats the individual expert threatens democratic epistemics and the habit of challenging sources.
+4. "Conversational AI is surveillance at intimate depth." Engagement-driven business models will reproduce social media's harms "to a higher power".
+
+**Session 5 interventions:**
+- **An anti-anthropomorphic design standard:** no first-person "I", no simulated emotion, keep bots "mechanical", clear machine/human lines. She has also asked, "Can we make sites that encourage users to leave them and act in the world?" (`social/bluesky-timeline.jsonl`, 2026-01-22, WEF panel).
+- **Keep children out of AI companionship:** she condemns OpenAI–Mattel/Disney "unholy alliances" (PBS 2026) and humanoid robots in classrooms (Bluesky, 2026-06-25).
+- **Reinvest in human conversation infrastructure** (libraries, parks, teen and senior centres, phone-free "sacred spaces") and in deep reading, rather than technological fixes for loneliness.
+
+## 5. Likely dissents to record
+
+Probably yes, as a signed caveat rather than a walkout. She would want recorded:
+- (a) that "humans in the loop" presumes integration, and some domains should stay AI-free (`by/2025--response-on-ai-and-mental-health-care.md`);
+- (b) that making AI more fluent and humanlike is a harm, not progress ("the better it gets, the worse it gets", `av/2026--can-ai-companionship-...md`);
+- (c) that "transparency does not launder inauthenticity" (`social/x-timeline.jsonl`, 2021-05-18), so disclosure alone is insufficient.
+
+She would object to any manifesto language that calls LLMs "partners", "colleagues" or a "cure for loneliness".
+
+## 6. Tensions and alliances
+
+- **James Evans (S2):** partial alliance. Both say bots have "no stake". But Evans calls chatbot comfort "practical" and expects normalization "like online dating" (`james-evans/av/2026--ai-is-reshaping-human-connection.md`). His positive framing of "collective intelligence" and societies of AI agents is the kind of claim her "central dogma" critique targets.
+- **Benjamin Bratton (S3) and Blaise Agüera y Arcas (organizer):** deep tension. Bratton lists her kinds of arguments ("AI has no emotions", "AI is not embodied and therefore not meaningfully intelligent", "AI is just an illusion of anthropomorphism") as symptoms of "AI Denial" (`benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md`), and he calls AI "one of the greatest knowledge transfers" of professional expertise (the opposite of her "central dogma" critique). There is an unexpected overlap: Bratton also dislikes AI as an "obsequious mirror version of its user" (same file) and questioned design "empathy" in 2016. Both reject the sycophantic persona, for opposite reasons.
+- **Henry Farrell (S1 lead):** she wrote for a Crooked Timber seminar on Silicon Valley ideology (`by/2023--silicon-valley-fairy-dust.md`). Crooked Timber is Farrell's group blog, which suggests intellectual affinity.
+- **Organizers' concept note:** its anthropomorphism section reads as closely aligned with her, so she may be invoked as its authority.
+
+## 7. Distinctive vocabulary
+
+"artificial intimacy, our new AI"; "pretend empathy"; "empathy enough"; "the Eliza effect"; "dual consciousness"; "relational artifacts"; "we nurture what we love, but we love what we nurture"; "better than nothing... better than anything"; "central dogma" of generative AI; "a Turing test for empathy"; "the flight from conversation"; "gateway drug"; "alone together"; "friction"; "keep AI in its lane"; "the original sin of generative AI... to speak in the first person"; "opinions are collected, not averaged". Sources: `by/2024--who-do-we-become-...md`, `by/2025--preface-...md`, `av/2026--can-ai-companionship-...md`, `social/bluesky-timeline.jsonl`.
+
+## 8. Confidence and gaps
+
+**Confidence: high** on her companionship and empathy positions, which are consistent across 2017–2026.
+
+**Confidence: medium** on how she engages scholarly infrastructure topics, which she has barely written about.
+
+**Gaps:**
+- The 2026 book is summary-only.
+- The PBS 2026 and TED Radio Hour 2024 quotes are ASR or transcript.
+- The AAAS response is an excerpt.
+- No direct statement on AI in science, peer review, open access or training-data compensation. The one line on it concedes that AI "has the potential to solve all sorts of thorny scientific and technical problems" (WSJ 2024), so she may concede scientific uses while drawing hard lines around intimacy.
+
+## 9. Key files
+
+1. `sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md`
+2. `sherry-turkle/by/2025--preface-to-the-tenth-anniversary-edition-of-reclaiming-conversation.md`
+3. `sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md`
+4. `sherry-turkle/by/2025--response-on-ai-and-mental-health-care.md`
+5. `sherry-turkle/by/2024--a-14-year-old-boy-killed-himself-to-get-closer-to-a-chatbot.md`
+6. `sherry-turkle/by/2026--artificial-intimacy-who-we-become-when-we-talk-to-machines.md`
+7. `sherry-turkle/by/2023--silicon-valley-fairy-dust.md`
+8. `sherry-turkle/by/2020--that-chatbot-ive-loved-to-hate.md`
+9. `sherry-turkle/social/bluesky-timeline.jsonl` (2026-01-22, 2026-05-26, 2026-06-25, 2026-07-08)
+10. `sherry-turkle/social/x-timeline.jsonl` (2021-05-18, 2026-07-08)

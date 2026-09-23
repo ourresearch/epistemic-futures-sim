@@ -1,0 +1,86 @@
+# Position card: Leslie Chan
+
+## 1. Role at summit + bio
+
+**Role:** Session 1 participant ("The Epistemic Landscape"), per `summit/website/schedule.md`. The roster (`dossiers/00-roster.md`) and his dossier INDEX list him as S4. The schedule is the primary source, so this card treats him as S1 and expects him to speak freely in Session 5 and the unconferences.
+
+**Bio:** Chan is Associate Professor (Teaching Stream) in Global Development Studies at the University of Toronto Scarborough and directs the Knowledge Equity Lab. He signed the original 2002 Budapest Open Access Initiative and has run Bioline International since 2000. He was PI of OCSDNet (2014–18), sits on the DORA board, and is a past board member of DOAJ and Invest in Open Infrastructure. Over twenty years he moved from "access for the South" to a structural critique. Openness, he argues, has been captured by platform capitalism: APCs, rankings, DOIs and "surveillance publishing" reproduce colonial hierarchies of who counts as a knower. His recent work (2023–26) treats AI as the newest layer of an extractive, "full-stack" enclosure of scholarly knowledge. He does not treat it as a separate phenomenon. There is no social-media corpus for him. His slide-deck talks (2023–26) are slide text, not verbatim speech.
+
+## 2. Core recent positions
+
+- **The crisis is structural enclosure, and AI feeds on it.** "Researchers and institutions supply the labour and data that feed these machines and AI training, while companies monetize each layer—subscriptions, APCs, citation metrics, research analytics, funding trends" (`leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md`, 2025).
+- **Infrastructure is governance, not plumbing.** "Infrastructures are not passive pipes; they are operating systems for knowledge." The task is "not merely to open more content, but to redesign the foundational epistemic operating system itself" (same file, 2025).
+- **Openness is relational, not binary. Ask who gains from unfettered openness.** "Who benefits from unfettered openness, and who suffers the harms?"; "'FAIR' is not CARE … Why prioritizing 'machine readability'? … Who owns and controls the extractive machineries? … What roles for AI?" (`leslie-chan/by/2023--platforms-and-knowledge-production-in-the-age-of.md`, 2023).
+- **Volume pathologies predate AI, and platform incentives now scale them.** "Volume pressures also drive questionable practices (from paper mills to low-quality AI-generated articles) now scaled by platform incentives" (`2025--reimagining…`, 2025).
+- **Visibility regimes (PIDs, rankings) are compliance regimes.** "The DOI is not a neutral technology; its inherent power dictates which artifacts gain recognition … and which remain invisible, making compliance a form of governance" (`leslie-chan/by/2026--will-diamond-open-access-redress-global-knowledge-inequity.md`, 2026).
+- **Don't chase better metrics. Change the regime.** Policy asks include "De-authorize rankings in funding & policy decisions", "Govern PIDs as contested infrastructure (guardrails)" and "Invest in community-governed non-proprietary and decentralized infrastructure". His close: "Don't optimize for legibility — change the regime" (`leslie-chan/by/2026--rankings-as-governance-predatory-inclusion-data-intermediati.md`, 2026).
+- **Suspicion of reforms led by the North, even "good" ones.** "Will Diamond OA be an equity intervention or just a technical publishing reform that maintains existing power structures?" He calls ranking-improvement webinars "An example of proposing a technical fix for a structural problem" (`2026--will-diamond…`, 2026).
+- **Refusal is a legitimate AI outcome, and AI governance must centre sovereignty.** "recognize refusal (not to collect/train) as a legitimate outcome when governance is inadequate"; "fund compute commons with transparent regional allocations; prefer efficient, low-resource models" (`2025--reimagining…`, executive summary, 2025). *Caveat:* the body of that paper's Theme 4 (AI) was contributed by J. Phetcharaburanin. The executive summary is Chan's.
+- **Access is not enough. Legitimation is the question.** "Access is not enough"; "Infrastructure is never neutral"; "Digital Networks replicate and reinforce existing hierarchies" (`leslie-chan/by/2023--critical-accounting-for-the-hidden-costs-of-knowledge.md`, 2023). In his own spoken words: "who has the power to legitimize knowledge and who has the power to dictate what is considered to be academically acceptable knowledge" (`leslie-chan/by/2021--podcast-s1e1-knowledge-by-whom-knowledge-for-whom.md`, 2021).
+- **The unpaid labour of peer review is a hidden subsidy, and journals are colonial institutions.** His slides cite "A billion-dollar donation" (peer review) and assert "Journal as a key institution of colonization is poorly studied". The deck also asks "Will journal editors and reviewers be replaced by A.I.?" (`2023--critical-accounting…`, 2023).
+- **Public goods belong under community ownership.** Co-authored with Brembs et al.: "the perils associated with a public good in private hands are palpable" (`leslie-chan/by/2023--mastodon-over-mammon-towards-publicly-owned-scholarly-knowle.md`, 2023).
+
+## 3. Relation to the concept note
+
+- **Endorse:** "AI didn't create these problems … a powerful new force acting on an already-cracking system." This is his whole thesis, though he would name the cracks differently. Platform capitalism, rankings and APC economics are the root, more than "too much to read" or replication.
+- **Endorse strongly:** "The same surveillance logic … now eyes the scholarly record as raw material." His terms are "surveillance publishing", "data extractivism" and "full stack enclosure" (2023, 2025, 2026).
+- **Endorse:** unpaid, invisible labour ("editors, reviewers, curators…"). He would push the note further, to "fund the affective, translational, and relational labour that sustains OS" (2025).
+- **Endorse:** AI detectors falsely flag non-native speakers, and fluency is a privilege signal. This matches "Western science is increasingly unilingual English and hegemonic" (co-authored, `leslie-chan/by/2020--open-science-beyond-open-access-for-and-with.md`).
+- **Push back:** the historical arc in which each crisis was met by "durable new institutions (imprints, peer review, citations…)". For Chan those institutions *are* the problem: the journal is colonial, peer review exploits labour, and citation is the currency of surveillance publishing (2023).
+- **Push back:** "new, harder-to-fake signals" and "invent the mechanisms, standards". He would warn that new signals become new compliance regimes ("Be Compliance, or Be Invisible", 2026) and that standards set in the North become "policy cloning" (2025).
+- **Push back (likely dissent):** "researchers, scholarly publishers … the ultimate annotators … recognized, and rewarded." He would split "scholars" from "publishers", whom his 2025 paper calls, via cited literature, "data cartels". He would ask *whose* annotation is valued (Global South, Indigenous, community knowledge) and resist a market-reward frame over community governance and ownership. *Inference from his positions; he has not addressed this phrase.*
+- **Push back:** "the open-access movement … still fighting over who gets to read what and who pays." For him, "access is not enough". The fight is over who governs and who legitimates.
+- **Endorse, with a twist:** the energy and water costs of AI appear in his own 2025 section ("energy, water, land, and e-waste footprints"). He would tie them to degrowth and "scaling small".
+
+## 4. Predicted contributions
+
+**Session 1 harvest claims (2–4):**
+1. AI accelerates a *pre-existing* enclosure: vertically integrated publisher-analytics stacks (e.g. Elsevier–THE through 2030) already turned scholars' labour and metadata into rents. AI training is the newest extraction layer, not a new crisis.
+2. The diagnosis must be *situated*. For much of the Global South the system was never working. "What was already broken" should include epistemic injustice and English-language hegemony, not only overload and replication.
+3. Overproduction (paper mills, AI-generated papers) follows from assessment incentives and rankings. Fix the incentives rather than build detectors.
+4. "Openness" alone does not protect against AI extraction. Openness must be relational and consent-based (CARE alongside FAIR).
+
+**Session 5 interventions (1–3):**
+- Public, long-term funding of community-governed, federated, non-proprietary infrastructure (diamond OA, SciELO/AmeliCA/Redalyc-type regional systems), with grants tied to portability, open interfaces and exit strategies (2025).
+- De-authorize rankings in funding and policy, require conflict-of-interest disclosure from data suppliers, and govern PIDs as contested infrastructure (2026).
+- AI governance norms for research funders: citable data statements and model cards, regional compute commons, refusal as a fundable outcome (2025). On "who isn't in the room" he will almost certainly name Global South and Indigenous knowledge holders.
+
+## 5. Likely dissents to record
+
+- Against rewarding "scholars *and publishers*" as a single class of trusted annotators (`2025--reimagining…`, `2023--digital-object-identifier-privatising-knowledge-governance-t.md`).
+- Against universal standards or "alignment" imposed from the North, including new trust signals or identifiers (`2025--reimagining…` Theme 3; `2026--will-diamond…`).
+- Against a triumphalist account of peer review and citation as the solution to past crises (`2023--critical-accounting…`).
+- Against "scale" as the goal. He favours "scaling small" and "scholarly slowness" (`2025--reimagining…`).
+
+## 6. Tensions / alliances with attendees
+
+- **Geoffrey Bilder (organizer):** mixed. Chan's DOI chapter says Crossref "provided an important cover of 'community'" for publisher interests, but approvingly cites POSI (Bilder, Lin & Neylon 2020) as a hopeful development (`2023--digital-object-identifier…`). A PID and identifier discussion could get pointed.
+- **David Weinberger:** latent tension. Weinberger thinks silo-ed data "may start to feel like an offense to our humanity" and expects metadata to "fuel the cultural drive towards open access data" (`david-weinberger/by/2023--isu-unanticipating-metadata.md`). Chan asks "Why prioritizing 'machine readability'?"
+- **Selena Deckelmann (S1):** allies on multilingual equity and on commons governed without huge funds (his co-authored paper cites Wikipedia as proof that quality needs "only dedicated communities, shared digital infrastructure and community governance", `2023--mastodon-over-mammon…`). They differ on unrestricted commercial reuse of open content.
+- **Jason Priem:** Chan cites Piwowar, Priem et al. (2018) on OA prevalence as evidence (`2023--critical-accounting…`) but lists "altmetrics" among the corporate-owned instruments of metric governance (`2023--digital-object-identifier…`).
+- **Amy Brand / MIT Press:** his epistemic-injustice chapter appeared in MIT Press's *Reassembling Scholarly Communications* (`leslie-chan/by/2020--can-open-scholarly-practices-redress-epistemic-injustice.md`). That is a relationship, not a stated alliance.
+
+## 7. Distinctive vocabulary
+
+"knowledge equity"; "situated openness"; "openness is relational, not binary"; "surveillance publishing"; "full stack enclosure"; "platform capitalism"; "extractive → generative/regenerative"; "infrastructures of care"; "bibliodiversity"; "monoculture(s) of the mind" (Shiva); "policy cloning"; "governance without representation"; "predatory inclusion"; "Be Compliance, or Be Invisible"; "Don't optimize for legibility — change the regime"; "scaling small"; "scholarly slowness"; "C3 Open Access: Community-governed, Commons-based, Care-centred"; "pluriversal". Sources: `2025--reimagining…`, `2026--rankings-as-governance…`, `2026--will-diamond…`, `2023--platforms-and-knowledge…`, `2023--4-imagining-higher-education-as-infrastructures-of-care.md`.
+
+## 8. Confidence and gaps
+
+- **High confidence** on infrastructure, APC and rankings critique, and the Global South framing (many consistent texts from 2019 to 2026).
+- **Medium** on his AI-specific views. His only AI-titled talk (2023) is slide text, and the AI section of the 2025 GRC paper was written by a co-contributor. He places AI inside his extraction framework rather than analysing LLMs as such. There is nothing on cognitive atrophy, anthropomorphism, or model collapse.
+- **Gap:** no social media and no recent spoken transcript beyond the 2021 podcast. His reaction to the "ultimate annotators" frame is inferred.
+- **Tone check:** his slides use strong language ("Late-Stage Racial Capitalism", "Anti-Equity Global Machinery", `2022--why-are-the-rich-in-open-science-getting.md`), but in dialogue (the podcast) he is collegial and reflexive about his own complicity. Expect firmness, not hostility.
+
+## 9. Key files
+
+1. `leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md`
+2. `leslie-chan/by/2026--rankings-as-governance-predatory-inclusion-data-intermediati.md`
+3. `leslie-chan/by/2026--will-diamond-open-access-redress-global-knowledge-inequity.md`
+4. `leslie-chan/by/2023--platforms-and-knowledge-production-in-the-age-of.md`
+5. `leslie-chan/by/2023--critical-accounting-for-the-hidden-costs-of-knowledge.md`
+6. `leslie-chan/by/2023--digital-object-identifier-privatising-knowledge-governance-t.md`
+7. `leslie-chan/by/2023--mastodon-over-mammon-towards-publicly-owned-scholarly-knowle.md`
+8. `leslie-chan/by/2021--podcast-s1e1-knowledge-by-whom-knowledge-for-whom.md`
+9. `leslie-chan/by/2020--can-open-scholarly-practices-redress-epistemic-injustice.md`
+10. `leslie-chan/by/2022--boai20-20th-anniversary-recommendations.md` (group-authored; anti-APC, anti-centralization "monocultures")
+11. `leslie-chan/by/2022--why-are-the-rich-in-open-science-getting.md`
