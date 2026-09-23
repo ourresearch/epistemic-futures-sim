@@ -83,7 +83,11 @@ def call(*, system, messages, tools=None, max_tokens=8000, effort="medium", tool
     last = None
     for attempt in range(8):
         try:
-            resp = client().messages.create(**kw)
+            if max_tokens > 20000:  # long outputs (manifesto drafts): stream, so the HTTP timeout is not the limit
+                with client().messages.stream(**kw) as st:
+                    resp = st.get_final_message()
+            else:
+                resp = client().messages.create(**kw)
             break
         except (anthropic.RateLimitError, anthropic.APIConnectionError, anthropic.InternalServerError) as e:
             last = e; time.sleep(min(60, 5 * 2 ** attempt))

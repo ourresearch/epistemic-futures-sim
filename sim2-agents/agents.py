@@ -155,12 +155,18 @@ class Attendee:
 
 
 class Convener:
-    def _call(self, user, *, context=None, max_tokens=8000, effort="high", tag="", phase=""):
+    def _call(self, user, *, context=None, max_tokens=8000, effort="high", tag="", phase="", min_words=0):
         system = [{"type": "text", "text": CONVENER_SYSTEM, "cache_control": {"type": "ephemeral"}}]
         if context: system += context
         resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=max_tokens, effort=effort,
                     agent="convener", phase=phase, tag=tag)
-        return text_of(resp)
+        out = text_of(resp)
+        if min_words and (words(out) < min_words or resp.stop_reason == "max_tokens"):
+            # thinking ate the output budget (seen at effort high, 16K cap): one retry at medium effort, larger cap
+            resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=max(max_tokens, 48000),
+                        effort="medium", agent="convener", phase=phase, tag=tag + ":retry")
+            out = text_of(resp)
+        return out
 
     def call_on(self, session, turns, spoken, not_yet, phase=""):
         """May name up to 2 people to call on next, each with a one-line reason. Returns list of {slug, reason}."""
@@ -211,7 +217,7 @@ class Convener:
                 "consensus report; where the room split, take the majority position and record the split in a final section "
                 "headed 'Noted dissents', attributing each dissent by name from the harvests' minority positions. Use no "
                 "phrasing that the harvests do not support. Output only the manifesto in Markdown, starting with a level-1 title.")
-        return self._call(user, context=ctx, max_tokens=16000, effort="high", tag="draft_v1", phase=phase)
+        return self._call(user, context=ctx, max_tokens=48000, effort="high", tag="draft_v1", phase=phase, min_words=1400)
 
     def revise_manifesto(self, draft, reviews, round_no, phase=""):
         edits = [r for r in reviews if r["action"] == "edit"]
@@ -228,4 +234,4 @@ class Convener:
                 "the dissents filed this round, verbatim (trimmed only for length), under each dissenter's name; keep any "
                 "earlier-round dissent whose author did not sign this round. Output only the revised manifesto in Markdown, "
                 "starting with the level-1 title.")
-        return self._call(user, context=ctx, max_tokens=16000, effort="high", tag=f"revise_v{round_no+1}", phase=phase)
+        return self._call(user, context=ctx, max_tokens=48000, effort="high", tag=f"revise_v{round_no+1}", phase=phase, min_words=1400)
