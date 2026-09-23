@@ -9,7 +9,7 @@ EMB_MODEL = "intfloat/multilingual-e5-base"
 _tok = re.compile(r"\w+")
 def tokenize(s): return _tok.findall(s.lower())
 
-_encoder = None; _enc_lock = threading.Lock()
+_encoder = None; _enc_lock = threading.RLock()  # reentrant: embed_query holds it while calling encoder()
 def encoder():
     global _encoder
     with _enc_lock:
@@ -81,7 +81,7 @@ TOOL = {
                     "before each contribution, and speak from what it returns."),
     "input_schema": {"type": "object", "properties": {
         "query": {"type": "string", "description": "What you want to remember your own position on, in plain words."},
-        "k": {"type": "integer", "description": "How many passages (default 6, max 10).", "minimum": 1, "maximum": 10}},
+        "k": {"type": "integer", "description": "How many passages (default 6, max 10)."}},
         "required": ["query"], "additionalProperties": False},
     "strict": True,
 }
