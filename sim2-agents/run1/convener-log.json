@@ -1,0 +1,120 @@
+[
+ {
+  "session": "unconference",
+  "allocation": {
+   "rooms": [
+    {
+     "topic_no": 2,
+     "topic": "Who pays, and who gets paid?",
+     "members": [
+      "geoffrey-bilder",
+      "amy-brand",
+      "leslie-chan",
+      "anil-dash",
+      "selena-deckelmann",
+      "henry-farrell",
+      "brent-hecht",
+      "adrian-johns",
+      "katherine-maher",
+      "tim-oreilly",
+      "ivan-oransky",
+      "peter-pomerantsev",
+      "peter-salib",
+      "alex-springer",
+      "nick-vincent",
+      "jason-priem"
+     ]
+    },
+    {
+     "topic_no": 4,
+     "topic": "The role of knowledge in the age of LLMs",
+     "members": [
+      "blaise-aguera-y-arcas",
+      "tui-shaub",
+      "ramon-alvarado",
+      "mahzarin-banaji",
+      "adam-becker",
+      "adam-bly",
+      "benjamin-bratton",
+      "mike-caulfield",
+      "kenneth-cukier",
+      "james-evans",
+      "steven-sloman",
+      "david-weinberger"
+     ]
+    },
+    {
+     "topic_no": 1,
+     "topic": "Cognitive atrophy: real phenomenon or not?",
+     "members": [
+      "david-krakauer",
+      "esther-dyson",
+      "tamar-gendler",
+      "kara-miller",
+      "sherry-turkle"
+     ]
+    }
+   ],
+   "first_choice_counts": {
+    "The role of knowledge in the age of LLMs": 10,
+    "Who pays, and who gets paid?": 15,
+    "AI and the Reproduction of Epistemic Worlds (citation justice, whose genealogies)": 3,
+    "Cognitive atrophy: real phenomenon or not?": 5
+   }
+  }
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Leslie Chan cited the DOI as infrastructure that was sold as neutral plumbing and ended up deciding what gets indexed and counted, with Latin American journals linking 'DOI payments' to APCs. That is a direct claim about infrastructure in Geoffrey Bilder's area, and he should have the chance to answer it now while the point is live."
+ },
+ {
+  "session": "s2",
+  "after_turn": 29,
+  "slug": "peter-salib",
+  "reason": "Several speakers directly disputed his proposal that AI agents could hold assets and bear liability: Turkle, Becker, Cukier, Dash, Farrell, Sloman and Maher. He has not yet answered those objections."
+ },
+ {
+  "session": "marketplace",
+  "after_turn": 11,
+  "slug": "tim-oreilly",
+  "reason": "Adam Becker directly challenged Tim's 'pay for the output, not the training' principle as treating unconsented training as settled and turning it into a precedent. Benjamin Bratton and Anil Dash also responded to that principle. Tim has not yet answered."
+ },
+ {
+  "session": "marketplace",
+  "after_turn": 11,
+  "slug": "alex-springer",
+  "reason": "Mike Caulfield made a concrete request to change Alex's event vocabulary: split 'cited' into 'cited' and 'cited accurately', with independent sampling. Adam Bly proposed a finding-level provenance layer beneath Alex's events. Both are addressed to the schema Alex builds and are still unanswered."
+ },
+ {
+  "session": "s3",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Leslie Chan argued that keying the provenance standard to DOIs creates a 'be compliant or be invisible' regime, and that DOI payments are cited as a reason some diamond journals charge APCs. That is a direct claim about DOI infrastructure and its costs, which is his area."
+ },
+ {
+  "session": "s3",
+  "after_turn": 29,
+  "slug": "adam-bly",
+  "reason": "Adam Bly asked Jason directly what licence would make the layer forkable and what it would take to move. Jason answered (CC0 plus patent non-assertion), and Benjamin, David and Kenneth pressed the NC point. Leslie and Geoffrey Bilder challenged the DOI key in his standard. He has not yet responded to any of these."
+ },
+ {
+  "session": "s3",
+  "after_turn": 29,
+  "slug": "benjamin-bratton",
+  "reason": "Benjamin's claim that open weights are the counterweight to sovereign enclosure was directly disputed by Ramón, Leslie, Anil and Adam Becker (imposed rather than chosen, no return to the commons, taken without consent). He has not had a chance to answer."
+ },
+ {
+  "session": "s4",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Mahzarin Banaji disagreed directly with his context layer. She argued that affiliation, journal prestige and author name are pedigree cues that should be withheld at first-order evaluation, while retraction status and funding count as evidence. Amy Brand and Mike Caulfield then pushed back on parts of that line. Bilder hasn't spoken yet and should get to answer the critique of his own proposal."
+ },
+ {
+  "session": "s5",
+  "after_turn": 13,
+  "slug": "leslie-chan",
+  "reason": "Geoffrey, the session lead, asked the room to begin the third question with who wasn't present when the schema got written, and named Leslie as the person who has been raising it all week. Several later speakers pointed to Global South schema-writers and repositories without that question being answered directly."
+ }
+]

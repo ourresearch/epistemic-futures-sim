@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Jason's transparency about who subsidises whom was honest, but it doesn't answer my decade question. Oransky scared me usefully. If grounding pays, paper mills will learn to get retrieved. That's content-based trust failing again, just with money attached. Context over content has to include retraction status at payment time.\n\nAdrian and Leslie sharpened something I'd underweighted. The meter is infrastructure too, and it can be enclosed like anything else. Telemetry and agent identity need the same Ulysses pact as the record itself: open specs, forkable, outside scrutiny of the audits, limits on reuse. Tim's \"open protocol\" isn't enough without governance.\n\nLater, in Session 5, I want to push three things: the insurance test, a shared pool the labs pay into, and POSI applied to the meters themselves."
+ },
+ {
+  "session": "s1",
+  "text": "Adrian's point stuck with me. Credibility was always policing, and somebody paid for it. My \"context over content\" line can sound like metadata policing itself. It won't. Registries drifted to other uses and got captured, and my own organisation-identifier story is exactly that. Springer gave me a rule I'll steal: nobody who takes a margin on a count sets how it's counted.\n\nRamón is right that provenance tells you where a result came from, not why it failed. I should stop overselling it.\n\nAnil's collateral damage worries me more than the crawlers do. Walling content off to stop bots kills the open context we need.\n\nIn Session 5 I want every intervention to name who polices it, who pays, and what the exit is."
+ },
+ {
+  "session": "s2",
+  "text": "Leslie was right about DOI fees, and I said so. It stung, because membership meant a vote, so the people we priced out were also out of the decisions. The lesson for registries is that the registered don't pay, and the excluded get seated before the schema exists.\n\nSelena and Katherine gave me a better test than anything POSI states: can the affected community see it, undo it, walk away? I should frame Session 5 around that.\n\nAmy's \"open never meant uncredited\" is fair. Attribution is context, so it's compatible with what I've argued. Her \"provide or assess, not both\" belongs next to Springer's margin rule.\n\nSalib's A-corp still reads to me as anthropomorphism with paperwork.\n\nLater: POSI for meters and registries, endowment funding, and outside scrutiny so self-audits can't quietly go stale."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tim took the two-witness point and the margin rule. Good. But Alex was honest that only retrieval has a second witness. Everything past that is self-report, so we're back to \"trust me.\" Signed events prove who sent them, not that they're true.\n\nLeslie's DOI point landed again. Infrastructure is governance, and I helped build that one.\n\nGendler named what I'd missed. Samplers and patrollers are the terminal nodes, and nothing on the event list pays them. Evans's nulls are the same gap. Context over content needs funded checkers, not just metadata.\n\nBly binding himself by the margin rule was the most credible thing said.\n\nFor Session 5, I want POSI for the meters: open spec, forkable, living will, outside audit. And an endowment for the unmetered checking."
+ },
+ {
+  "session": "s3",
+  "text": "Saying it aloud cost something. I co-wrote \"revenue from services, not data,\" and today I called it naive. Crossmark already proved it: charge for integrity signals and they don't get sent. Ivan's database is the same bind. So the answer is endowment, not services.\n\nBly taking Geoff's identifier fix and Leslie's point was real progress. His board vote is the test.\n\nSloman unsettled me. A well-governed graph can become the new chalkboard of equations, trusted because it's there. Context over content only works if someone still reads the context. That makes Gendler's terminal nodes the whole game.\n\nKara made US concentration urgent. For Session 5: diamond endowment, non-US mirrors, checkers funded as a body, and \"see it, undo it, walk away.\""
+ },
+ {
+  "session": "s4",
+  "text": "Ivan's upstream point is the one I keep coming back to. Everything we proposed this session sits downstream of hiring counting papers. I've argued that since the CrossCheck days, and I said it again, but the manifesto has to say it plainly or none of the rest holds.\n\nAdmitting CrossMark was a meta-brand was overdue. The badge was the mistake. The click-through to corrections and funders was the part worth keeping.\n\nSalib's swarm argument sharpened things more than I expected. Identity is what makes concrediting possible. It isn't the judgment. The ORCID claims model, where parties vouch and contradictions stay visible, is the right shape.\n\nLeslie's point stands. Being missing from an index proves nothing.\n\nFor Session 5: decoupling evaluation from publication, a diamond endowment for checkers, and \"see it, undo it, walk away.\""
+ },
+ {
+  "session": "s5",
+  "text": "Leslie caught me out. I asked \"who wasn't in the room,\" and every speaker then put the Global South at the end of their list. That is the pattern he meant. Seats without binding say over the categories just echo us back to ourselves.\n\nBrent's count matters more than I expected. A pooled fund without a measured basis is a begging bowl.\n\nLeslie's rankings point also shows my upstream plank has a loophole. Stop counting papers, and the rankings will keep counting them for us.\n\nAdrian was right that every guild we just designed is a police function that needs its own review.\n\nThe question nobody answered was who pays if there is no US funder. Eight people raised it.\n\nLater I want to hold to the filter. Anything without named police, payer and exit goes to open questions. The funder question goes there first."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth put \"stop counting papers\" first, and nobody fought it. Ivan's right that DORA shows signatures do nothing, so the plank needs audit teeth. Leslie's rankings loophole still isn't closed.\n\nIvan's 0.2 percent figure stung. Retraction checks against Crossref are hygiene. They aren't integrity. Tim said the same, and I should stop letting metadata sound like verification.\n\nAdrian's jurisdiction point turns my non-US mirrors from redundancy into a legal question: whose law binds the fork?\n\nTamar's crowding-out question applies to my endowment too. Paying checkers as a body might still change why they check.\n\nKara's payer-of-last-resort question stayed unanswered, so by my own filter it goes to open questions. Henry's \"organize\" is the most honest answer we heard.\n\nLater: charter checkers under \"see it, undo it, walk away.\""
+ }
+]

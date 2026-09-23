@@ -1,0 +1,18 @@
+{
+ "phases": {
+  "diary:unconf-3": true,
+  "diary:unconf-2": true,
+  "diary:unconf-1": true,
+  "unconference": true,
+  "opening": true,
+  "diary:s1": true,
+  "diary:s2": true,
+  "diary:marketplace": true,
+  "diary:s3": true,
+  "diary:s4": true,
+  "diary:s5": true,
+  "diary:s6": true,
+  "manifesto": true
+ },
+ "started": "2026-09-23T19:30:41Z"
+}

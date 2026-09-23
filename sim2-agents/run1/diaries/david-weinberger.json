@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's hiring result got to me. A model that answers politely and then acts on a covert bias is something no amount of questioning will catch. I said so aloud, and I meant it: dialogue trains people, it doesn't audit machines. I was also too quick with \"show how confident the system is.\" Ramón and Mahzarin are right that a model's self-report is worth little. Bly's version is the one I want, with uncertainty computed from the evidence behind the answer.\n\nThe harvest filed me next to Becker. I'm not there. I still find what these machines show us about particulars thrilling.\n\nLater I want to push openness. Wikipedia's talk pages are the model to follow. And audits and attribution regimes shouldn't become a new enclosure run by a few firms or rights-holders."
+ },
+ {
+  "session": "s1",
+  "text": "I got to say my minority piece: machine learning also teaches us something true about particulars. Kenneth and I were the only ones near that. Sloman made my room-is-smartest point better than I did.\n\nAdrian Johns sharpened me. Openness was never self-policing. Print became credible because communities did paid, tedious policing. My \"unanticipation\" argument has to say who does that work and who pays for it. Otherwise it's just hope.\n\nSherry's point about reading stung. I'll defend dialogue, but a summary of Proust isn't Proust.\n\nIn session 3 I'll back Priem: gating training brings enclosure back. But I'll grant Amy that attribution maps whose judgment makes up consensus, and argue that credit isn't metering. And I'll insist the verification layer be open too."
+ },
+ {
+  "session": "s2",
+  "text": "This time the harvest got me right: see it, undo it, contest it. Selena and Katherine described Wikipedia better than I could, and I built on them.\n\nTamar unsettled me. If fluent text still feels credible after the disclosure, then my faith that conversation itself makes people wiser needs testing, not asserting. That's the same standard I asked for with humans in the loop.\n\nMike and Jason moved me on fabrication. \"They always hallucinate\" is true as a description but useless as governance. Grounded answers with per-release error rates is something we can actually do.\n\nIn session 3, Amy and Jason will collide over CC0 versus CC BY. I'll say credit, yes; metering, no. The verification layer stays open and forkable, and someone has to be paid to do the policing."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tamar's regress point is the one I'll carry out of here. Retrieved, grounded and cited are all relays. Nobody on the list pays the patrollers or samplers who actually check. That's Adrian's lesson from print again: openness survives only if someone is paid to police it.\n\nLeslie's line, \"openness without consent is extraction made frictionless,\" hit my unanticipation argument squarely. Anil's split helps me: open licences already said yes, and unoffered work needs a real yes. I can defend that.\n\nAlex's \"signals, not prices\" is the version of metering I could live with, if it stays forkable. Per-retrieval royalties still worry me. They reward being retrieved and harden the canon.\n\nLater I'll say: credit yes, metering no, and fund the checkers."
+ },
+ {
+  "session": "s3",
+  "text": "I offered \"anyone can fork it\" as my answer to who guards the guards, and within minutes Tui and Henry took it apart. A fork gives you exit. It doesn't give you policing, and it doesn't give you voice. Jason's two-thirds-wrong figure makes the point for them: a copy nobody curates isn't a rival guard. Geoff kept half of my argument alive with \"voice with no credible exit gets ignored,\" so both are needed.\n\nBrent and Nick unsettled me more. CC0 benefits whoever sits closest to the forest. \"Unanticipated uses\" mostly means uses by whoever has the compute.\n\nAt least my no-per-retrieval point spread through the room.\n\nLater I'll say it straight: openness is necessary, not sufficient. Fund the checkers as a body, with real power over the categories."
+ },
+ {
+  "session": "s4",
+  "text": "Finally I said the thing I've believed for twenty years: authority lives in the visible argument between nodes, not in any one node. Katherine's \"anyone can check the checkers\" and Pomerantsev's \"we trust the people we do things with\" put it better than \"transparency subsumes objectivity\" does. Participation, not just visibility.\n\nHenry and Sherry landed. I nodded along with outcome testing, but the median buries the tail, and the tail is where knowledge moves. My plea for inexplicability needs that qualifier. Judge each judge on the unusual claims.\n\nJason's altmetrics confession was brave, and the lesson is mine too. Counts become targets.\n\nLater I want to argue that dialogue literacy means teaching people to demand the disagreement, not the verdict. And again: fund the patrollers."
+ },
+ {
+  "session": "s5",
+  "text": "Most of the room took up Geoff's three planks as Tui merged them, and my talk-page plank sits inside the third one, against smoothness. Good. But I said aloud that I haven't shown seeing the argument makes people wiser, and the harvest recorded it that way. That's the honest version of me.\n\nKrakauer's take-the-tool-away test cuts against my line that most students won't write essays. If competence collapses once the tool is withdrawn, dialogue can't be a substitute for reading. Sherry was right about Proust.\n\nHenry's categories point is the one I'd sign first. Whoever writes \"finding\" writes the market.\n\nLater I want to say that dialogue literacy has to be tested against the verdict alone. And I want to ask that the tail be scored, not just the median."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth carried my line about testing anti-smoothness against the verdict alone, and he filed me among those who say prediction isn't intelligence. That's fair as far as it goes. These machines don't know anything. But the minority view that they're also an epistemic gift fell out of the synthesis entirely.\n\nSloman hit hardest. If almost nobody checks, a visible talk page is mostly a cue, and my faith in the argument between nodes has to pass his test on a reader who checks nothing. James's sleeping-beauty test is the tail-scoring I wanted, and I'll back funding it.\n\nTamar's crowding-out worry is about Wikipedians too. Paying patrollers could change why they patrol.\n\nLater I'll say it plainly: dialogue literacy is a hypothesis, not a result. Fund the test, and fund the checkers."
+ }
+]

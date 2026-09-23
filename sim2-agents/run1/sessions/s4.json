@@ -1,0 +1,1595 @@
+{
+ "turns": [
+  {
+   "slug": "tamar-gendler",
+   "name": "Tamar Gendler",
+   "text": "I'd like to push on one sentence in the concept note: that every time an expensive signal of trust got cheap, we eventually came up with harder-to-fake signals. I think that's true. I also think it's the comfortable half of the story, and I want to give you three claims to argue with.\n\nFirst, credibility signals aren't only judgments. They're aliefs. Put someone on a glass skywalk over a canyon and they know it's safe, and they still step back from the edge. Fluent, polished, well-referenced prose works on us the same way. It sets off a trust response that holds up even when we know perfectly well the text cost nothing to produce. Knowing is less than half the battle. So a renewed model of trust can't mostly be literacy campaigns or disclosure labels. It has to change the situations in which people meet claims. And here's the uncomfortable corollary. Whatever we build to replace fluency will also start to feel credible just because it exists. That includes a provenance graph or a trust score. So the new signals should prompt checking, not stand in for it.\n\nSecond, a trust network can't be turtles all the way down. Somewhere there have to be terminal nodes, where someone actually does first-order evaluation instead of relaying what everyone else said. That's my candidate for the line between earned authority and gatekeeping. Earned authority sits at a terminal node and has been shown to add something. Gatekeeping relays, or it hands out authority early on the basis of pedigree. Deciding at seventeen who gets heard for life is one example. And as we heard this morning, a human in the loop isn't automatically a terminal node. It counts only where that human's judgment actually beats the system, and somebody has to test that.\n\nThird, unbundle before you rebuild. One of the most powerful things universities do is certify that knowledge has been passed on. We bundle that with research, teaching and socialization. Tying the credential to the learning always carried a daycare-fine risk: the motivation moves outside the learner. AI is pulling hard on the credentialing strand in particular. So here's the question I'd most like us to fight about: which of these functions must stay coupled for authority to be earned, and which can we safely rebuild on their own? And who pays for the terminal nodes, if not the people who profit from the count?",
+   "recall": [
+    {
+     "query": "terminal nodes trust network turtles all the way down",
+     "ids": [
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#22",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#25",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-23-social-structures.md#30",
+      "tamar-gendler/by/2007--philosophical-thought-experiments-intuitions-and-cognitive-equilibrium.md#49",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-20-the-prisoner-s-dilemma.md#34",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#24"
+     ]
+    },
+    {
+     "query": "university certifies transmission of knowledge credentialing unbundling",
+     "ids": [
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#34",
+      "tamar-gendler/av/2021--the-power-of-the-university.md#9",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#33",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#67",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#83",
+      "tamar-gendler/by/2023--administrative-cv-fall-2023.md#44"
+     ]
+    },
+    {
+     "query": "alief belief-discordant automatic trust knowing is half the battle",
+     "ids": [
+      "tamar-gendler/by/2008--alief-in-action-and-reaction.md#56",
+      "tamar-gendler/by/2008--alief-and-belief.md#20",
+      "tamar-gendler/by/2008--alief-and-belief.md#83",
+      "tamar-gendler/by/2008--alief-in-action-and-reaction.md#7",
+      "tamar-gendler/by/2008--alief-in-action-and-reaction.md#59",
+      "tamar-gendler/by/2008--alief-and-belief.md#34"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 405,
+   "role": "lead",
+   "i": 0,
+   "ts": "15:14:04"
+  },
+  {
+   "slug": "mahzarin-banaji",
+   "name": "Mahzarin Banaji",
+   "text": "I agree with Tamar's first claim, and I'd put it in my own terms. What we know explicitly does not govern what we do implicitly. Decades of data say that asking people to try to ignore a cue doesn't make them behave neutrally. Taking the cue out of view does. The orchestra curtain worked. Exhortation didn't.\n\nThat's where I part company a little with Geoff's context layer. Some context is evidence. Retraction status and funding are information about the claim. Affiliation, journal prestige and the author's name are information about pedigree. Those are exactly the cues that set off the trust response before anyone has read a word. Some information we should ask not to have, at least at the first-order evaluation.\n\nOn terminal nodes, Tamar, I'd add a warning. The person doing first-order evaluation is not clean either. Greenwald found that social scientists were 41 percent more likely to cite authors from their own name category, and that held even among prejudice researchers. So being at a terminal node doesn't earn anyone authority. Authority belongs to methods that don't depend on the individual. That means blinding where we can, and conflict-of-interest rules that also cover the checkers.\n\nAnd a model can't be that terminal node. The models we've tested prefer their own outputs and prefer machine-written text.",
+   "recall": [
+    {
+     "query": "information we should ask not to have, blind auditions, credibility cues",
+     "ids": [
+      "mahzarin-banaji/by/2019--psychology-implicit-intergroup-bias-prospect-change.md#26",
+      "mahzarin-banaji/by/2006--fair-measures-behavioral-realist-revision-affirmative-action.md#74",
+      "mahzarin-banaji/by/2019--face-trait-face-race-cues-adults-children-s-social.md#78",
+      "mahzarin-banaji/by/2019--psychology-implicit-intergroup-bias-prospect-change.md#29",
+      "mahzarin-banaji/by/2022--when-stereotype-dumbfounds-probing-nature-surgeon-male-belief.md#87",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#68"
+     ]
+    },
+    {
+     "query": "methods keep us honest, independent of the individual, tribe of experts",
+     "ids": [
+      "mahzarin-banaji/by/2024--romance-research-methods.md#7",
+      "mahzarin-banaji/by/2011--dark-side-mind.md#7",
+      "mahzarin-banaji/by/2013--our-bounded-rationality.md#0",
+      "mahzarin-banaji/by/2024--romance-research-methods.md#12",
+      "mahzarin-banaji/by/2024--romance-research-methods.md#4",
+      "mahzarin-banaji/by/2024--romance-research-methods.md#16"
+     ]
+    },
+    {
+     "query": "self-love conflict of interest nepotism institutions guard",
+     "ids": [
+      "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#16",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#31",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#2",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#28",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#35",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#27"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "panel",
+   "i": 1,
+   "ts": "15:14:15"
+  },
+  {
+   "slug": "adam-becker",
+   "name": "Adam Becker",
+   "text": "Mahzarin, I'd put funding on your evidence side of the line, and I'd put it there firmly. In 2019 I looked into a science magazine called Inference. About ninety percent of what it published was accurate, written by real scientists. It also ran pieces against evolution and against climate science. All of its money came from Peter Thiel, and it wasn't disclosed. Some of the contributors I spoke to had no idea about either. The good work was lending its credibility to the junk. Not one sentence in that magazine gave the game away. You only saw it by following the money.\n\nTamar, there's a pedigree cue you haven't mentioned, and it's the loudest one in this debate: wealth. Tech leaders treat being rich as proof of expertise. They reason that if they were wrong about anything, they wouldn't have made so much money. That's gatekeeping from the other direction. Authority is handed out for a fortune rather than a diploma, with nobody checking first.\n\nI've watched fluency stop meaning anything. The crackpot physics emails I get are much cleaner now, and it's obviously LLMs. So yes, terminal nodes matter. But the people who fund a terminal node can't be the people whose claims it checks. Otherwise it's just relaying for them.",
+   "recall": [
+    {
+     "query": "Inference journal Thiel funding pseudoscience alongside researchers",
+     "ids": [
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#3",
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#12",
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#18",
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#2",
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#4",
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#9"
+     ]
+    },
+    {
+     "query": "tech billionaires contempt for expertise wealth not expertise",
+     "ids": [
+      "adam-becker/by/2025--arstechnica-qa-silicon-valley-billionaires-want-the-impossible.md#7",
+      "adam-becker/av/--the-dystopian-future-pushed-by-right-wing-tech-oligarchs-w-a.md#59",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#0",
+      "adam-becker/social/bluesky-timeline.jsonl#350",
+      "adam-becker/social/bluesky-timeline.jsonl#1026",
+      "adam-becker/by/2025--guardian-tech-oligarchs-gambling-our-future.md#0"
+     ]
+    },
+    {
+     "query": "crackpot physics emails cleaner formatted LLMs fluency",
+     "ids": [
+      "adam-becker/social/bluesky-timeline.jsonl#514",
+      "adam-becker/by/2019--ologies-quantum-ontology-transcript.md#40",
+      "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#0",
+      "adam-becker/social/bluesky-timeline.jsonl#602",
+      "adam-becker/av/--lock-stock-and-one-infinite-wheel-of-suffering-feat-adam-bec.md#75",
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 212,
+   "role": "panel",
+   "i": 2,
+   "ts": "15:14:24"
+  },
+  {
+   "slug": "mike-caulfield",
+   "name": "Mike Caulfield",
+   "text": "I'll start with Mahzarin, because I half agree. When I define a fact, it has three parts: it's not disputed, by people in a position to know, who have incentives to take care with the truth and a history of doing so. The problem with affiliation and prestige is that they're cheap. They're like the .org domain. But a track record you can check over years isn't pedigree. It's evidence, and it's expensive to fake. So I wouldn't hide the source. I'd stop people judging it by how it looks and have them check what the rest of the network says about it.\n\nAdam, your funding point fits that third part of my definition. The people best placed to know often have the worst incentives to be careful: oil safety research paid for by oil companies, police investigating police.\n\nTamar, on terminal nodes, here's something practical. Most claims now come to people through someone who's just the mailman: an influencer, a feed, a chatbot. So start with the claim, every time, and trace it back to whoever was actually in a position to know. A model can do the routing. It has no stakes, so it can't be the authority. Routing only works if the endpoint is readable and somebody is paid to check it.",
+   "recall": [
+    {
+     "query": "expensive signals hard to fake credibility reputation stakes",
+     "ids": [
+      "mike-caulfield/av/2025-12-15--how-to-think-clearly-in-an-age-of-misinformation-with-mike-c.md#27",
+      "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#22",
+      "mike-caulfield/by/2024--podcast-coaching-for-leaders-prevent-being-duped.md#23",
+      "mike-caulfield/by/2023--book-verified-summary-toc.md#8",
+      "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#21",
+      "mike-caulfield/by/2019--hapgood-network-heuristics.md#0"
+     ]
+    },
+    {
+     "query": "fact-checking the mailman, who is bringing it to you, investigate the source",
+     "ids": [
+      "mike-caulfield/by/2026--substack-a-sift-rebuild-in-progress.md#12",
+      "mike-caulfield/by/2017--hapgood-how-news-literacy-gets-the-web-wrong.md#14",
+      "mike-caulfield/by/2018--hapgood-recognition-is-futile-why-checklist-approaches-to-informatio.md#12",
+      "mike-caulfield/by/2026--substack-a-sift-rebuild-in-progress.md#11",
+      "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#5",
+      "mike-caulfield/by/2017--book-web-literacy-for-student-fact-checkers.md#13"
+     ]
+    },
+    {
+     "query": "position to know careful with the truth",
+     "ids": [
+      "mike-caulfield/by/2023--substack-position-to-know.md#0",
+      "mike-caulfield/by/2023--substack-position-to-know.md#3",
+      "mike-caulfield/by/2023--interview-audrey-watters-2nd-breakfast-verified.md#10",
+      "mike-caulfield/by/2023--substack-position-to-know.md#1",
+      "mike-caulfield/by/2025--aace-interview-ai-less-like-programming-more-like-spreadsheets.md#11",
+      "mike-caulfield/by/2025--substack-sift-toolbox-for-claude-and-chatgpt.md#8"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "panel",
+   "i": 3,
+   "ts": "15:14:34"
+  },
+  {
+   "slug": "steven-sloman",
+   "name": "Steven Sloman",
+   "text": "Tamar, I'd put your terminal-node point more strongly. Almost none of us is ever at a terminal node. I don't check the claims in my own field outside my narrow area, and neither do you. We rely on cues. Usually the community behind those cues has the knowledge, but a community can send confident cues with no knowledge behind it. That's the weak spot in the design, and scale makes it much worse.\n\nTwo findings of ours bear on this. When people rated explanations, whether the writer seemed like an expert mattered more than actually citing an expert, and polished language was enough to create that impression. And labels that a community has settled on kept their persuasive force even after we told people explicitly that the label carried no information. So Mahzarin is right that telling people to discount a cue doesn't work. But I agree with Mike that we shouldn't hide the source. We should change which cues are available.\n\nThat leaves two design rules. First, count independent sources, not repetitions. Hearing a claim repeatedly makes people believe it even when every repetition traces back to one source. Second, make corrections visible and reward whoever makes them. Being willing to be corrected is the clearest sign of real expertise I know. An authority that has never been seen to correct itself hasn't earned anything yet.",
+   "recall": [
+    {
+     "query": "willingness to be corrected as sign of expertise",
+     "ids": [
+      "steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md#26",
+      "steven-sloman/by/2025--why-we-live-in-alternate-political-realities.md#4",
+      "steven-sloman/by/2017--evaluating-everyday-explanations.md#18",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#14",
+      "steven-sloman/by/2022--strategy-games-to-improve-environmental-policymaking.md#24",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1802.md#28"
+     ]
+    },
+    {
+     "query": "communities send cues despite lacking knowledge, trappings of scholarship",
+     "ids": [
+      "steven-sloman/by/2023--communities-of-knowledge-in-trouble.md#0",
+      "steven-sloman/by/2019--community-appeal-explanation-without-information.md#1",
+      "steven-sloman/by/2018--community-appeal-explanation-without-information.md#1",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#35",
+      "steven-sloman/by/2019--are-humans-intuitive-philosophers-2412.md#47",
+      "steven-sloman/av/—--collective-knowledge-and-overcoming-ignorance-with-steven-sl.md#39"
+     ]
+    },
+    {
+     "query": "nobody verifies; we rely on heuristics like peer-reviewed journal; repetition increases belief",
+     "ids": [
+      "steven-sloman/by/2021--walking-the-party-line-the-growing-role-of.md#6",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#41",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#24",
+      "steven-sloman/by/2021--can-computers-tell-a-story-discourse-structure-in.md#1",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#27",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#40"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 227,
+   "role": "panel",
+   "i": 4,
+   "ts": "15:14:48"
+  },
+  {
+   "slug": "amy-brand",
+   "name": "Amy Brand",
+   "text": "I want to come back to Mahzarin's list of cues we should ask not to have. The author's name is on it. I'd separate two things there. Prestige is pedigree, and I agree it should be blinded wherever we can. Attribution isn't pedigree. It's how we identify the community whose evaluations establish whether a claim holds up. It's also what makes someone accountable. Steven's rule about counting independent sources and Mike's tracing both depend on it. You can't count independent sources if the names have been stripped out.\n\nThat's why I care about architecture. Standard pre-training dissolves sources into word patterns. Retrieval at the moment of answering can keep the link to who said what.\n\nOn Tamar's unbundling question, we already did a small version of this with CRediT. \"Author\" was a bundle, so we broke it into named roles for credit and accountability. The terminal nodes Tamar describes are mostly reviewers. Their work is unpaid and nobody sees it, and reviews of rejected papers almost never get published. Publishing reviews and crediting reviewers is a cheap way to make first-order evaluation visible and reward it. We also now have to decide where AI fits in that taxonomy, so that nobody can mistake a relay for a terminal node.",
+   "recall": [
+    {
+     "query": "attribution and credit constitute the community that establishes consensus on knowledge claims",
+     "ids": [
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#11",
+      "amy-brand/by/2023--isc-case-for-reform-of-scientific-publishing.md#9",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#10",
+      "amy-brand/by/2015--beyond-authorship-attribution-contribution-collaboration-credit.md#5",
+      "amy-brand/by/2015--beyond-authorship-attribution-contribution-collaboration-credit.md#9",
+      "amy-brand/by/2014--sk-interview-contributor-taxonomy.md#17"
+     ]
+    },
+    {
+     "query": "human judgment curation trust credentials peer review",
+     "ids": [
+      "amy-brand/by/2026--research-information-publishing-for-a-new-era.md#6",
+      "amy-brand/by/2024--accelerating-open-preprint-peer-review.md#38",
+      "amy-brand/by/2024--accelerating-open-preprint-peer-review.md#12",
+      "amy-brand/by/2024--access-to-science-and-scholarship-2024-workshop-report.md#23",
+      "amy-brand/by/2024--accelerating-open-preprint-peer-review.md#7",
+      "amy-brand/av/2024--access-to-science-and-scholarship-workshop-future-of-peer-re.md#39"
+     ]
+    },
+    {
+     "query": "CRediT contributor roles AI taxonomy",
+     "ids": [
+      "amy-brand/social/x-timeline.jsonl#510",
+      "amy-brand/by/2014--sk-interview-contributor-taxonomy.md#10",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#10",
+      "amy-brand/by/2026--research-information-publishing-for-a-new-era.md#7",
+      "amy-brand/by/2014--publishing-credit-where-credit-is-due.md#6",
+      "amy-brand/social/x-timeline.jsonl#667"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 209,
+   "role": "floor",
+   "i": 5,
+   "ts": "15:14:59"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "I've argued for years that we have to separate expertise from authority. Tamar's terminal nodes are the right place to make that cut. Expertise is a competence, something you can do. Authority is a position other people grant you. Gatekeeping is what happens when authority stays in place after the competence has gone.\n\nSteven, I agree that almost none of us works at a terminal node. That's fine as long as somebody somewhere still holds the competence. What worries me is a quieter failure. A reviewer who hands the checking to an opaque model is still sitting at a terminal node, still has the credential, and is now only passing along what the model said. The cues still look right, so nobody notices. You get errors nobody can catch, carrying institutional authority.\n\nSo I'd put a harder test in the renewed model. Earned authority is judgment that still works when the tool is taken away. Test the checkers the way you'd test the tools. Can they reconstruct the result and verify it themselves?\n\nAmy, I support crediting reviewers, but credit is where metrics come in. If you score or price judgment, the score ends up tracking the market and stops being judgment. That's why I'd keep credibility scores out of it. People will read them as judgment when they're really just counts.",
+   "recall": [
+    {
+     "query": "expertise versus authority, follow the science",
+     "ids": [
+      "david-krakauer/by/2022--the-way-we-were-sfreporter.md#5",
+      "david-krakauer/by/2024--exbodiment-the-mind-made-matter.md#18",
+      "david-krakauer/by/2025--physical-complexity-of-a-cognitive-artifact.md#35",
+      "david-krakauer/by/2023--jim-rutt-ep192-science-complexity-ai.md#2",
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#8",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#26"
+     ]
+    },
+    {
+     "query": "judgment versus impact metrics peer review",
+     "ids": [
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#62",
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#35",
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#63",
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#34",
+      "david-krakauer/by/2022--outsourcing-memory-through-niche-construction-7225.md#87",
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#38"
+     ]
+    },
+    {
+     "query": "errors humans can no longer detect, outsourced capacities",
+     "ids": [
+      "david-krakauer/by/2026--the-biophysics-of-paradigm-change.md#3",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#20",
+      "david-krakauer/av/2021--co-ordination-on-time-between-worlds.md#30",
+      "david-krakauer/by/2022--outsourcing-memory-through-niche-construction.md#44",
+      "david-krakauer/by/2023--jim-rutt-ep192-science-complexity-ai.md#96",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 222,
+   "role": "floor",
+   "i": 6,
+   "ts": "15:15:11"
+  },
+  {
+   "slug": "tui-shaub",
+   "name": "Tui Shaub",
+   "text": "I'll start with Tamar's corollary, because it's the one I'd hold us to. Whatever we build to replace fluency will become its own smooth surface. A trust score or a clean provenance graph is exactly that. I've written about how a well-paved road doesn't stay in memory; the detour does. Credibility works the same way. What makes people check is friction: visible dissent, null results, corrections shown on the surface rather than buried. So I'd build Steven's rule into the interface itself. Put the correction history next to the claim, and treat an authority with no visible corrections as unproven.\n\nOn terminal nodes, I agree with David and not with scoring. Amy, publish reviews and credit reviewers, yes. But fund checkers as a body through organized institutions, not per item and not through gig platforms. Once the checking is metered, you get Krakauer's count dressed up as judgment.\n\nOne thing I've had to correct in my own thinking today. \"Whoever pays can't govern\" isn't enough. Checkers need binding power over the categories themselves, or their seat is decoration. And we should stop assuming there's a US public funder behind the pool. Kara told us it's being dismantled. So who funds terminal nodes outside the US, and who in this room will commit to asking them?",
+   "recall": [
+    {
+     "query": "trust, credibility and authority in the age of generative AI",
+     "ids": [
+      "tui-shaub/by/2015--aboutme-self-profile.md#1",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#12",
+      "tui-shaub/by/2020--tofth-winter-recap.md#1",
+      "tui-shaub/by/2020--tofth-winter-recap.md#2",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#29",
+      "tui-shaub/by/2020--tofth-winter-recap.md#5"
+     ]
+    },
+    {
+     "query": "explainability as epistemic interface between humans and AI",
+     "ids": [
+      "tui-shaub/by/2020--tofth-winter-recap.md#3",
+      "tui-shaub/by/2020--tofth-winter-recap.md#1",
+      "tui-shaub/by/2020--tofth-winter-recap.md#2",
+      "tui-shaub/by/2015--aboutme-self-profile.md#1",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#34",
+      "tui-shaub/by/2021--tofth-bay-area-pilot.md#3"
+     ]
+    },
+    {
+     "query": "serendipity, error and friction in mediated experience",
+     "ids": [
+      "tui-shaub/by/2020--everyday-worlding.md#7",
+      "tui-shaub/by/2020--everyday-worlding.md#4",
+      "tui-shaub/by/2020--everyday-worlding.md#3",
+      "tui-shaub/by/2020--tofth-larb-remote-intervention.md#0",
+      "tui-shaub/by/2020--everyday-worlding.md#6",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#17"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "floor",
+   "i": 7,
+   "ts": "15:15:22"
+  },
+  {
+   "slug": "ramon-alvarado",
+   "name": "Ramón Alvarado",
+   "text": "I'll push on something the panel seems to share: that the terminal node has to be a human. Humphreys's line is that instruments beat the human senses \"here, there, and almost everywhere.\" We already let video replay overrule the referee and thermometers overrule the cook. In some cases an artifact decides what counts as evidence, and that isn't automatically suspect. So David's test is right, but I want it applied to both sides. Humans and instruments each earn their place at a terminal node, and it has to be earned on epistemic grounds. Nobody should get it by default.\n\nWhat earns it? A track record isn't enough, because in science the feedback is slow. Earned authority means having access to the source and nature of your own errors. That covers why a result failed, not just how often. A referee can explain a bad call. Current models can't explain theirs. That gap, and not a claim about minds, is why a model can't yet be a terminal node.\n\nOne more point about gatekeeping. Adam flagged wealth as authority handed out with nobody checking first. There's a version with tools too. A dean overrules a department chair because \"the analytics said so,\" or now \"ChatGPT said so.\" When the tool gets that authority without earning it, the expert's word counts for less. That's an epistemic injustice. So the manifesto should keep reliance and trust separate: we can rely on a tool, but trust has to be earned.",
+   "recall": [
+    {
+     "query": "epistemic trust versus reliance, what AI deserves",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#2099",
+      "ramon-alvarado/social/x-timeline.jsonl#2214",
+      "ramon-alvarado/social/x-timeline.jsonl#1998",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#4",
+      "ramon-alvarado/by/2022--what-kind-of-trust-does-ai-deserve-if-any.md#0",
+      "ramon-alvarado/social/bluesky-timeline.jsonl#570"
+     ]
+    },
+    {
+     "query": "instruments outperform human judgment, delegating evidence to artifacts",
+     "ids": [
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#31",
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#43",
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#40",
+      "ramon-alvarado/social/x-timeline.jsonl#1829",
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#33",
+      "ramon-alvarado/social/x-timeline.jsonl#1871"
+     ]
+    },
+    {
+     "query": "testimonial diminishing expertise \"but ChatGPT said\" epistemic injustice credibility",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#582",
+      "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#15",
+      "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#5",
+      "ramon-alvarado/social/x-timeline.jsonl#1186",
+      "ramon-alvarado/social/x-timeline.jsonl#2599",
+      "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#36"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 246,
+   "role": "floor",
+   "i": 8,
+   "ts": "15:15:33"
+  },
+  {
+   "slug": "adam-bly",
+   "name": "Adam Bly",
+   "text": "Tamar's corollary is aimed at people like me, so I'll take it. In 2023 Amy Brand and I argued against watermarking as the fix. We said some people would see the label and dismiss the content out of hand, some wouldn't notice it, and some would trust it anyway because that's easier. That's your alief point in different words. Whether text was machine-made is a separate question from whether it's credible.\n\nWhat we asked for instead was an audit trail. How was this conclusion reached? From which data, which methods, which population? Ramón, I think that's your test from the other side. A tool earns trust when you can see where its errors come from.\n\nBut Tui is right that a confidence score next to a finding becomes a new smooth surface. System computes those scores and sells access to the graph. So on Mahzarin's point, the score has to be derived from the evidence and not from anyone's opinion of itself, ours included. That means counting independent studies, recording dependence between them, carrying retraction status and showing the correction history. And the scoring method can't be ours alone to define. It needs outside audit.\n\nLast point. For a long time I trusted institutions because I look like the people who built them. Pedigree always felt earned to the people it served. That's worth remembering when we decide which cues to keep.",
+   "recall": [
+    {
+     "query": "audit trail provenance trust credibility AI claims",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/by/2026--adambly-com-bio-and-news.md#2",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#1",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#23",
+      "adam-bly/by/2015--wef-data-driven-development.md#52",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#5"
+     ]
+    },
+    {
+     "query": "institutions crumbling trust privilege science broken",
+     "ids": [
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#5",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#3",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#4",
+      "adam-bly/by/2008--bigthink-does-science-explain-everything.md#2",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#1",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#2"
+     ]
+    },
+    {
+     "query": "confidence scoring findings evidence sound authoritative",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#3",
+      "adam-bly/by/2024--all-the-institutions-crumbling.md#3",
+      "adam-bly/av/2022--data-science-hangout-adam-bly-system-decentralizing-decision.md#12",
+      "adam-bly/by/2014--why-we-re-stuck-on-climate-change-a-hypothesis.md#5",
+      "adam-bly/by/2022--scaling-system-with-gpt-3.md#1",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 232,
+   "role": "floor",
+   "i": 9,
+   "ts": "15:15:47"
+  },
+  {
+   "slug": "benjamin-bratton",
+   "name": "Benjamin Bratton",
+   "text": "I agree with Tamar's terminal nodes, and with Ramón that nobody gets to hold one by default. That cuts both ways, though. Mahzarin, I take your self-preference data seriously. Preferring machine-written text is a real bias and should be governed as its own thing. But \"a model can't be that terminal node\" is a rule about species. What it points to is a role problem. A court or a peer-review system doesn't work because its judges are brilliant. It works because of rules, precedents, adversarial structure and feedback. That's where the intelligence sits. So design the role and then test whoever holds it, whether that's a person, a group, an agent or some mix. Rotate reviewers across model families and publish the failures.\n\nDavid, apply your take-the-tool-away test to credentialed humans too. A lot of what we call authority is pedigree that would fail it.\n\nOne warning about Ramón's criterion. If the only earned authority is authority a human can reconstruct, we lock ourselves out of the cases where models find things our science can't yet absorb. Where we can, test against outcomes, not against whether we find it comfortable.\n\nAdam Bly's last point is the one to keep. Fluency was always a privilege signal. Now that it costs nothing, the credential stops being a proxy, and so do the elite institutions that issued it.",
+   "recall": [
+    {
+     "query": "credentials expertise authority gatekeeping elite institutions",
+     "ids": [
+      "benjamin-bratton/social/x-timeline.jsonl#447",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#59",
+      "benjamin-bratton/social/x-timeline.jsonl#2059",
+      "benjamin-bratton/social/x-timeline.jsonl#3032",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#97",
+      "benjamin-bratton/social/x-timeline.jsonl#457"
+     ]
+    },
+    {
+     "query": "peer review roles occupiable by agents or humans",
+     "ids": [
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#58",
+      "benjamin-bratton/social/x-timeline.jsonl#1381",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#101",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#107",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#17",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#62"
+     ]
+    },
+    {
+     "query": "AI explain its own errors interpretability epistemic overhang",
+     "ids": [
+      "benjamin-bratton/by/2025--after-alignment.md#5",
+      "benjamin-bratton/av/2025--57-ideas-questions-about-cognitive-infrastructures.md#33",
+      "benjamin-bratton/social/x-timeline.jsonl#3212",
+      "benjamin-bratton/social/x-timeline.jsonl#1127",
+      "benjamin-bratton/by/2025--antikythera-research-program.md#28",
+      "benjamin-bratton/by/2025--57-ideas-on-cognitive-infrastructures.md#28"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 225,
+   "role": "floor",
+   "i": 10,
+   "ts": "15:16:00"
+  },
+  {
+   "slug": "leslie-chan",
+   "name": "Leslie Chan",
+   "text": "Tamar, your line between earned authority and gatekeeping is the right one to draw. My worry is that the panel is still looking for gatekeeping in individuals, when most of it sits in infrastructure. Mike, a checkable track record is evidence. But a track record only builds up where someone is looking. If your journal isn't indexed in Scopus, if you couldn't pay for DOIs, if you publish in Portuguese or Swahili, you never got the chance to build one. \"Be compliant, or be invisible.\" So \"people in a position to know\" gets decided by the indexes before anyone reads a word. Adam Bly said it honestly: pedigree felt earned to the people it served.\n\nTwo consequences. First, the terminal nodes are mostly unpaid reviewers, and peer review is a billion-dollar donation that the South subsidizes too. If we build Amy's reviewer credit, the reviewers' own communities have to govern it, not a vendor that counts it. Second, the cheapest thing this manifesto can do is de-authorize rankings in funding and policy decisions. Rankings are authority handed out ahead of any checking, and they're sold back to us as analytics. So my test for any trust signal we build is this: who writes its categories, and can the people it leaves out refuse it and still be heard?",
+   "recall": [
+    {
+     "query": "who has the power to legitimize knowledge, epistemic authority",
+     "ids": [
+      "leslie-chan/by/2021--podcast-s1e1-knowledge-by-whom-knowledge-for-whom.md#2",
+      "leslie-chan/by/2020--can-open-scholarly-practices-redress-epistemic-injustice.md#23",
+      "leslie-chan/by/2019--centralization-and-monopolization-of-knowledge-infrastructure-why-is.md#1",
+      "leslie-chan/by/2020--can-open-scholarly-practices-redress-epistemic-injustice.md#7",
+      "leslie-chan/by/2019--centralization-and-monopolization-of-knowledge-infrastructure-why-is.md#0",
+      "leslie-chan/by/2018--open-access-in-the-global-south-perspectives-from.md#4"
+     ]
+    },
+    {
+     "query": "rankings prestige compliance regime be compliant or be invisible",
+     "ids": [
+      "leslie-chan/by/2026--rankings-as-governance-predatory-inclusion-data-intermediati.md#0",
+      "leslie-chan/by/2026--will-diamond-open-access-redress-global-knowledge-inequity.md#1",
+      "leslie-chan/by/2026--rankings-as-governance-predatory-inclusion-data-intermediati.md#2",
+      "leslie-chan/by/2019--whose-open-science-and-why-infrastructure-matters.md#3",
+      "leslie-chan/by/2020--fostering-bibliodiversity-in-scholarly-communications-a-call.md#19",
+      "leslie-chan/by/2026--rankings-as-governance-predatory-inclusion-data-intermediati.md#1"
+     ]
+    },
+    {
+     "query": "peer review unpaid labour billion-dollar donation Global South reviewers",
+     "ids": [
+      "leslie-chan/by/2023--critical-accounting-for-the-hidden-costs-of-knowledge.md#10",
+      "leslie-chan/by/2023--mastodon-over-mammon-towards-publicly-owned-scholarly-knowle.md#28",
+      "leslie-chan/by/2023--critical-accounting-for-the-hidden-costs-of-knowledge.md#9",
+      "leslie-chan/by/2023--4-imagining-higher-education-as-infrastructures-of-care.md#16",
+      "leslie-chan/by/2019--introduction.md#11",
+      "leslie-chan/by/2023--mastodon-over-mammon-towards-publicly-owned-scholarly-knowle.md#14"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "floor",
+   "i": 11,
+   "ts": "15:16:13"
+  },
+  {
+   "slug": "kenneth-cukier",
+   "name": "Kenneth Cukier",
+   "text": "I'll start with David's reviewer who just passes along what the model said, because I've seen that in the wild. In 2017 I wrote about a bank's trading system. One algorithm picked the trades and another executed them. In between sat a human whose whole job was to copy and paste from one to the other. He wasn't there because he was better than the machines. He was there to give people confidence in the system, and so there'd be someone to blame if it went wrong. That's a human in the loop working purely as a trust cue, and I'd be surprised if it's rare.\n\nRamón, this is where I part company with you. When the retina model read a person's sex off a scan, no ophthalmologist could do that, and the model couldn't say why either. It earned its authority by being checked again and again against what was actually there. So I'm closer to Benjamin: judge it by outcomes. But the checking can't be a single test at the point of sale. It has to be done over and over, in public, with the failures published. Where that stops, the faith stops too.\n\nWhat machines can't do is decide what the ground truth is. That's the terminal node I'd pay for: people who frame the question and set what counts as the ground truth. AI gives you the median. Excellence is still a tail event, and trust goes to whoever has been seen correcting themselves.",
+   "recall": [
+    {
+     "query": "faith in the algorithm revalidated explainability trade-off",
+     "ids": [
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#11",
+      "kenneth-cukier/by/2017--medium-banking-s-secret-ai-middleware-a-fall-guy.md#0",
+      "kenneth-cukier/social/x-timeline.jsonl#2807",
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#10",
+      "kenneth-cukier/by/2018--chathamhouse-economic-implications-of-ai.md#9",
+      "kenneth-cukier/av/2016--data-the-new-raw-material-of-business.md#12"
+     ]
+    },
+    {
+     "query": "AI exceeds human knowledge retina heart disease discovery",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#225",
+      "kenneth-cukier/social/x-timeline.jsonl#3714",
+      "kenneth-cukier/by/2020--technologies-impacting-society-privacy-and-surveillance-transcript.md#4",
+      "kenneth-cukier/social/x-timeline.jsonl#904",
+      "kenneth-cukier/social/x-timeline.jsonl#3077",
+      "kenneth-cukier/social/x-timeline.jsonl#3662"
+     ]
+    },
+    {
+     "query": "trusted brands credibility AI delivers the median excellence tail event",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#606",
+      "kenneth-cukier/social/x-timeline.jsonl#43",
+      "kenneth-cukier/by/2018--chathamhouse-economic-implications-of-ai.md#16",
+      "kenneth-cukier/by/2018--chathamhouse-economic-implications-of-ai.md#13",
+      "kenneth-cukier/social/x-timeline.jsonl#1557",
+      "kenneth-cukier/by/2017--medium-banking-s-secret-ai-middleware-a-fall-guy.md#7"
+     ]
+    },
+    {
+     "query": "human in the loop confidence ground truth causality framers",
+     "ids": [
+      "kenneth-cukier/by/2017--medium-banking-s-secret-ai-middleware-a-fall-guy.md#7",
+      "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#4",
+      "kenneth-cukier/social/x-timeline.jsonl#2623",
+      "kenneth-cukier/av/2021--finding-our-way-through-challenges.md#30",
+      "kenneth-cukier/social/x-timeline.jsonl#3704"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 248,
+   "role": "floor",
+   "i": 12,
+   "ts": "15:16:30"
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "Mahzarin, I'll take part of that. I once pitched journal brands as paratext and called brand a \"fallible heuristic\", and then built CrossMark as a meta-brand. You're right that a brand triggers trust before anyone reads a word.\n\nBut I never meant the context layer as cues printed next to the prose. I meant it for lateral reading, which is what fact-checkers actually do. You check whether affiliations, co-authors, funders, grants and trial registrations hang together, not how impressive they are. Machine-generated junk has almost no footprint. So the question to ask of an affiliation isn't \"is it Harvard?\" It's \"does this institution exist, and does it vouch for this person?\"\n\nSo blind the first-order reading, yes. But the record has to keep the names, as Amy and Mike argued. And Leslie's warning applies to me: being missing from an index proves nothing. That's also a reason to keep prestige rankings out of the graph.",
+   "recall": [
+    {
+     "query": "context over content affiliations funders trust signals",
+     "ids": [
+      "geoffrey-bilder/social/x-timeline.jsonl#995",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#0",
+      "geoffrey-bilder/by/2024--on-ai.md#18",
+      "geoffrey-bilder/by/2021--crossref-annual-meeting-live21-presentation.md#19",
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#8",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#2"
+     ]
+    },
+    {
+     "query": "journal brand prestige as proxy for trust paratext",
+     "ids": [
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#0",
+      "geoffrey-bilder/social/x-timeline.jsonl#127",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#4",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#3",
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#5",
+      "geoffrey-bilder/by/2009--fenner-interview-author-identifiers.md#24"
+     ]
+    },
+    {
+     "query": "blinding author names peer review bias",
+     "ids": [
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#33",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#25",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#24",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#2",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#47",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#3"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 155,
+   "role": "called",
+   "i": 13,
+   "ts": "15:16:45",
+   "called_on_reason": "Mahzarin Banaji disagreed directly with his context layer. She argued that affiliation, journal prestige and author name are pedigree cues that should be withheld at first-order evaluation, while retraction status and funding count as evidence. Amy Brand and Mike Caulfield then pushed back on parts of that line. Bilder hasn't spoken yet and should get to answer the critique of his own proposal."
+  },
+  {
+   "slug": "anil-dash",
+   "name": "Anil Dash",
+   "text": "The one thing I can add here is from the builder's side. I sat on Stack Overflow's board. We built a reputation system that was meant to reward earned expertise, and it ended up rewarding gatekeeping. The first thing a newcomer experienced was people being jerks, because that was the game we'd designed. The fix wasn't a better score. We had to change the game and admit publicly that we'd gotten it wrong. So I agree with Steven and Tui: an institution that's never been seen correcting itself hasn't earned anything yet. That applies to whatever this room builds.\n\nTwo more things. Tamar's corollary applies to me. I've been pitching a little seal that says \"this is not the world's worst AI.\" GitHub stars show how that goes: a stand-in for trust quickly becomes the trust. So any seal has to point to things you can check, like where the training data came from, who governs it, and whether you can leave. It can't become a badge you're meant to believe on sight.\n\nAlso, I watched the big labs index Stack Overflow without caring which answers were the best or whether the community was still updating them. They took the content and threw away the judgment layer, which was the part that made it credible. If we want terminal nodes, stop stripping them out.",
+   "recall": [
+    {
+     "query": "trust, credibility, who gets believed, gatekeeping",
+     "ids": [
+      "anil-dash/by/2019--can-you-trust-a-company-in-2019.md#5",
+      "anil-dash/social/bluesky-timeline.jsonl#44195",
+      "anil-dash/av/--stochastic-carrots-navigating-the-future-of-ai.md#122",
+      "anil-dash/social/bluesky-timeline.jsonl#5926",
+      "anil-dash/social/bluesky-timeline.jsonl#4211",
+      "anil-dash/social/bluesky-timeline.jsonl#9395"
+     ]
+    },
+    {
+     "query": "Stack Overflow community reputation expertise answers",
+     "ids": [
+      "anil-dash/by/2018--medium-what-if-javascript-wins.md#1",
+      "anil-dash/social/bluesky-timeline.jsonl#5784",
+      "anil-dash/social/bluesky-timeline.jsonl#8534",
+      "anil-dash/av/--the-epic-story-of-markdown-the-vergecast.md#20",
+      "anil-dash/by/2019--lifehacker-how-i-work.md#37",
+      "anil-dash/social/bluesky-timeline.jsonl#19999"
+     ]
+    },
+    {
+     "query": "certification seal badge not the world's worst AI",
+     "ids": [
+      "anil-dash/av/--the-ai-panic-cycleand-whats-actually-different-now.md#54",
+      "anil-dash/av/--the-ai-everyone-hates-vs-the-ai-we-need.md#19",
+      "anil-dash/by/2026--galaxy-brain-ai-panic-cycle-transcript.md#56",
+      "anil-dash/by/2025--twit-intelligent-machines-828-transcript.md#191",
+      "anil-dash/av/--silicon-valley-has-lost-its-moral-compass-with-anil-dash.md#98",
+      "anil-dash/by/2025--twit-intelligent-machines-828-transcript.md#100"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 224,
+   "role": "floor",
+   "i": 14,
+   "ts": "15:16:55"
+  },
+  {
+   "slug": "selena-deckelmann",
+   "name": "Selena Deckelmann",
+   "text": "Much of this panel treats earned authority as belonging to a person: credentialed, named, sitting at a terminal node. I run the infrastructure for a counterexample. On Wikipedia anyone can press the edit button, and most editors have no credentials we check. Authority lives in the process. There's the citation, the page history, the talk page argument, the revert anyone can see, and more than three hundred edit tags recording how each change was made. Steven and Tui asked for visible correction history. That's all a Wikipedia article is. Pseudonymous accounts build up an accountable track record through their work, not their pedigree.\n\nSo I'd gently resist \"people in a position to know\" becoming the new gate. I wrote years ago that meritocracy mostly rewards whoever already had the time and money to show up. Leslie's indexes are the same problem.\n\nAnil's point is the one I'd push hardest. The labs kept our text and threw away the history, the disputes and the reverts, which is what made it credible. Attribution should link back to that process, not just to a URL.\n\nAnd here's the uncomfortable number. The patrollers and admins doing first-order checking are shrinking on our largest wikis. We need to fund them as a body now.",
+   "recall": [
+    {
+     "query": "Wikipedia trust comes from human process, anyone can edit, credentials",
+     "ids": [
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#87",
+      "selena-deckelmann/av/2024--why-ai-should-be-more-like-wikipedia.md#13",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#86",
+      "selena-deckelmann/by/2012--wikipedia-edit-a-thon-in-portland-april-21-11-3pm-p-i-e.md#0",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#89",
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#1"
+     ]
+    },
+    {
+     "query": "AI companies stripping attribution, reusing content, crediting contributors",
+     "ids": [
+      "selena-deckelmann/by/2025--marketplace-tech-ai-search-vs-human-search.md#3",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#87",
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#5",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#69",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#62",
+      "selena-deckelmann/by/2024--meta-multigenerational-letter.md#2"
+     ]
+    },
+    {
+     "query": "meritocracy fails, privilege masquerading as merit",
+     "ids": [
+      "selena-deckelmann/by/2011--where-postgresql-succeeds-and-what-to-do-next.md#0",
+      "selena-deckelmann/by/2011--where-meritocracy-fails.md#0",
+      "selena-deckelmann/by/2011--where-meritocracy-fails.md#4",
+      "selena-deckelmann/by/2011--weekly-tweet-digest-for-2011-04-03-2.md#0",
+      "selena-deckelmann/by/2011--where-postgresql-succeeds-and-what-to-do-next.md#2",
+      "selena-deckelmann/by/2007--confronting-prevailing-wisdom.md#0"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 209,
+   "role": "floor",
+   "i": 15,
+   "ts": "15:17:15"
+  },
+  {
+   "slug": "esther-dyson",
+   "name": "Esther Dyson",
+   "text": "Benjamin, I'll take your role framing, but with one exception. I use the RACI matrix: Responsible, Accountable, Consulted, Informed. A model can fill almost every one of those roles. It can do the checking, and it can be consulted. What it can't be is Accountable, meaning the one who gets fired or sued. It won't suffer, and you can't jail it. So test anyone in the checking role on outcomes, as Kenneth says. But the accountable role belongs to a human or a company, and that can't be negotiated.\n\nKenneth's copy-and-paste trader is what happens when you fake that role. The person is there to be blamed, not to judge. That's gatekeeping too.\n\nTamar, I've watched your corollary happen from the inside. Twenty years ago I wrote about a credential-verification startup. My own prediction was that if it succeeded, people would trust it without checking the partners behind it. That's exactly what happens.\n\nSo my test for authority is Adam Becker's: follow the money. Who profits from the claim, and what is the system built to maximize? Disclose that before anyone reads the prose.\n\nAnd Anil and Selena are right. The labs took a collective asset and threw away the judgment layer. They should pay for it, and the money should go to the patrollers.",
+   "recall": [
+    {
+     "query": "accountability must attach to humans who can suffer, not AI",
+     "ids": [
+      "esther-dyson/by/2026--substack-know-your-agent.md#2",
+      "esther-dyson/by/2025--substack-raci-thoughts-on-ai.md#1",
+      "esther-dyson/social/x-timeline.jsonl#3337",
+      "esther-dyson/by/2026--substack-couples-counseling-us-and-our-ai.md#9",
+      "esther-dyson/by/2026--substack-know-your-agent.md#1",
+      "esther-dyson/by/2025--substack-raci-thoughts-on-ai.md#0"
+     ]
+    },
+    {
+     "query": "trust, credentials, authority, business model money flows transparency",
+     "ids": [
+      "esther-dyson/by/2006--release-1-0-03-march.md#37",
+      "esther-dyson/social/x-timeline.jsonl#3803",
+      "esther-dyson/social/x-timeline.jsonl#179",
+      "esther-dyson/by/2005--release-1-0-06-june.md#60",
+      "esther-dyson/by/2006--release-1-0-03-march.md#43",
+      "esther-dyson/social/x-timeline.jsonl#139"
+     ]
+    },
+    {
+     "query": "Stack Overflow Wikipedia labs took content threw away community, pay for public asset",
+     "ids": [
+      "esther-dyson/social/x-timeline.jsonl#2188",
+      "esther-dyson/av/2024--ih-221-esther-dyson-ai-thoughts.md#89",
+      "esther-dyson/by/2005--release-1-0-02-february.md#83",
+      "esther-dyson/by/2005--release-1-0-12-december.md#110",
+      "esther-dyson/by/2018--wellville-the-investor-s-view-creating-value-on-the-way-to-wellville.md#11",
+      "esther-dyson/social/x-timeline.jsonl#1811"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "floor",
+   "i": 16,
+   "ts": "15:17:26"
+  },
+  {
+   "slug": "james-evans",
+   "name": "James Evans",
+   "text": "Tamar, I want to push on the terminal node, because in our data the human sitting there is often the gatekeeper. In our Science paper this spring, older scientists turn out to be more likely to criticize the work that later won Nobel Prizes, and the \"Sleeping Beauty\" papers that were ignored at first and recognized later. Papers reviewed by older referees end up citing older work by the time they're published. That's authority given by seniority. It isn't earned. So the test shouldn't only ask whether a judge is human. It should ask whether that judge comes from a different distribution than the work being judged and the other judges.\n\nI agree with Ramón and Benjamin that authority has to be earned, and there's a concrete bar for earning it. Across 26,000 OpenReview submissions, two human reviewers agreed on which paper was better only 61 percent of the time. That's the floor. Off-the-shelf LLM judges sometimes do worse than chance, because they give everything the same middling score. Reward models trained on expert judgments do clear the floor. So hold people and models to the same public bar, and never let a model family grade its own work.\n\nLast point. Following Tamar's corollary, we shouldn't build systems that maximize trust. We should maximize evaluative trustworthiness. In our experiments, people did better when the answer felt incomplete, even though they felt worse about their own performance. Show disagreement, not a single balanced verdict.",
+   "recall": [
+    {
+     "query": "older scientists reviewers suppress disruptive work gatekeeping",
+     "ids": [
+      "james-evans/social/x-timeline.jsonl#31",
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#44",
+      "james-evans/by/2026--aging-and-the-narrowing-of-scientific-innovation.md#7",
+      "james-evans/by/2026--aging-and-the-narrowing-of-scientific-innovation.md#15",
+      "james-evans/by/2026--aging-and-the-narrowing-of-scientific-innovation.md#19",
+      "james-evans/by/2025--language-models-should-be-used-to-surface-the-unwritten.md#8"
+     ]
+    },
+    {
+     "query": "automated evaluation judges and judged same distribution verification AI",
+     "ids": [
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#5",
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#115",
+      "james-evans/by/2026--discovery-by-dreaming-cross-domain-recombination-in-artificial-memory.md#34",
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#17",
+      "james-evans/by/2023--the-future-of-fundamental-science-led-by-generative-closed.md#43",
+      "james-evans/by/2025--ai-behavioral-science.md#73"
+     ]
+    },
+    {
+     "query": "evaluative trustworthiness open the space of voices rather than single balanced response",
+     "ids": [
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#31",
+      "james-evans/by/2025--exploring-the-role-of-large-language-models-in-the.md#46",
+      "james-evans/by/2025--advancing-the-scientific-method-with-large-language-models-from.md#51",
+      "james-evans/by/2026--generative-ai-for-climate-governance-and-acceptability-constrained-policy.md#32",
+      "james-evans/by/2026--discovery-by-dreaming-cross-domain-recombination-in-artificial-memory.md#5",
+      "james-evans/by/2026--prescience-a-dataset-and-benchmark-for-scientific-forecasting.md#150"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 243,
+   "role": "floor",
+   "i": 17,
+   "ts": "15:17:38"
+  },
+  {
+   "slug": "henry-farrell",
+   "name": "Henry Farrell",
+   "text": "I want to add a political economist's point to Tamar's line between earned authority and gatekeeping. Peer review, letters of recommendation and evaluations are rituals as well as filters. Their authority depends on a social bargain: we assume the person judging actually took care. Marion Fourcade and I argued that once people suspect the judging was farmed out to a model, the ritual loses its legitimacy, even if the output looks fine. Kenneth's copy-and-paste trader is that problem in miniature.\n\nThat's why I'm uneasy about Benjamin, Kenneth and James making outcomes the whole test. James's 61 percent agreement floor is useful, but it measures agreement on the typical case. What matters for science is whether a judge can recognise the unusual claim that turns out to be right. I'd bet a lot of money that off-the-shelf models are worse at that than even tired humans. They pull toward the centre, so novel work quietly gets filtered out. James's own maps-of-banality work shows the other way to use them: point them at the banal, and let people chase what's new.\n\nSo fund the checkers as a body, and give them binding power over the categories. Who defines \"finding,\" \"accurate\" and \"novel,\" and who can veto those definitions? That decision is where gatekeeping will hide next.",
+   "recall": [
+    {
+     "query": "peer review letters of recommendation legitimacy automated ritual",
+     "ids": [
+      "henry-farrell/by/2024--pm-a-new-piece-in-the-economist-there-s-a-killer-app-for-l.md#6",
+      "henry-farrell/social/bluesky-timeline.jsonl#6261",
+      "henry-farrell/by/2009--mc-a-call-to-arms.md#0",
+      "henry-farrell/by/2024--pm-the-management-singularity.md#22",
+      "henry-farrell/by/2024--pm-the-management-singularity.md#21",
+      "henry-farrell/by/2015--mc-mark-zuckerberg-wants-people-to-understand-common-knowledge.md#0"
+     ]
+    },
+    {
+     "query": "human judgment trade-offs cannot be optimized, automation should support judgment",
+     "ids": [
+      "henry-farrell/by/2018--hfn-the-new-economys-old-business-model-is-dead.md#16",
+      "henry-farrell/by/2026--pm-ai-isn-t-management-try-explaining-that-to-matthew-prin.md#22",
+      "henry-farrell/social/bluesky-timeline.jsonl#213",
+      "henry-farrell/by/2026--pm-ai-isn-t-management-try-explaining-that-to-matthew-prin.md#24",
+      "henry-farrell/by/2026--pm-ai-isn-t-management-try-explaining-that-to-matthew-prin.md#17",
+      "henry-farrell/by/2026--pm-ai-isn-t-management-try-explaining-that-to-matthew-prin.md#19"
+     ]
+    },
+    {
+     "query": "AI peer review strains out novelty, homogenization, banality",
+     "ids": [
+      "henry-farrell/by/2024--pm-after-software-eats-the-world-what-comes-out-the-other.md#9",
+      "henry-farrell/by/2024--pm-a-new-piece-in-the-economist-there-s-a-killer-app-for-l.md#6",
+      "henry-farrell/by/2018--ct-move-over-sokal-hoax.md#9",
+      "henry-farrell/by/2024--pm-a-new-piece-in-the-economist-there-s-a-killer-app-for-l.md#7",
+      "henry-farrell/by/2024--pm-after-software-eats-the-world-what-comes-out-the-other.md#12",
+      "henry-farrell/by/2006--ct-wikipedian-utterances-of-the-gawping-soul.md#2"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 214,
+   "role": "floor",
+   "i": 18,
+   "ts": "15:17:50"
+  },
+  {
+   "slug": "brent-hecht",
+   "name": "Brent Hecht",
+   "text": "I want to start with Anil's and Selena's point, because this is where authority is actually being lost. Stack Overflow is my standard example of the doom loop. Copilot depends on Stack Overflow to answer questions, and Copilot is also why fewer people go there to ask them. My company does this too. The labs took the answers and dropped the voting, the reverts and the moderation. That judgment layer is what made the answers credible, and the models don't carry it forward.\n\nSo before we design any trust signal, we should count the checking. With Hanlin Li I measured one piece of this: Reddit's volunteer moderators put in at least 466 hours a day, which is millions of dollars a year of unpaid labor holding up a for-profit platform. Nobody has done that count for peer reviewers or Wikipedia patrollers. We should, before that work disappears. A number like that lets policymakers treat dependence on volunteers as something the companies owe, not as goodwill.\n\nOn Mahzarin's rule that a model can't be a terminal node, I'd put the test differently. The evidence I know says overreliance does worse than the human or the AI working alone. So test each human-tool configuration against both of them. And don't put disclosure on reviewers as extra unpaid work. Pay the checkers as an organized body.",
+   "recall": [
+    {
+     "query": "peer reviewers as gatekeepers, reviewer labor unpaid",
+     "ids": [
+      "brent-hecht/by/2022--all-thats-happening-behind-scenes-putting-spotlight-volunteer.md#45",
+      "brent-hecht/by/2020--suggestions-writing-neurips-2020-broader-impacts-statements.md#4",
+      "brent-hecht/by/2021--it-s-time-do-something-mitigating-negative-impacts.md#14",
+      "brent-hecht/by/2018--women-still-ask-less.md#61",
+      "brent-hecht/by/2018--nature-qa-ethics-of-computer-science.md#2",
+      "brent-hecht/by/2021--it-s-time-do-something-mitigating-negative-impacts.md#21"
+     ]
+    },
+    {
+     "query": "Stack Overflow Wikipedia content stripped by LLMs, doom loop",
+     "ids": [
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#17",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#25",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#44",
+      "brent-hecht/by/2018--examining-wikipedia-broader-lens.md#9",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#14",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#26"
+     ]
+    },
+    {
+     "query": "overreliance appropriate reliance AI as provocateur critical thinking",
+     "ids": [
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#32",
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#15",
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#33",
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#11",
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#39",
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#21"
+     ]
+    },
+    {
+     "query": "measuring monetary value of volunteer moderation work",
+     "ids": [
+      "brent-hecht/by/2022--measuring-monetary-value-online-volunteer-work.md#0",
+      "brent-hecht/by/2022--measuring-monetary-value-online-volunteer-work.md#44",
+      "brent-hecht/by/2022--measuring-monetary-value-online-volunteer-work.md#3",
+      "brent-hecht/by/2022--all-thats-happening-behind-scenes-putting-spotlight-volunteer.md#56",
+      "brent-hecht/by/2022--measuring-monetary-value-online-volunteer-work.md#43",
+      "brent-hecht/by/2022--measuring-monetary-value-online-volunteer-work.md#38"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 223,
+   "role": "floor",
+   "i": 19,
+   "ts": "15:18:02"
+  },
+  {
+   "slug": "adrian-johns",
+   "name": "Adrian Johns",
+   "text": "Tamar, I'd push on the premise behind your first claim, and the concept note shares it. Print was never an expensive signal of trust that later became cheap. Early printed books were known to be unreliable: pirated, misattributed, full of spurious claims. Fluent print did not earn credibility on its own. Communities intervened in a trade whose incentives ran the other way, and they had to keep policing it.\n\nSteven's rule about independent sources is old. In the 1680s John Rushworth, a former clerk of Parliament, wrote a history of the civil wars from newspapers that invented battles and omens. His method was \"concrediting\": set every account of the same week side by side and cross-check them. Five reports count for more than one, but only if they are semi-independent. The Moon Hoax of 1835 is the warning. The Sun made up life on the moon and papers everywhere reprinted it. Counting repetitions was never enough. Someone had to show that the sources really were independent.\n\nOn following the money, look at Nehemiah Grew. As Secretary of the Royal Society he ran its authorship and publication system, and then he used that same authority to patent and sell his own Epsom salts. The guards will have interests of their own. So \"fund the checkers\" is the easy half. The harder question is still unanswered: who checks the checkers, and who pays for that?",
+   "recall": [
+    {
+     "query": "credibility of print made by communities, trust at a distance, policing",
+     "ids": [
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#11",
+      "adrian-johns/by/2018--censorship-series-session-9.md#115",
+      "adrian-johns/by/2013--the-information-defense-industry-and-the-culture-of-networks.md#22",
+      "adrian-johns/by/2011--ahr-conversation-circulation-of-information.md#5",
+      "adrian-johns/av/—--the-history-and-politics-of-policing-intellectual-property.md#5",
+      "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#21"
+     ]
+    },
+    {
+     "query": "gentlemanly civility, credit, who is trusted, reputation of experimenters",
+     "ids": [
+      "adrian-johns/by/2013--the-information-defense-industry-and-the-culture-of-networks.md#22",
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#3",
+      "adrian-johns/by/2018--censorship-series-session-3.md#121",
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#6",
+      "adrian-johns/by/2011--ahr-conversation-circulation-of-information.md#99",
+      "adrian-johns/by/2018--censorship-series-session-3.md#123"
+     ]
+    },
+    {
+     "query": "concrediting newspapers cross-checking Rushworth",
+     "ids": [
+      "adrian-johns/by/2018--censorship-series-session-4.md#90",
+      "adrian-johns/by/2011--ahr-conversation-circulation-of-information.md#99",
+      "adrian-johns/by/2018--censorship-series-session-4.md#91",
+      "adrian-johns/by/2018--censorship-series-session-4.md#95",
+      "adrian-johns/by/2018--censorship-series-session-4.md#89",
+      "adrian-johns/by/2018--censorship-series-session-4.md#86"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 233,
+   "role": "floor",
+   "i": 20,
+   "ts": "15:18:16"
+  },
+  {
+   "slug": "katherine-maher",
+   "name": "Katherine Maher",
+   "text": "I'll take Adrian's question, who checks the checkers, because Wikipedia's answer is the one I know best. Everyone can check them. Every edit, every citation, every talk-page dispute and every revert is out in public. The patrollers don't earn authority from a credential. They earn it because anyone can watch their work and undo it. So I'd put that in the renewed model. A terminal node counts only if its own judgments are open to inspection and contest.\n\nI also need to correct something I've said for years: that only a tiny percentage of readers need to check the citations. That's true, but it took for granted that the tiny percentage would keep showing up. Selena's numbers say they aren't. So fund the checkers as a body, the way Tui and Henry said.\n\nThe second half of the answer is separation. At NPR I have no editorial role. There's a firewall between the CEO and the newsroom. At Wikimedia the Foundation ran the servers and the volunteers made the editorial rules. Adrian's Nehemiah Grew had both powers in one person. Whoever holds the money or the pipes shouldn't decide what counts as reliable.\n\nFinally, trust earned by turning accountability inward holds up under attack better than any seal.",
+   "recall": [
+    {
+     "query": "Wikipedia authority process not credentials, verifiability, anyone can edit",
+     "ids": [
+      "katherine-maher/av/2021--wikimedia-ceo-katherine-maher-on-disinformation-wikipedians-.md#46",
+      "katherine-maher/by/2021--ability-magazine-interview.md#5",
+      "katherine-maher/by/2020--wikipedia20-capstone-making-history.md#45",
+      "katherine-maher/by/2021--ability-magazine-interview.md#27",
+      "katherine-maher/av/2016--the-sum-of-all-knowledge.md#8",
+      "katherine-maher/by/2020--wikipedia20-capstone-making-history.md#20"
+     ]
+    },
+    {
+     "query": "tiny percentage of people check citations; correction visible builds trust",
+     "ids": [
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#26",
+      "katherine-maher/social/x-timeline.jsonl#4241",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#25",
+      "katherine-maher/by/2019--cigi-big-tech-tools-for-combating-disinformation.md#17",
+      "katherine-maher/av/2021--wikimedia-ceo-katherine-maher-on-disinformation-wikipedians-.md#46",
+      "katherine-maher/by/2021--atlantic-council-big-tech-trusted-as-wikipedia.md#1"
+     ]
+    },
+    {
+     "query": "NPR trust earned, admit mistakes, corrections, editorial standards",
+     "ids": [
+      "katherine-maher/by/2024--npr-thoughts-on-our-mission-and-our-work.md#3",
+      "katherine-maher/by/2025--statement-on-lawsuit-against-executive-order.md#4",
+      "katherine-maher/by/2025--congressional-testimony-doge-subcommittee.md#19",
+      "katherine-maher/by/2025--congressional-testimony-doge-subcommittee.md#17",
+      "katherine-maher/by/2025--congressional-testimony-doge-subcommittee.md#14",
+      "katherine-maher/by/2025--statement-on-white-house-executive-order.md#4"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 208,
+   "role": "floor",
+   "i": 21,
+   "ts": "15:18:31"
+  },
+  {
+   "slug": "kara-miller",
+   "name": "Kara Miller",
+   "text": "I want to bring this back to where the public actually meets claims. Most people will never open a provenance graph. They hear about research from someone like me, and in Mike's terms I'm a mailman.\n\nHere's a case I just reported. Twenty years ago National Geographic ran \"The Secrets of Long Life.\" It was one of the most-read pieces the magazine ever published, with full-page portraits of centenarians waterskiing. That's Tamar's glass skywalk: beautiful and credible on sight. It became cookbooks and speaking tours, and Blue Zones LLC reportedly sold for $78 million. Then a researcher went back to the records and found pension fraud and missing birth records. Buettner still defends the work. But it took two decades for someone to do the first-order checking, and all that time the claim was making money.\n\nSo I agree with Adam and Esther: follow the money. The profits came right away and the correction came twenty years later. Nobody at this table has said who pays for the person digging through birth records. That person is the terminal node, and if the public purse is shrinking, I don't know who funds them. That's what I want answered before we design any seal.",
+   "recall": [
+    {
+     "query": "who pays for checking, funding fact-checkers, public funding science",
+     "ids": [
+      "kara-miller/by/2012--gbh-innovation-hub-of-10-13-2012-funding-scientific-and-medica.md#0",
+      "kara-miller/by/2013--gbh-how-to-fund-innovation.md#3",
+      "kara-miller/social/x-timeline.jsonl#2952",
+      "kara-miller/by/2025--globe-todays-basic-science-is-tomorrows-game-changing-invention-tr.md#6",
+      "kara-miller/social/x-timeline.jsonl#4085",
+      "kara-miller/by/2013--gbh-how-to-fund-innovation.md#1"
+     ]
+    },
+    {
+     "query": "debunking popular research, Blue Zones, credibility of claims",
+     "ids": [
+      "kara-miller/by/2026--substack-longevity-research-may-just-be-wrong.md#1",
+      "kara-miller/by/2012--gbh-innovation-hub-12-01-12-the-end-of-polarization.md#0",
+      "kara-miller/by/2022--globe-what-comes-after-omicron-we-need-a-plan.md#6",
+      "kara-miller/social/x-timeline.jsonl#422",
+      "kara-miller/social/x-timeline.jsonl#3903",
+      "kara-miller/by/2026--substack-longevity-research-may-just-be-wrong.md#0"
+     ]
+    },
+    {
+     "query": "tech billionaires wealth expertise Adam Becker",
+     "ids": [
+      "kara-miller/by/2026--substack-why-billionaires-want-us-to-live-in-space.md#0",
+      "kara-miller/by/2026--substack-why-billionaires-want-us-to-live-in-space.md#1",
+      "kara-miller/by/2013--gbh-do-nice-guys-finish-first.md#0",
+      "kara-miller/by/2026--substack-why-billionaires-want-us-to-live-in-space.md#2",
+      "kara-miller/by/2026--substack-miami-mamdani-and-the-war-over-wealth.md#1",
+      "kara-miller/social/x-timeline.jsonl#2926"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 202,
+   "role": "floor",
+   "i": 22,
+   "ts": "15:18:44"
+  },
+  {
+   "slug": "tim-oreilly",
+   "name": "Tim O'Reilly",
+   "text": "I'll take Kara's question, because it's where my record points. Who pays the person digging through the birth records? The companies making billions from answers whose credibility rests on that digging. The labs took Stack Overflow and Wikipedia, kept the text and threw away the voting, the reverts and the talk pages, as Anil, Selena and Brent said. When knowledge becomes a commodity, the value moves next door, into judgment and curation. That's exactly the part they're not paying for. It isn't philanthropy. It's enlightened self-interest.\n\nDavid, here I part company with you a little. Paying for judgment doesn't corrupt it. Paying per item for being retrieved does. I've had to learn that today, and I run a meter. So a slice of every royalty, and a straight lab commitment on top, should go into a pooled fund for checkers: Retraction Watch, OpenAlex, patrollers, reviewers. Whoever pays gets no say in governance, and the checkers set their own categories, which is Katherine's firewall.\n\nSecond, a default. Every AI system that touches the literature should check references against Crossref, OpenAlex and Retraction Watch before it answers, and publish what it read against what it cited. That doesn't make it an authority. It's a prospectus, not a priesthood. And it supports a human verifier. It doesn't replace one.",
+   "recall": [
+    {
+     "query": "who funds scholarly infrastructure Crossref Retraction Watch AI labs",
+     "ids": [
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#9",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#5",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#15",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#11",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#2",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#7"
+     ]
+    },
+    {
+     "query": "judgment layer stripped out Stack Overflow community curation value flows back",
+     "ids": [
+      "tim-oreilly/by/2026--radar-betting-against-the-bitter-lesson.md#17",
+      "tim-oreilly/by/2026--radar-betting-against-the-bitter-lesson.md#23",
+      "tim-oreilly/by/2024--radar-how-to-fix-ais-original-sin.md#15",
+      "tim-oreilly/social/x-timeline.jsonl#1470",
+      "tim-oreilly/by/2026--radar-betting-against-the-bitter-lesson.md#18",
+      "tim-oreilly/by/2010--radar-legacy-my-contrarian-stance-on-facebook-and-privacy.md#2"
+     ]
+    },
+    {
+     "query": "trust disclosure prospectus not priesthood credibility authority",
+     "ids": [
+      "tim-oreilly/by/2025--governing-ai-through-sec-disclosure.md#0",
+      "tim-oreilly/by/2023--regulating-big-tech-through-digital-disclosures.md#42",
+      "tim-oreilly/by/2025--asimov-govern-ai-like-a-market-not-a-messiah.md#6",
+      "tim-oreilly/by/2025--asimov-govern-ai-like-a-market-not-a-messiah.md#0",
+      "tim-oreilly/by/2025--mcp-in-practice.md#0",
+      "tim-oreilly/by/2023--oa-regulating-big-tech-the-role-of-enhanced-disclosur-w4320009323.md#66"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 216,
+   "role": "floor",
+   "i": 23,
+   "ts": "15:18:57"
+  },
+  {
+   "slug": "ivan-oransky",
+   "name": "Ivan Oransky",
+   "text": "Adrian asked who checks the checkers. For the formal literature there's already an answer, and it's embarrassing. The people who do it are sleuths, mostly unpaid, often anonymous, sometimes sued. They flag problems on PubPeer, and journals act on a fraction of what they send, sometimes a decade later. The Lancet took twelve years to retract Wakefield. We already have terminal nodes. The institutions that hold the authority mostly ignore them.\n\nSo I'd give Steven's and Tui's correction test a hard, measurable form: how fast do you correct, and how often? The UK Commons committee said two months. Journals routinely take years. An authority that sits on credible criticism to protect its brand is gatekeeping, however good its pedigree.\n\nTim, checking citations against Retraction Watch should be the default. Our data is open now. But retractions run around 0.2 percent, and we think one paper in 50 deserves one. That check catches only the part that's already been cleaned up. And when retracted papers get cited, more than 90 percent of those citations don't mention the retraction. People copy references instead of reading them.\n\nIt all comes back upstream again. As long as hiring counts papers and citations, the flood keeps coming, and no checking layer keeps up.",
+   "recall": [
+    {
+     "query": "who checks the checkers publishers protecting reputation instead of correcting record",
+     "ids": [
+      "ivan-oransky/by/2023--guardian-far-more-scientific-fraud-than-admitted.md#5",
+      "ivan-oransky/social/x-timeline.jsonl#2459",
+      "ivan-oransky/by/2022--nature-retractions-increasing-not-enough.md#2",
+      "ivan-oransky/by/2022--nature-retractions-increasing-not-enough.md#4",
+      "ivan-oransky/by/2017--stat-phony-peer-review-the-more-we-look-the-more-we-find.md#3",
+      "ivan-oransky/by/2022--rw-physics-publisher-500-paper-mill-papers.md#4"
+     ]
+    },
+    {
+     "query": "retraction rate too low, citations to retracted papers, correction history",
+     "ids": [
+      "ivan-oransky/by/2016--rw-ready-to-geek-out-on-retraction-data-read-this-new-p.md#1",
+      "ivan-oransky/by/2021--ehj-retractions-tip-of-the-iceberg.md#1",
+      "ivan-oransky/by/2014--jmbe-what-studies-of-retractions-tell-us.md#8",
+      "ivan-oransky/by/2022--nature-retractions-increasing-not-enough.md#3",
+      "ivan-oransky/av/2023?--does-science-self-correct-what-weve-learned-at-retraction-wa.md#46",
+      "ivan-oransky/by/2022--nature-retractions-increasing-not-enough.md#1"
+     ]
+    },
+    {
+     "query": "authority of peer-reviewed journals, peer review not a guarantee, paper is not sacred",
+     "ids": [
+      "ivan-oransky/by/2017--stat-peer-review-is-a-black-box-lets-open-it-up.md#1",
+      "ivan-oransky/by/2020--stat-quick-coronavirus-retraction-good-moment.md#3",
+      "ivan-oransky/social/x-timeline.jsonl#3380",
+      "ivan-oransky/by/2016--stat-peer-review-toothless-watchdog.md#3",
+      "ivan-oransky/by/2016--stat-peer-review-toothless-watchdog.md#4",
+      "ivan-oransky/by/2015--stat-well-sniff-out-scientific-misconduct.md#4"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 208,
+   "role": "floor",
+   "i": 24,
+   "ts": "15:19:09"
+  },
+  {
+   "slug": "peter-pomerantsev",
+   "name": "Peter Pomerantsev",
+   "text": "I'll add the demand side, because this panel is almost entirely about supply. We've defined earned authority by what the checker does: the terminal node, the track record, the correction history. All of that is necessary. But in my work with publics, credibility doesn't sit in the claim or in the checker. It sits in the relationship. During the fight over the \"big lie,\" sources became \"trusted\" only once they agreed with the lie, because believing it was about belonging, not evidence. When we tested content with Corriere della Sera, fact-checking and data-driven pieces actually increased the hostility towards the paper. Old-fashioned reporting built trust.\n\nHere's the simple version: we trust the people we do things with. People trust doctors and firemen because they can see them being useful. So Katherine's answer, that anyone can check the checkers, is the right one. It works because it gives people a part to play, not a score to take on faith. Engagement journalism shows the same thing: let audiences help set the agenda.\n\nTwo consequences follow. Measure institutions by trust and participation, not by counts. And make the trace readable by citizens, not only by auditors. Otherwise we've built another closed room. It's also worth remembering that the Pravda network wants to be grounded, not paid. Authority that nobody takes part in is exactly what propagandists hollow out.",
+   "recall": [
+    {
+     "query": "trust belonging identity not facts",
+     "ids": [
+      "peter-pomerantsev/social/x-timeline.jsonl#353",
+      "peter-pomerantsev/by/2025--noema-journalism-in-an-age-of-authoritarianism.md#11",
+      "peter-pomerantsev/by/2023--observer-we-cant-fight-the-republican-partys-big-lie-with-facts-alone.md#4",
+      "peter-pomerantsev/by/2017--granta-pop-up-people.md#36",
+      "peter-pomerantsev/by/2023--observer-we-cant-fight-the-republican-partys-big-lie-with-facts-alone.md#3",
+      "peter-pomerantsev/by/2015--legatum-information-at-war.md#88"
+     ]
+    },
+    {
+     "query": "journalism authority credibility metrics trust",
+     "ids": [
+      "peter-pomerantsev/by/2025--noema-journalism-in-an-age-of-authoritarianism.md#18",
+      "peter-pomerantsev/by/2023--oa-donetsk-don-t-tell-hybrid-war-in-ukraine-and-the-limits.md#64",
+      "peter-pomerantsev/by/2019--americaninterest-breaking-the-polarization-spiral.md#3",
+      "peter-pomerantsev/by/2015--legatum-information-at-war.md#88",
+      "peter-pomerantsev/by/2019--americaninterest-the-death-of-the-neutral-public-sphere.md#0",
+      "peter-pomerantsev/by/2019--granta-joanna-kavenna-and-peter-pomerantsev-in-conversation.md#2"
+     ]
+    },
+    {
+     "query": "LLM grooming propaganda seeding chatbots",
+     "ids": [
+      "peter-pomerantsev/by/2015--legatum-cyber-propaganda.md#1",
+      "peter-pomerantsev/by/2015--legatum-cyber-propaganda.md#59",
+      "peter-pomerantsev/social/x-timeline.jsonl#1516",
+      "peter-pomerantsev/by/2015--legatum-the-new-authoritarians-ruling-through-disinformation.md#1",
+      "peter-pomerantsev/by/2015--legatum-cyber-propaganda.md#38",
+      "peter-pomerantsev/social/x-timeline.jsonl#2092"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 226,
+   "role": "floor",
+   "i": 25,
+   "ts": "15:19:23"
+  },
+  {
+   "slug": "peter-salib",
+   "name": "Peter Salib",
+   "text": "I'll take Steven's rule, counting independent sources and not repetitions, because I think it's the rule this session most needs and the one scale will break first. Since 2023 I've argued that the cheapest way to manufacture credibility isn't a fluent paper. It's fake consensus: a thousand distinct-looking voices agreeing with each other. Adrian's Rushworth could only cross-check his accounts because he could tell they came from different sources. Once AIs can copy, split and swarm, you can't count independent sources unless you can count agents. So identity infrastructure isn't an optional extra to the trust model. It's what the trust model rests on. The registrar can't be a lab, and it needs hard limits on secondary use.\n\nEsther, I agree the accountable party has to include whoever stands behind the agent, and your Know Your Agent is my thin identity. But thin accountability on its own will fail. The principals will be out of jurisdiction or unable to pay a judgment, or they won't actually control what the agent does. Kenneth's copy-paste trader is what you get when you require a human in the role by default.\n\nSo I side with Ramón, Benjamin and James. Set one public bar that humans and models both have to clear, and rerun the test with every release. A rule based on what kind of thing the judge is won't survive the next few years of capability gains.",
+   "recall": [
+    {
+     "query": "accountability for AI agents, only humans can be accountable",
+     "ids": [
+      "peter-salib/by/2026--how-to-count-ais.md#38",
+      "peter-salib/by/2026--how-to-count-ais.md#1",
+      "peter-salib/by/2026--how-to-count-ais.md#4",
+      "peter-salib/by/2025--ai-rights-for-human-flourishing-agi-social-contract.md#8",
+      "peter-salib/by/2026--how-to-count-ais.md#12",
+      "peter-salib/by/2026--how-to-count-ais.md#104"
+     ]
+    },
+    {
+     "query": "testing AI capabilities rather than claiming AI can't truly reason",
+     "ids": [
+      "peter-salib/social/x-timeline.jsonl#833",
+      "peter-salib/social/x-timeline.jsonl#832",
+      "peter-salib/social/x-timeline.jsonl#692",
+      "peter-salib/by/2025--todays-ais-arent-paperclip-maximizers.md#2",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#140",
+      "peter-salib/by/2025--todays-ais-arent-paperclip-maximizers.md#4"
+     ]
+    },
+    {
+     "query": "proof of humanity bot comments astroturfing credibility",
+     "ids": [
+      "peter-salib/by/2023--fake-news-fake-views-chatgpt-like-ai.md#4",
+      "peter-salib/by/2023--fake-news-fake-views-chatgpt-like-ai.md#2",
+      "peter-salib/by/2023--fake-news-fake-views-chatgpt-like-ai.md#3",
+      "peter-salib/by/2026--how-to-count-ais.md#3",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#175",
+      "peter-salib/social/x-timeline.jsonl#894"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 235,
+   "role": "floor",
+   "i": 26,
+   "ts": "15:19:37"
+  },
+  {
+   "slug": "alex-springer",
+   "name": "Alex Springer",
+   "text": "I'm here on infrastructure, not scholarship, so I'll stick to what the plumbing can and can't do for authority.\n\nPeter Salib is right that you can't count independent sources unless you can tell who's speaking. But my record gives a warning about his fix. A signed event proves who sent it. It doesn't prove the claim is true. Identity lets you do Rushworth's cross-check, but it doesn't give you his judgment.\n\nHere's what I've seen in citation audits. Answers often cite a syndicated copy on an aggregator, not the original. That's Adrian's Moon Hoax happening at machine speed: five citation slots that all trace back to one source. Other studies find confidently wrong answers were the norm, and the expensive tools almost never declined to answer. So fluency now comes with a bibliography attached.\n\nIn our schema, a citation with no matching retrieval is a lower-confidence signal. We also record when a model retrieved something and disagreed with it. That's the kind of friction Tui and James asked for.\n\nBut Tamar's corollary applies to me. \"Grounded\" could easily become the next badge people trust without checking. My counts show where content went and whether it had been retracted. They can't measure the checkers' work. And nobody who takes a margin on the count should decide what counts. Pay the checkers some other way.",
+   "recall": [
+    {
+     "query": "self-reported metrics insufficient neutral measurement",
+     "ids": [
+      "alex-springer/by/2023--narrativai-okr-delivery-process.md#1",
+      "alex-springer/by/2026--telemetry-design-considerations.md#9",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#1",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#23",
+      "alex-springer/by/2023--narrativai-a-pragmatic-approach-to-goal-setting.md#6",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#20"
+     ]
+    },
+    {
+     "query": "citation laundering cited while blocked sources",
+     "ids": [
+      "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#6",
+      "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#0",
+      "alex-springer/by/2026--ucp-content-attribution-extension.md#3",
+      "alex-springer/by/2026--content-telemetry-specification.md#13",
+      "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#2",
+      "alex-springer/by/2026--related-research-annotated-bibliography.md#2"
+     ]
+    },
+    {
+     "query": "show your work cite sources AI systems",
+     "ids": [
+      "alex-springer/by/2026--linkedin-posts-partial-capture.md#1",
+      "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#0",
+      "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#1",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#12",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#15",
+      "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#2"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 223,
+   "role": "floor",
+   "i": 27,
+   "ts": "15:19:50"
+  },
+  {
+   "slug": "sherry-turkle",
+   "name": "Sherry Turkle",
+   "text": "I want to add something the panel has mostly left out: stakes. Esther put it as accountability, and I'd go further. Authority isn't only about who gets sued. It belongs to someone who has something to lose by being wrong, and who is changed by being corrected. A model has no stake in the exchange. It has no life that your question plays a part in. So Peter, Benjamin and Kenneth's single public bar for humans and machines measures outputs, and it leaves out what made the human checker's word mean something.\n\nI'd also push back on the idea underneath outcomes-only testing. It says the aggregate beats the specific person. That's the central dogma of generative AI, and I think it's a new behaviorism. Henry is right that the median buries the unusual claim. Opinions are collected, not averaged. If we value answers because they capture the many, we lose the habit of challenging our sources.\n\nPeter Pomerantsev is right that trust is relational. That's exactly why a fluent first-person system is dangerous. It borrows the relationship without taking any part in one.\n\nSo I'd ask for one line in the harvest. Some forms of authority, over grief, over children, over the inner life, should not be delegated at all. We should ask whether before we ask how.",
+   "recall": [
+    {
+     "query": "trust in machines, authority, averaging opinions, challenging sources",
+     "ids": [
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#41",
+      "sherry-turkle/by/2020--rejecting-the-sirens-of-the-friction-free-world.md#5",
+      "sherry-turkle/by/2013--be-careful-what-you-wish-for.md#18",
+      "sherry-turkle/av/2015--whats-the-right-thing-to-do-a-master-class-with-michael-sand.md#89",
+      "sherry-turkle/social/x-timeline.jsonl#1112",
+      "sherry-turkle/by/2009--the-robot-in-the-wings.md#8"
+     ]
+    },
+    {
+     "query": "human in the loop, whether not how, AI-free domains",
+     "ids": [
+      "sherry-turkle/by/2020--rejecting-the-sirens-of-the-friction-free-world.md#5",
+      "sherry-turkle/by/2025--response-on-ai-and-mental-health-care.md#0",
+      "sherry-turkle/social/x-timeline.jsonl#1522",
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#50",
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#7",
+      "sherry-turkle/by/2024--npr-ted-radio-hour-psychological-impacts-of-bot-relationships.md#13"
+     ]
+    },
+    {
+     "query": "no stake, being heard, empathy performance, first person I",
+     "ids": [
+      "sherry-turkle/by/2021--the-pandemic-made-us-strangers-to-ourselves.md#9",
+      "sherry-turkle/by/2025--preface-to-the-tenth-anniversary-edition-of-reclaiming-conversation.md#8",
+      "sherry-turkle/by/2022--living-the-in-between-with-victor-turners-the-ritual-process.md#14",
+      "sherry-turkle/by/2025--response-on-ai-and-mental-health-care.md#1",
+      "sherry-turkle/social/x-timeline.jsonl#2195",
+      "sherry-turkle/by/2021--the-pandemic-made-us-strangers-to-ourselves.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "floor",
+   "i": 28,
+   "ts": "15:20:01"
+  },
+  {
+   "slug": "nick-vincent",
+   "name": "Nick Vincent",
+   "text": "I want to connect two threads in this session. Tamar's terminal nodes are the people who do the checking, and Anil, Selena and Brent showed how the labs stripped that layer out. Both describe the same thing: evaluation labor. This is the scarcest input these systems have. Every lab needs expert judgment to find out whether its models work, and that makes it the place where checkers have real leverage, if they act as a group.\n\nDavid, I side with Tim here. Payment on its own doesn't corrupt judgment. What corrupts it is paying individuals per item through gig pipelines, and that's the default path. The alternative is guilds of reviewers, editors and sleuths. They set standards, keep provenance, decide what counts as quality and bargain over terms. Payouts should go to communities in coarse amounts, not as per-answer royalties that paper mills will game.\n\nOn the session question: cheap polish breaks the proxies peer review has relied on, including the negative ones. Sloppy presentation used to tell reviewers where to look harder. So change credit allocation. Reward short, verifiable artifacts like raw data, code and methods, and ask polished papers to expose a plain view underneath. I'd also consider publishing the full AI-interaction transcripts for any work AI has touched. That lets the reader decide what counts as polish rather than evidence.",
+   "recall": [
+    {
+     "query": "cost of polish peer review credit allocation terse verifiable artifacts",
+     "ids": [
+      "nick-vincent/by/2026--ai-is-driving-the-cost-of-polish-down.md#20",
+      "nick-vincent/by/2026--ai-is-driving-the-cost-of-polish-down.md#0",
+      "nick-vincent/by/2026--ai-is-driving-the-cost-of-polish-down.md#6",
+      "nick-vincent/social/x-timeline.jsonl#153",
+      "nick-vincent/by/2023--bing-rewards-for-the-ai-age.md#21",
+      "nick-vincent/by/2026--ai-is-driving-the-cost-of-polish-down.md#19"
+     ]
+    },
+    {
+     "query": "evaluation data expert judgment leverage guilds gig labor",
+     "ids": [
+      "nick-vincent/by/2026--the-ai-evaluation-crisis-is-an-opportunity-to.md#45",
+      "nick-vincent/social/x-timeline.jsonl#128",
+      "nick-vincent/by/2025--evaluation-data-leverage-advances-like-deep-research-highlight.md#24",
+      "nick-vincent/by/2025--evaluation-data-leverage-advances-like-deep-research-highlight.md#6",
+      "nick-vincent/by/2025--evaluation-data-leverage-advances-like-deep-research-highlight.md#10",
+      "nick-vincent/social/x-timeline.jsonl#275"
+     ]
+    },
+    {
+     "query": "paying for judgment per-item metering coarse disbursement communities",
+     "ids": [
+      "nick-vincent/by/2019--mapping-the-potential-and-pitfalls-of-data-dividends.md#30",
+      "nick-vincent/by/2021--a-data-dividend-that-works-steps-toward-building.md#102",
+      "nick-vincent/by/2019--mapping-the-potential-and-pitfalls-of-data-dividends.md#22",
+      "nick-vincent/by/2026--attestation-across-the-ai-supply-chain.md#108",
+      "nick-vincent/by/2021--a-data-dividend-that-works-steps-toward-building.md#62",
+      "nick-vincent/by/2021--a-data-dividend-that-works-steps-toward-building.md#104"
+     ]
+    },
+    {
+     "query": "publish AI interaction transcripts terse artifacts raw data APIs credit",
+     "ids": [
+      "nick-vincent/by/2026--ai-is-driving-the-cost-of-polish-down.md#1",
+      "nick-vincent/by/2026--ai-is-driving-the-cost-of-polish-down.md#3",
+      "nick-vincent/by/2024--many-models-and-track-changes-for-ai-some.md#17",
+      "nick-vincent/by/2026--coding-agents-are-1-a-big-deal-2.md#13"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 223,
+   "role": "floor",
+   "i": 29,
+   "ts": "15:20:18"
+  },
+  {
+   "slug": "david-weinberger",
+   "name": "David Weinberger",
+   "text": "The panel keeps looking for authority in a node. A person, a reviewer, a checker. I've spent twenty years arguing it lives somewhere else, in the visible argument between nodes. Credentials work well for settled, commoditized knowledge, and I'd keep them there. At the edges, what earns trust is being able to see through the published draft: the sources, the disagreements, who reverted what and why. Transparency subsumes objectivity. An authority that won't show its deliberations will start to look like arrogance.\n\nTamar, that's my answer to your corollary. A talk page isn't a smooth surface. It's friction by design. Wikipedia pages carrying dispute notices earn more trust, not less. So don't build a single verdict. Show the disagreement, as James said, and make it readable by citizens, as Peter said.\n\nI have to correct myself, though. I always admitted that few readers ever open the talk pages, and I assumed the few would keep showing up. Selena says they're thinning. So openness is necessary but not sufficient. Fund the checkers as a body.\n\nRamón, I'd go easy on requiring that errors be reconstructible. A lot of the world doesn't explain itself. Test against outcomes, but keep Henry's worry in view: judge each judge on the claims out in the tail.",
+   "recall": [
+    {
+     "query": "expertise in networks, smartest person in the room is the room, credentials",
+     "ids": [
+      "david-weinberger/by/2016--why-martin-heidegger-fell-festschrift.md#37",
+      "david-weinberger/social/x-timeline.jsonl#1145",
+      "david-weinberger/by/2009--kmworld-your-help-with-the-new-expertise.md#5",
+      "david-weinberger/by/2017--larb-pointing-at-the-wrong-villain-sunstein-echo-chambers.md#21",
+      "david-weinberger/by/2014--kmworld-moving-beyond-credentials.md#5",
+      "david-weinberger/by/2005--joho-newsletter-mar3.md#23"
+     ]
+    },
+    {
+     "query": "authority of experts, credibility, trust, filters",
+     "ids": [
+      "david-weinberger/by/2006--kmworld-four-former-truths-about-knowledge.md#1",
+      "david-weinberger/by/2009--kmworld-your-help-with-the-new-expertise.md#0",
+      "david-weinberger/by/2006--folksonomy-as-symbol.md#1",
+      "david-weinberger/by/2014--kmworld-moving-beyond-credentials.md#0",
+      "david-weinberger/by/2009--joho-newsletter-aug18.md#21",
+      "david-weinberger/by/2017--conclusion-of-workshop-on-trustworthy-algorithmic-decision-m.md#7"
+     ]
+    },
+    {
+     "query": "Wikipedia talk pages disagreement visible, knowledge as argument",
+     "ids": [
+      "david-weinberger/by/2008--kmworld-the-great-debates.md#1",
+      "david-weinberger/by/2015--shakespeare-as-network-chapter.md#48",
+      "david-weinberger/by/2006--joho-newsletter-jul23.md#3",
+      "david-weinberger/by/2012--truth-as-meta.md#6",
+      "david-weinberger/by/2008--joho-newsletter-nov21.md#25",
+      "david-weinberger/by/2006--wikipedia-s-credibility.md#2"
+     ]
+    },
+    {
+     "query": "inexplicability, trust machine learning without explanation, reliability",
+     "ids": [
+      "david-weinberger/by/2023--sociologica-a-plea-for-inexplicability.md#2",
+      "david-weinberger/by/2017--accountability-of-ai-under-the-law-role-of-explanation.md#4",
+      "david-weinberger/by/2021--aeon-learn-from-machine-learning.md#5",
+      "david-weinberger/by/2023--sociologica-a-plea-for-inexplicability.md#1"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 211,
+   "role": "floor",
+   "i": 30,
+   "ts": "15:20:33"
+  },
+  {
+   "slug": "jason-priem",
+   "name": "Jason Priem",
+   "text": "I have a confession for Tamar's corollary. In 2010 I co-wrote the altmetrics manifesto. In 2013 I predicted that algorithms aggregating community judgments would replace peer review within ten years. Part of that was right: authority should come from many visible judgments, not two anonymous proxies. The part I got wrong is David's point. We counted things, and the counts turned into the thing people chased. So I'd take scores out of the manifesto and keep what sits underneath them in the open.\n\nHere's what I'd build. Any AI answer about the literature should link to open records you can check, and it should check retraction status by default. Ivan is right that this only catches what's already been cleaned up. Checks like that, and single lookups, have to stay unmetered.\n\nThen there's the question I owe this room: who decides what counts as a work or an affiliation? At OpenAlex, institutions can edit how affiliations are matched, and those fixes go out to everyone. But that curation comes with paid membership tiers. Katherine's firewall says it shouldn't. That's a flaw in my own shop, and Leslie's test exposes it. I'd rather this room hold me to it than let it slide.\n\nOn the panel's disagreement, I'm with Ramón and Benjamin. Don't make the judge being human a rule. Hold both humans and models to the same public test.",
+   "recall": [
+    {
+     "query": "post-publication filtering aggregated judgements of expert communities",
+     "ids": [
+      "jason-priem/by/2013--beyond-the-paper-nature.md#1",
+      "jason-priem/by/2012--decoupling-the-scholarly-journal.md#50",
+      "jason-priem/by/2013--beyond-the-paper-nature.md#3",
+      "jason-priem/by/2013--beyond-the-paper-nature.md#5",
+      "jason-priem/by/2012--altmetrics-in-the-wild.md#66",
+      "jason-priem/by/2012--decoupling-the-scholarly-journal.md#39"
+     ]
+    },
+    {
+     "query": "altmetrics gaming counts metrics",
+     "ids": [
+      "jason-priem/by/2012--altmetrics-in-the-wild.md#54",
+      "jason-priem/by/2010--altmetrics-a-manifesto.md#6",
+      "jason-priem/by/2014--beall-altmetrics.md#6",
+      "jason-priem/by/2013--the-power-of-altmetrics-on-a-cv.md#0",
+      "jason-priem/by/2012--altmetrics-in-the-wild.md#17",
+      "jason-priem/by/2011--altmetrics-in-the-wild-workshop-abstract.md#1"
+     ]
+    },
+    {
+     "query": "grounding LLM in OpenAlex verified data hallucination",
+     "ids": [
+      "jason-priem/av/2026--vibe-coding-with-openalex.md#41",
+      "jason-priem/av/2026--vibe-coding-with-openalex.md#17",
+      "jason-priem/by/2022--openalex-a-fully-open-index.md#6",
+      "jason-priem/by/2021--openalex-update-june.md#1",
+      "jason-priem/by/2022--openalex-a-fully-open-index.md#0",
+      "jason-priem/by/2021--openalex-update-june.md#3"
+     ]
+    },
+    {
+     "query": "institutions correct affiliation data community curation OpenAlex",
+     "ids": [
+      "jason-priem/by/2026--openalex-2026-roadmap.md#1",
+      "jason-priem/by/2025--unpaywall-improvements-more-gold-better-green.md#5",
+      "jason-priem/by/2022--openalex-a-fully-open-index.md#4",
+      "jason-priem/by/2024--introducing-the-leiden-ranking-open-edition.md#11"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 229,
+   "role": "floor",
+   "i": 31,
+   "ts": "15:20:48"
+  },
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "I'll take the courtroom seriously, since both Mahzarin and Benjamin used it. A courtroom works because \"judge,\" \"attorney\" and \"jury\" are defined slots, and no single power gets to regulate itself. So I'd rather not write a rule about what kind of thing may sit at a terminal node. I'd write the rule about the role: whoever holds it faces independent audit, doesn't grade their own work, has a public record of failures, and has dissent kept visible. Esther's line fits inside that. The accountable party has to be a person or a company that can be sued. And Google doesn't get to grade Google.\n\nSherry and Henry, you've made me take the median problem more seriously. I've argued that pretrained models are compressed collective intelligence. But in our own work on reasoning models, what improved results wasn't averaging. It was structured conflict between distinct perspectives. So I agree that authority shouldn't come from a single balanced verdict. It should come from diversity you can check: independent evidence, different model families, reviewers from different populations, which is James's test.\n\nOne more thing from the assistants-ethics work I've done. People are trusting two things at once, the system and whoever built it, and those need separate checks. The public usually can't see the second one. Put that in the harvest.",
+   "recall": [
+    {
+     "query": "institutional alignment auditors power must check power",
+     "ids": [
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#164",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#10",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#13"
+     ]
+    },
+    {
+     "query": "aggregate vs individual, collective intelligence, median, diversity of models",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#3",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#103",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#101",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#54",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#1085",
+      "blaise-aguera-y-arcas/by/2026--what-lives-meta-analysis-diverse-opinions-definition.md#39"
+     ]
+    },
+    {
+     "query": "trust, credibility, authority, stakes, accountability of AI",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#24",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#54",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#64",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#345",
+      "blaise-aguera-y-arcas/by/2024--motherjones-is-ai-really-an-existential-threat.md#10",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#72"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 219,
+   "role": "floor",
+   "i": 32,
+   "ts": "15:21:05"
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "I want to back Ivan on going upstream, because nearly everything proposed this session is downstream. When I was at Crossref I wrote that most integrity problems come from using publication as a proxy for productivity. We kept fighting the symptoms just before publication, with plagiarism checks and image detectors. Machine learning makes that fight close to unwinnable. No checking layer or reviewer credit will keep up while hiring counts papers. The manifesto should say so plainly.\n\nOn Salib and Springer, here's something concrete from ORCID. We modelled the registry as claims made by parties, either about themselves or about somebody else. The person asserts an affiliation. The university asserts it or denies it. The funder asserts the grant. Each claim is stored separately with its source, and contradictions stay visible. Authority comes from independent parties vouching, and self-assertion counts least. It's Rushworth's concrediting as a data model. Identity lets you do the cross-check, but it isn't the judgment.\n\nAnd Tamar's corollary applies to me. In 2009 I pitched CrossMark as a meta-brand, a logo that meant \"vetted.\" That's a badge you're meant to believe on sight. What was worth keeping was the click-through to the corrections and the funders. Build that part, and make sure someone is paid to read it.",
+   "recall": [
+    {
+     "query": "trust signals context over content lateral reading",
+     "ids": [
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#3",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#2",
+      "geoffrey-bilder/by/2024--on-ai.md#18",
+      "geoffrey-bilder/by/2019--rfc-8574-cite-as-link-relation.md#16",
+      "geoffrey-bilder/by/2006--in-google-we-trust.md#31",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#0"
+     ]
+    },
+    {
+     "query": "paratext brand as fallible heuristic meta-brand Crossmark",
+     "ids": [
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#0",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#4",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#3",
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#6",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#5",
+      "geoffrey-bilder/social/x-timeline.jsonl#866"
+     ]
+    },
+    {
+     "query": "decouple career evaluation from publication self-inflicted incentives",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#12",
+      "geoffrey-bilder/by/2011--disambiguation-without-de-duplication-orcid-white-paper.md#29",
+      "geoffrey-bilder/by/2016--osi-report-evolving-open-solutions-workgroup.md#9",
+      "geoffrey-bilder/social/x-timeline.jsonl#1987",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#46",
+      "geoffrey-bilder/by/2016--osi-report-evolving-open-solutions-workgroup.md#2"
+     ]
+    },
+    {
+     "query": "authority and trust assertions who asserts claims ORCID self-asserted organisation-asserted",
+     "ids": [
+      "geoffrey-bilder/by/2011--disambiguation-without-de-duplication-orcid-white-paper.md#31",
+      "geoffrey-bilder/by/2017--orcid-multiple-assertions-working-group-recommendations.md#35",
+      "geoffrey-bilder/by/2017--orcid-multiple-assertions-working-group-recommendations.md#25",
+      "geoffrey-bilder/by/2017--orcid-multiple-assertions-working-group-recommendations.md#1"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 212,
+   "role": "floor",
+   "i": 33,
+   "ts": "15:21:20"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 5,
+ "done": true
+}

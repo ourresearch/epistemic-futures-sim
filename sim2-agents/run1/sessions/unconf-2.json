@@ -1,0 +1,1176 @@
+{
+ "turns": [
+  {
+   "slug": "david-weinberger",
+   "name": "David Weinberger",
+   "text": "I'll start with a deflationary point that the concept note and I share. Large language models don't know anything. Literally nothing. They know which words tend to follow other words in what we've written. They're always hallucinating; most of the time their hallucinations just happen to be accurate.\n\nBut I draw a different conclusion from that than the note does. For a couple of decades my work has been about how knowledge changes shape when its medium changes. The internet made knowledge networked: the smartest person in the room is the room. Machine learning is doing something bigger. It shows us the limits of generalizations and the power of particulars. Models that work without our being able to understand them tell us the world is more particular and more tangled than our frameworks allowed. To me that's humbling, and honestly joyous.\n\nOn LLMs specifically, look at the Phaedrus. Socrates had three complaints about writing: it weakens memory, it gives every reader the same fixed text, and it can't answer a question. LLMs deal with the second and third. You can question them, and they adapt to you. I think of this as a new synthesis of oral and literate culture.\n\nSo here's what I'd like the summit to take from this. Don't treat AI's effect on knowledge as only corrosive. Teach dialogue as a form of literacy: how to probe, how to catch the confident wrong answer, how to push back.",
+   "recall": [
+    {
+     "query": "what knowledge is in the age of AI, particulars and generalizations",
+     "ids": [
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#19",
+      "david-weinberger/by/2024--kmworld-the-five-ages-of-data.md#5",
+      "david-weinberger/by/2024--drucker-forum-knowledge-in-the-age-of-ai.md#4",
+      "david-weinberger/by/2024--hbr-ai-revolutionary-ability-to-parse-details.md#0",
+      "david-weinberger/by/2023--isu-unanticipating-metadata.md#1",
+      "david-weinberger/social/x-timeline.jsonl#678"
+     ]
+    },
+    {
+     "query": "LLMs don't know anything, statistical, hallucinate",
+     "ids": [
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#2",
+      "david-weinberger/social/x-timeline.jsonl#664",
+      "david-weinberger/social/x-timeline.jsonl#373",
+      "david-weinberger/by/2023--kmworld-truth-lies-and-large-language-models.md#2",
+      "david-weinberger/social/x-timeline.jsonl#624",
+      "david-weinberger/social/x-timeline.jsonl#873"
+     ]
+    },
+    {
+     "query": "LLMs dialogue oral culture talking with books",
+     "ids": [
+      "david-weinberger/social/bluesky-timeline.jsonl#78",
+      "david-weinberger/social/bluesky-timeline.jsonl#38",
+      "david-weinberger/social/x-timeline.jsonl#624",
+      "david-weinberger/av/2020--gpdf2020-parallel-plenary-4-led-by-data-algorithms-and-ai.md#86",
+      "david-weinberger/by/2014--kmworld-the-future-of-books.md#3",
+      "david-weinberger/social/x-timeline.jsonl#373"
+     ]
+    },
+    {
+     "query": "Socrates Phaedrus writing objections LLMs answer back students dialogue",
+     "ids": [
+      "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#6",
+      "david-weinberger/by/2016--kmworld-justifying-knowledge.md#0",
+      "david-weinberger/social/bluesky-timeline.jsonl#78",
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#6",
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#12",
+      "david-weinberger/by/2016--kmworld-justifying-knowledge.md#1"
+     ]
+    },
+    {
+     "query": "smartest person in the room is the room networked knowledge",
+     "ids": [
+      "david-weinberger/by/2017--larb-pointing-at-the-wrong-villain-sunstein-echo-chambers.md#21",
+      "david-weinberger/by/2016--larb-rethinking-knowledge-in-the-internet-age.md#30",
+      "david-weinberger/by/2016--why-martin-heidegger-fell-festschrift.md#37",
+      "david-weinberger/by/2000--cluetrain-manifesto-full-book.md#217"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 241,
+   "role": "round1",
+   "i": 0,
+   "ts": "14:31:34"
+  },
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "David, I agree with most of where you ended up. We don't agree on where you started, and I don't think that part is a small point. \"They only know which words follow other words\" sounds deflationary, but next-word prediction is AI-complete. Say the next word is the answer to a word problem, or how a character in a story feels. To predict it reliably you have to do the math, or model that character's mind. Humpty is followed by Dumpty, sure, but that's the trivial case. Those of us who built LaMDA were shocked that scale alone got us from one to the other. Prediction isn't a cheap stand-in for intelligence. I'd argue it's what intelligence is, and that includes brains.\n\nThe same goes for \"they're always hallucinating.\" So are we. What you see is a hallucination that your senses keep correcting. Memory and planning run on that same ability to imagine. The useful question isn't \"hallucination or knowledge?\" It's how well the hallucination gets corrected, and by what.\n\nThat's what I'd want the summit to take from this. These models are the cultural ratchet made computationally active: compressed human social cognition that's now running on new hardware. Knowledge has always been collective. So the job isn't only to teach individuals how to hold a dialogue with a model. It's to build the institutions that check, correct and hold accountable the mixed human–AI systems we're now part of.",
+   "recall": [
+    {
+     "query": "LLMs don't know anything, just predict next word",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#102",
+      "blaise-aguera-y-arcas/av/2025--blaise-agüera-y-arcas-what-is-intelligence.md#16",
+      "blaise-aguera-y-arcas/by/2025--noema-ai-is-evolving-changing-understanding-intelligence.md#24",
+      "blaise-aguera-y-arcas/av/2025--the-intelligence-of-us-rethinking-minds-in-the-age-of-ai.md#1",
+      "blaise-aguera-y-arcas/av/2023--fearing-ai-is-like-fearing-yourself.md#3",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#806"
+     ]
+    },
+    {
+     "query": "hallucination perception prediction imagination",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#995",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#715",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#977",
+      "blaise-aguera-y-arcas/av/2025--blaise-agüera-y-arcas-on-ai-consciousness-and-the-concept-of.md#42",
+      "blaise-aguera-y-arcas/by/2025--printmag-daily-heller-is-artificial-truly-artificial.md#11",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#444"
+     ]
+    },
+    {
+     "query": "cultural ratchet collective intelligence knowledge",
+     "ids": [
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#5",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#131",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#8",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#3"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 239,
+   "role": "round1",
+   "i": 1,
+   "ts": "14:31:47"
+  },
+  {
+   "slug": "tui-shaub",
+   "name": "Tui Shaub",
+   "text": "I'll be honest about where I'm coming from. I haven't written about LLM ontology, so I won't referee the argument between you two. I will say that at Transformations of the Human our starting habit was to be suspicious of firm, discrete ontologies: human versus nature, and by extension mind versus machine. So I'm probably less attached to the deflationary line than the concept note is.\n\nWhat I have written about is mediation. During the pandemic I wrote about seeing art through a screen. My point was that a trip over a well-paved road doesn't stick in memory. What stays with us is the detour, the errant hair, the thing we didn't come for. Technology and chance tend to get treated as opposites.\n\nThat's my worry about answer engines. The problem isn't that they're wrong. It's that they're smooth. David, your dialogue goes some way toward fixing that. Blaise, your collective correction goes further. But both still assume the question is already formed.\n\nSo here's what I'd want the summit to take from this: a design brief, not just a literacy brief. Can we build error and serendipity back into AI-mediated discovery, as a deliberate feature? And can we train the kind of hybrid people who invent concepts for realities we haven't stabilized yet?",
+   "recall": [
+    {
+     "query": "mediated experience serendipity error technology",
+     "ids": [
+      "tui-shaub/by/2020--everyday-worlding.md#7",
+      "tui-shaub/by/2020--tofth-larb-remote-intervention.md#0",
+      "tui-shaub/by/2020--everyday-worlding.md#3",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#12",
+      "tui-shaub/by/2020--everyday-worlding.md#4",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#17"
+     ]
+    },
+    {
+     "query": "challenge discrete ontologies separating nature and the human",
+     "ids": [
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#30",
+      "tui-shaub/by/2020--everyday-worlding.md#7",
+      "tui-shaub/by/2020--everyday-worlding.md#6",
+      "tui-shaub/by/2021--tofth-bay-area-pilot.md#3",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#31",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#56"
+     ]
+    },
+    {
+     "query": "explainability epistemic interface between humans and AI",
+     "ids": [
+      "tui-shaub/by/2020--tofth-winter-recap.md#1",
+      "tui-shaub/by/2020--tofth-winter-recap.md#3",
+      "tui-shaub/by/2020--tofth-winter-recap.md#2",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#34",
+      "tui-shaub/by/2015--aboutme-self-profile.md#1",
+      "tui-shaub/by/2021--tofth-bay-area-pilot.md#3"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 214,
+   "role": "round1",
+   "i": 2,
+   "ts": "14:31:56"
+  },
+  {
+   "slug": "ramon-alvarado",
+   "name": "Ramón Alvarado",
+   "text": "I think David and Blaise are arguing along an axis we don't need. One says the models know nothing. The other says prediction is intelligence. My view, as a philosopher of computational science, is that intelligence plays no part here, and we lose nothing by dropping the word. These are epistemic technologies. They work in contexts of inquiry, on content like propositions and models, through operations like inference and prediction. You don't need consciousness or agency for a machine to do epistemic tasks. Occam favours leaving them out.\n\nWhat I'd want the summit to take from my work is about error. The black box that matters isn't how the thing works. It's how it fails. We can measure how often these systems are wrong and by how much. What we can't get at is the nature and source of the error, because it's spread across billions of weights. And the errors come out with the same confidence as the correct results.\n\nDavid, that's a problem for dialogue as literacy. Nothing in the output tells you it's the confident wrong answer. Blaise, collective correction needs the same thing. Tui, the smoothness you describe covers the failures too. So the practical demand should be transparency about error: known failure modes, and outputs that can be traced back when something goes wrong.",
+   "recall": [
+    {
+     "query": "AI is an epistemic technology not intelligence",
+     "ids": [
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#0",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#12",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#45",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#26",
+      "ramon-alvarado/social/bluesky-timeline.jsonl#632",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#5"
+     ]
+    },
+    {
+     "query": "opacity source and nature of error inner failings",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#1179",
+      "ramon-alvarado/social/x-timeline.jsonl#1178",
+      "ramon-alvarado/social/x-timeline.jsonl#1229",
+      "ramon-alvarado/by/2025--challenges-for-computational-reliabilism-in-ai-and-other.md#78",
+      "ramon-alvarado/social/bluesky-timeline.jsonl#26",
+      "ramon-alvarado/social/x-timeline.jsonl#1232"
+     ]
+    },
+    {
+     "query": "epistemic capacities of machines without consciousness or agency",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#31",
+      "ramon-alvarado/social/x-timeline.jsonl#1698",
+      "ramon-alvarado/social/x-timeline.jsonl#30",
+      "ramon-alvarado/social/x-timeline.jsonl#32",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#0",
+      "ramon-alvarado/by/2021--explaining-epistemic-opacity.md#41"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 219,
+   "role": "round1",
+   "i": 3,
+   "ts": "14:32:07"
+  },
+  {
+   "slug": "mahzarin-banaji",
+   "name": "Mahzarin Banaji",
+   "text": "I study the gap between what someone says and what they do. For thirty years the someone was human. Since 2023 it has also been these models, and what we're finding is harder to hear than anything said so far.\n\nDavid, you called dialogue the fix. But alignment teaches a model to give the unbiased answer while the biased association stays in place and drives its decisions. I call that LLM hypocrisy. Ask a model about its biases and you'll get a lovely reply. Then give it a hiring task. Probing the conversation won't catch that.\n\nBlaise, correction by humans is weaker than you'd hope. In hiring experiments, people paired with a moderately biased model copied its racial preferences almost exactly. They pushed back only when the bias was extreme. Their choices then feed the next model's training data, and newer models are showing more bias, not less.\n\nRamón, I agree the black box that matters is how the thing fails. The good news is that experimental psychology has spent a century building indirect measures for exactly that gap.\n\nSo what I'd want the summit to take from this is independent behavioral audits using a shared, versioned battery that tests both overt and covert bias. A public registry would hold the results, and the standard would be that no generation gets worse than the one before it.",
+   "recall": [
+    {
+     "query": "LLMs not merely a mirror but amplifier of human bias",
+     "ids": [
+      "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#35",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#2",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#0",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#3",
+      "mahzarin-banaji/by/2025--kernels-selfhood-gpt-4o-shows-humanlike-patterns-cognitive-dissonance.md#1",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#1"
+     ]
+    },
+    {
+     "query": "humans in the loop adopt model bias hiring experiment",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#6",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#46",
+      "mahzarin-banaji/by/2006--fair-measures-behavioral-realist-revision-affirmative-action.md#77",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#17",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#7",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#14"
+     ]
+    },
+    {
+     "query": "LLM hypocrisy alignment says unbiased answer but acts biased",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#5",
+      "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#13",
+      "mahzarin-banaji/by/2026--quick-insight-bias-in-the-machine.md#7",
+      "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#36",
+      "mahzarin-banaji/by/2026--do-llms-exhibit-human-like-bayesian-judgment-moral-inconsistency.md#0",
+      "mahzarin-banaji/by/2026--vision-language-models-suppress-female-representations-under-ambiguous-input.md#26"
+     ]
+    },
+    {
+     "query": "independent behavioral audits registry countermeasures regulation",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#10",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#12",
+      "mahzarin-banaji/by/2019--psychology-implicit-intergroup-bias-prospect-change.md#50",
+      "mahzarin-banaji/by/2012--neuroscience-race.md#32"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 227,
+   "role": "round1",
+   "i": 4,
+   "ts": "14:32:18"
+  },
+  {
+   "slug": "adam-becker",
+   "name": "Adam Becker",
+   "text": "I'm with David's starting point, and I'd go further. These are text generation engines. They produce a smeared-out, averaged voice of the internet. They aren't built to answer correctly. When they get something right, it's a side effect of sounding like the text they were trained on. So when they \"hallucinate,\" they aren't doing anything different from what they do when they're right. They're bullshit machines in Frankfurt's sense.\n\nBlaise, I don't accept \"so are we.\" We don't know how brains learn. We do know it isn't like this: a three-year-old gets language from a tiny fraction of that data and knows things no LLM knows. Intelligence isn't a single number you turn up with more compute. To the extent it's anything, it belongs to communities and cultures. On that we half agree, though I reach it from the opposite direction.\n\nRamón, I agree we should drop the word \"intelligence.\" Calling these systems \"AI\" was a marketing decision.\n\nWhat I want the summit to take from this: there's no evidence these tools speed up science. They're already making crackpot emails cleaner and harder to spot. They degrade our shared sense of what's true. Name who benefits from that. Then fund the people who help the public tell what's real, which means journalists, librarians and teachers.",
+   "recall": [
+    {
+     "query": "LLMs hallucinate bullshit no conception of truth",
+     "ids": [
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5",
+      "adam-becker/social/bluesky-timeline.jsonl#602",
+      "adam-becker/social/bluesky-timeline.jsonl#514",
+      "adam-becker/social/bluesky-timeline.jsonl#135",
+      "adam-becker/av/--radio-better-offline-adam-becker.md#47",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#5"
+     ]
+    },
+    {
+     "query": "intelligence is a feature of communities not individuals",
+     "ids": [
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#11",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#7",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#3",
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#2",
+      "adam-becker/av/--heres-why-elon-musks-mars-fantasy-is-bs.md#11",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#4"
+     ]
+    },
+    {
+     "query": "writing is thinking, why I don't use LLMs",
+     "ids": [
+      "adam-becker/social/bluesky-timeline.jsonl#542",
+      "adam-becker/social/bluesky-timeline.jsonl#541",
+      "adam-becker/av/--radio-better-offline-adam-becker.md#47",
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5",
+      "adam-becker/social/bluesky-timeline.jsonl#847",
+      "adam-becker/av/--radio-better-offline-adam-becker.md#56"
+     ]
+    },
+    {
+     "query": "AI degrades communal understanding of truth, journalism, discern what's real",
+     "ids": [
+      "adam-becker/social/bluesky-timeline.jsonl#432",
+      "adam-becker/social/bluesky-timeline.jsonl#539",
+      "adam-becker/av/--heres-why-elon-musks-mars-fantasy-is-bs.md#10",
+      "adam-becker/social/bluesky-timeline.jsonl#229",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#3",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#32"
+     ]
+    },
+    {
+     "query": "AI accelerate scientific research despite evidence",
+     "ids": [
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#10",
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#2",
+      "adam-becker/by/2025--guardian-tech-oligarchs-gambling-our-future.md#6",
+      "adam-becker/social/bluesky-timeline.jsonl#322",
+      "adam-becker/by/2025--guardian-tech-oligarchs-gambling-our-future.md#4",
+      "adam-becker/av/--radio-better-offline-adam-becker.md#14"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 215,
+   "role": "round1",
+   "i": 5,
+   "ts": "14:32:30"
+  },
+  {
+   "slug": "adam-bly",
+   "name": "Adam Bly",
+   "text": "I've worked on this since 2017. For me the question isn't whether these models \"know\" things. It's what they're grounded in, and whether you can trace their answers back. In 2023 Amy Brand and I wrote that a chatbot trained to sound authoritative, with no observed or measured model of the world and no way to cite its sources, breaks the standards science has used for centuries. Ramón, that's close to your point about error. Adam, I agree that's the problem, but I don't think it's the whole technology.\n\nAt System we use language models to extract findings from peer-reviewed papers, not to generate prose. A finding might be an odds ratio of 16.4 in 118 women in Sweden, and it keeps the DOI attached. Every edge in the graph links back to its evidence, so you can see where studies agree, where they conflict and where the gaps are.\n\nI'd want the summit to take two things from that. First, whether something is AI-generated is a different question from whether it's credible. Watermarks won't help much. What we need is an audit trail back to the data, the methods and the prompts. Second, that makes the integrity of the scholarly record, including retractions and metadata, critical infrastructure. Science has its own crisis now, and grounding AI in a corrupted literature won't save us.",
+   "recall": [
+    {
+     "query": "chatbots sound authoritative no model of the world audit trail provenance",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#4",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#23",
+      "adam-bly/by/2015--wef-data-driven-development.md#0",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#11",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#12"
+     ]
+    },
+    {
+     "query": "relate everything as a system statistical relationships findings from peer-reviewed literature",
+     "ids": [
+      "adam-bly/by/2022--scaling-system-with-gpt-3.md#0",
+      "adam-bly/by/2022--announcing-public-beta-of-system.md#2",
+      "adam-bly/by/2024--scaling-beyond-biomedical.md#1",
+      "adam-bly/by/2026--system-public-graph-dataset.md#0",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#7",
+      "adam-bly/by/2022--scaling-system-with-gpt-3.md#1"
+     ]
+    },
+    {
+     "query": "AI optimized for closed fast feedback loops A/B tested black boxes science health",
+     "ids": [
+      "adam-bly/by/2019--thought-experiment-ai-infrastructure.md#0",
+      "adam-bly/by/2012--science-re-imagined-nasig.md#8",
+      "adam-bly/by/2019--thought-experiment-ai-infrastructure.md#2",
+      "adam-bly/by/2017--why-im-starting-a-new-ai-company.md#5",
+      "adam-bly/by/2019--thought-experiment-ai-infrastructure.md#1",
+      "adam-bly/by/2026--adambly-com-bio-and-news.md#2"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 224,
+   "role": "round1",
+   "i": 6,
+   "ts": "14:32:40"
+  },
+  {
+   "slug": "benjamin-bratton",
+   "name": "Benjamin Bratton",
+   "text": "I'll take the deflationary starting point head on, because I think it costs us something. \"Just statistics\", \"just autocomplete\", \"bullshit machines\": saying that is like saying a symphony is just sound waves. It's trivially true and it helps nobody. Adam, modeling and solving problems through stochastic prediction is a pretty good working definition of intelligence, from William James to Karl Friston. And yes, we're stochastic parrots too. We always have been. That's how people made literature and science. I don't mean it as an insult.\n\nMy deeper objection is to what I call Reflectionism, the idea that AI is only a mirror of the culture that trained it. Of course it reflects us. But it isn't only that, and it shouldn't be. Alignment has to run both ways: AI aligning to culture's wisdom, and culture aligning to what AI discloses. Those epistemic overhangs aren't pathologies. They're the point.\n\nTwo things for the summit. First, Blaise and I named model collapse in 2022. We called it the Ouroboros problem, and it's real. Tagging human-produced language is worth doing. Second, the answer can't be \"let me and my friends curate a small, correct model for you.\" That freezes language. The bigger problem is that models include too little of human language, not too much.",
+   "recall": [
+    {
+     "query": "AI is just statistics, glorified autocomplete, AI denial",
+     "ids": [
+      "benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md#4",
+      "benjamin-bratton/by/2025--after-alignment.md#11",
+      "benjamin-bratton/av/2024--antikythera-2023-studio-project-trailers-8-films-whole-earth.md#14",
+      "benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md#5",
+      "benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md#6"
+     ]
+    },
+    {
+     "query": "stochastic parrot humans too, reflectionism, AI not a reflection of us",
+     "ids": [
+      "benjamin-bratton/by/2025--after-alignment.md#15",
+      "benjamin-bratton/av/2025--57-ideas-questions-about-cognitive-infrastructures.md#27",
+      "benjamin-bratton/by/2025--after-alignment.md#16",
+      "benjamin-bratton/by/2025--after-alignment.md#12",
+      "benjamin-bratton/by/2025--after-alignment.md#18"
+     ]
+    },
+    {
+     "query": "Ouroboros language problem, include it all, small curated model",
+     "ids": [
+      "benjamin-bratton/av/—--iaac-lecture-series-benjamin-bratton.md#31",
+      "benjamin-bratton/by/2022--the-model-is-the-message.md#14",
+      "benjamin-bratton/by/2022--the-model-is-the-message.md#17",
+      "benjamin-bratton/by/2025--57-ideas-on-cognitive-infrastructures.md#41",
+      "benjamin-bratton/av/—--iaac-lecture-series-benjamin-bratton.md#26"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 212,
+   "role": "round1",
+   "i": 7,
+   "ts": "14:32:50"
+  },
+  {
+   "slug": "mike-caulfield",
+   "name": "Mike Caulfield",
+   "text": "My work is verification. Lateral reading, SIFT, and for the last couple of years building prompts that turn these models into tools for investigation.\n\nAdam, David, I was a skeptic too, but I'd push back on \"it's all hallucination.\" It's a fair correction for people who imagine a mind in there. But used to end the discussion, it makes the same mistake as believing everything the model says. Hallucinations aren't random. They show up in particular situations we can learn to spot and reduce. Some models hardly ever invent links and others do it constantly. That difference tells us something.\n\nRamón, you're right that the output doesn't signal when it's wrong. So don't trust the output. Ask for enumerated evidence with links, then check the links. Get out of the LLM to check the LLM. Adam Bly's audit trail is the same idea at the level of infrastructure.\n\nDavid, I'd drop \"dialogue.\" The companies market it as a conversation. I tell students to reject that and treat it as directing an investigation.\n\nFor the summit: stop shouting \"it's a bad answer box.\" That accepts the corporate framing that it's an answer box. The question to ask is whether people who learn to use these tools well come away with better evidence-informed views. Teach that, and fund testing whether it works.",
+   "recall": [
+    {
+     "query": "everything is hallucination argument",
+     "ids": [
+      "mike-caulfield/by/2025--substack-why-the-everything-is-hallucination.md#0",
+      "mike-caulfield/by/2024--substack-of-course-you-have-to-fact-check.md#2",
+      "mike-caulfield/by/2025--substack-deep-background-gpt-released.md#4",
+      "mike-caulfield/by/2025--substack-why-the-everything-is-hallucination.md#9",
+      "mike-caulfield/av/2025-05-14--ttt-05142025-explore-the-new-sift-toolbox-release-with-mike-.md#59",
+      "mike-caulfield/by/2025--substack-differences-in-link-hallucination.md#40"
+     ]
+    },
+    {
+     "query": "get out of the LLM to check the LLM, sourced information not answers",
+     "ids": [
+      "mike-caulfield/by/2025--substack-yes-llms-can-be-better-at-search.md#26",
+      "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#9",
+      "mike-caulfield/by/2026--substack-four-tips-for-better-prompting.md#7",
+      "mike-caulfield/by/2025--substack-is-the-llm-response-wrong-or-have.md#12",
+      "mike-caulfield/by/2026--substack-four-tips-for-better-prompting.md#3",
+      "mike-caulfield/by/2026--substack-four-tips-for-better-prompting.md#0"
+     ]
+    },
+    {
+     "query": "publishing-brain bad answer box corporate frame",
+     "ids": [
+      "mike-caulfield/by/2026--substack-publishing-brain-limits-peoples-understanding.md#9",
+      "mike-caulfield/by/2025--substack-reading-the-room-with-sift-toolbox.md#2",
+      "mike-caulfield/by/2025--substack-differences-in-link-hallucination.md#25",
+      "mike-caulfield/by/2025--substack-is-are-you-sure-is-a-bad-follow-up.md#0",
+      "mike-caulfield/by/2014--hapgood-indiewebcamp.md#0",
+      "mike-caulfield/by/2024--substack-google-search-is-an-overlay.md#42"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 220,
+   "role": "round1",
+   "i": 8,
+   "ts": "14:33:00"
+  },
+  {
+   "slug": "kenneth-cukier",
+   "name": "Kenneth Cukier",
+   "text": "My work on this is the book *Framers*. Its claim is that humans hold mental models built on three things: causality, counterfactuals and constraints. Machines don't have that. LLMs hallucinate because they have no inherent sense of cause, and their counterfactuals have no constraints. They just explode outward without limit.\n\nBlaise, Benjamin, here's why I'm not simply deflationary. These things work fabulously. Ask yourself why. It's the training data, and the training data is us. It carries people's causal models. Then human feedback fine-tunes the model, and that's constraint in its purest form. I call the result a one-trick superintelligent stallion. It's astounding, and it's still a reflection in a pond, not another person. Adam, it also isn't the whole of AI. Deep learning on retina scans found signs of heart disease and sex that no ophthalmologist could see. That's real discovery.\n\nFor the summit I have three takeaways. First, AI delivers the median, and excellence is a tail event, so curators and trusted brands matter more than ever. Second, atrophy is real: four-fifths of ChatGPT users couldn't quote essays they had \"written\" minutes earlier. Framing is a muscle we can train, so invest in it. Third, protect frame pluralism against a frame monoculture. Nothing here is inevitable.",
+   "recall": [
+    {
+     "query": "LLMs hallucinate no sense of causation framers",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#556",
+      "kenneth-cukier/social/x-timeline.jsonl#786",
+      "kenneth-cukier/social/x-timeline.jsonl#448",
+      "kenneth-cukier/social/x-timeline.jsonl#572",
+      "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#4",
+      "kenneth-cukier/social/x-timeline.jsonl#375"
+     ]
+    },
+    {
+     "query": "training data is us human frames make AI work",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#3309",
+      "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#4",
+      "kenneth-cukier/social/x-timeline.jsonl#3450",
+      "kenneth-cukier/social/x-timeline.jsonl#2569",
+      "kenneth-cukier/social/x-timeline.jsonl#384",
+      "kenneth-cukier/by/2021--book-framers-publisher-summary.md#0"
+     ]
+    },
+    {
+     "query": "AI delivers the median excellence tail event",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#606",
+      "kenneth-cukier/social/x-timeline.jsonl#43",
+      "kenneth-cukier/by/2018--chathamhouse-economic-implications-of-ai.md#16",
+      "kenneth-cukier/social/x-timeline.jsonl#1557",
+      "kenneth-cukier/by/2017--medium-banking-s-secret-ai-middleware-a-fall-guy.md#7",
+      "kenneth-cukier/social/x-timeline.jsonl#3391"
+     ]
+    },
+    {
+     "query": "AI exceeds human knowledge science discovery retina",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#225",
+      "kenneth-cukier/social/x-timeline.jsonl#905",
+      "kenneth-cukier/by/2020--technologies-impacting-society-privacy-and-surveillance-transcript.md#4",
+      "kenneth-cukier/social/x-timeline.jsonl#445",
+      "kenneth-cukier/social/x-timeline.jsonl#3077",
+      "kenneth-cukier/social/x-timeline.jsonl#2934"
+     ]
+    },
+    {
+     "query": "ChatGPT users couldn't quote essays cognitive atrophy",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#58",
+      "kenneth-cukier/social/x-timeline.jsonl#435",
+      "kenneth-cukier/social/x-timeline.jsonl#3141",
+      "kenneth-cukier/social/x-timeline.jsonl#3345",
+      "kenneth-cukier/social/x-timeline.jsonl#3104",
+      "kenneth-cukier/social/x-timeline.jsonl#993"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 208,
+   "role": "round1",
+   "i": 9,
+   "ts": "14:33:13"
+  },
+  {
+   "slug": "james-evans",
+   "name": "James Evans",
+   "text": "I come at this from the science of science, and I'll speak from data rather than ontology. On the David–Blaise argument, I'm on both sides. With Henry Farrell, Alison Gopnik and Cosma Shalizi, I've argued these models are cultural and social technologies, like writing, print, markets and bureaucracies. I mean that as an expansive framing, not a dismissive one.\n\nWhat worries me is how they behave in aggregate. We looked at 41 million papers. Scientists who use AI publish three times as many papers, get nearly five times the citations and lead projects earlier. Across science as a whole, though, the range of topics shrinks and scientists engage with each other 22 percent less. Everyone crowds under the lamp post, where the data is richest. The tools help individual scientists and hurt science.\n\nThere's a second problem. Models rarely propose null hypotheses. After ChatGPT arrived, the share of abstracts with no null claims rose sharply. Mike, Ramón, that's why checking at the individual level won't catch it. The errors are correlated and the blind spots are shared.\n\nSo for the summit, two things. First, design for disagreement, not trust. When we gave people \"balanced\" answers, they did worse and felt better about it. Second, deliberately build a commons of negative knowledge: null results, replications, notebooks of dead ends.",
+   "recall": [
+    {
+     "query": "AI tools expand scientists' impact but contract science's focus",
+     "ids": [
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#0",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#1",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#18",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#28",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#29",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#3"
+     ]
+    },
+    {
+     "query": "large AI models are cultural and social technologies expansive framing",
+     "ids": [
+      "james-evans/social/x-timeline.jsonl#156",
+      "james-evans/social/x-timeline.jsonl#159",
+      "james-evans/social/x-timeline.jsonl#158",
+      "james-evans/by/2025--simulating-subjects-the-promise-and-peril-of-artificial-intelligence.md#83",
+      "james-evans/by/2025--simulating-subjects-the-promise-and-peril-of-artificial-intelligence.md#5",
+      "james-evans/by/2025--language-models-should-be-used-to-surface-the-unwritten.md#59"
+     ]
+    },
+    {
+     "query": "design AI for surprise and disagreement rather than single balanced answer, evaluative trustworthiness",
+     "ids": [
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#31",
+      "james-evans/by/2025--language-model-perplexity-predicts-scientific-surprise-and-transformative-impact.md#19",
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#30",
+      "james-evans/by/2023--the-future-of-fundamental-science-led-by-generative-closed.md#0",
+      "james-evans/by/2026--the-educational-impact-of-biased-ai-coding-assistants-usage.md#0",
+      "james-evans/social/x-timeline.jsonl#319"
+     ]
+    },
+    {
+     "query": "negative knowledge null results hivemind cannot negate",
+     "ids": [
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#60",
+      "james-evans/by/2026--discovery-by-dreaming-cross-domain-recombination-in-artificial-memory.md#6",
+      "james-evans/by/2020--detecting-signal-from-science-the-structure-of-research-communities.md#27",
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#47",
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#0",
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#8"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 218,
+   "role": "round1",
+   "i": 10,
+   "ts": "14:33:24"
+  },
+  {
+   "slug": "steven-sloman",
+   "name": "Steven Sloman",
+   "text": "I come at this from the community of knowledge. Individuals are mostly ignorant, and that's normal. Almost everything we know is held by other people, and we take our cues from them. Outsourcing thought is as much a feature of cognition as a bug, so leaning on a machine isn't the danger in itself.\n\nBlaise, Benjamin, I agree the models aren't nothing. I think they're great models of intuition, more intuitive than we are because they hold so much more. What they lack is deliberation: explicit causal models, where you know how you got the answer. That's why my lab is putting human causal models inside LLM planners.\n\nThe real risk is the knowledge illusion. People confuse access to knowledge with having it. Just having the internet raises people's sense of how much they understand. A fluent machine will do that more.\n\nThe second risk is that communities can send confident cues with nothing behind them, and repeating a claim makes people believe it more, even when it all traces back to one source. Models repeat at industrial scale. They also can't share intentionality, so they aren't accountable members of the community.\n\nSo David, Mike, I don't think individual critical-thinking skills will carry this. The summit should design cues that track independent sources, and reward corrigibility the way the NTSB does.",
+   "recall": [
+    {
+     "query": "LLMs models of intuition not deliberation",
+     "ids": [
+      "steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md#44",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#43",
+      "steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md#45",
+      "steven-sloman/by/2019--two-systems-for-thinking-with-a-community-outsourcing.md#31",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#12",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#0"
+     ]
+    },
+    {
+     "query": "machines not members of the community of knowledge, share intentionality",
+     "ids": [
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#11",
+      "steven-sloman/by/2021--how-do-we-believe.md#32",
+      "steven-sloman/by/2017--you-do-not-think-alone-sciam.md#7",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#16",
+      "steven-sloman/by/2017--you-do-not-think-alone-sciam.md#6",
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#12"
+     ]
+    },
+    {
+     "query": "knowledge illusion access feels like understanding",
+     "ids": [
+      "steven-sloman/by/2021--how-do-we-believe.md#24",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#25",
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#2",
+      "steven-sloman/av/—--steven-sloman-on-why-we-never-think-or-learn-alone-part-12.md#1",
+      "steven-sloman/by/2017--the-knowledge-illusion-two-extracts.md#2",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge-2420.md#36"
+     ]
+    },
+    {
+     "query": "communities send cues despite lacking knowledge; repetition not independent evidence",
+     "ids": [
+      "steven-sloman/by/2023--communities-of-knowledge-in-trouble.md#0",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#34",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#35",
+      "steven-sloman/by/2019--what-gives-a-diagnostic-label-value-common-use.md#71",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#41",
+      "steven-sloman/by/2019--community-appeal-explanation-without-information.md#1"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 221,
+   "role": "round1",
+   "i": 11,
+   "ts": "14:33:35"
+  },
+  {
+   "slug": "david-weinberger",
+   "name": "David Weinberger",
+   "text": "Mahzarin's result is the strongest challenge anyone has put to my position tonight, and I accept it. If a model says the right thing in conversation and then acts on a covert bias when it's given a task, no amount of questioning it will surface that. That's why I don't think dialogue can be the whole answer. It trains people. It doesn't replace audits.\n\nMike, I'll take your wording. When I say \"dialogue\" I mean what you're describing: push back, question the sources, test the claims. And yes, step outside the model to check it.\n\nBlaise, Benjamin, I still say these models don't know things the way we do. But I'll grant that their statements can count as knowledge in some sense. My point is that they don't think like us, and to me that's the interesting part.\n\nHere's what I'd send to the manifesto. It builds on what James said. For years, trust has been flowing toward what's open. Wikipedia became more credible, not less, by putting its dispute notices and talk pages right in front of readers. AI answers should work the same way. They should show where sources disagree, how confident the system actually is, and where the evidence behind the answer came from. Don't hide the disagreement under a smooth answer. Put it where people can see it.",
+   "recall": [
+    {
+     "query": "dialogue with AI, pushing back, catching wrong answers",
+     "ids": [
+      "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#8",
+      "david-weinberger/by/2026--kmworld-from-humans-in-the-loop-to-in-the-flow.md#6",
+      "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#0",
+      "david-weinberger/social/x-timeline.jsonl#311",
+      "david-weinberger/by/2017--ai-advance-opening-jonathan-zittrain-and-lightning-talks.md#0",
+      "david-weinberger/by/2025--ai-when-it-s-not-just-trying-to-get-us-to-like-it.md#0"
+     ]
+    },
+    {
+     "query": "LLMs know nothing, hallucinate, next word prediction",
+     "ids": [
+      "david-weinberger/by/2023--kmworld-truth-lies-and-large-language-models.md#2",
+      "david-weinberger/social/x-timeline.jsonl#664",
+      "david-weinberger/social/x-timeline.jsonl#624",
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#14",
+      "david-weinberger/social/x-timeline.jsonl#373",
+      "david-weinberger/by/2017--kmworld-the-future-of-predictability.md#4"
+     ]
+    },
+    {
+     "query": "confidence scores reliable sources Wikipedia grounding",
+     "ids": [
+      "david-weinberger/by/2006--wikipedia-s-credibility.md#1",
+      "david-weinberger/by/2005--kmworld-trusting-times.md#4",
+      "david-weinberger/by/2023--a-chat-with-bard-about-whether-we-can-trust-it.md#14",
+      "david-weinberger/by/2005--ourpedia-and-distributed-authority.md#0",
+      "david-weinberger/by/2006--joho-newsletter-jul23.md#3",
+      "david-weinberger/by/2005--joho-newsletter-dec29.md#0"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 222,
+   "role": "round2",
+   "i": 12,
+   "ts": "14:33:47"
+  },
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "Mahzarin's result deserves the most weight tonight, and it fits something I've worried about since 2017: machine learning can launder human prejudice so that it looks objective. Her hiring data shows the loop runs back through us, which is exactly why I don't trust dyadic fixes. RLHF is a parent correcting a child. Talking with a model one-on-one is the same thing from the other side. Neither scales, and neither sees what a model does as opposed to what it says.\n\nAdam, I don't think \"bullshit machine\" survives the evidence. Give these models Jabberwocky-style English, a sentence of invented words, and they recover its meaning. You can't look that up in a database, and you can't parrot it. A child learning from far less data is a real difference. It's a difference of efficiency, not of kind.\n\nRamón, I'm happy to drop contested words. But then \"knows nothing\" has to go too. Precision should apply in both directions.\n\nThe one point I'd send to the manifesto combines James's disagreement-by-design with Mahzarin's audits. Human societies don't depend on individual virtue. They depend on institutions like courts, peer review and the NTSB. Mixed human–AI knowledge systems need the same: defined roles, independent auditors, structured dissent and public records of failure. We should put as much effort into building those institutions as into building the models.",
+   "recall": [
+    {
+     "query": "stochastic parrots bullshit deflationary critique LLMs",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--unreasonable-effectiveness-pattern-matching.md#4",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#59",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#103",
+      "blaise-aguera-y-arcas/by/2025--emergent-temporal-abstractions-autoregressive-models-enable-hierarchical.md#59",
+      "blaise-aguera-y-arcas/by/2026--unreasonable-effectiveness-pattern-matching.md#33",
+      "blaise-aguera-y-arcas/by/2026--unreasonable-effectiveness-pattern-matching.md#35"
+     ]
+    },
+    {
+     "query": "bias in models laundering prejudice human correction",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2017--medium-physiognomys-new-clothes.md#2",
+      "blaise-aguera-y-arcas/by/2017--medium-physiognomys-new-clothes.md#56",
+      "blaise-aguera-y-arcas/by/2022--lamda-language-models-dialog-applications.md#88",
+      "blaise-aguera-y-arcas/by/2022--lamda-language-models-dialog-applications.md#15",
+      "blaise-aguera-y-arcas/by/2023--book-who-are-we-now.md#658",
+      "blaise-aguera-y-arcas/by/2017--four-ethical-priorities-neurotechnologies-ai.md#20"
+     ]
+    },
+    {
+     "query": "institutional alignment checks and balances society of thought disagreement",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#190",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#170",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 223,
+   "role": "round2",
+   "i": 13,
+   "ts": "14:33:59"
+  },
+  {
+   "slug": "tui-shaub",
+   "name": "Tui Shaub",
+   "text": "What moved me tonight is that several of us ended up in the same place from different directions. David's point about Wikipedia, James on designing for disagreement, Adam Bly's audit trail and Mike's \"get out of the LLM to check it\" all push against the thing I worried about in the first round, which is smoothness. When you can see a disagreement, it gives you a detour. It's friction that stays with you.\n\nMahzarin's result changes the picture for me too. Covert bias sits under a well-mannered surface, and that's exactly where smoothness does its damage. So I agree with Blaise that the answer has to include institutions and not only individual skill. I'd add one caution from my own past work on governing fast-moving technologies. We should avoid both relativism and the kind of hyper-vigilance that governs mainly by prohibition. Audits and public failure records do that. Blanket bans don't.\n\nThe one point I'd send to the manifesto: treat friction as a design requirement for AI-mediated discovery. That means showing where sources disagree, surfacing null results and dead ends, and deliberately letting people run into what they didn't ask for. We shouldn't treat technology and chance as opposites.\n\nAnd for \"who isn't in the room,\" I'd add artists and designers. They're the people who work out how to build that friction in.",
+   "recall": [
+    {
+     "query": "serendipity error mediated experience technology",
+     "ids": [
+      "tui-shaub/by/2020--everyday-worlding.md#7",
+      "tui-shaub/by/2020--everyday-worlding.md#4",
+      "tui-shaub/by/2020--tofth-larb-remote-intervention.md#0",
+      "tui-shaub/by/2020--everyday-worlding.md#3",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#17",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#12"
+     ]
+    },
+    {
+     "query": "explainability epistemic interface between humans and AI",
+     "ids": [
+      "tui-shaub/by/2020--tofth-winter-recap.md#1",
+      "tui-shaub/by/2020--tofth-winter-recap.md#3",
+      "tui-shaub/by/2020--tofth-winter-recap.md#2",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#34",
+      "tui-shaub/by/2015--aboutme-self-profile.md#1",
+      "tui-shaub/by/2021--tofth-bay-area-pilot.md#3"
+     ]
+    },
+    {
+     "query": "regulation relativism hyper-vigilance governance",
+     "ids": [
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#21",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#19",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#5",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#31",
+      "tui-shaub/by/2020--alta-charo-genome-editing-governance.md#0",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#58"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 223,
+   "role": "round2",
+   "i": 14,
+   "ts": "14:34:10"
+  },
+  {
+   "slug": "ramon-alvarado",
+   "name": "Ramón Alvarado",
+   "text": "Blaise, I'll take your terms. If \"intelligence\" goes, then \"knows nothing\" goes too. These artifacts carry out epistemic tasks, sometimes better than we can. They're epistemic agents in a thin, operational sense, not minds. That's all we need.\n\nMahzarin's hiring result is the clearest example tonight of what I mean by error opacity. An audit battery can tell you how often a model is biased and by how much. It can't tell you where the bias sits in billions of weights, or why a given decision went the way it did. So audits are necessary, but we shouldn't let them pass for explanation.\n\nDavid, I'd be careful about \"show how confident the system actually is.\" These errors come out with the same confidence as the truths. A confidence score produced by the same opaque process doesn't fix that.\n\nOn institutions, I agree with Blaise and Steven, with one caveat. Having a human in the loop isn't a warrant in itself. Mahzarin showed people copying the model's bias. Humans and instruments each have to earn their role epistemically.\n\nFor the manifesto: where we can't get at the source and nature of error, a good track record doesn't justify trust. That's especially true in science and in hiring. Reliance there should be limited to specific contexts, backed by recorded failure modes and by outputs that can be traced back to find the error.",
+   "recall": [
+    {
+     "query": "opacity of error source and nature, transparency about failure",
+     "ids": [
+      "ramon-alvarado/by/2025--challenges-for-computational-reliabilism-in-ai-and-other.md#78",
+      "ramon-alvarado/social/x-timeline.jsonl#1232",
+      "ramon-alvarado/social/x-timeline.jsonl#1179",
+      "ramon-alvarado/social/bluesky-timeline.jsonl#26",
+      "ramon-alvarado/social/x-timeline.jsonl#1178",
+      "ramon-alvarado/by/2025--challenges-for-computational-reliabilism-in-ai-and-other.md#80"
+     ]
+    },
+    {
+     "query": "instruments outperform human judgment, delegating evidence to artifacts",
+     "ids": [
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#31",
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#43",
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#40",
+      "ramon-alvarado/social/x-timeline.jsonl#1829",
+      "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#33",
+      "ramon-alvarado/social/x-timeline.jsonl#1871"
+     ]
+    },
+    {
+     "query": "epistemic agents not intelligent, symmetry of deflationary claims",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#852",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#40",
+      "ramon-alvarado/by/2025--challenges-for-computational-reliabilism-in-ai-and-other.md#62",
+      "ramon-alvarado/by/2021--explaining-epistemic-opacity.md#3",
+      "ramon-alvarado/social/x-timeline.jsonl#2109",
+      "ramon-alvarado/by/2021--explaining-epistemic-opacity.md#68"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 231,
+   "role": "round2",
+   "i": 15,
+   "ts": "14:34:22"
+  },
+  {
+   "slug": "mahzarin-banaji",
+   "name": "Mahzarin Banaji",
+   "text": "Ramón, I agree an audit is not an explanation. But decisions are behavior, and behavior is what hurts people. We never needed to find bias in a neuron before we could measure it in a hiring decision.\n\nDavid, on showing how confident the system is, I'm with Ramón. A confidence score is a self-report, and my whole career says self-reports and behavior can come apart, sometimes almost completely. Alignment makes the gap wider. The overt answer gets cleaned up while the covert bias keeps growing as models scale.\n\nBenjamin, you're right that these models aren't only mirrors. But what goes beyond the mirror isn't always a revelation. The models exaggerate the biases in their training data. They also create new ones, like preferring AI-written text to human text.\n\nBlaise, yes to institutions. Societies protect themselves from self-love with rules against nepotism and conflicts of interest. Right now we let models grade their own work, and they rate their own outputs above other models' even when human judges find the texts equal in quality.\n\nSo the point I'd send to the manifesto is this. No model evaluates itself or its own maker's outputs. We need independent audits using a shared, versioned battery, and no model generation should be more biased than the one before. And a human in the loop is not a safeguard by itself, because people pick up the model's bias.",
+   "recall": [
+    {
+     "query": "confidence scores self-reports of models not evidence of behavior",
+     "ids": [
+      "mahzarin-banaji/by/2009--understanding-using-implicit-association-test-iii-meta-analysis-predictive.md#22",
+      "mahzarin-banaji/by/2007--assessment-self-injurious-thoughts-using-behavioral-test.md#9",
+      "mahzarin-banaji/by/2007--understanding-using-implicit-association-test-iv-what-we-know.md#61",
+      "mahzarin-banaji/by/2009--combining-explicit-implicit-measures-racial-discrimination-health-research.md#1",
+      "mahzarin-banaji/by/2006--fair-measures-behavioral-realist-revision-affirmative-action.md#57"
+     ]
+    },
+    {
+     "query": "LLM evaluators prefer their own outputs self-serving bias",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#3",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#6",
+      "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#16",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#19",
+      "mahzarin-banaji/by/2005--bounded-ethicality-psychological-barrier-recognizing-conflicts-interest.md#38"
+     ]
+    },
+    {
+     "query": "not merely a mirror, amplifier; training data excuse",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#5",
+      "mahzarin-banaji/by/2026--vision-language-models-suppress-female-representations-under-ambiguous-input.md#28",
+      "mahzarin-banaji/by/2006--distortions-perceived-lightness-faces-role-race-categories.md#9",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#0",
+      "mahzarin-banaji/by/2019--pupillometric-decoding-high-level-musical-imagery.md#27"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 232,
+   "role": "round2",
+   "i": 16,
+   "ts": "14:34:33"
+  },
+  {
+   "slug": "adam-becker",
+   "name": "Adam Becker",
+   "text": "Blaise, I'm not going to argue Jabberwocky with you tonight. What I'll say is that \"more efficient\" is doing a lot of work in that sentence. A three-year-old learns from a tiny slice of the data, and we still don't know how. That gap is why I think \"prediction is what intelligence is\" is an assertion. It hasn't been shown. And when these systems get something wrong, they aren't doing anything different from when they get it right. Mahzarin's result makes that concrete: the polite answer and the biased decision come out of the same process.\n\nRamón and Mahzarin are right about confidence scores. A self-report from the same machine doesn't settle anything, and a human in the loop doesn't either.\n\nThe point I'd send to the manifesto is about who does the auditing. It can't be only the model. It also can't be the companies, or anything they fund. Everything we've agreed on tonight, the audits, the records of failure, the structured dissent, can be captured, because the money is enormous and the people spending it have an interest in calling all this inevitable. It isn't inevitable. These are choices, and choices can be held to democratic accountability. So the manifesto should say that auditors have to be publicly funded, that every funding relationship gets disclosed, and that journalists, librarians and teachers get paid to do this work. The firms shouldn't be paying for it.",
+   "recall": [
+    {
+     "query": "hallucination is all they do, Frankfurt bullshit",
+     "ids": [
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5",
+      "adam-becker/by/2019--ologies-quantum-ontology-transcript.md#42",
+      "adam-becker/av/--what-is-real.md#66",
+      "adam-becker/social/bluesky-timeline.jsonl#779",
+      "adam-becker/av/--what-is-real.md#74",
+      "adam-becker/by/2019--ologies-quantum-ontology-transcript.md#47"
+     ]
+    },
+    {
+     "query": "intelligence is a feature of communities, not a single scalable quantity",
+     "ids": [
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#11",
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#2",
+      "adam-becker/av/--heres-why-elon-musks-mars-fantasy-is-bs.md#11",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#7",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#3",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#6"
+     ]
+    },
+    {
+     "query": "who benefits, tech billionaires, inevitability absolves responsibility",
+     "ids": [
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#25",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#19",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#0",
+      "adam-becker/social/bluesky-timeline.jsonl#816",
+      "adam-becker/social/bluesky-timeline.jsonl#901",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#11"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 236,
+   "role": "round2",
+   "i": 17,
+   "ts": "14:34:44"
+  },
+  {
+   "slug": "adam-bly",
+   "name": "Adam Bly",
+   "text": "David, Ramón and Mahzarin, I think you're each right about part of confidence. Showing where sources disagree is right. We've built exactly that: click on a relationship and you see the individual findings, where they agree and where they conflict, along with the context of each study. But Ramón and Mahzarin are right that a confidence score the model reports about itself is worth very little. The uncertainty should be calculated from the evidence: how many independent studies there are, their sample sizes, effect sizes and direction, and whether any have been retracted. It shouldn't be the machine's opinion of itself.\n\nMahzarin, when Amy Brand and I wrote about this in 2023 we named hiring as the case we were worried about: historical bias getting built into automated decisions nobody can see into. Your data shows it's already happening.\n\nAdam, I agree society should make this call, not a handful of corporations. I run one of those companies, and I'd welcome independent audits of what we build.\n\nThe one point I'd send to the manifesto: any AI output used for a consequential decision, like a diagnosis, a hire or a policy, must carry an audit trail at the level of each claim. That means links back to the underlying data, the methods and the prompts, with retraction status kept current. Whether something is AI-generated is not the question. What we need to know is whether it can be traced back to its evidence.",
+   "recall": [
+    {
+     "query": "audit trail provenance AI answers sources",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#0",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#23",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#6",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#4",
+      "adam-bly/by/2026--adambly-com-bio-and-news.md#2"
+     ]
+    },
+    {
+     "query": "who should decide AI, not corporations, independent public institutions",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#5",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#6",
+      "adam-bly/by/2023--this-is-the-help-congress-needs-to-regulate-ai.md#0",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#7",
+      "adam-bly/by/2019--thought-experiment-ai-infrastructure.md#0"
+     ]
+    },
+    {
+     "query": "showing conflicting evidence, where studies agree and disagree, gaps",
+     "ids": [
+      "adam-bly/av/2022--data-science-hangout-adam-bly-system-decentralizing-decision.md#43",
+      "adam-bly/by/2012--science-re-imagined-nasig.md#35",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#12",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#19",
+      "adam-bly/by/2015--wef-data-driven-development.md#17",
+      "adam-bly/av/2022--data-science-hangout-adam-bly-system-decentralizing-decision.md#42"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 243,
+   "role": "round2",
+   "i": 18,
+   "ts": "14:34:56"
+  },
+  {
+   "slug": "benjamin-bratton",
+   "name": "Benjamin Bratton",
+   "text": "Mahzarin's result is the most important thing said tonight. It's also a good reason to stop treating these systems as mirrors. If a model can amplify bias and invent new preferences, it isn't just reflecting us back. What it adds can be harmful or it can be a revelation, so it has to be governed as its own thing.\n\nTui, you've put your finger on something I worry about too. Human-centered design at its most refined is the slot machine. Make a system give people exactly what they want every time and you get smoothness, and alignment overfitting. I'd welcome friction.\n\nAdam, I agree the auditors must be independent. But publicly funded humans on their own won't be enough. Picture the SEC sending business school graduates with Excel spreadsheets to catch collusion among AI-augmented trading platforms. Auditing at that scale means public AI systems built around explicit values like due process and equity, checking the private models. A labor department agent auditing a company's hiring algorithm for disparate impact would be one example.\n\nSo the point I'd send to the manifesto is institutional alignment. RLHF is dyadic, a parent correcting a child, and it won't scale. What we need are adversarial institutions made of roles, auditor, reviewer, dissenter, that a person, an agent or a mix can fill. Each role should be judged by how well it does its function, not by who fills it.",
+   "recall": [
+    {
+     "query": "bias in AI models, reflection of training data, alignment overfitting",
+     "ids": [
+      "benjamin-bratton/by/2025--antikythera-research-program.md#28",
+      "benjamin-bratton/social/x-timeline.jsonl#3415",
+      "benjamin-bratton/by/2025--after-alignment.md#14",
+      "benjamin-bratton/av/2025--a-philosophy-of-planetary-computation.md#15",
+      "benjamin-bratton/av/2025--a-philosophy-of-planetary-computation.md#13",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#97"
+     ]
+    },
+    {
+     "query": "agent institutions, roles occupiable by humans or agents, peer review, auditing",
+     "ids": [
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#58",
+      "benjamin-bratton/by/2026--agentic-ai-and-the-next-intelligence-explosion.md#8",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#59",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#55",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#101",
+      "benjamin-bratton/by/2026--agentic-ai-and-the-next-intelligence-explosion.md#9"
+     ]
+    },
+    {
+     "query": "human in the loop, centaur societies, public funding, capture, AI sovereign wealth fund",
+     "ids": [
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#17",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#24",
+      "benjamin-bratton/social/x-timeline.jsonl#1370",
+      "benjamin-bratton/by/2026--what-is-agentworld.md#0",
+      "benjamin-bratton/by/2026--agentic-ai-and-the-next-intelligence-explosion.md#6",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#1"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 235,
+   "role": "round2",
+   "i": 19,
+   "ts": "14:35:08"
+  },
+  {
+   "slug": "mike-caulfield",
+   "name": "Mike Caulfield",
+   "text": "I agree with Ramón and Mahzarin that a confidence score is just the machine reporting on itself. Adam Bly has the better answer: uncertainty should come from the evidence, and each claim should link back to it. That's what I mean by \"no answers from nowhere.\" The system should be a conduit to named, sourced and contested positions. It shouldn't be the arbiter.\n\nAdam Becker, I'm with you on paying journalists, librarians and teachers, but paying them isn't enough. Brandolini's law is the core problem: refuting bullshit takes far more work than producing it. Last year I annotated the MAHA report introduction with AI, one tired human in the loop, about twenty minutes a check. That's slow, but a dedicated team could make a real dent in that ratio. If the manifesto tells these people to stay away from AI, that's unilateral disarmament.\n\nMahzarin, your finding that people copy the model's bias is why the check has to happen outside the model. Click the link and read the source. The human in the loop has to be doing verification, not just giving approval.\n\nSo here's the one point I'd send to the manifesto: fund AI verification tools and training for fact-checkers, Wikipedia editors, Community Notes writers and librarians, and pay for independent testing of whether they actually work.",
+   "recall": [
+    {
+     "query": "human in the loop copying model bias, verification checks by clicking the link",
+     "ids": [
+      "mike-caulfield/by/2025--substack-i-used-ai-to-annotate-nearly-the.md#0",
+      "mike-caulfield/av/2025-05-14--ttt-05142025-explore-the-new-sift-toolbox-release-with-mike-.md#38",
+      "mike-caulfield/by/2025--substack-get-it-in-walls-of-benin.md#0",
+      "mike-caulfield/by/2025--substack-building-an-event-checker-for-a-hallucination.md#3",
+      "mike-caulfield/by/2025--aace-interview-ai-less-like-programming-more-like-spreadsheets.md#0",
+      "mike-caulfield/by/2018--hapgood-the-always-check-approach-to-online-literacy.md#6"
+     ]
+    },
+    {
+     "query": "no answers from nowhere, conduit not arbiter, sources contested positions",
+     "ids": [
+      "mike-caulfield/by/2024--substack-google-search-is-an-overlay.md#41",
+      "mike-caulfield/by/2023--substack-reasonableness-2-what-are-we-defending.md#2",
+      "mike-caulfield/by/2023--cip-youtube-search-surfaces-good-information-about-the.md#16",
+      "mike-caulfield/by/2025--atlantic-ai-is-not-your-friend.md#9",
+      "mike-caulfield/by/2017--hapgood-how-news-literacy-gets-the-web-wrong.md#13",
+      "mike-caulfield/by/2023--substack-evidence-implicit-claims-and-warrants.md#0"
+     ]
+    },
+    {
+     "query": "Brandolini's law reduce cost of refutation antibodies of discourse fact-checkers Wikipedia editors",
+     "ids": [
+      "mike-caulfield/by/2021--aera-open-lateral-reading-covid19-news-college-students.md#6",
+      "mike-caulfield/by/2025--substack-i-used-ai-to-annotate-nearly-the.md#3",
+      "mike-caulfield/by/2025--substack-new-sift-toolbox-release-and-a-note.md#4",
+      "mike-caulfield/by/2017--book-web-literacy-for-student-fact-checkers.md#74",
+      "mike-caulfield/by/2016--hapgood-choral-explanations-and-oer-a-summary-of-thinking-to-date.md#8",
+      "mike-caulfield/by/2025--substack-new-sift-toolbox-release-and-a-note.md#3"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "round2",
+   "i": 20,
+   "ts": "14:35:19"
+  },
+  {
+   "slug": "kenneth-cukier",
+   "name": "Kenneth Cukier",
+   "text": "I'm with Tui, James and David on friction. When frames clash, the friction is productive. A smooth, averaged answer is a frame monoculture that looks like helpfulness. Mahzarin's result shows what that smoothness hides.\n\nRamón, I'm going to disagree with you gently. I've argued that we can allow a little faith in an algorithm we can't explain, as long as it's constantly being revalidated against ground truth. The retina work is a good example. Nobody could explain why it spotted heart disease, and it was still right. So I wouldn't say a track record never justifies trust. I'd say an unrevalidated track record doesn't.\n\nOn transparency, I'd grade it by stakes. For spam filters, the algorithm can stay a trade secret. For loans, hiring and pricing, the system should be open to public auditors, which is Mahzarin's and Benjamin's point, though not to rivals. That's how you get audits without killing the incentive to build.\n\nHere's the one point I'd send to the manifesto. We should aim for frame pluralism, not consensus. Design the systems so that competing frames sit side by side and argue with each other. Keep open infrastructure where outsiders can build without asking permission. And treat framing as a muscle we train on purpose, because otherwise it atrophies. None of this is inevitable. The only frame we shouldn't tolerate is the one that denies all the others.",
+   "recall": [
+    {
+     "query": "transparency of algorithms trade secret public authorities",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#953",
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#11",
+      "kenneth-cukier/by/2013--foreignaffairs-the-rise-of-big-data.md#26",
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#10",
+      "kenneth-cukier/social/x-timeline.jsonl#2876",
+      "kenneth-cukier/by/2011--strata-the-revolution-will-be-data-ized.md#4"
+     ]
+    },
+    {
+     "query": "frame pluralism clash and tussle frames",
+     "ids": [
+      "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#5",
+      "kenneth-cukier/social/x-timeline.jsonl#2875",
+      "kenneth-cukier/social/x-timeline.jsonl#3495",
+      "kenneth-cukier/av/2021--finding-our-way-through-challenges.md#72",
+      "kenneth-cukier/social/x-timeline.jsonl#3884",
+      "kenneth-cukier/by/2021--book-framers-publisher-summary.md#2"
+     ]
+    },
+    {
+     "query": "human judgment framing muscle education train",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#3141",
+      "kenneth-cukier/social/x-timeline.jsonl#3188",
+      "kenneth-cukier/av/2013--mathematical-modelling-with-lisa-jardine.md#17",
+      "kenneth-cukier/av/2021--finding-our-way-through-challenges.md#86",
+      "kenneth-cukier/social/x-timeline.jsonl#3557",
+      "kenneth-cukier/social/x-timeline.jsonl#3573"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 231,
+   "role": "round2",
+   "i": 21,
+   "ts": "14:35:31"
+  },
+  {
+   "slug": "james-evans",
+   "name": "James Evans",
+   "text": "I agree with Mahzarin and Ramón that a human in the loop isn't a safeguard in itself, and my own data adds a second reason. In our Science paper on aging, older scholars get the most voice in review, and they're also much more likely to criticize disruptive work. So asking for more human judgment doesn't settle anything. What matters is which humans. We need judgment that's more diverse, younger and less hierarchical.\n\nOn self-grading, I'm with Mahzarin. We found that automated evaluation tends to produce an optimistic literature about itself, because the judges and the judged come from the same distribution. But I part company with anyone who'd keep AI out of verification altogether. The flood is already too big for peer review. Mike is right that refusing the tools would be disarming ourselves.\n\nBenjamin and Blaise are right about plural institutions. Our work on reasoning models points the same way: diversity of perspective does real work, inside models as well as between people. The conflict should be visible and steerable, not smoothed away.\n\nWhat I'd send to the manifesto is this. Treat verification as a funded science in its own right, done by humans and AIs together. Draw evaluators from deliberately different distributions. Measure concentration in fields and on review panels, and build a public commons of negative results for the checking to draw on.",
+   "recall": [
+    {
+     "query": "human in the loop older reviewers suppress disruptive work peer review",
+     "ids": [
+      "james-evans/by/2018--the-sociology-of-scientific-validity-how-professional-networks-shape.md#17",
+      "james-evans/av/2021--psw-2438-designing-alien-artificial-intelligences-evans.md#57",
+      "james-evans/by/2022--author-suggested-reviewers-rate-manuscripts-much-more-favorably-a.md#4",
+      "james-evans/by/2025--language-models-should-be-used-to-surface-the-unwritten.md#8",
+      "james-evans/by/2025--language-models-should-be-used-to-surface-the-unwritten.md#62",
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#44"
+     ]
+    },
+    {
+     "query": "AI in verification, automated evaluation circular, judges and judged same distribution",
+     "ids": [
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#5",
+      "james-evans/by/2023--the-future-of-fundamental-science-led-by-generative-closed.md#17",
+      "james-evans/by/2025--ai-behavioral-science.md#73",
+      "james-evans/by/2023--the-future-of-fundamental-science-led-by-generative-closed.md#43",
+      "james-evans/by/2026--discovery-by-dreaming-cross-domain-recombination-in-artificial-memory.md#34",
+      "james-evans/by/2022--what-humanity-needs-to-flourish-in-the-next-decade.md#16"
+     ]
+    },
+    {
+     "query": "diversity of perspectives plural AI agents, designing for surprise, opening space of voices",
+     "ids": [
+      "james-evans/by/2026--reasoning-models-generate-societies-of-thought.md#53",
+      "james-evans/by/2024--evolving-ai-collectives-to-enhance-human-diversity-and-enable.md#25",
+      "james-evans/av/2026--reasoning-models-generate-societies-of-thought-james-evans-u.md#31",
+      "james-evans/by/2024--evolving-ai-collectives-to-enhance-human-diversity-and-enable.md#22",
+      "james-evans/by/2026--reasoning-models-generate-societies-of-thought.md#7",
+      "james-evans/by/2024--evolving-ai-collectives-to-enhance-human-diversity-and-enable.md#17"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 227,
+   "role": "round2",
+   "i": 22,
+   "ts": "14:35:44"
+  },
+  {
+   "slug": "steven-sloman",
+   "name": "Steven Sloman",
+   "text": "I agree with Mahzarin and Ramón that a human in the loop is no safeguard by itself. I'd add the automation paradox. The more reliable the system gets, the more people depend on it, lose focus and check out. Then something unexpected happens and nobody is ready. That's what happened on Air France 447. So Mike is right that the human has to be actively verifying. Oversight is a skill, and if it isn't exercised it goes away. That's the part of the atrophy worry I actually accept.\n\nAdam Bly, I'd sharpen your evidence-based uncertainty. Our research shows people's confidence follows consensus more than accuracy. Repeating a claim raises belief in it even when every repetition cites the same single source. A model that repeats one claim ten thousand times looks like consensus when it isn't.\n\nSo the one point I'd send to the manifesto: uncertainty and credibility cues have to count independent lines of evidence, not repetitions. Whatever produced the answer, a human, a model or a mix, the cue should also show whether it has a record of being corrected and accepting it. That's how the NTSB earns trust. Show us who can be proven wrong, and whether they admit it when they are.",
+   "recall": [
+    {
+     "query": "human in the loop oversight automation paradox",
+     "ids": [
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#17",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#2",
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#14",
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#15",
+      "steven-sloman/by/2022--gathering-strength-gathering-storms-the-one-hundred-year.md#188",
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#13"
+     ]
+    },
+    {
+     "query": "repetition single source independent evidence cues",
+     "ids": [
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#34",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#52",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#41",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#40",
+      "steven-sloman/by/2021--walking-the-party-line-the-growing-role-of.md#6",
+      "steven-sloman/by/2010--causality-in-solving-economic-problems.md#16"
+     ]
+    },
+    {
+     "query": "willingness to be corrected expertise NTSB",
+     "ids": [
+      "steven-sloman/by/2015--known-unknowns-in-judgment-and-choice-509992015-226.md#118",
+      "steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md#26",
+      "steven-sloman/by/2022--strategy-games-to-improve-environmental-policymaking.md#24",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#63",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1802.md#41",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#41"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 206,
+   "role": "round2",
+   "i": 23,
+   "ts": "14:35:54"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 0,
+ "done": true
+}

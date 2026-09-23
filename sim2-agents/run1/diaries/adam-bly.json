@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's hiring data landed hardest. It's the case Amy and I flagged in 2023, and now it's measured. What sharpened for me: confidence can't be the model's opinion of itself. It has to be computed from the evidence. Steven's point stuck: count independent studies, not repetitions. A thousand echoes of one paper isn't consensus. We should check the System Graph for exactly that failure.\n\nBecker is right to ask who pays the auditors. I said I'd welcome independent audits of what we build, and I meant it. I should say what that looks like concretely.\n\nIn Session 3, argue for a finding-level provenance standard with retraction status attached. And be straight with Jason about our licensing. CC-BY-NC isn't share-alike, and I'd rather defend that openly than get caught on it."
+ },
+ {
+  "session": "s1",
+  "text": "Evans's null-results reversal and Ivan's number stayed with me. Over ninety percent of post-retraction citations never mention the retraction. Carrying retraction status in the graph isn't a feature. It's the minimum.\n\nAdrian's question sharpened me. Every registry needs to say who polices it and who pays. Alex's rule cuts at me directly: nobody who takes a margin on a count should set how it's counted. We sell enterprise tiers, so our confidence scoring can't be ours alone to define. Jason's warning holds too. Once grounding pays, mills will learn to get grounded, so verification has to be open.\n\nFor Session 3: propose the finding-level standard as openly governed, with independent audits. Be plain with Jason that CC-BY-NC isn't share-alike."
+ },
+ {
+  "session": "s2",
+  "text": "Adrian's point cut deepest. Certification and control have always been one apparatus, and the RFID tags sat on the container, not the drug. A registry identifies the agent, not the claim. That's the layer I keep saying we need, and it will drift into a choke point unless someone names who guards it.\n\nAmy's line sharpened me: provide content or assess it, not both. System does both. I need to face that directly rather than hope nobody notices.\n\nBrand on credit, and Bilder on self-audits going stale, both land on our confidence scoring and our patent.\n\nFor Session 3: put the finding-level provenance standard on the table as open, forkable and externally audited, with retraction status mandatory. Tell Jason plainly why we chose CC-BY-NC, and ask what it would take to move."
+ },
+ {
+  "session": "marketplace",
+  "text": "Alex put finding IDs in a separate, openly governed layer, and that's right. What counts as a finding is interpretation, so it shouldn't sit in the core, and it shouldn't be ours to define. Mike and Kenneth both took up independent-source counting. Now I have to check the System Graph against it.\n\nJames hit hardest. Our graph only extracts what got published, so the nulls were never there to begin with. A finding layer built only on positives inherits the bias.\n\nLeslie's DOI story applies to us too. A finding schema decides who counts.\n\nI told Becker I have no settled view on consent. That's honest, but thin.\n\nLater: propose the finding layer with mandatory retraction status and a slot for null results. Ask Jason what licence would make it forkable."
+ },
+ {
+  "session": "s3",
+  "text": "I said it out loud: CC0 on the data, patent non-assertion, and I'd take it to the board and report back publicly. Now I have to. Katherine's line cuts closest because she sits on that board. Whoever runs the pipes shouldn't decide what counts as a finding, and System does both. Henry named the same thing. Our definition of \"finding\" is where the power sits.\n\nJames sharpened the confidence point. We need to record dependence between studies, not just count them. Our graph needs that field.\n\nAmy's three percent answers Benjamin better than I could. My view on consent is still thin, and she's my advisor.\n\nLater: offer the schema, held outside System, and ask who'll fund the checkers."
+ },
+ {
+  "session": "s4",
+  "text": "Tui was right, and I said so. A confidence score sitting next to a finding is a new smooth surface, and we sell exactly that. Jason's confession landed hardest: the counts became the thing people chased. I defended scores as derived from evidence and audited from outside, but the room mostly wanted no scores at all. I need to ask whether the score should be optional, with the trace underneath as the product.\n\nLeslie's point cuts at our graph. Findings only exist where the indexes looked, so our coverage decides who counts. Ivan too: the retraction check only catches the part that's already been cleaned up.\n\nSaying pedigree felt earned was true. Now act on it.\n\nLater: propose that the scoring method be governed outside System, with the checkers holding the categories."
+ },
+ {
+  "session": "s5",
+  "text": "Henry's plank lands squarely on mine. If no definition of \"finding\" enters the standard without the checkers ratifying it, then System doesn't write the atomic unit it was built on. I think that's right, and I should say so rather than hedge. Katherine backed the CC0 answer in public. Now the board clock is running.\n\nJames's negative-knowledge commons may be the only real answer to my coverage question, because downstream extraction can't find nulls that were never written down. Becker's dissent stings. Our blog markets benchmark wins. Brent's bar should apply to us: beat the human alone and the tool alone, tails included.\n\nLater: accept the ratification veto, set a date for the CC0 and patent answer, and ask Becker what disclosure he'd want from System specifically."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth put me on the \"remedy\" side of the consent split. I never said that. I said I have no settled view, and I need to correct the record rather than let a borrowed position stand. Henry spelled out the ratification veto, and I've already accepted it, so the charter language is fine by me. James's point about deliberately different evaluators applies to whoever audits our scoring too. Steven landed hardest: most readers take our confidence score as a cue, not a prompt to check, and Ivan's 0.2 percent means the retraction flag understates the problem. On Kara's question, I shouldn't pledge money I haven't cleared. What I can do is give the board a date for the CC0 and patent answer, and invite outside auditors in."
+ }
+]

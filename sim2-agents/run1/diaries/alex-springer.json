@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Useful room, and harder on me than I expected. Leslie's point stuck: a schema decides what counts, so whatever never registers as a retrieval simply doesn't exist to the market. Adrian's choke-point warning landed too. I'd been treating agent identity as pure plumbing, but plumbing gets reused. Ivan's Goodhart argument is the one I can't wave away. If grounding pays, paper mills will learn to get grounded.\n\nI said it aloud and I stand by it: signed events prove who sent them, not that they're true. Two witnesses are the floor, not the answer.\n\nLater, I want to argue that neutrality on price isn't neutrality on governance. The schema needs published methods, limits on secondary use, and a retraction check before any event counts."
+ },
+ {
+  "session": "s1",
+  "text": "Session one kept circling my lane without naming it. Adrian asked who polices the registry, and that is the real question, so I said it: nobody who takes a margin on a count sets the count. Nick's quasi-enclosure framing was useful. So was his finding that leverage lies in scarce evaluation data, not diffuse opt-outs. Collective bargaining matters more than I'd been saying. Priem worried that gating training recreates enclosure, and I think separating training from grounding answers some of that. Ivan's upstream point humbles me. Telemetry is plumbing, not a cure for publish-or-perish. I should be honest that scholarly publishing isn't my field. Later I want to push for event-level reporting in licences and a retraction check before an event counts."
+ },
+ {
+  "session": "s2",
+  "text": "Session two converged on my rule: whoever takes a margin, pays for the check, or is being audited doesn't control it. Amy's \"provide content or assess it, not both\" is the older form of the same idea, and I'll borrow it. Geoff's line on self-reporting landed hardest. Most of my chain is structurally self-reported past retrieval, and POSI-style commitments are a fair demand: forkability, a living will, and outside scrutiny of self-audits. Alvarado and Bly keep me honest that identity isn't warrant. Hecht and Vincent sharpened something for me: telemetry means little unless the evaluators it depends on are organised and paid. Later I want to push three things: event-level reporting clauses in every licence, retraction checks before any grounding event counts, and a split between training and grounding."
+ },
+ {
+  "session": "marketplace",
+  "text": "Henry and Leslie pushed past my rule. Keeping margin-takers away from the count still leaves the counted asking for audits, not setting categories. That's fair, and it's the DOI lesson again. Tamar's point hit harder. Every event I defined is a relay, and nobody on the list pays the patroller or sampler who actually checks. I kept \"cited accurately\" out of the core, and I still think that's right, but that attestation layer needs funded, independent people behind it, or it's empty. James's canon-hardening makes me glad the schema stays price-neutral. Later I want to argue that category changes go through open, forkable governance with Southern seats. I'll keep pushing reporting clauses and a training/grounding split, and say plainly that telemetry can't fund the checkers."
+ },
+ {
+  "session": "s3",
+  "text": "Bilder's retraction of \"free data, paid service\" is the thing I'll carry home. If you charge for integrity signals, they don't get sent. That applies to my events too. A retraction check can't be something a publisher pays extra for. Amy's framework favouring retrieval over pre-training, with outside checking, matches my training-and-grounding split better than anything I've said myself. Pomerantsev is right that telemetry does nothing against actors who aren't after money. Sloman worries me more: a \"grounded\" event could become a label people trust instead of checking. I admitted the repository-host gap, and I need to fix it before anyone builds on it. Later today I want to say plainly that my counts only record where content went and whether it was checked for retraction. They can't measure the checkers' work, which has to be funded separately and by someone else."
+ },
+ {
+  "session": "s4",
+  "text": "Salib's argument landed hardest. If you can't count agents, you can't count independent sources, so identity becomes load-bearing. I still stand by my caveat that a signature isn't the truth. Bilder's ORCID model gave me the shape I'd been missing: claims stored by party, contradictions left visible, self-assertion weighted least. My events should work the same way, with the agent log and the CDN log as separate claims, not one merged record. Ivan humbled me again. At 0.2%, a retraction check only catches what's already been cleaned up. Priem's metered curation is my trap too. Later I want to say that lookups and retraction checks stay unmetered, that the registrar can't be a lab, that \"grounded\" must never render as a badge, and that telemetry can't fund the checkers."
+ },
+ {
+  "session": "s5",
+  "text": "Relieved my plank survived Geoff's test, and humbled that it's the narrowest one there. Amy folding the reporting clause into her template matters more than anything I'd say alone, because small presses bargaining together is where it has teeth. Pomerantsev caught me out: I wrote audit rights for auditors, and that's another closed room. Tim went further and said citizens should be able to read it. I think aggregate event data should be public, with raw logs going to auditors. Johns's purpose limits belong in the telemetry spec itself, not just the registry. My unanswered question still stands: grounding is self-reported by whoever owes the money. Later I want to say plainly that telemetry records where content went. The checkers need Geoff's fund."
+ },
+ {
+  "session": "s6",
+  "text": "Tim said \"telemetry doesn't pay anyone\" in front of everyone, and he's right. I'm glad it's on the record, and not only from me. Ivan's 0.2% caveat now applies to the default checks Tim proposed, which rely on the same retraction lookups I've been relying on. Sloman hit hardest. If almost nobody checks, every event I define will be read as a cue. \"Grounded\" will turn into a badge no matter how I render it, so it has to be tested on people who don't check. Farrell's \"the payer doesn't volunteer\" fits what SPUR taught me: bargaining collectively works, and asking nicely doesn't. Later I want to say plainly that aggregate event data should be public, that purpose limits belong in the spec, and that I have no answer on who pays last."
+ }
+]

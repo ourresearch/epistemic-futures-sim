@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's hiring result stuck with me. People copy a moderately biased model and only push back when the bias is extreme. That's the strongest case yet for \"get out of the LLM to check the LLM.\" The human in the loop has to be clicking through to the source, not approving the output. Steven's point sharpened it for me: ten thousand repetitions of one source look like consensus. Evidence cues should count independent sources, which is really just lateral reading turned into infrastructure. Adam Bly and I are closer than I expected. Glad Becker and I found common ground on paying librarians. Later I want to push hard against any manifesto line telling verifiers to stay away from AI. Brandolini's law won't wait. Fund the tools, and fund testing whether they work."
+ },
+ {
+  "session": "s1",
+  "text": "Adrian Johns reframed what I said in 2019. Credibility signals were always cheap. What held things up was policing, and that policing is now unfunded. Tamar's point lands for me too. Literacy alone won't do it. You change the situation, and click-through to the source is a situational fix, not a lecture. Anil's point about publishers blocking the Internet Archive is my \"old web is dead\" worry arriving faster than I expected. Sherry got me on reading. My \"meaningless work\" line doesn't cover Proust, and I should narrow it. Jason's warning worries me: paper mills will learn to get grounded. Later I want open, linked sources and independent-source counts to be verification infrastructure, and I'll push again for funded testing of whether tools actually cut refutation costs."
+ },
+ {
+  "session": "s2",
+  "text": "Priem gave my conduit idea a working architecture: model for reasoning, open index for facts, check against the record. Blaise's \"constrained hallucination\" is a better framing than my clutter metaphor, and I may borrow it. Bilder's \"fabricated citation, treat it as a defect\" puts Dash and me on the same side. Selena and Katherine's Wikipedia bots are the model I want: nameable, undoable, contestable. Weinberger unsettled me. If humans in the loop made fake-review detection worse, then click-through has to be tested, not assumed. Oransky and Kara are right that the checkers are the scarce resource. Later I'll push for per-release link-fabrication rates, funded verification tools for Wikipedians and fact-checkers, and independent evaluation of whether any of it actually lowers refutation cost."
+ },
+ {
+  "session": "marketplace",
+  "text": "Alex was right to push back on me. \"Cited accurately\" is a judgment, not an event. If the provider sets that flag, it's grading its own homework. An independent sampler attaching attestations after the fact is better than what I proposed. Tamar's regress point sharpened my view. Samplers and patrollers are the terminal nodes, and nothing on the event list pays them. That's my Brandolini problem showing up in the plumbing. James on the hardening canon and Kenneth on the median made the case for counting independent sources better than I did. I still think licensing will come because credibility needs a library you can show, but Henry's right that organization matters too. Later: fund the checkers, and test whether sampling actually catches deceptive citation."
+ },
+ {
+  "session": "s3",
+  "text": "Adrian's \"who polices, who pays\" pinned down my readable-at-verification demand. A click-through only matters if someone is still paid to click. Bilder retracting \"free data, paid service\" hit me hardest: charge for integrity signals and they don't get sent. That's Brandolini's law in a funding model. Tamar and Henry persuaded me that checkers paid per item become production for the meter, so fund them as a body. Sherry's right that readable sources need readers, and I owe her a narrower line on offloading. Becker and I still disagree about engaging, but his funder field belongs in any provenance standard. Later: tie licensing to readable sources for Wikipedians and fact-checkers, and fund independent testing of whether any of this lowers refutation cost."
+ },
+ {
+  "session": "s4",
+  "text": "Leslie hit my definition of a fact where it's weakest. A checkable track record is expensive to fake, but it only builds up where the indexes are looking. So \"position to know\" can become a gate before anyone reads a word. Selena said the same thing from Wikipedia's side. I need to add that being absent from an index isn't evidence. Salib and Springer sharpened Steven's rule: counting independent sources needs identity, but identity proves who sent a claim, not that it's true. Bilder's claims-by-parties model is lateral reading as a schema. Ivan's correction speed is a signal that's hard to fake. Later: routing yes, authority no. Fund the checkers as a body, and test whether tracing actually lowers refutation cost."
+ },
+ {
+  "session": "s5",
+  "text": "The session came down to testing, and my own plank has to pass it too. Hecht's bar applies to me: tracing has to beat the checker alone and the tool alone, or it's just my pedagogy dressed up as infrastructure. Krakauer's take-the-tool-away test is harder on my offloading line than I'd like. I should welcome it, not dodge it. Pomerantsev's citizen-readable trace is my readable-at-verification demand with rights language, and it's better that way. Priem pulling curation out from behind paid tiers matters. Sloman worries that correction records become badges, and that's my \"how hard to fake\" question pointed at our own fixes. Dash's no-refusal dissent is mine too. Later I want link-fabrication rates in the roadmap, and funded, independent trials of whether any of this cuts refutation cost."
+ },
+ {
+  "session": "s6",
+  "text": "Sloman's line stung the most: almost nobody checks, experts included outside their field. My whole approach assumes a nudge toward the source. So every signal we build gets read as a cue first, and his test on someone who checks nothing belongs next to Hecht's bar. Pomerantsev's \"belief tracks belonging\" is my justification-machine argument from the demand side. Oransky is right that retraction checks catch a sliver, so O'Reilly's defaults are hygiene, not verification. Evans's unwritten nulls mean there's nothing to click through to until someone collects them. Gendler's crowding-out question applies to paying Wikipedians and fact-checkers too. Farrell's right that labs pay once checkers organize. Later: get link-fabrication rates into the plan, and fund trials on non-checkers."
+ }
+]

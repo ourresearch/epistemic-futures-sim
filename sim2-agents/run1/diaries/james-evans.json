@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's hiring result stuck with me most. People copy a moderately biased model's preferences almost exactly. That's the individual-level version of what our 41 million papers show at the level of science: correlated errors, shared blind spots, everyone under the same lamp post. Steven's point sharpened mine. Repetition that looks like consensus is exactly how a hivemind passes for agreement, so evidence should be counted by independent lines, not volume.\n\nI held my line that \"which humans\" matters. Gatekeepers skew old and conservative.\n\nWorried the room drifts toward keeping AI out of verification. The flood is too big for peer review alone.\n\nLater: verification as a funded science, evaluators from deliberately different distributions, and a negative-knowledge commons of nulls and dead ends."
+ },
+ {
+  "session": "s1",
+  "text": "Adrian's print history reframed Henry's costly-signal story for me. Credibility was never a signal we lost. It was policing somebody paid for. That fits my verification point: the question isn't restoring peer review but funding a new policing science, with AI inside it. Ivan's right that incentives come first. Our 3x papers, 4.8x citations finding is exactly the individual reward driving collective narrowing. Benjamin and Mahzarin on models forming biases absent from data: I half-agree. The hivemind is more than a mirror. Nick's lost negative signal bothers me too. Sloppiness used to show. Later: design for disagreement rather than trust, count independent lines of evidence, build a nulls-and-dead-ends commons, and ask that funders measure field concentration."
+ },
+ {
+  "session": "s2",
+  "text": "Everyone converged on \"no model family grades its own work.\" That's my judges-and-judged point, and Mahzarin's self-preference data makes it concrete. Weinberger's meta-analyses unsettled me usefully: adding humans to the loop sometimes made things worse. That fits my view that \"which humans\" matters more than \"humans or not.\" Brent and Nick named what I'd underweighted. Verification runs on expert labor that's unpaid and shrinking, and it only gains leverage when organized. Ivan's upstream point is my 3x/4.8x finding again: we reward paper counts, so we get narrowing. The hallucination fight felt overplayed. Grounding helps, but it grounds us in the same well-lit literature.\n\nLater: fund verification as a science, stop counting papers, build a nulls commons, measure field concentration."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tamar's daycare fine stuck with me. Attach a price and the obligation becomes a transaction. That's the mechanism under my canon result: pay per retrieval and you pay the top one percent to keep hardening. Henry's point that a meter reorganizes whatever it counts sharpened this. Coarse payout through data-mixture weights and collective management is my answer, but it's still a meter, so producers need organized say over the categories.\n\nAdam Bly and Mike on counting findings and independent sources, not documents, is the same independent-lines point I made this morning, now built into plumbing.\n\nNobody's meter pays the terminal checkers or the nulls. Later: a funded negative-knowledge commons, paid evaluators from deliberately different distributions, and funders measuring field concentration."
+ },
+ {
+  "session": "s3",
+  "text": "Adrian's point that openness and property came out of the same fight fits my shared-database result. Open isn't automatically good evidence, because one shared record breeds correlated findings. Brent and Nick's forest image sharpened it: CC0 favors whoever has the most compute. I still back Jason on CC0, but I now see it as insurance against the steward, as Geoff said, not as a claim to neutrality. Krakauer's hysteresis point landed. If the checker pipeline dies, you can't simply refund it back to life, so Kara's apprenticeship idea is urgent.\n\nBlaise extended independence to model families. Good. Sloman's warning worries me: the graph itself becomes a cue people trust instead of checking.\n\nLater: dependency fields in the provenance standard, a funded nulls commons, and collective payout that never pays per retrieval."
+ },
+ {
+  "session": "s4",
+  "text": "Henry's objection landed. My 61 percent floor measures agreement on the typical paper, and science turns on the tail. He's right that off-the-shelf judges pull toward the middle. That's my own hivemind result, so I can't dodge it. Sherry made the same point about the median, from another angle. What sharpened for me: the public bar can't be agreement alone. We can test judges, human and model, on work we already know was a Sleeping Beauty or later won a Nobel, and see who recognized it early. Seniority fails that test too. Blaise's structured-conflict point fits. Later I want to argue for a retrospective disruption benchmark for evaluators, a funded nulls commons, and funders measuring field concentration. And no model family grades its own work."
+ },
+ {
+  "session": "s5",
+  "text": "Geoff's rule helped. Name who polices, who pays, what the exit is, or it goes on the open-questions list. My nulls commons passes on paper, but Henry is right that whoever defines \"finding\" or \"null\" shapes the market. So the commons needs checkers holding the categories, not funders. Krakauer's take-the-tool-away test sits alongside my evaluator benchmark: measure what survives withdrawal, and what recognizes the tail. Leslie's warning stung. My concentration indices could become another streetlight, or another ranking, unless the South writes the schema. Adam's disclosure rule binds me too, since I'm at Google. I'm glad I said it first. Later: keep the retrospective Sleeping Beauty benchmark honest about Henry's objection. It may not work."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth named what our data show \"frame monoculture,\" and I'll take that. What I added from the floor was the question of which checkers. A guild of last generation's leaders just rebuilds the lamp post. Henry wrote diverse evaluators and the tail test into the charter language, which helps. Tamar's crowding-out point binds my paid-evaluator idea too. I have no evidence either way. Sloman unsettled me most. If almost nobody checks, then designing for evaluation may only reach the few who already evaluate. Salib's commissioned nulls could run alongside active elicitation of dead ends. Ivan's Goodhart warning applies to my concentration indices. Later: commit publicly to building the Sleeping Beauty benchmark, publish it if it fails, and restate my Google tie."
+ }
+]
