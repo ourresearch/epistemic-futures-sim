@@ -1,3 +1,37 @@
 Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 17014.56it/s]
   [s3]   1 lead         Adrian Johns             403w recalls=4 $0.12
   [s3]   2 panel        Adam Bly                 229w recalls=3 $0.20
+  [s3]   3 panel        Benjamin Bratton         218w recalls=3 $0.27
+  [s3]   4 panel        Jason Priem              218w recalls=3 $0.35
+  [s3]   5 panel        David Weinberger         205w recalls=5 $0.46
+  [s3]   6 floor        Tui Shaub                205w recalls=3 $0.54
+  [s3]   7 floor        Ramón Alvarado           215w recalls=4 $0.64
+  [s3]   8 floor        Mahzarin Banaji          232w recalls=4 $0.79
+  [s3]   9 floor        Adam Becker              203w recalls=5 $0.91
+  [s3]  10 floor        Mike Caulfield           218w recalls=4 $1.04
+  [s3]  11 floor        Leslie Chan              231w recalls=3 $1.13
+  [s3]  12 floor        Kenneth Cukier           243w recalls=3 $1.20
+  [s3]  13 floor        Anil Dash                203w recalls=3 $1.26
+  [s3]  14 called       Jason Priem              158w recalls=4 $1.44
+  [s3]  15 called       Benjamin Bratton         160w recalls=4 $1.54
+  [s3]  16 floor        Selena Deckelmann        214w recalls=4 $1.69
+  [s3]  17 floor        Esther Dyson             215w recalls=4 $1.80
+  [s3]  18 floor        James Evans              203w recalls=4 $1.90
+  [s3]  19 floor        Henry Farrell            209w recalls=3 $1.98
+  [s3]  20 floor        Tamar Gendler            232w recalls=3 $2.06
+  [s3]  21 floor        Brent Hecht              226w recalls=4 $2.21
+  [s3]  22 floor        Katherine Maher          204w recalls=3 $2.30
+  [s3]  23 floor        Kara Miller              210w recalls=4 $2.41
+  [s3]  24 floor        Tim O'Reilly             220w recalls=4 $2.54
+  [s3]  25 floor        Ivan Oransky             224w recalls=3 $2.62
+  [s3]  26 floor        Peter Pomerantsev        223w recalls=5 $2.76
+  [s3]  27 floor        Peter Salib              216w recalls=4 $2.89
+  [s3]  28 floor        Steven Sloman            215w recalls=3 $2.98
+  [s3]  29 floor        Alex Springer            243w recalls=3 $3.06
+  [s3]  30 floor        Sherry Turkle            210w recalls=3 $3.16
+  [s3]  31 floor        Nick Vincent             224w recalls=4 $3.29
+  [s3]  32 floor        Blaise Agüera y Arcas    235w recalls=5 $3.45
+  [s3]  33 floor        Geoffrey Bilder          217w recalls=4 $3.54
+  [s3]  34 floor        Amy Brand                214w recalls=4 $3.67
+  [s3]  35 floor        David Krakauer           222w recalls=4 $3.82
+done in 10.3 min; total $6.39

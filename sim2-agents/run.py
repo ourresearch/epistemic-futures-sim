@@ -5,7 +5,7 @@
 
 Every turn is persisted as it happens (out/sessions/<id>.json); rerunning resumes. All generated Markdown starts
 with the SIMULATED header. The sim reads only the public corpus (cards, dossiers, summit/website)."""
-import argparse, hashlib, json, random, sys, time
+import argparse, hashlib, json, random, sys, threading, time
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -37,15 +37,19 @@ class Run:
         for s in SLUGS:
             self.attendees[s].diary = jload(self.out / "diaries" / f"{s}.json", [])
         self.opening_text = ""
+        self.io_lock = threading.Lock()  # the three unconference rooms run in parallel and share these files
 
     # ---------- persistence ----------
-    def save_state(self): jdump(self.out / "state.json", self.state)
+    def save_state(self):
+        with self.io_lock: jdump(self.out / "state.json", self.state)
     def done(self, phase): return self.state["phases"].get(phase, False)
     def mark(self, phase): self.state["phases"][phase] = True; self.save_state()
     def spath(self, sid): return self.out / "sessions" / f"{sid}.json"
-    def save_harvests(self): jdump(self.out / "harvests.json", self.harvests)
+    def save_harvests(self):
+        with self.io_lock: jdump(self.out / "harvests.json", self.harvests)
     def save_diary(self, slug): jdump(self.out / "diaries" / f"{slug}.json", self.attendees[slug].diary)
-    def log_callon(self, rec): self.callons.append(rec); jdump(self.out / "convener-log.json", self.callons)
+    def log_callon(self, rec):
+        with self.io_lock: self.callons.append(rec); jdump(self.out / "convener-log.json", self.callons)
 
     def offset(self, sid, n):
         return random.Random(f"{self.seed}:{sid}").randrange(n) if n else 0
