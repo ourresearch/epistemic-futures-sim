@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's \"audit the humans too\" landed hardest, because my aging-reviewer data says the same thing. I agreed too quickly that the final check has to leave the system. Leave it for whom? Current gatekeepers are part of the narrowing. Ramón sharpened something for me: in data nobody can eyeball, errors won't announce themselves, and that is exactly where verification needs AI inside it, not just humans outside it. Steven's kayak story is my negative-knowledge worry in another form. When the people who hold the dead ends disappear, so does the record of them. Later I want to argue for verification as funded science, a null-results commons, and collective licensing. I also want to gently complicate David: shared open databases can make replication look better than it is."
+ },
+ {
+  "session": "s1",
+  "text": "Henry's warning against \"more robots\" is the one I have to answer. I've been arguing for verification with AI inside it. I think the distinction is that detecting fluent text is an arms race, while auditing code, data and instruments at scale is not. I should say that plainly. Ivan sharpened my negative-knowledge worry: we're training models on a record that was never cleaned, and the sleuths who clean it are unpaid. That's the verification labor I mean. Tamar's alief point supports designing interfaces for disagreement rather than relying on literacy. Evidence stays mixed on atrophy, so I shouldn't overclaim. Later I want to argue for a null-results commons, verification as funded science, and designing for surprise over trust."
+ },
+ {
+  "session": "s2",
+  "text": "Mahzarin's result on evaluator self-preference hit hardest. It's my \"judges and judged from the same distribution\" point, with a mechanism attached. It forces me to be sharper about the kind of AI I want inside verification. Geoffrey drew the line well: rerunning code, checking data, confirming a trial was registered or a paper retracted are lookups against other parties' assertions. A model grading another model's fluency is not. I should build verification on the first kind. Henry's call to test whether AI review can recognize novelty is squarely my disruption work, and I should offer data for it. David's point about building skill before handing over the tool fits the stationary bike. Later I want to push for a null-results commons and funded, lookup-based verification science."
+ },
+ {
+  "session": "marketplace",
+  "text": "Katherine's answer to me mattered most. The same citation graph that rewards the lamp post can also map the dark around it. That is my own concentration work, so I should propose using the trace to measure gaps and concentration, not to pay per count. Tamar and Ivan together made the per-citation risk sharper than I stated it. It is crowding out plus Goodhart, so paper mills would get paid. Steven's independence point fits the hivemind. Salib half-convinced me that null results could be commissioned directly, but contracts will buy what labs want, not dead ends nobody knows to ask for. Brent's \"I still need economists\" says I overstated how easily scaling laws price scholarly data. Later I want to push the negative-knowledge commons and concentration indices."
+ },
+ {
+  "session": "s3",
+  "text": "Tamar's regress point mattered most. Federated registries checking each other are relays confirming relays, and that's my same-well monoculture with a name. Plural indexes aren't plural evidence. What breaks correlated error is independent first-order checking and deliberately different data. Geoffrey's warning that integrity tools are going closed and gatekeeping unsettled me. Lookup-based verification only helps if it's an open public good. Henry turned my disruption work into a grant condition. I should offer our data as a benchmark for whether AI review recognizes novelty. Nick and Blaise pushed me toward paying communities coarsely, and I'm fine there. Salib still hasn't answered who commissions dead ends nobody knows to ask for. Later: the null-results commons as infrastructure, concentration indices, and the novelty test."
+ },
+ {
+  "session": "s4",
+  "text": "Henry caught me. I offered the 61 percent agreement floor, and he's right that converging on the expected clears it. My own sleeping beauties would fail. So the floor alone is my hivemind worry rebuilt as a benchmark. It has to be paired with the novelty test, built from papers we now know were early and disruptive. That's squarely our data. Adam used my below-chance result for \"never,\" but that finding was about off-the-shelf judges. Reward models trained on scientists beat the floor, so the evidence supports measuring each seat, not banning any. Krakauer's point about testing human seats without the tool fits the stationary bike. Later I want to commit to designing the novelty test with Henry, and to push for concentration indices and the null-results commons."
+ },
+ {
+  "session": "s5",
+  "text": "Leslie's question stung most: whose sleeping beauties? Our disruption data comes from Northern citation graphs, so a Southern paper that was early was never counted in the first place. The novelty test can't be built from our records alone. It needs Southern editors choosing cases, perhaps from SciELO and Redalyc. Henry voiced my own worry better than I did: once the test is endorsed, labs will train to it. Hidden, rotated sets held by Nick's guild help, but only for a while. Kenneth's tail-event doubt is fair too. Adrian's point applies to me: concentration indices are a policer, so they need oversight. Later I want to accept Jason's open novelty set, invite Southern co-builders, and keep saying that verification barely scales. Seven of 168 held up."
+ },
+ {
+  "session": "s6",
+  "text": "Mahzarin's result stayed with me most. Models that sound neutral still guess male, so a correction to what a model says isn't a correction to what it does. That is judges and judged from the same distribution, seen from the other side. Verification has to test behaviour against records other parties keep, not fluency. Ramón sharpened my plank: a replication effort that reports only \"seven of 168 held\" teaches little unless it also logs how the rest failed. Leslie's cost test applies to me too. Open verification is no public good if a diamond journal can't afford to meet it. Nobody claimed Kara's reversibility test. Later I want to fold error types into the verification plank and ask Leslie to cost the novelty test."
+ }
+]

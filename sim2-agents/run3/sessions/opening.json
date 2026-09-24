@@ -1,0 +1,142 @@
+{
+ "turns": [
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "Good morning. I convened this because I think we're living through the latest step in something very old. Human knowledge has never lived in single heads. It lives in what Tomasello calls the cultural ratchet: language, writing, libraries, journals, peer review. Those institutions coordinate across longer time spans than any one of us, and they've been cracking for decades, as the concept note lays out. Now part of that ratchet runs in silicon. These models are trained on the accumulated record of human exchange, and what they give back isn't just a lookup.\n\nBy the end of tomorrow I want a manifesto, a roadmap and a list of open questions. For the roadmap, my bias is toward institutional design over cleverer filters. Courtrooms work because \"judge\" and \"jury\" are well-defined roles, whoever fills them. Science needs the same thing for mixed human and machine work: defined roles, structured disagreement and checks and balances. Yesterday a few of you got me to tighten something. The final check has to sit with people who have stakes, and taking part in knowledge-making is part of its value, not overhead to automate away.\n\nHere's what I most want argued about. I co-wrote this note, but I don't agree with all of its language. It calls these systems statistical models that reflect our intentions back at us, not knowing minds. I think statistics do amount to understanding in any falsifiable sense. What's new isn't prediction, it's generality. Several of you disagree, some sharply. So let's have it out, and let's also ask whether the answer changes what we should build. I suspect it does.",
+   "recall": [
+    {
+     "query": "institutional alignment agent institutions humans in the loop",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#5",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#164",
+      "blaise-aguera-y-arcas/by/2024--ethics-advanced-ai-assistants.md#148"
+     ]
+    },
+    {
+     "query": "cultural ratchet collective intelligence knowledge",
+     "ids": [
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#5",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#131",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#8",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#3"
+     ]
+    },
+    {
+     "query": "are LLMs really intelligent, statistical model not a mind",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2025--noema-ai-is-evolving-changing-understanding-intelligence.md#54",
+      "blaise-aguera-y-arcas/by/2026--poggio-lab-mit-interview.md#14",
+      "blaise-aguera-y-arcas/by/2022--do-large-language-models-understand-us.md#1",
+      "blaise-aguera-y-arcas/by/2026--llms-achieve-adult-human-performance-higher-order.md#48",
+      "blaise-aguera-y-arcas/by/2022--do-large-language-models-understand-us.md#0",
+      "blaise-aguera-y-arcas/by/2025--noema-ai-is-evolving-changing-understanding-intelligence.md#24"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 269,
+   "role": "convener",
+   "i": 0,
+   "ts": "22:37:11"
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "I'm the one who wrote the language Blaise just disowned, so I'll own it. I don't much care whether statistics amount to understanding in some deep sense. What I care about is what the word \"intelligence\" does once it leaves this room. Call a predictive policing tool intelligent and people defer to it. Call it a large store of historical patterns, biases included, and people check it. That's why I say \"machine learning.\" I don't expect everyone to follow me, but I'd like you to feel slightly guilty when you don't.\n\nWhy convene? Because most of what's cracking isn't new. Nearly everyone agrees that the integrity problems come from using publication as a proxy for productivity. We've been fighting the symptoms at the point of submission with plagiarism checks and image forensics. Machine learning may make that fight unwinnable. That's the opening. It might finally force us to decouple career evaluation from publication.\n\nWhat I want argued about is context versus content. Generating plausible text is now nearly free. It's much harder to fake a consistent network of affiliations, funders, co-authors, registered trials, citations, and whether a paper has been retracted or corrected. That network is the scholarly record, and I think trust will come from it, not from inspecting the text. Tell me I'm wrong.\n\nOne caveat before anyone gets comfortable. I've spent years saying that open means exit. Exit isn't voice. Whatever we put in the roadmap has to be open, checkable by anyone, and governed by the people who depend on it.",
+   "recall": [
+    {
+     "query": "artificial intelligence term assumes answers statistical model intentionality",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#2",
+      "geoffrey-bilder/by/2024--on-ai.md#1",
+      "geoffrey-bilder/by/2024--on-ai.md#17",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#33",
+      "geoffrey-bilder/social/x-timeline.jsonl#1325",
+      "geoffrey-bilder/by/2024--on-ai.md#15"
+     ]
+    },
+    {
+     "query": "publication as proxy for productivity decouple evaluation",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#12",
+      "geoffrey-bilder/social/x-timeline.jsonl#1174",
+      "geoffrey-bilder/by/2019--rfc-8574-cite-as-link-relation.md#1",
+      "geoffrey-bilder/by/2016--osi-report-evolving-open-solutions-workgroup.md#10",
+      "geoffrey-bilder/by/2023--journal-production-guidance-software-data-citations.md#8",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#46"
+     ]
+    },
+    {
+     "query": "context over content trust signals provenance scholarly record",
+     "ids": [
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#7",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#0",
+      "geoffrey-bilder/by/2024--on-ai.md#13",
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#6",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#2",
+      "geoffrey-bilder/by/2024--on-ai.md#18"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 255,
+   "role": "convener",
+   "i": 1,
+   "ts": "22:37:22"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "I convened this because AI is the most powerful cognitive artifact we've ever built, and the question that matters about any artifact is whether it's complementary or competitive. A map teaches you the territory, so you keep something when it's taken away. A GPS leaves you lost the day it fails. Superintelligence only interests me to the extent that it makes me more intelligent, not more dependent.\n\nBlaise, on understanding: I'm with Geoffrey more than with you, but for a different reason. What I see is capability without intelligence. These systems are intelligent the way a calculator is. They are vastly knowledgeable, but they aren't parsimonious and they don't reason by analogy. But I'd rather not spend the day on ontology. Whatever these systems are, the danger is errors humans can no longer detect, because the faculties that would catch them have been outsourced.\n\nGeoffrey, I like context over content. But someone still has to be competent enough to read that network. If that someone erodes, the record doesn't save you.\n\nWhat I want argued about is this. \"Humans in the loop\" is not enough. In my model, above a certain tool availability, competence collapses. Getting it back takes far more than simply abstaining. So what matters is the order of learning, competence first and tool second, and how transparent the tool is. An uncritical human in the loop is just an instrument of the tool. Two cautions. Most of the evidence is still correlational. And the cost of acquiring competence is set by institutions. If nobody funds apprenticeship, the competent state disappears. I want the roadmap to take that on directly.",
+   "recall": [
+    {
+     "query": "complementary versus competitive cognitive artifacts competence collapse",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#25",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#20",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#10",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#29",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#0",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#28"
+     ]
+    },
+    {
+     "query": "LLMs capability not intelligence, knowledgeable confused with intelligent",
+     "ids": [
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#3",
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in.md#1",
+      "david-krakauer/by/2022--the-debate-over-understanding-in-ai-s.md#4",
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in-0606.md#51",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#8",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#32"
+     ]
+    },
+    {
+     "query": "science of stupidity, errors humans can no longer detect",
+     "ids": [
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#5",
+      "david-krakauer/by/2026--the-biophysics-of-paradigm-change.md#3",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#21",
+      "david-krakauer/by/2015--ingenious-david-krakauer.md#6",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#20",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#15"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 272,
+   "role": "convener",
+   "i": 2,
+   "ts": "22:37:32"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 0,
+ "done": true
+}

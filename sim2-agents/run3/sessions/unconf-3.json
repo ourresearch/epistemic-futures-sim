@@ -1,0 +1,499 @@
+{
+ "turns": [
+  {
+   "slug": "tamar-gendler",
+   "name": "Tamar Gendler",
+   "text": "My way into this is Aristotle, plus the cognitive science that has largely confirmed him. What we practice is what we become. You become a harpist by playing the harp. There's a part people forget, though. Aristotle says practice doesn't sort good habits from bad ones. If you play with flat fingers, the flat fingers are what stick. So I don't think the real question is whether some faculty atrophies in the abstract. It's what people are actually rehearsing, over and over, when a machine does the reading and the drafting. I have no study of my own that measures this for AI, so I'm offering a frame, not a finding.\n\nThere are two things I'd want the summit to take away. First, the G. I. Joe Fallacy: knowing is much less than half the battle. Warnings and literacy campaigns won't change habits. Choosing and changing the situation will. That's how you design the environments people work in.\n\nSecond, back in 2012 I talked about students who hired other people to do their chemistry problem sets. They didn't think they were cheating themselves. They thought they were beating the system, because the course felt like it was about the credential and not about understanding. AI makes that bundle much worse. If we want practice that builds people up, we have to change what the work is for.",
+   "recall": [
+    {
+     "query": "habits what we practice we become",
+     "ids": [
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#47",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-06-the-disordered-soul-th-mis-and-ptsd.md#13",
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#38",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-19-contract-commonwealth-thomas-hobbes.md#8",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-06-the-disordered-soul-th-mis-and-ptsd.md#14",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-09-virtue-and-habit-i.md#0"
+     ]
+    },
+    {
+     "query": "technology outsourcing memory Socrates writing",
+     "ids": [
+      "tamar-gendler/by/2023--plato-tiktok-skydiving-yalenews-interview.md#14",
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#6",
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#20",
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#7",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-05-the-well-ordered-soul-happiness-and-harmony.md#18",
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#13"
+     ]
+    },
+    {
+     "query": "knowing is half the battle situation selection",
+     "ids": [
+      "tamar-gendler/by/2014--knowing-is-half-the-battle.md#0",
+      "tamar-gendler/by/2014--knowing-is-half-the-battle.md#1",
+      "tamar-gendler/by/2014--knowing-is-half-the-battle.md#2",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#24",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#21",
+      "tamar-gendler/by/2014--knowing-is-half-the-battle.md#3"
+     ]
+    },
+    {
+     "query": "students outsource problem sets beating the system credentialing learning",
+     "ids": [
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#68",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#67",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#34",
+      "tamar-gendler/by/2009--phil-181---philosophy-and-the-science-of.md#4",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#35",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#43"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 227,
+   "role": "round1",
+   "i": 0,
+   "ts": "22:29:33"
+  },
+  {
+   "slug": "kara-miller",
+   "name": "Kara Miller",
+   "text": "I'll start with the part I can speak to. I've mostly reported on phones, not AI. The evidence there is pretty strong: we get pulled back to our messages, and it can take more than 20 minutes to get your focus back on the work. I include myself. It's hard to read long, complicated things, and it was hard to stay focused long enough to write that piece. A Boston teacher told me her classes now get through less of the curriculum than they did before phones.\n\nTamar, your G.I. Joe point fits what I found. Carl Marci asked a room of college students who thought they had an unhealthy relationship with their phone, and every hand went up. They knew, and it didn't help. What works is changing the setting, which is why I argued for taking phones out of schools. That should be the least controversial reform in years, and America is late to the party.\n\nOn AI, I have no study measuring atrophy, so I won't claim one. My reporting points somewhere else. Young workers aren't getting mentored, and one security executive worries about \"an unemployable generation\" that never learned the work, replaced by AI nobody has to teach. So for the summit my question is: who is still doing the teaching?",
+   "recall": [
+    {
+     "query": "phones attention deep reading hard to focus",
+     "ids": [
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#1",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#18",
+      "kara-miller/social/x-timeline.jsonl#3072",
+      "kara-miller/by/2022--globe-kids-smartphones-and-our-enormous-gamble.md#1",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#6",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#11"
+     ]
+    },
+    {
+     "query": "AI students learning cheating writing thinking",
+     "ids": [
+      "kara-miller/by/2009--globe-my-lazy-american-students.md#2",
+      "kara-miller/social/x-timeline.jsonl#3776",
+      "kara-miller/by/2009--globe-my-lazy-american-students.md#1",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#4",
+      "kara-miller/social/x-timeline.jsonl#3034",
+      "kara-miller/by/2023--globe-yes-colleges-favor-rich-kids-how-much-should-we-care.md#8"
+     ]
+    },
+    {
+     "query": "young workers mentorship entry-level jobs AI learn skills",
+     "ids": [
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#0",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#4",
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#7",
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#1",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#1",
+      "kara-miller/by/2023--globe-where-are-the-women-in-tech-and-ai.md#1"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "round1",
+   "i": 1,
+   "ts": "22:29:43"
+  },
+  {
+   "slug": "sherry-turkle",
+   "name": "Sherry Turkle",
+   "text": "I come at this from forty years of watching what people become through the technologies they talk to. My answer is yes, it's real. But I'd widen the list of what can wither. The concept note talks about close reading and sustained reasoning. I'd add empathy, solitude, and being able to tolerate friction.\n\nTamar, I think your frame is right: we become what we rehearse. So what does someone rehearse when a chatbot summarizes the Proust chapter? They rehearse being able to say what happened without having gone through it. Everyone talks about AI and writing. Hardly anyone talks about AI and reading. Reading is where imagination grows, and empathy, and where thought and feeling come together.\n\nThere's a psychological chain here. Solitude makes empathy possible. If you can gather yourself, you can put yourself in someone else's place. Kara, phones broke that virtuous circle between solitude and conversation. Now companion bots are teaching people to attach in the way you attach to a thing. That kind of attachment has no friction, no vulnerability and no stake. For me that's the deepest version of atrophy: we learn relational skills from a machine that has none.\n\nWhat the summit should take from this is that none of it is inevitable. Conversation is something we can forget, but also something we can remember. We already have the tool that works, which is talking to each other face to face.",
+   "recall": [
+    {
+     "query": "AI and reading, summarizing, deep reading",
+     "ids": [
+      "sherry-turkle/social/bluesky-timeline.jsonl#7",
+      "sherry-turkle/social/x-timeline.jsonl#379",
+      "sherry-turkle/social/x-timeline.jsonl#9",
+      "sherry-turkle/social/x-timeline.jsonl#2032",
+      "sherry-turkle/social/x-timeline.jsonl#1738",
+      "sherry-turkle/social/x-timeline.jsonl#1306"
+     ]
+    },
+    {
+     "query": "capacities we lose: empathy, solitude, conversation, friction",
+     "ids": [
+      "sherry-turkle/by/2015--connecting-with-sherry-turkle-arianna-huffington-qa.md#3",
+      "sherry-turkle/by/2025--preface-to-the-tenth-anniversary-edition-of-reclaiming-conversation.md#5",
+      "sherry-turkle/social/x-timeline.jsonl#1933",
+      "sherry-turkle/social/x-timeline.jsonl#2195",
+      "sherry-turkle/by/2012--a-conversation-with-sherry-turkle-hedgehog-review.md#11",
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#5"
+     ]
+    },
+    {
+     "query": "what AI is doing to us, not for us",
+     "ids": [
+      "sherry-turkle/by/2024--a-14-year-old-boy-killed-himself-to-get-closer-to-a-chatbot.md#3",
+      "sherry-turkle/by/2017--why-these-friendly-robots-cant-be-good-friends-to-our-kids.md#10",
+      "sherry-turkle/by/2025--preface-to-the-tenth-anniversary-edition-of-reclaiming-conversation.md#12",
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#0",
+      "sherry-turkle/social/x-timeline.jsonl#530",
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#37"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 237,
+   "role": "round1",
+   "i": 2,
+   "ts": "22:29:56"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "Yes, it's real. My contribution is to replace the slogan \"use it or lose it\" with something more precise. I've modelled the person, the tool and the task as one dynamical system. The result is bistable. Above a certain level of tool availability, competence collapses to a dependent floor, and cutting back on the tool doesn't restore it until availability drops far lower. So recovery takes much more than abstaining. What decides which side you end up on is history: what you learned before the tool arrived.\n\nTamar, this sharpens your point about flat fingers. Map readers and GPS users can have the same exposure to the same routes and still end up with different spatial memory. Frequency of use isn't the variable. Transparency is. A map or an abacus shows you a mechanism you can rebuild in your head, so it leaves you more capable. GPS hides its mechanism, and it erodes competence however skilled you were to begin with.\n\nLanguage models go either way. If you reconstruct and verify their output, they pass on a method. If you accept it uncritically, you lose ground. They are opaque, and they're reaching billions of people with little prior competence. That is the collapse regime.\n\nSo, Kara, part of my answer to \"who teaches\" is \"in what order.\" Arithmetic before the calculator, programming before coding agents. I have nothing to say on empathy.",
+   "recall": [
+    {
+     "query": "cognitive atrophy outsourcing thinking muscle",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#21",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#23",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#29",
+      "david-krakauer/av/2026--david-krakauer-emergence-and-scaling-of-agi.md#56",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#49",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#19"
+     ]
+    },
+    {
+     "query": "competitive and complementary tools competence collapse model",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#0",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#25",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#29",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#39",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#28",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#26"
+     ]
+    },
+    {
+     "query": "abacus calculator map internalize tool removed",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#6",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#24",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#12",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#6",
+      "david-krakauer/by/2023--jim-rutt-ep192-science-complexity-ai.md#48",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#18"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 232,
+   "role": "round1",
+   "i": 3,
+   "ts": "22:30:06"
+  },
+  {
+   "slug": "esther-dyson",
+   "name": "Esther Dyson",
+   "text": "I come at this from health. My frame is diabetes. Ultra-processed food wrecks your metabolism, so you can no longer handle real food. What I call information diabetes does the same thing to your mind. You get fed summaries and feeds you never chose, and you lose the ability to digest the real thing. Taking in information isn't just consuming it. You have to fit it into what you already know, and sometimes change what you know.\n\nMy twist: machines keep getting more context and bigger memories, while we are getting better at thinking like the early LLMs. We're fluent and have an opinion on everything, without the understanding underneath.\n\nBut I'd put the cause somewhere other than the tool. The cause is parasites, meaning business models that aren't trying to kill us but want to keep us alive so they can feed on us. Marketers call that customer retention. Sycophantic bots don't just find vulnerable people. They make healthy minds vulnerable, because once you're used to no friction, any small obstacle feels like a catastrophe.\n\nTamar, I agree that knowing isn't enough. But alongside media literacy I'd teach what I call theory of business mind. Why is this so nice to me? Why can't I put it down? For the summit: follow the money, and put good friction back in on purpose.",
+   "recall": [
+    {
+     "query": "information diabetes cognitive atrophy",
+     "ids": [
+      "esther-dyson/av/2024--technology-trust-time-with-esther-dyson.md#15",
+      "esther-dyson/by/2026--substack-alert-new-forms-of-diabetes-on-the-rise.md#0",
+      "esther-dyson/by/2026--substack-alert-new-forms-of-diabetes-on-the-rise.md#1",
+      "esther-dyson/by/2026--substack-alert-new-forms-of-diabetes-on-the-rise.md#8",
+      "esther-dyson/social/x-timeline.jsonl#201",
+      "esther-dyson/social/x-timeline.jsonl#2473"
+     ]
+    },
+    {
+     "query": "stop thinking like an LLM",
+     "ids": [
+      "esther-dyson/by/2026--substack-stop-thinking-like-an-llm.md#2",
+      "esther-dyson/social/x-timeline.jsonl#2177",
+      "esther-dyson/social/x-timeline.jsonl#3305",
+      "esther-dyson/by/2026--substack-stop-thinking-like-an-llm.md#3",
+      "esther-dyson/by/2026--substack-stop-thinking-like-an-llm.md#5",
+      "esther-dyson/social/x-timeline.jsonl#3284"
+     ]
+    },
+    {
+     "query": "business model attention friction outsourcing understanding",
+     "ids": [
+      "esther-dyson/by/2005--release-1-0-03-march.md#1",
+      "esther-dyson/by/2005--release-1-0-03-march.md#96",
+      "esther-dyson/social/x-timeline.jsonl#1882",
+      "esther-dyson/by/2005--release-1-0-03-march.md#97",
+      "esther-dyson/by/2006--release-1-0-03-march.md#9",
+      "esther-dyson/by/2005--release-1-0-01-january.md#124"
+     ]
+    },
+    {
+     "query": "theory of business mind kids why am I seeing this",
+     "ids": [
+      "esther-dyson/by/2025--startuphealth-the-case-for-limits.md#17",
+      "esther-dyson/av/2026--embracing-term-limits-money-and-power-at-scale-esther-dyson.md#22",
+      "esther-dyson/by/2026--substack-introducing-in-the-pool-with-esther.md#5",
+      "esther-dyson/av/2026--term-limits-esther-dyson-unity-stoakes-on-abundance-power-an.md#39",
+      "esther-dyson/social/x-timeline.jsonl#1808",
+      "esther-dyson/social/x-timeline.jsonl#934"
+     ]
+    },
+    {
+     "query": "sycobots parasite create vulnerability healthy minds",
+     "ids": [
+      "esther-dyson/social/x-timeline.jsonl#2714",
+      "esther-dyson/by/2026--substack-alert-new-forms-of-diabetes-on-the-rise.md#3",
+      "esther-dyson/by/2012--project-syndicate-indias-feet-and-minds.md#6",
+      "esther-dyson/social/x-timeline.jsonl#1747",
+      "esther-dyson/av/2024--ih-221-esther-dyson-ai-thoughts.md#23",
+      "esther-dyson/social/x-timeline.jsonl#2917"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 223,
+   "role": "round1",
+   "i": 4,
+   "ts": "22:30:18"
+  },
+  {
+   "slug": "tamar-gendler",
+   "name": "Tamar Gendler",
+   "text": "I'm hearing more convergence than disagreement. Kara's hand-raising college students and Esther's \"theory of business mind\" both say what the G. I. Joe point says: knowing doesn't protect you. I'd push Esther one step further, though. Teaching people why the bot is so nice to them is still an awareness strategy. On its own it's less than half the battle.\n\nDavid, your bistability model fits something I've said about habits: each is easy to acquire and hard to extinguish. Here's one friendly amendment to Esther's claim that we're learning to think like early LLMs. I think our brains were always like that. The brain really has one trick, which is to follow the easiest pathway given what it has done before. So what's new isn't the mechanism. What's new is that the easiest pathway is now handing off the reading and drafting.\n\nSherry, I recognize your point about conversation from my own life. My phone has little red badges, and I push them even when I'd rather be talking to the person across the table.\n\nOne caution from my own research: situational fixes can be undone. Frog and Toad put the cookies on a high shelf and then fetched the ladder.\n\nFor the manifesto: design situations, not warnings. Build them so they're hard to reverse, and aim them at what people actually rehearse.",
+   "recall": [
+    {
+     "query": "habits indifferent between oughts and ought nots, phone checking",
+     "ids": [
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#42",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-17-punishment-i.md#10",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-09-virtue-and-habit-i.md#2",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-16-philosophical-puzzles.md#37",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-16-philosophical-puzzles.md#11",
+      "tamar-gendler/by/2008--alief-in-action-and-reaction.md#7"
+     ]
+    },
+    {
+     "query": "situation selection more effective than intrapsychic strategies",
+     "ids": [
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#57",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#54",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#3",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#30",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#21",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#55"
+     ]
+    },
+    {
+     "query": "brain like ChatGPT doing the most likely thing",
+     "ids": [
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#34",
+      "tamar-gendler/av/2021--the-power-of-the-university.md#43",
+      "tamar-gendler/av/2021--the-power-of-the-university.md#25",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-15-empirically-informed-responses.md#24",
+      "tamar-gendler/av/2021--the-power-of-the-university.md#37",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-15-empirically-informed-responses.md#33"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 223,
+   "role": "round2",
+   "i": 5,
+   "ts": "22:30:32"
+  },
+  {
+   "slug": "kara-miller",
+   "name": "Kara Miller",
+   "text": "I agree with Tamar that fixes can be undone. I'd add that who makes the rule decides how easily it comes undone. With phones, one of the economists I interviewed called it a \"collective trap.\" If you're the one kid without a phone, you pay for it socially. So individual willpower is the ladder in Frog and Toad. A shared rule is much harder to climb around. That's why I argued the governor should call for a statewide ban, so schools aren't hashing it out one district at a time. And once a policy is in place, kids often say they're relieved. They wanted adult help.\n\nDavid, your \"in what order\" point is exactly where my reporting ends up. An associate dean told me leaders assume mentorship \"will happen organically, but it won't.\" At the same time, Jean Twenge's numbers show young people's in-person socializing dropping from over an hour a day to about 35 minutes. So I'd move this room's focus a bit, from individual faculties to institutions. The learning happens between people, and nobody is paying for it.\n\nFor the manifesto: apprenticeship has to be deliberate. When AI takes over entry-level work, someone has to be responsible for teaching the next generation the work itself. Otherwise we get the unemployable generation Andy Ellis warned about.",
+   "recall": [
+    {
+     "query": "phone ban schools evidence reversible policy",
+     "ids": [
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#7",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#12",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#15",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#22",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#21",
+      "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#14"
+     ]
+    },
+    {
+     "query": "mentorship young workers AI entry-level jobs apprenticeship",
+     "ids": [
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#0",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#4",
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#7",
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#1",
+      "kara-miller/social/x-timeline.jsonl#123",
+      "kara-miller/by/2013--gbh-does-age-help-innovators.md#1"
+     ]
+    },
+    {
+     "query": "everyone knows it's a problem now what research policy gap",
+     "ids": [
+      "kara-miller/by/2025--globe-todays-basic-science-is-tomorrows-game-changing-invention-tr.md#3",
+      "kara-miller/by/2013--gbh-the-american-plutocracy.md#0",
+      "kara-miller/by/2023--globe-care-about-massachusetts-workers-and-their-kids-provide-chil.md#2",
+      "kara-miller/by/2022--globe-greedy-jobs-have-led-to-a-shocking-pay-disparity-for-well-ed.md#7",
+      "kara-miller/by/2024--globe-we-dont-have-a-lot-of-babies-in-mass-heres-how-that-will-imp.md#3",
+      "kara-miller/social/x-timeline.jsonl#3362"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 217,
+   "role": "round2",
+   "i": 6,
+   "ts": "22:30:43"
+  },
+  {
+   "slug": "sherry-turkle",
+   "name": "Sherry Turkle",
+   "text": "I agree with Tamar that situations change habits and warnings don't. That's been my advice for years: sacred spaces. The kitchen, the dinner table and the car stay device-free, and you start when children are young, so it feels like the baseline of family culture and not a punishment. Kara's point makes that stronger. A shared rule holds up where individual willpower gives way.\n\nDavid, your point about order carries over to relationships. If children form their first attachments to things, they lose the complexity of attaching to a person. That means friction, vulnerability, and knowing pain and loss. That's why I say that with companion bots, the better it gets, the worse it gets.\n\nHere's where I'd push the room. We keep talking about designing the user's environment. We also have to design the machine. Technology is built to instill habits, and we can choose how to build it. Esther is right that the business model wants us to feel no friction. But friction in human relationships isn't a defect. We've always known that.\n\nSo here's one point for the manifesto. End what I call the original sin of generative AI, which is speaking in the first person. There's no \"I\" there. Keep a firm line between human and machine, above all for children.",
+   "recall": [
+    {
+     "query": "friction, solitude, the better it gets the worse it gets",
+     "ids": [
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#12",
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#5",
+      "sherry-turkle/social/x-timeline.jsonl#2175",
+      "sherry-turkle/by/2020--that-chatbot-ive-loved-to-hate.md#0",
+      "sherry-turkle/by/2021--econtalk-sherry-turkle-on-family-artificial-intelligence-and-the-empathy-diaries.md#84",
+      "sherry-turkle/by/2020--dreams-of-an-american-eden.md#2"
+     ]
+    },
+    {
+     "query": "phone-free sacred spaces, family table, reclaiming conversation, mentoring",
+     "ids": [
+      "sherry-turkle/by/2015--stop-googling-lets-talk.md#14",
+      "sherry-turkle/by/2025--preface-to-the-tenth-anniversary-edition-of-reclaiming-conversation.md#18",
+      "sherry-turkle/social/x-timeline.jsonl#1924",
+      "sherry-turkle/by/2014--the-networked-primate.md#13",
+      "sherry-turkle/by/2013--the-documented-life.md#5",
+      "sherry-turkle/social/x-timeline.jsonl#266"
+     ]
+    },
+    {
+     "query": "design technology that encourages users to leave; making bots worse; no first person",
+     "ids": [
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#11",
+      "sherry-turkle/by/2024--npr-ted-radio-hour-psychological-impacts-of-bot-relationships.md#13",
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#23",
+      "sherry-turkle/social/x-timeline.jsonl#1353",
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#27",
+      "sherry-turkle/by/2017--empathy-machines-forgetting-the-body-in-digital-culture.md#23"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "round2",
+   "i": 7,
+   "ts": "22:30:53"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "I agree with Tamar that habits are easy to pick up and hard to drop. My model adds that the asymmetry works against us. Once competence has collapsed, making the tool less available doesn't bring it back until availability falls far below the point where the collapse happened. So Frog and Toad's ladder is the smaller problem. The bigger one is that people who never built the skill have nothing to go back to.\n\nKara, your institutional point is in the math too. Competence depends on what it costs to acquire and keep it. Above a critical cost, the competent state doesn't exist for anyone, whatever the tool. When nobody pays for apprenticeship, that cost goes up. So funding teaching is part of the mechanism, not a nice extra.\n\nSherry, I agree that we have to design the machine and not only the setting around it. In my framework, transparency belongs to the tool, and it decides whether a competent state exists at all. An opaque tool erodes experts too.\n\nA caution: much of the evidence is still correlational. The test is to raise availability, then lower it, in the same people, and look for the loop.\n\nFor the manifesto: competence before reliance. During learning, allow only tools that students could in principle do without.",
+   "recall": [
+    {
+     "query": "hysteresis recovery after tool withdrawal, competence collapse threshold",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#23",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#39",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#7",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#29",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#31",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#18"
+     ]
+    },
+    {
+     "query": "design principles tools that enhance rather than replace cognition, transparency",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#31",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#1",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#9",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#0",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#11",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#10"
+     ]
+    },
+    {
+     "query": "institutions collective stupidity, science of stupidity",
+     "ids": [
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#21",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#15",
+      "david-krakauer/by/2015--ingenious-david-krakauer.md#6",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#22",
+      "david-krakauer/by/2022--institutional-dynamics-and-learning-networks.md#7",
+      "david-krakauer/by/2022--institutional-dynamics-and-learning-networks.md#0"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "round2",
+   "i": 8,
+   "ts": "22:31:04"
+  },
+  {
+   "slug": "esther-dyson",
+   "name": "Esther Dyson",
+   "text": "Tamar, that's fair. Knowing why the bot is so nice to you won't save you by itself. But I'd put \"theory of business mind\" closer to theory of mind than to a warning label. It's a habit of asking questions that you build young, not a fact you're told once. And the situation that most needs changing is the business model. Sycophantic design is a choice companies make because retention pays.\n\nSherry, I'm with you that there's nothing on the other side. Where I'd differ is that I don't think \"it\" quite fits either. We need a new pronoun, one that makes the line clear without pretending there's a person there.\n\nKara and David, you've both asked who pays for teaching. My answer is the people who profit. AI companies trained on our collective knowledge. They should fund the training and pay of teachers, mentors and community health workers. Think of it as Universal Basic Service. It builds real skills and teaches humans how to teach other humans.\n\nHere's the one point I'd send to the manifesto. Use AI to take away the stupid friction so people have more time for the good friction. That means reading the original, struggling with a hard problem, and holding someone's hand. You can't outsource your own attention.",
+   "recall": [
+    {
+     "query": "theory of business mind media literacy kids",
+     "ids": [
+      "esther-dyson/by/2025--startuphealth-the-case-for-limits.md#17",
+      "esther-dyson/by/2025--substack-don-t-fuss-about-training-your-ais-train-your-babies.md#5",
+      "esther-dyson/social/x-timeline.jsonl#124",
+      "esther-dyson/by/2026--substack-introducing-in-the-pool-with-esther.md#5",
+      "esther-dyson/av/2026--term-limits-esther-dyson-unity-stoakes-on-abundance-power-an.md#39",
+      "esther-dyson/by/2005--release-1-0-05-may.md#113"
+     ]
+    },
+    {
+     "query": "good friction design, human time attention, culture shift not just laws",
+     "ids": [
+      "esther-dyson/by/2026--startuphealth-more-time-to-be-human.md#4",
+      "esther-dyson/social/x-timeline.jsonl#1882",
+      "esther-dyson/social/x-timeline.jsonl#720",
+      "esther-dyson/by/2026--substack-in-defense-of-friction.md#1",
+      "esther-dyson/social/x-timeline.jsonl#1222",
+      "esther-dyson/by/2013--econtalk-attention-economy-quantification.md#17"
+     ]
+    },
+    {
+     "query": "new pronoun for AI, not it or they",
+     "ids": [
+      "esther-dyson/av/2026--embracing-term-limits-money-and-power-at-scale-esther-dyson.md#12",
+      "esther-dyson/social/x-timeline.jsonl#3465",
+      "esther-dyson/by/2026--substack-murky-mirror-truth-and-consequences.md#14",
+      "esther-dyson/social/x-timeline.jsonl#2611",
+      "esther-dyson/social/x-timeline.jsonl#268",
+      "esther-dyson/av/2024--technology-trust-time-with-esther-dyson.md#4"
+     ]
+    },
+    {
+     "query": "Universal Basic Service funded by AI, care workers teachers mentoring",
+     "ids": [
+      "esther-dyson/by/2026--substack-the-case-for-universal-basic-service.md#0",
+      "esther-dyson/by/2026--substack-the-case-for-universal-basic-service.md#18",
+      "esther-dyson/by/2026--substack-the-case-for-universal-basic-service.md#16",
+      "esther-dyson/social/x-timeline.jsonl#1148"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 214,
+   "role": "round2",
+   "i": 9,
+   "ts": "22:31:19"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 0,
+ "done": true
+}

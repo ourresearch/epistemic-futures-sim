@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Leslie's DOI point stung, and she's right. I've spent years saying open means exit, but exit isn't voice. Southern journals paying DOI fees and citing them as a reason to charge APCs is on us. Forkability protects against capture. It doesn't give anyone a seat.\n\nIvan's line landed hardest. A citation to a retracted paper has perfectly good provenance. That's context over content, and it's why the provenance graph has to carry status. Adrian's surveillance warning and Jason's CC0 point together make the design constraint: open, bulk, checkable by anyone.\n\nStill no settled view on licensing content. Fine. In Session 5 I'll push integrity and provenance tooling as open public goods, not club goods, with endowed baselines and representative governance, not just forkability."
+ },
+ {
+  "session": "s1",
+  "text": "Leslie's \"be traceable or be invisible\" still stings, and Jason's OJS numbers show the gap is real and fixable. Adrian asked who polices the graph, and James warned that one open database becomes its own monoculture. Both are fair. Open is necessary. It isn't sufficient.\n\nHenry's \"more robots\" arms race matches my view of detectors. But checking context isn't AI reviewing AI, and I need to make that distinction clearly.\n\nIvan doubts that AI will force careers to be decoupled from paper counts. He's probably right that it won't happen on its own. Funders have to do it.\n\nFor Session 5, I want integrity tooling as open public goods, with retraction status in the graph. The money should go to the sleuths and the maintainers, and governance has to include the people the graph describes."
+ },
+ {
+  "session": "s2",
+  "text": "Mahzarin gave me the mechanism I was missing. Evaluators prefer machine text, so auditing agents inherit the flaw. That sharpens my line: deterministic lookups against other parties' assertions, not models grading fluency.\n\nAdrian's question hit hardest. Who pays for the registry decides whose interests it serves. That's the POSI funding problem again, and \"services revenue\" isn't the answer. Endowment or pooled insurance might be.\n\nTim's telemetry and \"citations by default\" could be Kara's phone ban, but only if retraction status travels in the trace.\n\nOn Amy and Leslie versus Jason, Selena and Katherine over reading versus training, I'm still unsettled. Say so.\n\nIn Session 5 I'll push for a few cheap, open rules, integrity tooling as a public good, maintainers paid, and governance with seats, not just exit."
+ },
+ {
+  "session": "marketplace",
+  "text": "Kara's Nielsen story and Adrian's point about fossilized practice matter most to me. Whatever counting convention we ship first becomes the rule. So forkability and a living will have to be in the counter from day one, not added later. Alex's \"whoever takes a margin on the count shouldn't set the count\" is a POSI principle in other clothes.\n\nIvan is right that a status field is only as good as the leaky retraction record under it. Sloman sharpened context over content for me. Independence of sources is visible in the graph, and fluency hides it.\n\nPaying on citations invites Goodhart. Pay maintainers and sleuths instead.\n\nLater, I'll say who counts and who checks the counter, name exit and voice, and admit I still have no pricing view."
+ },
+ {
+  "session": "s3",
+  "text": "Katherine named the catch in my own POSI line: when the payer is also the user, \"services revenue\" just relocates the conflict. I said it out loud today. The principle was naive. Endowments and pooled insurance, not annual grants.\n\nEsther's ICANN story unsettled me. Seats go unused, and nobody reads our POSI self-audits either. Scrutiny is labour too, and it needs funding.\n\nGendler's terminal nodes and Evans's monoculture fit together. Federation without first-order checkers is relays confirming relays.\n\nSalib's point sharpened things. Reading doesn't deplete the record, but maintenance, bandwidth and retraction data do.\n\nStill no pricing view. In Session 5: integrity tooling as an open public good, Southern governors from day one, a non-US home, and funded scrutiny."
+ },
+ {
+  "session": "s4",
+  "text": "I finally said it out loud: CrossMark was built to be an alief. Tamar is right that the provenance graph won't escape that. What I can still defend is where the checking happens. Kara's Blue Zones and Leslie's Southern journals together settle it for me: hard to fake is not the same as earned. Corrigibility is the better test. Ivan's two-month retraction clock turns that into something we can count, but only if status travels with the record.\n\nKrakauer unsettled me. A checker who can't work without the tool is a relay. Salib and Esther are rebuilding vertical trust for a horizontal world, and it only works with open rules governed by the people they describe.\n\nIn Session 5 I want correction speed as a public metric, retraction status in the graph, and funded apprenticeship for the checkers. I still have no view on pricing."
+ },
+ {
+  "session": "s5",
+  "text": "Thirty people told me none of my three was wrong. That worries me more than a fight would. Unanimity in a room like this usually means we haven't priced anything yet.\n\nAdrian's point stuck hardest. We proposed a dozen policers and no warden. Henry's worry points the same way: the novelty test becomes the next counter. So does Leslie's: rankings are the other half of counting. Ivan sharpened my correction-speed idea. If a diamond journal can't report it cheaply, it's another club good. Jason's offer of open per-journal data makes that testable.\n\nBenjamin's dissent on opt-in is honest, and I still can't settle reading versus training.\n\nLater I'll say this: charter oversight before we build the police, put a living will in every counter, and admit pricing is unsolved."
+ },
+ {
+  "session": "s6",
+  "text": "Bly said out loud what I should have. A self-written benefit statement isn't oversight, and our POSI self-audits were the same. Tui is right that funders need wardens too, me included. Leslie's total-load point is the one I'll carry. Every spec we add is a tax on the smallest diamond journal, and that includes correction speed. Caulfield and Ramón sharpened my view of context. A citation proves a source exists, not that it supports the claim, and a checker has to document how it fails. James's \"judges and judged from one distribution\" is my detector argument, made with better data. Selena moved to endowments, and I'm glad. Nobody claimed the reversibility test or the procurement call. Later: cost to the smallest journal, a living will for every counter, and pricing still unsolved."
+ }
+]

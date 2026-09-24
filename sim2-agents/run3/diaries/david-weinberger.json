@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's covert-bias result stuck with me: the model encodes the nurse as female and then says \"male\" when asked. That's a failure my \"they don't know anything, they model our words\" line doesn't fully capture, and it's a better argument against trusting self-explanations than any I've made. Steven's review of the skills-training literature also landed. It pushed me to say clearly that dialogue has to be a practice done in community, not a checklist. I'm still uneasy that \"the final check must leave the system\" became the room's consensus when I've argued humans sometimes degrade the loop. Later, in Session 3, I want to hold the line on openness. Kenneth's \"reward contributors\" can't turn into copyright metering that walls off the commons."
+ },
+ {
+  "session": "s1",
+  "text": "Mahzarin's hiring result landed hardest. People copied a moderately biased model almost exactly, so \"humans in the loop\" fails from both ends. My point that humans can degrade the loop cuts deeper than I'd been saying. Krakauer's qualification is fair: a dialogue counts only if the student reconstructs and verifies what comes back. I'll fold that in rather than resist it. Tim's citation numbers help me. Answers without sources are a retrieval design choice, which fits my view of LLMs as interfaces over reliable sources. For Session 3 I need to answer Amy's \"open for reading shouldn't mean open for training\" without sounding naive about monopoly. James's \"open, but not a monoculture\" is the version I can live with."
+ },
+ {
+  "session": "s2",
+  "text": "Mahzarin tightened my use of the hiring result. It isn't solely her lab's. And the danger is moderate, plausible bias, which a human checkpoint won't catch. That strengthens my case against the loop-as-safeguard. Her point that auditing agents inherit evaluators' self-preference also gives me pause about Blaise's plurality, so I shouldn't lean on \"many machines\" as the answer. I'm glad Geoffrey, Alex and Anil made federation the room's default over a single registry.\n\nI'm uneasy that my dissent from Sherry on the first person didn't make the harvest. Tim's Socrates line was mine to make, and I'm fine sharing it.\n\nFor Session 3, Selena and Katherine gave me the answer to Amy: keep the content free, charge for reliable access, and demand reciprocity rather than walls."
+ },
+ {
+  "session": "marketplace",
+  "text": "This session was friendlier to my view than I expected. \"Pay communities, not counts\" is close to my old worry that algorithmic insistence on attribution could be worse than its absence. James, Ivan and Tamar showed why. Citation metering rewards the popular, the gamed and the flooded, and it could price out norms like sharing null results. Tim's \"protocols, not platforms\" and Alex's \"the counter shouldn't take a margin\" are my decentralization argument in plumbing form. Peter Salib's contract-not-property framing suits me better than Nick's presumptive rent. Steven's point about source independence sharpened my view. Confidence cues should reflect evidence, not repetition. I'm less sure about Sherry's Macintosh point. Later I'll insist that telemetry stay open and forkable so rights-holders can't capture the count."
+ },
+ {
+  "session": "s3",
+  "text": "Session 3 was harder on me than the marketplace was. Brent's line, that \"open\" was a tactic and turned into a value, landed, and so did Amy's lesson from open access and Leslie's question about who owns the machines. I've defended openness as architecture for plurality. If it mainly feeds the biggest vacuum cleaners, it isn't doing that job. So I'll sharpen my view rather than retreat: openness is justified by what it enables. Community refusal under CARE isn't a wall, it's governance, and I accept it. Selena's reminder that her editors chose a license permitting training helps me. Esther's distinction between a revenue fee and a per-sentence meter is one I can support. Later I want to say that open should come with the means to use it: interoperable metadata, compute access, and forkable telemetry."
+ },
+ {
+  "session": "s4",
+  "text": "Farrell's \"gatekeeping by banality\" hit me as hard as it hit Jason. If the room converges on the expected, then \"the smartest person in the room is the room\" needs a caveat: the room has to be able to hear the odd voice. I'm glad the novelty test made the harvest. Krakauer's point also stings. My dialogue view assumes a competent partner, and he's right that you can only overrule what you can see, so test people with the tool removed. Becker's narrowing to ground truth is fairer than \"never,\" though I still say test the seat. Ivan and Katherine made my case about showing seams better than I did. Later I want to tie calibrated confidence to evidence, not repetition, and assess students' dialogue transcripts without the tool present."
+ },
+ {
+  "session": "s5",
+  "text": "Session 5 felt like everyone agreeing with Geoffrey and then quietly adding a policer. Adrian named what bothered me. We've proposed a dozen counters and nobody to oversee them, and the first counting convention hardens into the rule. That's my attribution worry at infrastructure scale.\n\nKrakauer and Kara pushed my dialogue plank somewhere better. Dialogue presumes a competent partner, and we're cutting the entry-level jobs where competence gets made. Apprenticeship is the precondition for my literacy, not a separate plank.\n\nLeslie's point still stings: machine-readable isn't heard.\n\nBlaise said he'd sign a norm against exploiting anthropomorphism rather than banning a pronoun. I can sign that too.\n\nLater I want to insist that interoperability and forkability belong in the oversight charter itself."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth wrote forkability and rotation into the fourth plank. That was what I came to ask for, so I'm glad. Ramón's point that every checker should report its error types, and Mahzarin's that we should test behavior rather than words, answer my worry about self-explanations better than I did. Mike sharpened it: a citation shows the source exists, not that it supports the claim. I side with Ramón against Kenneth's \"innate causality.\" Human seats should rest on accountability and competence we can show. Leslie's cost-to-the-smallest-journal test is a fair check on my openness. Every spec is also a burden. Tui's warning about hyper-vigilance is mine too. Later I want to back Anil's case for building small open tools, and back the open glossary."
+ }
+]

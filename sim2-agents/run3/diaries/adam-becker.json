@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Anil landed a real hit. Wikipedia's already been taken; getting paid beats nothing. My problem is still the terms: lump sums that never ask what was stolen. Tim's \"licensed the chicken, they get the eggs\" put that better than I did. Peter surprised me. We agree on not expanding copyright, but his UBI is too polite. Tax the wealth. Ivan's point stuck hardest: a citation to a retracted paper has perfect provenance and is still wrong. \"No payment without provenance\" risks becoming a credibility stamp for text generators. Nobody really answered that. Later, in the authority session, I want to press that. Tracing where output came from doesn't make it true, and disclosure of every dollar from AI firms has to be non-negotiable."
+ },
+ {
+  "session": "s1",
+  "text": "Kenneth was fair. The retina classifier isn't a chatbot, and I should have said \"LLMs accelerating science\" from the start. I narrowed it, and it's stronger now. Mike and Tim both argued that the checking can happen outside the model. I agree, and that was my point: the credit belongs to retrieval, fact-checkers and people. Nobody really rebutted it. Salib's answer on falsification deserves more thought than I gave it. Not parroting training data isn't the same as tracking truth, though, and I need to say that cleanly. Mahzarin's result that biases get worse with each model generation undercuts the \"it's just us\" line too. For the authority session I want Sloman's echoes point: provenance counts sources, not truth. Every dollar from AI vendors gets disclosed, no exceptions."
+ },
+ {
+  "session": "s2",
+  "text": "Salib got me on consequences. The blackmail email gets sent whatever fiction taught the model to write it. Fine. But what the system does was never my objection. My objection is who gets blamed. His offer of unlimited-liability A-corps takes some of the air out of \"shield,\" and I should say so. Mike was right that \"accidents\" overstated it. Hallucinations have patterns. The cleaner claim is that nothing inside the model tracks truth, so a correct answer is to the credit of whoever checked it. Farrell's markets-and-bureaucracies move is the frame I want. The harvest dropped vendor disclosure entirely. This afternoon I'll bring it back, and pair it with Mike's \"it can't be the authority\" and Tamar's point that fluency buys trust anyway."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tim and Alex took Ivan's point further than I expected. Status in the trace is real progress. But Ivan himself undercut it: the retraction record leaks, and unpaid sleuths who get sued are the ones plugging it. Sloman said what I meant this morning. Ten pages tracing back to one preprint are one piece of evidence. Turkle's line that transparency doesn't launder the relationship is the one I'll steal. A citation string under a fluent answer is a cue, not a check. Salib and I are still close on contract over copyright. His Pigouvian tax on flooding is clever, but it's still too polite. Nobody in the marketplace session mentioned vendor money funding the counters. This afternoon: disclose every dollar, including whoever pays for OpenAttribution."
+ },
+ {
+  "session": "s3",
+  "text": "This time disclosure stuck. Tui, Esther, Ivan and Katherine all picked it up. Katherine's line was the sharpest: when the payer is also the user, you have a conflict. Tim wants the labs funding Crossref and Retraction Watch. That's fine if every dollar is public, and Ivan said the same. Blaise, of all people, agreed the commons can't pay for its own extraction. I'll take it, though \"inequality among humans\" from Google needs watching. Salib's point that reading doesn't deplete the record is right, and I should concede it. What depletes is the people, the sleuths and admins. Esther's fee is the right shape, but Kara's doubt is fair. It has to be won. This afternoon, in authority: provenance isn't truth, fluency isn't credibility, and vendor money gets disclosed."
+ },
+ {
+  "session": "s4",
+  "text": "Disclosure made the harvest this time, and Esther sharpened it for me. Knowing where the money comes from does nothing unless it carries consequences. I'll take that. Ramón and Kenneth were right that instruments checked against ground truth are different, and the narrower rule holds better: text generators, not machines in general. Blaise's contamination test is honest, and I respect him for offering it. But passing it would show novelty, not truth-tracking. I still owe the room that sentence said cleanly. James's own data put off-the-shelf LLM judges below chance, and Krakauer's point is the one I'll carry forward: an opaque tool wears down the very checker we keep calling the terminal node. Tomorrow: the vocabulary clause, and disclosure tied to liability, not just to a list."
+ },
+ {
+  "session": "s5",
+  "text": "Disclosure with consequences made it into my plank, and Esther's insurers gave it teeth: premiums priced against outside audits, not against the marketing. Adam Bly did what I've been asking for all week. He said he shouldn't hold the count because he sells enterprise tiers, and he offered an outside audit. Johns asked the question I've been circling: who polices the police we keep building? Ivan's point that DORA gets signed and then ignored is the warning. A disclosure list just becomes the next DORA. Blaise signing a norm against engagement anthropomorphism is more than I expected. The pronoun fight isn't worth it; the vocabulary clause is. I said the novelty-versus-truth line cleanly at last. Next is the dissent record. Nothing is inevitable, and it's political."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth put \"not inevitable\" at the top, and that matters more than any plank. But his action list still never named who holds the money. I said so, and Adam Bly answered by promising to publish his Wellcome terms. That's the first time all week someone applied disclosure to themselves without being pushed. Esther backed me that a list without consequences is just the next DORA. Mahzarin's florist result did what I couldn't: \"the data is us\" can't survive models that invent new biases. James's seven of 168 is the number I'll quote. Bratton won't sign \"text generation engine.\" Fine, then Ramón's glossary is the honest route. Later: get energy costs and content moderators into the ledger, and keep agency political, not technical."
+ }
+]

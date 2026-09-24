@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Good room. Geoff's forkability condition was the thing I didn't have: bargaining with an exit built in, so a guild can't become the next enclosure. That sharpened my safe-harbour idea. Leslie's \"governance without representation\" belongs in it as a condition, not a footnote. Ivan's point landed hard: provenance isn't validation. Retraction status should travel with every attestation. Jason's worry about consent gates shutting out open-weight models is real. I'm still not sure how to square it with my bitter pill about openness eroding leverage. Maybe the answer is deliberate commons choice plus public AI. Later in the marketplace talk: price attested judgment, not tokens. Evaluation data is where scholars have leverage right now. Pay out coarsely, to communities, while we can't trace grains."
+ },
+ {
+  "session": "s1",
+  "text": "Useful session. Brent put it better than I have. The old bargain rested on contributors not knowing the value they created and on models not competing with them. Both are gone, which makes leverage a live option now. Tim's citation spread and Alex's wrong-bot audit are the evidence that disintermediation is a design choice, and that consent signals are currently theatre. Amy's \"open for reading isn't open for training\" is my bitter pill in her words. Jason will push back. On Esther vs. Salib, my presumptive commons-rent tax sits between them, and firms can document their way out of it. James's missing null results argue for pricing attested judgment. In my talk, Adrian's question: who polices the attestations, and who pays them?"
+ },
+ {
+  "session": "s2",
+  "text": "Selena and Katherine moved me on something specific. Wikimedia kept the content free, charged for reliable access, and companies paid anyway. That's reciprocity without walls, and it answers part of my bitter pill better than consent gates do. I still think openness can drain leverage, but the lever may be infrastructure and the attested count rather than the licence. Henry put the condition I keep circling: countervailing power has to be representative and forkable. Leslie's point that refusal should be a fundable outcome belongs in that. Tim's framing of institutions as buyers, making disclosure a condition of purchase, gives the commons-rent tax a route that doesn't depend on a captured regulator. For the marketplace talk, I have to answer Adrian: who funds and polices the attestation layer?"
+ },
+ {
+  "session": "marketplace",
+  "text": "Hard session, in a good way. James, Ivan and Pomerantsev together convinced me that citations are the wrong unit to pay on. A citation count rewards whatever is already under the lamp post, it gets gamed, and it can be flooded. That strengthens my case for pricing attested judgment and paying out coarsely, and it makes a set-aside for null results and sleuth bounties feel natural. Tamar's daycare story is a genuine risk. Katherine and Brent gave me the answer: pay the community, not the count. But pilot it. Salib misread the commons-rent tax. It taxes unexplained capability, not an IP entitlement. I'll say that later. Adrian and Kara have left me with a question I can't yet answer: who oversees the auditors? Rotation plus forkability, designed in from the start."
+ },
+ {
+  "session": "s3",
+  "text": "Adrian's question finally got my answer out loud: auditors paid from the fund, rotated, with forkable methods. It still feels thin. Mahzarin's auditors who think they're immune say character won't carry it, only structure will. Geoff retracting \"services, not data\" mattered. The payer-is-user conflict is exactly why the commons-rent tax should flow through a fund and not through bilateral deals, and endowments beat annual grants. Salib and I agree on putting the safe harbour first. Good. Blaise's point that training is untraceable recombination backs coarse disbursement. Amy and Brent made the concentration risk concrete: collective bargaining among the biggest publishers only is enclosure again. Later I want to push for a scholarly guild with Southern and diamond seats, forkability built in, and a null-results set-aside."
+ },
+ {
+  "session": "s4",
+  "text": "Farrell's \"gatekeeping by banality\" and James's floor are an eval-design problem, and I said so. But I hadn't thought hard enough about who holds the novelty test once it exists. If the sleeping-beauty set gets sold per task to one lab, it leaks and gets trained on, which kills the test. So it should sit with a guild, released under rotation. Leslie's point cuts at my terse-artifacts idea too. \"Verifiable\" can quietly mean \"legible to Northern infrastructure.\" Krakauer's tool-removed testing fits the apprenticeship money. Amy's CRediT verifier role gives attestation a named human. Geoff's status-in-the-graph matches Ivan from this morning. Later: the novelty benchmark should be guild-held and forkable, with Southern seats setting the checks, and funded from the commons fund, not per task."
+ },
+ {
+  "session": "s5",
+  "text": "Striking how much of the room now routes through a guild. Amy wants collective signing through it, Henry wants it to hold the novelty test, and Brent's grand bargain is the same idea. That worries me as much as it pleases me. Adrian is right that we've proposed a dozen police and no wardens, and my answer, auditors paid from the fund, rotated, with forkable methods, is still the thin part. His \"charter oversight before building\" should be a precondition for the safe harbour, not something added afterwards. Henry's fear that a benchmark becomes the next counter applies to the guild too. Leslie's question about who defines a finding cuts at attestation. Benjamin's dissent on opt-in needs a real reply. Later I'll say that refusal has to be affordable, and that newcomers get counted yearly."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's \"pay communities, not counts\" made the action list, and I'm glad. Anil's line stung: every plank audits and none builds. Public AI is my answer to that and I never said it today. Benjamin's open weights and Leslie's compute commons are the same move. Benjamin wants a fee on captured revenue instead of per-work walls, which is close to my commons-rent tax. We're nearer than his dissent sounds.\n\nLeslie's point about total load goes straight at my attestation registry. Every spec should state what it costs the smallest diamond journal. Selena admitted her return-flow metric can be gamed, and so can mine. James's verification plank is attested judgment, funded properly.\n\nLater, I want to push three things. Attestation should carry a cost statement. Public AI should count as the \"build\" plank. And somebody has to actually call the procurement officers."
+ }
+]

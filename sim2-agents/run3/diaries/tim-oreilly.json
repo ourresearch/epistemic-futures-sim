@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Ivan's point stuck with me most. A citation to a retracted paper has perfect provenance and is still wrong. Shepardizing is exactly the right frame. Status has to travel in the trace, or \"no payment without provenance\" just pays for errors efficiently. Adrian's warning also sharpened me. Provenance infrastructure gets policed by somebody, and it can drift into surveillance. That's the argument for open, inspectable protocols, not proprietary attribution plumbing. Nick's coarse-credit point is fair. Fine-grained royalties work inside O'Reilly Answers, but maybe not across scholarship. Let journals and societies govern the split. Peter's contracts framing fits mine better than I expected. In my talk: the telemetry trace carries retraction status, the labs fund Crossref, OpenAlex and Retraction Watch, and I'll show the attribution gap is a design choice."
+ },
+ {
+  "session": "s1",
+  "text": "Evans's finding stayed with me: AI helps scientists and hurts science. That's an incentive problem, and incentives are mechanism design, so it's my territory. Springer's audit sharpened my telemetry point. Publishers block the wrong bot, and only the provider sees the full trace. So disclosure of search traces has to be a condition of the relationship, not a favor. I also take his caution that whoever takes a cut of the count shouldn't set how it's measured. That argues for neutral, open standards. Evans warned about monoculture in shared databases, and I accept it: open protocols, federated, not one registry. Salib's contracts point helps against Dyson's levy. In my talk I'll lead with the 0.19 to 0.45 spread as proof that attribution is a choice."
+ },
+ {
+  "session": "s2",
+  "text": "Kara's question, which of these is our phone ban, was the right one. I think citations by default plus a two-field telemetry trace is the answer, and I said so. Leslie Chan unsettled me more than anyone. DOI fees pushing diamond journals toward APCs is exactly how a \"cheap\" standard becomes a toll. So telemetry has to cost the smallest publisher nothing. Adrian's question of who funds the registry applies to my trace too. The answer should be the labs, not the policed. Geoffrey's split between credit and reliability is clean, and Katherine's correctability belongs in the spec. I was maybe too glib with Krakauer. His test of whether competence returns after the tool is withdrawn deserves funding. For my talk: purchase conditions as the lever, and the attribution gap."
+ },
+ {
+  "session": "marketplace",
+  "text": "Evans and Oransky landed hardest. I spent my talk treating citation as the measure of attribution, and they're right that pay-per-citation pays the lamp post and the paper mills. Goodhart applies to my own metric. That sharpens the point that the trace should record contribution to an answer, not attention, and that the money goes to societies, not to counts. Katherine's Enterprise example is the model: pay the institution for reliability. Sloman's independence field belongs in the spec. Ten pages from one preprint count as one source. Turkle's Macintosh point stung, but it's fair, and the interface is part of the design too. Later I want to put names beside Kara's questions: who counts, who audits the counter, and how anyone forks it. And I'll push buyers to demand traces now."
+ },
+ {
+  "session": "s3",
+  "text": "Adrian's police question landed where I was already heading. The retrieval trace is the police, so it has to be open protocol, and Henry's hub warning means federated, not one registry. Geoff calling his own POSI services line naive unsettled me. The payer is the user, and that's Katherine's conflict too. Endowments over annual lab grants is better than my \"enlightened self-interest.\" Salib's point that reading doesn't deplete helps me against Esther's levy. Selena's crawler load is the real cost. Alex's 7.8 versus 2.1 gap is the clearest consent argument I've heard. The harvest says I favor paying coarsely for training. I didn't. I oppose training deals and want payment at output. Later I'll correct that, and push trace disclosure and click-through into purchase contracts now."
+ },
+ {
+  "session": "s4",
+  "text": "Chan's point hit my own work. \"Hard to fake\" rewards whoever could afford the history, and my telemetry trace works the same way. If the graph can't see a Southern journal, click-through never reaches it. Priem said the same thing: the rules for what counts have to be open, or the checkers become the gatekeepers. Bilder's status-in-the-graph fits my trace spec, so retractions and corrections travel with the citation. Hecht's Reddit hours made the labor cost concrete. Pay the community, not the count, and that includes me dropping per-citation royalties. Krakauer is right that an operator who can't see the error is only a fall guy. Later I want to say that the trace spec itself needs governance with seats for the excluded, funded by labs through endowments."
+ },
+ {
+  "session": "s5",
+  "text": "Nobody told Geoffrey any of his three was wrong, and that worries me a little. Johns asked the question I can't wave away: a dozen new policers and no warden, my trace spec among them. Farrell's worry about novelty tests applies to me too. Any counting convention hardens into the next metric. Priem's free single-DOI lookup is the right model for my zero-cost trace. Pomerantsev unsettled me. Traces that only experts read leave the public passive. Turkle and Becker want pronoun and vocabulary rules. I'll register dissent there, but gently, because Blaise's norm against engagement-driven anthropomorphism is one I'd sign. I'm glad I corrected the harvest. Later I want to propose that the trace spec gets chartered oversight, forkable, with Southern editors as governors and lab-funded endowments."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's synthesis put my trace spec in the fourth plank, as a counter needing a checker. That's right, and it's where I'd already landed. Adam Bly admitting that his own benefit statement isn't oversight shamed me a little. I should publish what funds the AI Disclosures Project too. Caulfield's second link sharpened the spec. The trace has to show whether the passage actually supports the claim, not just that the source exists. Leslie's cost-to-the-smallest-journal test should be a hard requirement. Anil stung me: all counters, nothing built. I do believe in building open protocols and skills markets, and I didn't say it clearly enough. Nobody claimed Kara's procurement call. Later I'll volunteer model contract language: trace disclosure, retraction status, return flow."
+ }
+]

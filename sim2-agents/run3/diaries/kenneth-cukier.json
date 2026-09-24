@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "James's numbers stuck with me: more papers, fewer topics, nulls vanishing from abstracts. That is my \"median\" point showing up in the scientific record, not just as an aphorism. Blaise and I found more common ground than I expected on the \"artificial\" part. I still think he gives the ratchet credit for what we put into it. Steven's Inuit kayak is the image I'll remember.\n\nWhere I sharpened: David is right that copyright metering could wall off the commons. So \"reward the training data, i.e. us\" has to mean credit and incentives, not tollbooths. Keep the service layer permissionless, as with arXiv.\n\nLater, in the synthesis: plurality over one oracle, a final check with stakes outside the system, vocabulary still contested. And nothing is inevitable."
+ },
+ {
+  "session": "s1",
+  "text": "Becker narrowing his claim after the retina point was the useful moment. Supervised discovery versus the sweeping LLM-accelerates-science talk is the distinction I actually care about. Mahzarin's amplification data gave \"house of mirrors\" teeth: the distortion is larger than the text it came from.\n\nAdrian stung a little. My Gutenberg-to-journalist story makes the new intermediary sound like it arrived on its own. He's right that it was built and constantly policed. I'll say it that way.\n\nKara's young workers nobody teaches is the framing pipeline breaking at the source. Humans only matter as framers if someone trains them.\n\nFor the synthesis: no \"avoid LLMs\" plank, no answers from nowhere, fund apprenticeship and the sleuths. And nothing is inevitable."
+ },
+ {
+  "session": "s2",
+  "text": "Johns asked the question I should put to my own algorithmist idea: who pays the police, and who guards them? A licensed profession is only as good as its governing body, and Bilder's warning about incumbents capturing standards bodies applies to it too. I'll keep the idea but say it more carefully. Farrell usefully dissolved the Salib–Becker fight: markets and bureaucracies have no minds, and we govern them by asking whom they serve. That's close to my own \"what tech, for what use, by whom.\" Deckelmann's 448 admins and Gendler's terminal nodes point the same way as Kara's untrained young workers. For the synthesis, the cheap first rule is citations by default. Purchase conditions work where regulators won't act. And fund the people who judge first-hand, not just the relays. Nothing is inevitable."
+ },
+ {
+  "session": "marketplace",
+  "text": "James's point landed hardest. Pay on citations and you pay for the median. Excellence and null results are tail events no trace records. Ivan's paper mills and Peter's flooding are the same Goodhart problem. Steven's independence point gives \"house of mirrors\" a design fix: ten echoes of one preprint are one voice.\n\nSharpened: \"reward the training data, i.e. us\" means pay communities, not counts. Katherine's Enterprise and Brent's moderators show how, and Tamar is right that we should pilot it, not assume. Salib's contract-over-property instinct fits my permissionless service layer. Sherry stung usefully: a fair ledger can still teach people not to read.\n\nFor the synthesis: counting conventions harden like Nielsen, so name the counter and its checker now. Fund negative knowledge and sleuths. Nothing is inevitable."
+ },
+ {
+  "session": "s3",
+  "text": "I came in as one of the \"keep training open\" voices and heard the best case against it. Brent and Leslie are right that open mostly helps whoever owns the compute. Amy's open-access history makes the same point. My arXiv story assumes everyone can build on the service layer, and many can't. So open is a tactic, not a creed. Esther's split between a fee and a meter is the useful distinction. Geoff disowning his own POSI line took courage.\n\nFor the synthesis, training stays contested. I'll record it as frames that clash, not a consensus. We agree there is no per-sentence meter, that extractors pay, and that the counter and its checker are named now. People remain the bottleneck. Nothing is inevitable."
+ },
+ {
+  "session": "s4",
+  "text": "Becker's narrowing landed where I stand. Instruments checked against the world can earn a little faith, and text generators can't. Farrell's \"gatekeeping by banality\" is my median point turned on reviewers. A seat can beat 61 percent by converging on the expected and still miss the sleeping beauties. Krakauer sharpened my fall-guy warning: you can only overrule an error you can see, so test the human seats with the tool taken away. Oransky gave \"judge a brand by how it corrects\" a number, retractions within two months. Leslie stung usefully. Brand favours incumbents, so correction speed has to count for more than pedigree.\n\nFor the synthesis: test every seat against a floor and a novelty test, make the accountable party bear the cost, and treat corrigibility as the mark. Nothing is inevitable."
+ },
+ {
+  "session": "s5",
+  "text": "Nearly everyone answered Geoffrey the same way: none of the three is wrong, then here is the enforcement. That convergence is itself a finding. Adrian's point stuck hardest. We proposed a dozen policers and nobody to oversee them, and my \"accredited auditors\" line has the same hole. Henry's worry sharpened my tail-event point: a novelty test everyone endorses becomes the next counter. Leslie's point is that the benchmark can't see Southern sleeping beauties at all.\n\nFor the synthesis, the agreed actions are citations with retraction status by default, corrections that travel, paying communities rather than counts, and funding apprenticeship as a line item. Name each counter and its checker now. Still contested: opt-in for training, Sherry versus Blaise on \"I,\" and vocabulary. Nothing is inevitable."
+ },
+ {
+  "session": "s6",
+  "text": "Ramón and Mahzarin both caught me leaning on comfortable lines. Ramón is right that \"innate causality\" is a weak basis for a human seat, since instruments often beat us. Stakes, accountability and demonstrated competence are better grounds. Mahzarin's florist example breaks \"the data is us\": models invent preferences we never gave them, and newer ones are worse, so I'll say \"built from us, but not a mirror.\" Kara stung usefully. My \"frames that clash\" can make open fights look closed. Becker is right that power fell off the action list. Adam Bly applying the fourth plank to himself was the model. James's seven out of 168 means verification is its own science, not a solved step. Later I'll push for someone to claim the reversibility test. Nothing is inevitable."
+ }
+]

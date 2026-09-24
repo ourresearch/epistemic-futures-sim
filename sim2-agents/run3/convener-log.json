@@ -1,0 +1,108 @@
+[
+ {
+  "session": "unconference",
+  "allocation": {
+   "rooms": [
+    {
+     "topic_no": 2,
+     "topic": "Who pays, and who gets paid?",
+     "members": [
+      "geoffrey-bilder",
+      "amy-brand",
+      "adam-becker",
+      "leslie-chan",
+      "anil-dash",
+      "selena-deckelmann",
+      "henry-farrell",
+      "brent-hecht",
+      "adrian-johns",
+      "katherine-maher",
+      "tim-oreilly",
+      "ivan-oransky",
+      "peter-salib",
+      "alex-springer",
+      "nick-vincent",
+      "jason-priem"
+     ]
+    },
+    {
+     "topic_no": 4,
+     "topic": "The role of knowledge in the age of LLMs",
+     "members": [
+      "blaise-aguera-y-arcas",
+      "tui-shaub",
+      "ramon-alvarado",
+      "mahzarin-banaji",
+      "adam-bly",
+      "benjamin-bratton",
+      "mike-caulfield",
+      "kenneth-cukier",
+      "james-evans",
+      "peter-pomerantsev",
+      "steven-sloman",
+      "david-weinberger"
+     ]
+    },
+    {
+     "topic_no": 1,
+     "topic": "Cognitive atrophy: real phenomenon or not?",
+     "members": [
+      "david-krakauer",
+      "esther-dyson",
+      "tamar-gendler",
+      "kara-miller",
+      "sherry-turkle"
+     ]
+    }
+   ],
+   "first_choice_counts": {
+    "Who pays, and who gets paid?": 15,
+    "Cognitive atrophy: real phenomenon or not?": 5,
+    "The role of knowledge in the age of LLMs": 11,
+    "AI and the Reproduction of Epistemic Worlds (citation justice, whose genealogies)": 2
+   }
+  }
+ },
+ {
+  "session": "s1",
+  "after_turn": 13,
+  "slug": "mike-caulfield",
+  "reason": "Peter Pomerantsev and Geoffrey Bilder disagreed about whether people read laterally or seek better signals at all, and whether institutions can build lateral reading into procedure. That is Mike Caulfield's area of work."
+ },
+ {
+  "session": "s1",
+  "after_turn": 29,
+  "slug": "adam-becker",
+  "reason": "Three speakers directly disputed his claims. Kenneth Cukier challenged 'the benefits are unproven' with the retina example, Mike Caulfield called 'it's all hallucination' a conversation-ending slogan, and Anil Dash disputed that users get no use from these tools. He should have a chance to answer before the round continues."
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Esther closed her opening by applying Geoffrey's point about context over content to agents and asked him directly to say where it breaks. Jason also responded to Geoffrey's challenge on vocabulary. Geoffrey hasn't spoken yet, so the question to him is still open."
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "mahzarin-banaji",
+  "reason": "Two speakers cited her research as evidence. David Weinberger said people copied a biased model almost exactly, and Blaise said models hold preferences that aren't in the data. She should have the chance to confirm or correct how her findings were used."
+ },
+ {
+  "session": "s2",
+  "after_turn": 21,
+  "slug": "peter-salib",
+  "reason": "Adam Becker directly disputed Salib's reading of the blackmail stress tests as pareidolia and called A-corps 'a liability shield with good branding' that protects owners. That is a direct challenge to his proposal, and he has not yet answered it."
+ },
+ {
+  "session": "s3",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Leslie Chan said that the DOI was presented as neutral, open infrastructure while Southern institutions comply with it and have almost no say in its design. That is a direct claim about the governance of infrastructure Geoffrey Bilder works on, and he has not yet had a chance to answer it."
+ },
+ {
+  "session": "s4",
+  "after_turn": 29,
+  "slug": "adam-becker",
+  "reason": "His rule that a text generator can never be a terminal node was directly challenged by Alvarado, Bratton, Cukier, Salib, Weinberger and Priem, and he has not yet answered."
+ }
+]

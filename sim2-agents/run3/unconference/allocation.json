@@ -1,0 +1,61 @@
+{
+ "rooms": [
+  {
+   "topic_no": 2,
+   "topic": "Who pays, and who gets paid?",
+   "members": [
+    "geoffrey-bilder",
+    "amy-brand",
+    "adam-becker",
+    "leslie-chan",
+    "anil-dash",
+    "selena-deckelmann",
+    "henry-farrell",
+    "brent-hecht",
+    "adrian-johns",
+    "katherine-maher",
+    "tim-oreilly",
+    "ivan-oransky",
+    "peter-salib",
+    "alex-springer",
+    "nick-vincent",
+    "jason-priem"
+   ]
+  },
+  {
+   "topic_no": 4,
+   "topic": "The role of knowledge in the age of LLMs",
+   "members": [
+    "blaise-aguera-y-arcas",
+    "tui-shaub",
+    "ramon-alvarado",
+    "mahzarin-banaji",
+    "adam-bly",
+    "benjamin-bratton",
+    "mike-caulfield",
+    "kenneth-cukier",
+    "james-evans",
+    "peter-pomerantsev",
+    "steven-sloman",
+    "david-weinberger"
+   ]
+  },
+  {
+   "topic_no": 1,
+   "topic": "Cognitive atrophy: real phenomenon or not?",
+   "members": [
+    "david-krakauer",
+    "esther-dyson",
+    "tamar-gendler",
+    "kara-miller",
+    "sherry-turkle"
+   ]
+  }
+ ],
+ "first_choice_counts": {
+  "Who pays, and who gets paid?": 15,
+  "Cognitive atrophy: real phenomenon or not?": 5,
+  "The role of knowledge in the age of LLMs": 11,
+  "AI and the Reproduction of Epistemic Worlds (citation justice, whose genealogies)": 2
+ }
+}

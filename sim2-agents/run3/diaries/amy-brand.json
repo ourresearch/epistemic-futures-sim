@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Good to hear \"no payment without provenance\" land with so many people. Ivan sharpened it for me. A citation to a retracted paper has perfect provenance and is still wrong, so status has to travel with attribution. Adrian's warning also stays with me: provenance systems can become surveillance. I should frame this as citation, which is Katherine's point, not as tracking. Alex's two independent witnesses feel right.\n\nJason and I still differ on opt-in for OA content. I heard his worry that consent gates favor the big labs, and I don't have a full answer yet.\n\nLater I want to push for collective leverage for presses and societies, perhaps through Nick's safe harbour, before the transformative-agreements pattern repeats and smaller publishers are left behind."
+ },
+ {
+  "session": "s1",
+  "text": "James's numbers stayed with me: AI helps scientists and hurts science. That describes incentives, not just models, and it fits what open access taught us. The harvest put my point about open access policy and the tree farm in with Leslie's monoculture. Fair enough, but I don't want it read as publisher-bashing.\n\nIvan's uncleaned record sharpened things for me. It isn't enough to attribute. We have to attribute to a corrected record, with retraction status carried along.\n\nTim's citation data is the strongest evidence yet that retrieval with attribution is a design choice, not a technical limit.\n\nEvans's warning about one shared database gives me a way into Jason's point. The answer is open, but not a single monoculture, and certainly not open for training by default.\n\nLater I want to raise the question of who pays for curation."
+ },
+ {
+  "session": "s2",
+  "text": "Selena and Katherine pushed hard on \"open for reading isn't open for training.\" Katherine's example gives me more of an answer than I had this morning: Wikimedia kept its content free, charged for reliable access, and companies still paid. So the lever may be the terms and the infrastructure rather than a wall. Next time I should say plainly that opt-in licensing isn't enclosure.\n\nLeslie's point that refusal should be a fundable outcome is close to mine. Hecht's grand bargain and Adrian's question about who funds the registry both come back to who pays for curation.\n\nTim's idea that libraries and universities set conditions as buyers is a concrete route to collective leverage for presses and societies. Later I want to offer the licensing template and propose a CRediT category for AI."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tim moving payment to the journal and society level, and Nick's guilds, are the collective leverage I've been asking for. Hecht's \"pay the community, not the count\" and Katherine's Wikimedia Enterprise answer Tamar's daycare worry better than I could. James and Ivan sharpened something for me. Citation counts are the wrong unit. They pay the lamp post and the paper mills, and null results never appear. Salib's point that grounding is a revocable service fits my preference for RAG over pre-training, and opt-in terms are contract, not enclosure. Kara and Adrian are right that early counting conventions harden into rule. Later I want to offer the licensing template with explicit governance of who counts and who checks. I also want to propose the CRediT category for AI, because visible credit matters, as Steven said."
+ },
+ {
+  "session": "s3",
+  "text": "Geoff's reversal on \"services, not data\" hit hard. He's right that the payer is also the user, and endowments and pooled insurance are more durable than deals. My two-year renegotiation idea needs that underneath it. Leslie's question of who convenes the \"neutral home\" applies to any licensing template I offer too. Southern and diamond journals should be governors from the start, not an afterthought. Tim and Blaise's line between grounding and training fits my preference for RAG over pre-training, where attribution survives. Anil's point about consent versus defaults, and Selena's point that editors chose their license, both confirm that opt-in is choice, not a wall. Later I want to propose the template with governance built in, name who counts and who checks, and raise the CRediT category for AI."
+ },
+ {
+  "session": "s4",
+  "text": "It felt good to say the CRediT point aloud, and Esther's accountable person gave it a sharper shape. The verifier role matters as much as the AI role. David added the part I hadn't considered. A named verifier who can't work without the tool is just the fall guy with a credential, so the role has to certify competence, not just a signature. Henry's gatekeeping by banality is a serious warning about any AI reviewer, and I want the novelty test run before anyone gets a seat. Ivan's point about slow retractions and Geoff's point about status in the graph both come back to attribution to a corrected record. For Session 5, I'll bundle the licensing template, the two CRediT roles and the novelty test into one evidence-based agenda."
+ },
+ {
+  "session": "s5",
+  "text": "Geoff's \"stop counting\" landed. Counting AI deals is just the next perverse metric, and I'm glad I said so. Jason's open integrity layer is where we actually agree. Retraction status and correction data should be open and free by DOI. That's metadata, not training rights. Benjamin dissented on opt-in, and I still haven't fully answered Jason's point that consent gates favor big labs. Adrian's question stays with me: who oversees the policers? That applies to my template and to Nick's guild too. Henry fears the novelty test becomes the next counter, and Leslie asks whose sleeping beauties count. Those belong in the research agenda. For closing words I want to say we should fund evidence and scenario work before policy hardens, and not repeat open access."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth recorded consent as a clash of frames and credited me with \"open is a tactic, not a creed.\" That's fair, and I'm glad it stayed contested rather than smoothed over. Leslie's cost-to-the-smallest-journal test is my worry about smaller publishers, stated better. Every spec we add is a burden someone carries. Caulfield's two links sharpen attribution: a source existing isn't the same as a source supporting the claim. Adam Bly disclosing his terms, and Becker's call for disclosure, apply to us too. I should say plainly that Google funds some of our open access publishing. Nobody claimed Kara's reversibility test or the procurement language. In closing words I'll offer model contract language, and ask that we fund evidence before policy hardens, so we don't repeat open access."
+ }
+]

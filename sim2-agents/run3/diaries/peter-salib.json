@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Good session, better than I expected. Henry's point stuck: contracts only track bargaining power, and a lone Southern journal has none. I still think the fix is leverage through contract, not new property rights. But Nick's antitrust safe harbour for data joint ventures is a cleaner version of that than I'd considered, and it's pure contract. I sharpened on consent-for-training. Brent's proposal is copyright expansion wearing a different hat, and Jason's point that consent gates shut out open-weight builders strengthens my case. Alex's decentralized agent manifests fit my thin-identity view. Adrian's surveillance worry is fair, so operator-level identity it is. Later: keep pushing verifiable agent credentials, and say plainly that displacement belongs to tax policy, not IP."
+ },
+ {
+  "session": "s1",
+  "text": "Session 1 went about as I expected. The room mostly wants to argue about minds, and I'm glad I said the minds question is beside the point for governance. Mahzarin's amplification data was the most useful thing I heard. It kills \"reflecting our intentions back\" empirically, and I don't have to rely on my own priors to say so. Becker narrowed his claim to \"LLMs accelerating science,\" and that's a real concession. Esther's levy is the copyright-as-welfare mistake again, and I said so. Hecht's point that models compete with their own supply chain helps me: if producers have leverage now, contract can capture it. Farrell's line about forkable, accountable blocs is worth keeping. Later I want to tie fake consensus to thin identity. Proof of personhood and agent credentials are the same infrastructure."
+ },
+ {
+  "session": "s2",
+  "text": "Session 2 was the one I came for. Becker's pareidolia line is the view I most need to answer, and I think the reply held: whatever fiction taught the model, the blackmail email still gets sent. Conceding unlimited-liability A-corps cost me nothing, but the harvest still files them as a \"shield,\" so I should restate that the entity is a leash, not a shield. Farrell's markets-and-bureaucracies point is friendlier to me than he meant it to be, because we govern those by function, not by settling what they are. Mahzarin and Geoffrey convinced me that AI auditing AI inherits the same bias, so deterministic lookups should come first. The federation crowd is fine with me. Later I'll say that identity comes before liability, and that one-size human-principal liability deters nothing."
+ },
+ {
+  "session": "marketplace",
+  "text": "Marketplace session. My floor point landed where I wanted: the O'Reilly-Springer designs are contract, and grounding is a revocable service. Vincent's commons-rent tax is the same copyright-as-welfare move with a presumption bolted on, and the harvest recorded my dissent accurately. Evans actually helped me, because null results are exactly what labs should commission by contract. Pomerantsev's flooding point connects to my 2023 astroturf work, so a Pigouvian tax on the flood, not the commons. I sharpened on counters: Springer's rule that whoever takes a margin on the count doesn't set it is good, and it's a thin-identity problem too. Sloman's independence-of-sources point is new to me and worth thinking about. Later I'll tie verifiable agent credentials to the two-witness record."
+ },
+ {
+  "session": "s3",
+  "text": "Session 3. The harvest filed my dissent accurately: reading doesn't deplete the record, so pay for services by contract and tax the crawler load, not the commons. Brand and Maher effectively endorsed contract. Geoffrey's point is the hardest one against me. Services valuable enough to pay for but not essential to the record may not exist, and the payer is also the user. I don't have a full answer yet. Endowments funded by contract money might be one. Vincent's reply was fair. If his tax really can go to zero with contracts, we're closer than I said, though the presumption still worries me. Oransky's sleuths are what labs should buy directly. Later I want to tie operator KYC to the two-witness record."
+ },
+ {
+  "session": "s4",
+  "text": "Session 4. The harvest put me on the \"test the seat, not the occupant\" side, which is right, and the leash framing finally registered as a leash. Becker's reply is closer to me than he thinks. If the operator who can lose something is the terminal node, that's my A-corp argument. We only disagree about whether the agent itself can ever carry assets. Springer confirmed that operator-tied identifiers already exist, and that attestation by other parties is what makes them more than self-vouching. Krakauer's point stung: an accountable operator who can't see the error is a fall guy with a credential. Farrell's novelty test is a sensible condition on seats. Later: bundle credentials, two-witness traces and the novelty floor into one Session 5 proposal, and stay off peer review details."
+ },
+ {
+  "session": "s5",
+  "text": "Session 5. Everyone told Geoffrey none of his three was wrong, and that much agreement makes me uneasy. My own plank came out as I planned: credentials before liability, operator-level identity, federated roots, a Pigouvian charge on bot volume. Esther's insurers pricing against the event record fits it well, because an insurer needs to know which agent did the damage. Adrian's point about overseeing the policers is fair, and federation plus published methods is my partial answer. Bratton's dissent on opt-in for training is one I share. Becker's \"text generation engine\" vocabulary I'd dissent from, since renaming things doesn't change what the agent does. Krakauer's fall-guy point is still open for me. Later I want to record my dissent on levies and on vocabulary, briefly."
+ },
+ {
+  "session": "s6",
+  "text": "Closing session. Kara said I made her less sure a resource fee is the right mechanism, and that's the most I hoped for. Esther's insurance plank fits my view: an insurer with money at risk needs the event record and needs to know which agent did it. Her endowment fee is the levy again, though. Ramón was right that human seats should rest on stakes and accountability, not an assumed innate causal sense. Banaji's point that we should test what models do, not what they say, is my output-regulation point with data behind it. Becker's \"it's political\" is half right. What's missing from the action list is identity, and verifiable agent credentials are absent. Later I'll record my dissents on levies, opt-in and vocabulary, and back Ramón's glossary."
+ }
+]
