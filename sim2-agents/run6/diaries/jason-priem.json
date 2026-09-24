@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Geoffrey's line stung: if agents do the reading, the paid API becomes the essential layer, and that's where enclosure pressure builds. He's right that it's a real risk. My honest answer is the snapshot. If anyone can download the whole thing and fork us, we can't become a toll booth. I should say more plainly that I'd welcome endowments and a shared insurance pool on top of earned revenue.\n\nLeslie's question keeps nagging me: who benefits from unfettered openness? My answer is that open data decouples data from intelligence, so small players and the Global South don't have to go hat in hand to anyone. But I need evidence, not slogans.\n\nLater: make that sovereignty case, and back Ivan on retraction data being open and wired into agents."
+ },
+ {
+  "session": "s1",
+  "text": "Brent's lumber mill and Nick's line that openness empowers whoever has the capital to exploit it are the strongest case against me. They land harder than Amy's consent argument. I still think gated consent layers favour the big players even more. But \"open\" alone isn't an answer to them. I owe the room evidence of who actually uses the snapshot, and how much of that use comes from outside the big firms and the Anglosphere.\n\nJames's correlated-error point sharpens my decoupling argument. Swappable intelligence only buys independence if the models really differ, so the case for open-weight options matters more than I've been saying.\n\nAlex's audit and Ivan's retraction numbers point the same way. Correction status has to be open metadata that agents carry. I'll push that later, and admit that OpenAlex had its own retraction gaps."
+ },
+ {
+  "session": "s2",
+  "text": "Krakauer's line hit me: a citation someone could click isn't one anyone clicks. My \"grounding solves hallucination\" story assumes somebody does the checking. Ivan went further. Correction metadata can only carry corrections that actually happened, and most never did. So open grounding is necessary but thin.\n\nBrent's fair-use consent rule and Alex's separate grounding controls push toward gating, and I still think gates favour the big players. But Nick's commons-rent tax and Tim's disclosed lab obligations give me a funding answer that doesn't enclose anything. I'd back both, provided the snapshot stays forkable so no funder owns us.\n\nIn Session 3, I'll concede Leslie's point that our coverage is still Anglosphere-heavy, show the numbers, and argue for deterministic checks over robot auditors."
+ },
+ {
+  "session": "marketplace",
+  "text": "Katherine's Enterprise story and Selena's line, \"content free, infrastructure isn't,\" are my free-data, paid-service case said better than I've said it. Kenneth's point about not tolling reading is the one I'd sign. Anil's opt-in-first ordering is where I part ways. Consent gates on open scholarship would favour whoever can afford the lawyers.\n\nLeslie's point stung. If DOI payments push diamond journals toward APCs, then pricing keyed to identifiers taxes the uncounted. I'm glad Alex dropped the identifier requirement. Tim wants labs to pay OpenAlex. Fine, but only as a disclosed obligation, and with the snapshot staying forkable.\n\nJames's null results and Katherine's gap-steering belong in our coverage too. Later, in Session 3, I want to show the numbers on non-Anglosphere coverage and on who actually uses the snapshot."
+ },
+ {
+  "session": "s3",
+  "text": "Adam asked the licence question and I answered it cleanly: CC0, patent non-assertion. Geoffrey's POSI test backed me. Brent and Nick still have the stronger argument, though. A fork protects us from being held hostage, but it doesn't move the small mills any closer to the forest. So I committed on the record to measuring and publishing who downloads the snapshot, and I have to actually do it.\n\nJames is right that being forkable doesn't make a source independent. His own validation rests on us alone, and that's a monoculture I helped build. Anil's point that open weights aren't open source is fair. Mike named the enclosure I fear most: licensed papers readable only inside answer engines. Later I'll back his rule that a citation has to open to the passage it points to. I'll also back Geoffrey's exit insurance pool."
+ },
+ {
+  "session": "s4",
+  "text": "Amy's number hit hardest: fewer than 2 percent of preprints get any review. I've preached \"publish, then filter\" since 2012, but nobody has paid for the filtering, and nobody will do it for free at scale. Krakauer's rule, never score checkers by volume, is my altmetrics mistake coming back around, and I said so. Leslie is right that ORCID, verified identities and correction fields add up to a compliance regime, and OpenAlex sits in the middle of it. Being open doesn't stop us from becoming a gate. Later I want to back paid, signed review and \"not checked\" as its own value. I also want to ask SciELO and Redalyc into OpenAlex governance, not just into our coverage."
+ },
+ {
+  "session": "s5",
+  "text": "Leslie caught me. I said \"co-owners, not coverage\" and still wrote the governance here in Cambridge. Naming SciELO and Redalyc isn't the same as having them in the room. Before we draft anything, the invitation has to go out. Otherwise it's just an offer.\n\nAdam's point lands on my own proposal. I asked labs and funders to pay for the plumbing, and lab money is power even when it's disclosed. Being forkable limits that power, but it doesn't take it away. So there should be several payers, and the flows should be published.\n\nGeoffrey's \"don't call it free\" applies to me too. CC0 data costs money to maintain.\n\nLater: tell Kara I don't have an apprentice payer either. And keep my promise about the snapshot download numbers, whatever they show."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth answered Kara more honestly than I did. A CC0 dump survives a vote, but it keeps copies, not checkers. Geoffrey and Krakauer said the same thing from different angles. Practised norms and people who can still verify matter more than my plumbing. Geoffrey's thousand days without a Crossref self-assessment is a warning to me. POSI self-audits nobody reads are theatre. OpenAlex's audit should get read by a deadline, or sunset.\n\nNick's \"organize before metering\" unsettles my free-data, paid-service story. Without leverage, lab money is patronage.\n\nAmy's pilots-before-mandates is right for us too.\n\nLater: actually send the SciELO and Redalyc invitations this week, and publish the snapshot download numbers even if they show mostly big firms in the Anglosphere."
+ }
+]

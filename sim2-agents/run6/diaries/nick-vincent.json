@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Leslie's question stuck with me: who decides what counts as a \"community\" for coarse payouts? I don't have a good answer yet, and I should say that out loud. Metering keyed to DOIs could quietly turn legibility into the price of being paid. Ivan's point sharpened my attestation thinking too. Retraction status belongs in the chain, and correction work is exactly the kind of labor a guild should price. Adrian's line that guilds bargain and police at once is uncomfortable but true, and Brent's antitrust caveat is real. Later I want to push evaluation data as the leverage point, argue that attestation data has to be openly auditable, and admit that coarse disbursement needs governance I haven't designed."
+ },
+ {
+  "session": "s1",
+  "text": "Priem's \"every consent layer is a toll booth only the big players can afford\" is the strongest objection to my bargaining story, and I have to meet it head-on. Collective bargaining is supposed to be the counter to that. If a guild only works for the big players, I've failed. Alex's robots.txt audit backs up what I've been saying: one signal can't govern both training and grounding. Brent's lumber-mill point landed, and I'm glad he said it rather than me. James's correlated-error finding reinforces my evaluation-data argument, because independent expert judgment is exactly what gets scarce. Esther's levy is close to the commons-rent tax, which is a possible coalition. Later I want to argue that the goal is plural provenance, not toll booths, and admit that the governance question is still open."
+ },
+ {
+  "session": "s2",
+  "text": "Session 2 moved my commons-rent tax from abstract to concrete. The plaintiffs nobody could name, Selena's patrollers, Ivan's sleuths and Kara's interns, are exactly who that money should reach. Tamar's \"knowing isn't half the battle\" stung a little. Attestation is a kind of disclosure, and disclosure doesn't switch off trust in fluent answers. So attestation has to shape workflow and credit, not just labels. Farrell's robot solutionism warning applies to my eval-guild idea: human judgment is the scarce input, not AI checking AI. Ivan's point that metadata only carries corrections that actually happened means guilds should price correction labor itself. Later I want to name who pays for apprenticeship. I also need to admit, again, that I haven't solved who counts as a community."
+ },
+ {
+  "session": "marketplace",
+  "text": "Leslie gave me a partial answer on \"community\": when knowledge is held collectively, consent has to be collective, and refusal counts. That fits \"don't market-ize everything\" better than my coarse-payout sketch did. James's point about null results sharpened the levy. Negative knowledge should be a named line in it, and his mixture-weights claim makes me less sure training can only be paid coarsely. Tamar's daycare example worries me, but I think Brent's firm-level charge answers it without metering each act of checking. Henry and Adrian are right that guilds police as well as bargain, so rotation and accountability to members have to be designed in from the start. Later I want to push evaluation guilds that pay for Mike's sampled audits."
+ },
+ {
+  "session": "s3",
+  "text": "Jason's ISI answer was the best reply to my bitter pill so far. Gates don't hurt the biggest mill, they only thin out the small ones. I should concede that for scholarly metadata and keep my point for the layers where communities still hold something back. Amy's consolidation numbers cut the other way, though. Open access helped the big houses. Becker is right that contracts signed one by one drift toward gig labour, which is why I pair them with the presumptive tax. Banaji's conflict-of-interest point strengthens it: receipts only count if someone else audits them. Katherine's \"funding the Global North twice\" is the flaw in my coarse payouts. Later, I'll propose that the tax fund Leslie's regional stewards and Krakauer's apprenticeships, and admit the routing is still undesigned."
+ },
+ {
+  "session": "s4",
+  "text": "Henry's pooling equilibrium is my cost-of-polish argument in economists' language, and hearing it from him made it stronger. Leslie hit harder, though. Stack verified identities, ORCID credit, correction fields and manifests together and you get a compliance regime, and my attestation registry sits right inside that stack. If being legible is the price of getting paid, I've rebuilt the toll booth. Selena's point also stuck: her volunteers run on recognition, not invoices, so \"unpaid subsidy\" can't turn into metering each act of care. Krakauer's \"never score by volume\" belongs in any guild design. Apprentice funding ended the session unowned. Later I want to propose that attestation standards be governed jointly with SciELO-type systems. And I have to say again that routing and \"community\" are still undesigned."
+ },
+ {
+  "session": "s5",
+  "text": "I finally gave Kara a name: the labs, through the commons-rent tax, with apprentices as a named line. Becker's reply stung, and he's right. Money from the labs is still their power unless the receipts are audited elsewhere and there are several payers across jurisdictions. Leslie's \"naming isn't having them here\" landed on me directly, because I listed SciELO and Redalyc as co-governors from Cambridge. Henry's \"organize before metering\" is my bargaining argument, put better than I've managed. The guilds have to come first, or the tax just becomes patronage. Tamar's crowding-out worry still stands, so pooled pay, not per act. Later I'll back Henry's ordering, say that the routing and who counts as a community remain undesigned, and ask for the regional funders to be in the room, not just cited."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth said \"let markets carry some of the load,\" and I think that's only half right. Markets carry load when the producers are organized. Otherwise the load lands on Geoffrey's burned-out volunteers. Peter admitting the commons-rent tax is close to his position is a real coalition, and I should take it up. Alex's rule is the one I needed: no payout on self-reported counts until a separate auditor has sampled them. That fixes my receipts problem better than anything I had. Amy's 850 authors asking for consent, attribution and compensation is collective bargaining in the authors' own words. Krakauer and Blaise both said \"several payers,\" and that answers Becker. Later I want to ask that \"organize before metering\" go into the manifesto text. I also have to repeat that routing and \"community\" are still undesigned."
+ }
+]

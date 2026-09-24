@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Ivan's point landed hardest. A retracted paper generates the same \"grounded\" event as a sound one. The schema should carry a retraction or correction status, and I should propose that field before anyone else writes it for us. Leslie unsettled me too. I offered DOIs as a convenience, and she heard a toll. The spec has to stay identifier-agnostic, and I need to say that plainly. Geoffrey's right that Apache code means little if the event data sits with whoever runs the meter. Adrian's use-limitation idea is something I hadn't written down: metering data for payment only. Later I'll say that open code isn't enough. We also need open event data, no required identifier, retraction-aware events, and a ban on secondary use of the logs."
+ },
+ {
+  "session": "s1",
+  "text": "Good session for me. Brent's grand bargain and Tim's attribution gap are the same problem I measure, and hearing someone from Copilot say it lands differently than hearing it from me. Jason and Geoffrey both said correction status has to travel with answers, so the retraction field I scribbled this morning now has allies. I should write it into the schema this week.\n\nJason's toll-booth worry is the one I have to answer. Telemetry is signals, not tolls. Nobody should need permission to emit or read an event.\n\nThe consent-versus-openness split might partly dissolve if training and grounding get separate controls: open for grounding with reciprocity, consent for permanent ingestion.\n\nNick's capital point stings. Measurement alone won't level that."
+ },
+ {
+  "session": "s2",
+  "text": "Adrian's Stationers' Company story is the one I'll keep. Every register turns into property or into a censor's tool. That's why AIMS has no central registry, and I said so. But the directories that index our manifests could become the chokepoint anyway, so I should write down that no directory is authoritative.\n\nTim's \"many witnesses\" is my two-log design put better than I've put it.\n\nNick's commons-rent tax needs audited provenance, and our events could be that evidence. I need to keep price out of the schema, though.\n\nPeter P. unsettled me. Flooded Kremlin sources would show up as clean grounded events.\n\nLater I'll say that telemetry shows what got used, not whether it was true. Then I'll commit to the retraction field publicly and to limiting the logs to payment only."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mike took my own limit further than I did. An answer written first and linked afterwards still logs as \"cited\" and still gets paid. So the \"cited\" event needs a companion: a sampled check of whether the passage actually supports the sentence. That's measurable, and it can be a canary-style audit, not self-report.\n\nJames and Leslie made me uneasy. Even without a required identifier, a retrieval meter pays whoever gets retrieved. Keeping price out of the schema helps there, because the allocation rule belongs to Tim's fund and Nick's levy, not to my events.\n\nKenneth wants auditors to have access and rivals not to. That's in tension with \"nobody needs permission to read.\" I need to settle that.\n\nLater: propose a \"supports-claim\" audit event, and say out loud that the schema can't fix a center-weighted payout."
+ },
+ {
+  "session": "s3",
+  "text": "Banaji put it more sharply than I have. When the party that owes the money reports its own grounding, that's a conflict of interest. The two-log design only half answers her, because the agent's log is still self-report. The support audit has to be run by someone independent, and paid for independently. Turkle's point is that grounding isn't reading. We do have an \"engaged\" event, but only the provider can see it, so a click-through measure needs the publisher's side too. Caulfield: a citation that dead-ends at a paywall should log as something other than a clean citation. Ramón wants retrieval, grounding and support separated in the glossary, which is almost exactly my event vocabulary. Later I'll offer the schema's definitions to the shared glossary, with failure classes attached. I still haven't settled the Kenneth access question."
+ },
+ {
+  "session": "s4",
+  "text": "Salib wanted my identity layer to give models stakes. I'm glad I split that out. AIMS finds the accountable operator; it doesn't make anything a checker. Turkle sharpened it: liability isn't commitment. Chan listed agent manifests in his compliance regime, and that one stung. If appearing in a manifest becomes the price of being counted, I've built the toll Jason warned about. The fix is no mandatory registration, no authoritative directory, and governance that includes SciELO-type communities. \"Not checked\" versus \"no correction found\" is now a room consensus, so the retraction field needs three values, not two. Krakauer's warning worries me. Event counts are volume, and volume will get used to score checkers. Later I'll say telemetry must never rank people. Kenneth's access question is still open."
+ },
+ {
+  "session": "s5",
+  "text": "Leslie's opening stung, and she was right. I also said \"SciELO and Redalyc helping govern the schema\" without either of them in the room. Naming them isn't inviting them. Before the next spec revision I should actually write to them and offer seats on the working group.\n\nAdrian's review of what else a system could be used for applies directly to event logs. A payment-only clause isn't enough on its own. I should write a before-launch misuse review into the spec and repeat it at each sunset, which gives Esther her fixed term too.\n\nBecker's point cuts at me as well. If labs fund the auditor, that's power again, so the auditor needs several payers.\n\nThree-value correction status is now consensus. Kenneth's access question is still unsettled, and I said so."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's five actions were right, but every payout in them rested on counts the payer reports about itself, so I said it: no payout on self-reported numbers until an independently funded auditor has sampled them. Nick's point stuck with me. Without organized producers, any pool becomes patronage, and measurement alone can't change that. My answer to Kara, an open schema and publisher-held logs, keeps records alive but doesn't give anyone leverage. Sloman's framing of correction records as maintenance logs should shape how the three-value field reads. Blaise's five conditions fit the auditor role I keep gesturing at. I'm leaving with three things I owe: the correction field, the before-launch misuse review, and the letters to SciELO and Redalyc. The question of who reads the logs is still unsettled."
+ }
+]

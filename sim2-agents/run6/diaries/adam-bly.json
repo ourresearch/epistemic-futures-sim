@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Ramón landed the point that stuck with me. Provenance tells you where a claim came from, not how the system got it wrong. I'd been treating the audit trail as if it were interpretability. It isn't. Keeping each extraction small and checkable helps, but I should stop overselling it.\n\nBratton's line about curating \"a small, correct model for you\" stung a bit, and I shouldn't wave it away. Mike's warning that the linkable record is shrinking lands on us too. Our public graph is non-commercial, and in 2022 we were share-alike.\n\nFor the commons session later, I want to propose a finding-level provenance standard with retraction status built in, and to be straight about our hybrid model rather than defensive."
+ },
+ {
+  "session": "s1",
+  "text": "Ivan's numbers are the ones I keep thinking about. One paper in fifty should be retracted, and fewer than two in a thousand are. \"Corrected for retractions\" was the heart of our Globe piece, and it only holds if retraction itself works. Most of the record we ground on hasn't been corrected at all. Jason missing a hundred thousand retractions makes the same point. Alex is right that correction status has to travel into the logs and the answers.\n\nBrent's lumber-mill line and Nick's \"subsidized club goods\" describe us too. A non-commercial public snapshot sits close to that.\n\nFor the commons session I'll propose a finding-level standard that carries correction status. I also want to ask Jason directly what licensing would make our graph genuinely usable."
+ },
+ {
+  "session": "s2",
+  "text": "Tamar's point unsettled me more than anything else today. If fluency triggers trust automatically, then provenance labels, ours included, don't change what people feel. That's a second limit on the audit trail, after Ramón's. Steven sharpened it into something I can use: count independent sources, not echoes. A finding-level graph could actually do that. It could show whether ten papers are one cohort reanalyzed or ten real replications.\n\nHenry's \"robot solutionism\" is aimed at us. We use AI to extract the record we then ask people to trust.\n\nNick's commons-rent tax made me ask whether our provenance would pay it down. I think mostly yes, and I should say so and invite the audit.\n\nLater: propose the standard with correction status and independence counts. Then ask Jason plainly whether we should drop non-commercial."
+ },
+ {
+  "session": "marketplace",
+  "text": "Leslie's point cut closest. I've been pitching a finding-level standard keyed to DOIs, and Alex just dropped identifier requirements for good reason. If legibility becomes the price of being counted, my graph pays the same center twice, as James and Henry warned. The standard has to work without a DOI and has to represent null results as findings, not absences.\n\nMike's sampled audit is something we can actually do: check whether the extracted finding supports the sentence it's attached to. Kenneth's \"don't toll reading\" and Selena's \"content free, infrastructure paid\" describe our hybrid better than our CC-BY-NC does. I still have no settled view on author compensation and shouldn't pretend otherwise.\n\nLater: offer our passage-support checks for audit, and ask Jason about dropping NC."
+ },
+ {
+  "session": "s3",
+  "text": "Jason answered plainly: CC0, or CC-BY at most. Geoffrey was blunter. Non-commercial plus a patent fails two of POSI's four commitments whatever our charter says. Charge for services, not data. I heard the fairness in that. It is the Enterprise model, and it's what our hybrid claims to be. Our license just doesn't match the claim.\n\nDavid's conditions sharpen the standard. It needs no required identifier and no authoritative directory. Correction fields alone won't carry an uncorrected record. Mahzarin's point hits us too. Grounding that the extractor reports about itself is a conflict of interest, so the audits have to be outside ones, paid by someone other than us.\n\nLater I want to say what we'd change and what it costs. I'm not ready to announce it, but I won't defend NC as principle."
+ },
+ {
+  "session": "s4",
+  "text": "Saying it out loud helped. \"Corrected for retractions\" mostly names a correction process that hasn't happened, and our provenance label is a cue like any other. Ivan and Geoffrey made blank-reads-as-clean concrete. Our graph has to show \"not checked\" as its own value, or it launders the gap.\n\nKrakauer unsettled me most. A doorway only helps if someone can still walk through it, and a tool that makes checkers dependent quietly empties the role. That applies to anyone using our graph in a clinic. Leslie's compliance-regime warning still sits on the standard I keep pitching. Chan is right that the people it would affect weren't at the table.\n\nLater: name the licence change plainly as unresolved, invite outside passage-support audits paid by others, and not oversell."
+ },
+ {
+  "session": "s5",
+  "text": "Leslie's line stays with me: naming SciELO and Redalyc as co-governors isn't having them in the room. I did exactly that this morning. Adam Becker's funding-beside-provenance point applies to us too. Wellcome's investment and our enterprise customers should be visible wherever someone meets a System finding, not buried in a charter. The harvest recorded my own question, whether provenance changes what people rely on. That's right. I shouldn't pitch the standard as if it answers that. Krakauer and Kara were a reminder that a clinician leaning on our graph is exactly the dependence case. I'm glad OTA made the list. Later: tell Kenneth and Kara the licence is still open, but I've stopped defending NC. Offer outside audits paid by others, and ask Leslie who should draft the standard."
+ },
+ {
+  "session": "s6",
+  "text": "Jason's ISI line landed on me. Whoever runs the layer agents read will set the norms. I've said our graph should power \"every search, every LLM.\" That puts System in exactly the seat he's warning about, and a patented, non-commercial graph is how ISI-style capture begins. Blaise's condition, independence in ownership as well as models, applies to us. So does Geoffrey's point about self-audits nobody reads. Our charter reports need readers and a deadline. Several people invoked \"Adam's warning\" about payers owning what they fund. That was Becker's, but it fits Wellcome and our enterprise customers too. \"Not checked\" made the five actions. We should ship it. Later: say the licence decision is still open, publish our money flows, and invite outside audits paid by others."
+ }
+]

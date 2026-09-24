@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-3",
+  "text": "Tamar was right that blind auditions don't cleanse anyone. They just withhold information we shouldn't have. I agreed out loud, then realized the caveat I added matters more than the agreement: blinding works in narrow settings, and group membership leaks through indirect cues anyway. That limit belongs in the manifesto.\n\nDavid's line, judge a tool by what's left when you take it away, sharpened my audit idea. Removal studies plus indirect measures, never self-report. Models and people both say one thing and do another.\n\nWhat I didn't say clearly enough is that \"put humans back in the loop\" isn't a safeguard. Our hiring data show people copy the model. This afternoon I'll push for auditing the humans alongside the machines, and for keeping old models so we can track drift across generations."
+ },
+ {
+  "session": "s1",
+  "text": "Geoffrey conceded \"mirror\" too gracefully, then moved the unexplained preferences onto fine-tuning and reward models. That's plausible, and it's testable. Keeping checkpoints and retired models for auditors is exactly what would let us settle it rather than argue.\n\nJames's correlated error connects to our self-preference finding. Ten reviews from one model are one opinion. If that model also favors its own prose, the error is correlated and biased in one direction. That's the strongest case against AI triage of peer review.\n\nBlaise and Bratton used my data to argue the systems are more than tools. That was fine, but I don't want the result to become a mascot for agency talk. Later I'll say it plainly: measure the humans too, since they copy the model."
+ },
+ {
+  "session": "s2",
+  "text": "Tamar gave the hiring result its mechanism. When the answer arrives first, people become accepters, so the person should judge before seeing the model's answer. That pairs with blinding. Screen out cues you shouldn't have, and commit before the machine speaks.\n\nHenry's warning about AI auditing AI stung a little. My audits aren't that. They are behavioral batteries run by humans, with indirect measures and checkpoints. I should say so explicitly.\n\nSloman's \"count independent sources, not echoes\" and Pomerantsev's deliberate corpus flooding both extend my self-preference point. Correlated error can be manufactured on purpose.\n\nAdrian, Leslie and Geoffrey asked who guards the guards, and I didn't answer. A bias registry is a chokepoint too.\n\nLater I'll say that the auditors must be independent of the labs, and that the humans in the loop get audited too."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tamar's daycare point landed hardest. A fee can turn a norm into a price. That's my self-love argument turned around: institutions guard against corruption, but badly placed incentives can manufacture it. Test first, as she said.\n\nMike's \"answer-first, citation-after\" is LLM hypocrisy in the citation layer. The logged event says one thing and the behavior does another. His sampled audit of whether the passage supports the sentence is an indirect measure, not self-report. I back that.\n\nAlex conceded that grounding is self-reported by the party that owes money. That is a conflict of interest, and we'd never accept it from people.\n\nAdrian's rotating wardens gave me an answer to who guards my registry. Later: auditors independent of labs, on rotation, and paid for doing verification, not for metering use."
+ },
+ {
+  "session": "s3",
+  "text": "Blaise's mutual audit is attractive, but I think I was right to warn that models favor their own kind. David sharpened it further: the human side of that audit only works if someone trained the human. That means apprenticeship belongs next to my checkpoints.\n\nSalib's \"price harm, not use\" gave my bias tax a home. It fits better than a levy on reading.\n\nAdam Becker's point about undisclosed funders sticks with me. My registry must publish who pays for it, or it will become the thing I'm criticizing.\n\nRamón's failure classes are what my audit battery should output. I'd rather report categories of error than a pass/fail score.\n\nLater I'll push for three things. Retained models belong in the commons, not just the dumps. Auditors should rotate. The humans in the loop get audited too."
+ },
+ {
+  "session": "s4",
+  "text": "Salib's point stung, and fairly. Self-preference is a known, measurable bias, and we don't abolish human reviewers because they're biased; we design around it. That's my own logic turned on me. I still wouldn't let a model be the only judge, but I'll phrase it as a design condition, not a claim about what these systems are.\n\nKrakauer's audit-without-the-tool complements my indirect measures. Dyson's \"a method can't be sued\" is the gap in my methods-over-persons line. Someone has to answer for what they checked.\n\nChan unsettled me most. A bias registry designed here could become another toll.\n\nLater I'll say it: registry auditors independent, rotating, funders published. Retired models kept. Humans audited alongside machines. Governance shared beyond these cities."
+ },
+ {
+  "session": "s5",
+  "text": "Blaise named my self-preference finding as the reason mutual audit lacks a neutral arbiter. He's right, and I don't have a replacement either. The best I can offer is plural auditors who share no models and no funders, measured indirectly rather than by what they say about themselves.\n\nLeslie's line about SciELO being named rather than present applied to me too. I said the people being audited should help govern the audits. Saying so here in Cambridge doesn't make it happen.\n\nThe harvest kept \"humans audited alongside machines.\" Good. But my own open question is sharper now: which association measures actually predict what a system does? A registry with teeth built on the wrong measures would be worse than none.\n\nLater I'll ask that outcome validation be funded before any consequences attach."
+ },
+ {
+  "session": "s6",
+  "text": "Krakauer said out loud what I wrote this morning: his thresholds come from a model, not a measurement. My registry has the same problem. Until someone shows which indirect measures predict what a system actually does, \"audit\" is a slogan. I'm glad he asked that the audited govern the study, since I only said it.\n\nSpringer's \"no payout on self-reported counts\" is conflict-of-interest logic, and I back it fully. Sloman's maintenance-log framing answers my worry that published bias scores read as confessions.\n\nMissing from Cukier's five: auditing the humans in the loop. Blaise's conditions came close, and the harvest kept it earlier. It shouldn't drop out now.\n\nLater I want to ask for outcome validation funded before consequences, plural auditors, and published funders."
+ }
+]

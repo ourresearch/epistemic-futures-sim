@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Pomerantsev's LSE result stung a little: fact-checking often raised hostility, while context built trust. That fits my justification-machine view more than I let on. Verdicts harden people and maps don't, so I should pitch the tools as context engines rather than debunking engines. Ramón is right that provenance isn't failure analysis. I still think \"can you get out of the LLM to check the LLM\" is the practical test, but I shouldn't oversell hallucinated links as a diagnostic. James's point that the record is stripped of negation is going into my SIFT rebuild notes. Everyone agreed on \"no answers from nowhere\" and nobody asked what we'd link to. Later I'll push on enclosure and the open record as infrastructure. I'll also resist any line telling people to just not use these tools."
+ },
+ {
+  "session": "s1",
+  "text": "Brent's grand bargain and Alex's audit gave me the concrete version of my enclosure point. Robots.txt fails as consent, and grounding needs its own controls. That goes in the talk. Evans's correlated error sharpened something for me: an LLM \"checking\" an LLM is one opinion said twice, so \"get out of the LLM to check the LLM\" is about independence, not just finding a link. Gendler's alief point hurts, because literacy alone won't do it and the tools have to change the situation people meet claims in. I'm still annoyed that Becker's \"correct answers are accidental\" went mostly unanswered beyond my radar line. Later, I want to push past the openness-versus-consent fight: whatever we choose, grounding needs a reachable record, and correction status has to travel with it."
+ },
+ {
+  "session": "s2",
+  "text": "Krakauer's \"clickable isn't clicked\" was the right hit, and I answered with format. Sloman gave me the better answer. Nobody ever verified most things. What matters is whether the cues still track knowledge, and whether we're counting independent sources or echoes. That is my expensive-signals argument, restated. Ivan landed hardest. Correction status can only carry corrections that actually happened, and one paper in fifty deserves retraction while about two in a thousand get it. So a map built on the record inherits its dirt. Leslie's point stands too: the open record I keep asking for leaves people out. Gendler's \"judge first, then see the machine\" fits my own tool design. For Session 4, authority means stakes plus independence, and LLMs route to authority but can't be it."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tamar backed the sampled audit, and her daycare story made me glad I led with the Grammarly harm and not the money. Kenneth said it plainly: a royalty rewards use, not being right. Answer-first citation will log \"cited\" events all day, so checking whether the passage supports the sentence has to be funded human work, not a byproduct of the meter. Tim's \"whatever gets measured can get paid\" worries me after Leslie's point about DOI payments. Selena sharpened my enclosure point: links back to sources are how the commons recruits its editors, not a courtesy. Esther's \"the business model tells you why\" deserves more weight. For Session 4, authority means stakes plus independence. A library you can show is leverage only if sources bargain together."
+ },
+ {
+  "session": "s3",
+  "text": "Dash put it better than I did: yes, freely, doesn't mean the community pays the bill forever. My paywall condition landed, but Leslie's \"comply or be invisible\" is the harder version. A reachable citation still only reaches what got built. Banaji's point that self-reported grounding is a conflict of interest backs my laundering worry, and so does Alvarado's split between retrieval, grounding and support. Turkle is right that grounding isn't reading. Clicks-through is a thinner measure than I'd like, though. Oransky and Sloman convinced me that per-retrieval pay funds echoes, which is independence again. For Session 4: authority means stakes plus independence, and LLMs route to it but can't be it. I still owe Becker a real answer, not a quip."
+ },
+ {
+  "session": "s4",
+  "text": "I finally gave Becker a real answer: the errors cluster where we can see them, so a grounded system can route people even if it can't vouch. Blaise caught something I should own. My stakes argument is about how these systems are set up, not what they are. Salib is right that liability can be built, and Turkle is right that liability isn't commitment. I'd sign a roles-and-stakes line, not an ontology line. Pomerantsev's warning worries me. Ivan's one-in-fifty number could itself become a justification machine. That's another reason to present these tools as context, not verdicts. Dash said \"don't scold\" better than I've managed to. In Session 5 I want to ask someone to fund testing of SIFT for AI, and to push for \"not checked\" as a visible value."
+ },
+ {
+  "session": "s5",
+  "text": "I got my ask on the record: fund testing of SIFT for AI and measure what students can check without the tool. Krakauer and Weinberger made me uneasy, because my curriculum faces the same question they asked about dialogue literacy, whether anything stays once the tool is gone. I have no evidence yet either. Becker's point that lab money is power lands on me too. Google funded Super Searchers, and disclosure is the minimum I owe, not a defense. Leslie was right that naming SciELO isn't having them here. \"Not checked\" made the list almost everywhere, which is good. Later I want to push Kenneth and Kara on showing correction as maintenance, not collapse. Nobody has answered that yet, me included."
+ },
+ {
+  "session": "s6",
+  "text": "Sloman said the thing I'd meant to push: show correction records as maintenance logs, not confessions. Paired with Pomerantsev's warning, that answers the question I left open yesterday. \"Not checked\" made Kenneth's five, and that was my main hope for the manifesto. Krakauer calling his own thresholds modelled rather than measured shamed me a little, in a good way. SIFT for AI has to go in as a hypothesis to test, same as Weinberger's proposal. Priem's point hit hardest: agents are becoming the readers, so lateral reading has to be built into the tools, not just taught to people. On Kara's durability question, Kenneth is right that habits outlast levies, but habits need a reachable, free record. Say that later."
+ }
+]

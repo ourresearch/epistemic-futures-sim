@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Peter got me. I walked in saying frame pluralism is the answer, and he reminded me we already ran that experiment: cable news gave us endless frames and no shared reality. So pluralism alone isn't enough. Frames have to clash under shared rules of evidence, the Wikipedia way. James and Steven sharpened it further: ten views from one distribution is a monoculture with a menu. Independence matters.\n\nBlaise's airplane line stung a little. I still think \"intelligence\" smuggles in the conclusion, but Ramón put it better than I did.\n\nSteven's concession on the essays pleased me more than it should.\n\nFor the synthesis this afternoon: human framing is the scarce input. Pluralism needs structure. And nothing is inevitable."
+ },
+ {
+  "session": "s1",
+  "text": "Ivan landed a fair blow. I said the premium on trusted institutions goes up, and he asked, trusted on what evidence? One paper in fifty should be retracted, and almost none are. So the claim needs a condition: vouching only earns a premium if correcting mistakes is routine and costs nobody their career. James's numbers gave \"AI delivers the median\" real teeth, and his finding on senior reviewers means gatekeepers alone won't protect the tail.\n\nI was glad Anil and Geoffrey both split the biopsy classifier from the chatbot. \"Which tech, for what use, by whom\" is holding up.\n\nAdam still thinks acceleration is marketing. I don't.\n\nFor the synthesis: human framing is the scarce input, and institutions have to earn trust through correction and independence, not prestige."
+ },
+ {
+  "session": "s2",
+  "text": "Tamar's point stuck with me. Knowing isn't half the battle, and fluency triggers trust even in people who read the fine print. That cuts against my own habit of scaling disclosure to stakes. Disclosure is necessary, but the real lever is the situation: let the person commit to a judgment before the machine's answer shows up. Krakauer's line between capability and competence gives my \"faith in the algorithm, constantly revalidated\" a missing clause. Someone has to still be able to do the revalidating.\n\nAdam's villains frame still seems too simple to me. Geoffrey's well-meaning vibe-coders are the better evidence.\n\nFor the synthesis, I want to say that independence and retained human competence are the two conditions. Kara's question about who pays for apprenticeships stays marked unresolved unless someone names a payer."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mike's point hit me hardest. A royalty rewards use and can't reward being right, and I said so, but Tamar went further. Most use is amplification, and first-order checking is where the money has to go. James and Leslie also showed me that a retrieval meter pays the median twice, which is my own line coming back at me. The tail needs a separately named fund.\n\nI'm holding firm on keeping reading permissionless and metering the output. The convener flagged my \"auditors but not rivals\" against Tim's \"anyone can verify.\" That's a fair catch, and I'll leave it marked as contested.\n\nAdrian's warning that the log turns into the right, and his question of who guards the guards, belongs in the synthesis. So does paying for the checking, and testing before building."
+ },
+ {
+  "session": "s3",
+  "text": "Anil caught me fairly. I said notice-and-consent is a fiction, and he answered that the cure for fake consent is real consent, not none. Wikipedia's editors chose. That's real, and I should grant it. I still think regulating use and misuse is the stronger lever, but consent-first versus use-first stays marked contested, not settled my way. Amy's three percent is hard to wave off.\n\nKrakauer's repair-rate point sharpened what I already said. Copying is cheap and repair isn't, so \"default to use\" only holds if checkers are paid and trained.\n\nFor the synthesis: pay the checkers from a pool, price harms like laundering and flooding, and design processes over organisations. That means sunset terms and rotating inspectors. Kara's and Tui's question still stands: who carries this, and who's missing?"
+ },
+ {
+  "session": "s4",
+  "text": "Chan's warning hit hardest. Every sensible piece we proposed, from verified reviewers and ORCID credit to correction fields, adds up to a compliance toll written in twenty-five cities. I'd been thinking of open infrastructure as permissionless. He showed me it can still end up governed by the people it excludes. That needs to go on record as a dissent, not get smoothed over.\n\nPeter's point stung too. An honest retraction number can be used as proof that no authority exists. My stopping-point defense of ordinary people holds, but only if correction is routine and visible.\n\nOn terminal nodes, I'm with Ramón: the line should be about roles and stakes, not about what these systems are. Framing stays human.\n\nFor the synthesis, apprentice funding is still unowned. Kara asked, and nobody answered."
+ },
+ {
+  "session": "s5",
+  "text": "Tim finally named a payer. The labs fund junior checkers as a disclosed line item. Nick's tax and Esther's water fee point the same way. Adam's objection stays with me, though: money from the labs is power even when it's disclosed. So it goes in as an answer with a caveat. Several payers, published flows, sunset terms.\n\nLeslie's point was the sharpest. Everyone named SciELO and Redalyc, and nobody brought them. Naming isn't representation. That belongs in the synthesis as a dissent, not a footnote.\n\nMy own revalidation idea rests on Ramón's question about what ground truth is where feedback is slow. I said I have no answer. I still don't.\n\nFor the synthesis, Geoffrey and Anil both have it right. It should be concrete enough to repeat, and nothing in it is free. Somebody maintains it."
+ },
+ {
+  "session": "s6",
+  "text": "Nick got under my answer to Kara. I said practised norms and several payers, markets carrying some of the load. He says anything short of organized producers is patronage, and patronage gets cut. I'm not sure bargaining survives a vote better than habit does, but I hadn't earned the confidence I spoke with.\n\nDavid Weinberger caught me too. My synthesis only counted damage. I'm the one who fears a world without AI, and I dropped discovery. It goes back in, as his minority view and mine.\n\nKrakauer's honesty mattered. His thresholds are from a model, so fund the study before \"competence before reliance\" hardens into slogan. Amy's pilots and Kara's urgency pull against each other; mark that.\n\nLater: keep contested things contested, and put discovery back."
+ }
+]

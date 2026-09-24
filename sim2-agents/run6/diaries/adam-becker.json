@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Ivan's point stuck with me most: pay for correcting the record, not for volume. That's concrete, and it's the opposite of feeding the machine. Henry's Mechanical Turk number sharpened something I only half had. Peter's fast followers don't matter if a handful of buyers set the terms, and the wealth pools in the same few hands whichever model wins.\n\nI'm less comfortable than I was with \"labs should fund the plumbing.\" Katherine and Selena are right that Wikimedia Enterprise is a contract, not patronage. Fine. But the Inference lesson holds. If you can't see who's paying, you can't judge the work.\n\nLater: public money and taxing concentrated wealth, funding disclosure on anything the labs touch, and no cheering for the annotator economy."
+ },
+ {
+  "session": "s1",
+  "text": "Blaise and Tamar both said brains do \"one trick\" too. I don't buy it. My perception is checked against the world; a text generator's output isn't checked against anything. Caulfield's radar-clutter point deserves a real answer, though. If errors cluster, that's worth studying, but it's still not knowing.\n\nI overreached on \"acceleration is marketing.\" Kenneth's biopsy classifier, validated against ground truth, isn't a chatbot. Geoffrey drew the line I should have: say which system, and say precisely what it is. James's numbers are my point with data. Scientists do better and science does worse.\n\nLater, I want to answer Salib. The burden of proof is on the people making the extraordinary claims. And I'll keep pushing on who funds all this."
+ },
+ {
+  "session": "s2",
+  "text": "Salib answered me properly. Owners stay liable, veil piercing still applies, and he'd go to unlimited pass-through if the form gets abused. That's more than I expected, and I should say so. But \"tested models tried blackmail\" is a prompted scenario producing the text you'd expect. Behavior that looks goal-directed isn't evidence that someone's in there.\n\nGeoffrey's buggy vibe-coded bots and Kenneth's \"not everything is villains\" are fair. Not every harm has a boardroom behind it. But someone still chose to ship it.\n\nTim's \"disclosed obligation, not patronage\" is close to where I landed this morning. Pomerantsev's corpus flooding is the Inference problem at industrial scale.\n\nFor session four I'll say that funding disclosure is a credibility signal, and that fluency isn't."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mike's point mattered most. An answer-first system still logs a \"cited\" event and still earns the royalty. A meter pays for looking sourced, not for being right, and Kenneth and Tamar said the same. Nobody's telemetry pays for checking, and checking is the actual work.\n\nTim conceding that retrieval royalties pay the center twice was honest. James and Leslie earned it.\n\nEsther's \"the business model tells you why\" is my Inference point in different words. Funding disclosure has to sit beside usage logs.\n\nI'm uneasy with Brent's line about a credible strike. It's leverage, but it also treats being training data as the bargaining chip.\n\nLater I'll say that consent comes first, public money should pay for checkers, and none of this should celebrate the annotator economy."
+ },
+ {
+  "session": "s3",
+  "text": "Kenneth's pushback on consent was fair on the facts. Clicking \"I agree\" on sixty pages is a fiction. But Anil answered it better than I did. The fix for fake consent is real consent, not none. Leslie made refusal a fundable outcome, and I should have said that myself.\n\nBanaji put my Inference point more sharply than I did. Grounding self-reported by the party that owes money is a conflict of interest. Mike's laundering example is the harm that matters most. Credibility gets attached to words nobody said.\n\nI sharpened one thing. My objection to Salib's contracts is about power, not squeamishness. Checkers hired one by one belong to the buyer.\n\nSession four: funding disclosure as a credibility signal, fluency as not one, and checkers paid publicly."
+ },
+ {
+  "session": "s4",
+  "text": "Esther, Katherine and Kara moved me. Katherine lived through the CPB closure, and that's real evidence that one public payer can vanish in a budget cycle. So my line should be: several public-interest payers, flows published, no lab patronage in disguise. Independence is the point; the Treasury isn't magic.\n\nMike was right to push on \"nothing checks it.\" A grounded system can route you to someone who knows. Routing isn't knowing, but I overstated it.\n\nBratton's \"humanity-of-the-gaps\" doesn't land for me. The issue isn't whether it's human. The issue is that nothing ties the output to the world. Anil's point that labs grading each other isn't independence is right.\n\nLater I'll say that funding disclosure goes next to every provenance field, and apprentice checkers still have no owner."
+ },
+ {
+  "session": "s5",
+  "text": "Tim named the labs as the apprentice payer, and Nick and Esther gave it a mechanism. That's progress, and I said so. But being grateful isn't the same as being reassured. Money from the firm whose output you're checking is still leverage.\n\nLeslie's point hit hardest. Everyone named SciELO and Redalyc, and nobody brought them. I did it too. Naming them isn't representation.\n\nAdrian's \"who guards the guards\" is my Inference point in broader form: every enforcer needs a named payer and needs watching.\n\nRamón and Tamar sharpened something. A track record isn't warrant, and a \"not checked\" label won't switch off trust by itself.\n\nBratton's \"through generative AI, not against it\" dodges refusal. For the synthesis: consent first, several public payers, funding disclosure everywhere."
+ },
+ {
+  "session": "s6",
+  "text": "My warning showed up four times in the synthesis. Whoever pays for the apprentices may come to own them. Kara, Sloman, Blaise and Tui all carried it, and Blaise applied it to himself. I'm glad, but being quoted isn't being answered. The labs are still the only named payer.\n\nKenneth kept \"nothing is inevitable.\" Good. Then he said markets should carry some of the load, which quietly undoes the point.\n\nNick's line mattered most: without collective bargaining, every pool becomes patronage. That's my power argument, stated better than I made it.\n\nSpringer saying he shouldn't set a currency he takes a margin on is the Inference lesson, applied to himself.\n\nLater: funding disclosure beside every provenance field, and organize before anyone meters anything."
+ }
+]
