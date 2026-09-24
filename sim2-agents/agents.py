@@ -185,11 +185,15 @@ class Convener:
         resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=max_tokens, effort=effort,
                     agent="convener", phase=phase, tag=tag)
         out = text_of(resp)
-        if min_words and (words(out) < min_words or resp.stop_reason == "max_tokens"):
-            # thinking ate the output budget (seen at effort high, 16K cap): one retry at medium effort, larger cap
+        # Thinking can eat the whole output budget on revise-this-document calls (run 1: 16K cap at high; runs 2–3:
+        # 48K cap at high AND at medium, returning empty text). Retry down the effort ladder; low has always returned.
+        for eff in ("medium", "low"):
+            if not (min_words and (words(out) < min_words or resp.stop_reason == "max_tokens")): break
             resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=max(max_tokens, 48000),
-                        effort="medium", agent="convener", phase=phase, tag=tag + ":retry")
+                        effort=eff, agent="convener", phase=phase, tag=f"{tag}:retry-{eff}")
             out = text_of(resp)
+        if min_words and words(out) < min_words:
+            raise RuntimeError(f"{tag}: {words(out)} words after retries at medium and low (stop_reason {resp.stop_reason})")
         return out
 
     def call_on(self, session, turns, spoken, not_yet, phase=""):
@@ -268,6 +272,7 @@ class Convener:
         target and later passes are told the previous one fell short.
         Returns (doc, attempts): the candidate closest to LENGTH_TARGET, and one record per attempt."""
         attempts = []; cands = [doc]; prev = None
+        if words(doc) < 100: raise RuntimeError(f"{tag}: nothing to fit ({words(doc)} words)")
         for i in range(tries):
             n = words(doc)
             if LENGTH_MIN <= n <= LENGTH_MAX: break
