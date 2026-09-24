@@ -149,7 +149,7 @@ class Attendee:
                 messages.append({"role": "user", "content": results}); continue
             out = parse_json(text_of(resp)); break
         if not out or out.get("action") not in ("sign", "edit", "dissent"):
-            out = {"action": "sign", "target": "", "text": "", "reason": "unparseable review; counted as sign", "parse_error": True}
+            out = {"action": "unparsed", "target": "", "text": "", "reason": "unparseable review; not counted", "parse_error": True}
         out.update({"slug": self.slug, "name": self.name, "recall": idx.recall_log[n0:]})
         return out
 
@@ -179,21 +179,24 @@ def sections(doc):
 
 
 class Convener:
+    LADDER = ("high", "medium", "low")
+
     def _call(self, user, *, context=None, max_tokens=8000, effort="high", tag="", phase="", min_words=0):
         system = [{"type": "text", "text": CONVENER_SYSTEM, "cache_control": {"type": "ephemeral"}}]
         if context: system += context
         resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=max_tokens, effort=effort,
                     agent="convener", phase=phase, tag=tag)
         out = text_of(resp)
-        # Thinking can eat the whole output budget on revise-this-document calls (run 1: 16K cap at high; runs 2–3:
-        # 48K cap at high AND at medium, returning empty text). Retry down the effort ladder; low has always returned.
-        for eff in ("medium", "low"):
+        # Thinking can eat the whole output budget on long-document calls (run 1: 16K cap at high; runs 2–3: 48K cap at high
+        # AND at medium on revise, 12K cap at high on the Session 5 harvest, all returning empty or truncated text). When the
+        # caller sets min_words, retry down the effort ladder from wherever it started; low has always returned.
+        for eff in self.LADDER[self.LADDER.index(effort) + 1:]:
             if not (min_words and (words(out) < min_words or resp.stop_reason == "max_tokens")): break
             resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=max(max_tokens, 48000),
                         effort=eff, agent="convener", phase=phase, tag=f"{tag}:retry-{eff}")
             out = text_of(resp)
-        if min_words and words(out) < min_words:
-            raise RuntimeError(f"{tag}: {words(out)} words after retries at medium and low (stop_reason {resp.stop_reason})")
+        if min_words and (words(out) < min_words or resp.stop_reason == "max_tokens"):
+            raise RuntimeError(f"{tag}: {words(out)} words after the retry ladder (stop_reason {resp.stop_reason})")
         return out
 
     def call_on(self, session, turns, spoken, not_yet, phase=""):
@@ -217,11 +220,11 @@ class Convener:
         ctx = [{"type": "text", "text": f"# {session['title']}\n\n{session['description']}"}] + transcript_blocks(turns)
         claims = self._call("Write the harvest for this session: 3–5 key claims, takeaways, or unresolved questions that the "
                             "room actually produced, each in one or two sentences, each attributed to the people who advanced it "
-                            "by name. Number them. No preamble.", context=ctx, tag="harvest", phase=phase)
+                            "by name. Number them. No preamble.", context=ctx, max_tokens=48000, min_words=120, tag="harvest", phase=phase)
         minority = self._call(f"Here is the harvest you just wrote:\n\n{claims}\n\nNow do a separate pass over the transcript "
                               "for minority positions: views stated by one or two people that the harvest does not capture, "
                               "or that cut against it, including outright disagreements. List each as one or two sentences under "
-                              "the person's name. If there are none, say so. No preamble.", context=ctx, tag="minority", phase=phase)
+                              "the person's name. If there are none, say so. No preamble.", context=ctx, max_tokens=48000, min_words=10, tag="minority", phase=phase)
         return {"claims": claims, "minority": minority}
 
     def harvest_interventions(self, session, turns, phase=""):
@@ -231,7 +234,7 @@ class Convener:
                          "(problem / action / who acts). (2) Open questions the room said it cannot yet answer. (3) Who isn't in the "
                          "room who should be at the next convening. Then a fourth part, Minority positions: proposals or objections "
                          "held by one or two people that cut against the rest. No preamble.",
-                         context=ctx, max_tokens=12000, tag="harvest_s5", phase=phase)
+                         context=ctx, max_tokens=48000, min_words=300, tag="harvest_s5", phase=phase)
         return {"claims": out, "minority": ""}
 
     def draft_manifesto(self, harvests, syntheses, phase=""):
@@ -263,7 +266,7 @@ class Convener:
                 "the dissents filed this round, verbatim (trimmed only for length), under each dissenter's name; keep any "
                 "earlier-round dissent whose author did not sign this round. " + LENGTH_RULE + " Output only the revised "
                 "manifesto in Markdown, starting with the level-1 title.")
-        return self._call(user, context=ctx, max_tokens=48000, effort="high", tag=f"revise_v{round_no+1}", phase=phase, min_words=1400)
+        return self._call(user, context=ctx, max_tokens=48000, effort="medium", tag=f"revise_v{round_no+1}", phase=phase, min_words=1400)
 
     def fit_length(self, doc, tag, phase="", tries=5):
         """Send an out-of-range manifesto back with per-section word budgets until it lands in LENGTH_MIN..LENGTH_MAX.

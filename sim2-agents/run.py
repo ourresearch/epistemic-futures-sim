@@ -288,7 +288,8 @@ class Run:
         c = Counter(r["action"] for r in r2.values())
         final = (SIM_HEADER + "\n\n" + draft.rstrip() + "\n\n---\n\n## Signatures\n\n"
                  f"Of 33 simulated participants in the second review round: {c['sign']} signed as written, {c['edit']} signed "
-                 f"conditional on one proposed edit, {c['dissent']} filed a dissent (printed above under Noted dissents).\n")
+                 f"conditional on one proposed edit, {c['dissent']} filed a dissent (printed above under Noted dissents)"
+                 + (f", {c['unparsed']} returned an unparseable review (not counted)" if c['unparsed'] else "") + ".\n")
         (mdir / "manifesto.md").write_text(final)
         self.mark("manifesto")
 
@@ -354,7 +355,7 @@ class Run:
 | Cost (list price, see common.PRICE) | ${tot['usd']:.2f} |
 | Attendee turns | {n_turns} (spoken turns in sessions; cost ${att_turn_cost:.2f}, ${att_turn_cost/max(n_turns,1):.3f} per turn) |
 | Recall | {with_recall}/{n_turns} turns called recall; {len(recalls)} passages retrieved, {distinct} distinct ({distinct/max(len(recalls),1):.0%}) |
-| Review round 2 | sign {c2['sign']}, edit {c2['edit']}, dissent {c2['dissent']} |
+| Review round 2 | sign {c2['sign']}, edit {c2['edit']}, dissent {c2['dissent']}, unparsed {c2['unparsed']} |
 | Length enforcement | {LENGTH_MIN:,}–{LENGTH_MAX:,} words (target {LENGTH_TARGET:,}) on the manifesto text, header and signature footer excluded; out-of-range drafts re-asked at effort low with per-section budgets, up to 5 times. {length_row} |
 
 Assumptions recorded: the first name listed for each session on the published schedule is treated as its lead; the
