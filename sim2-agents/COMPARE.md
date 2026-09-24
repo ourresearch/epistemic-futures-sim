@@ -4,6 +4,9 @@
 
 Written 2026-09-24 from the frozen runs `sim2-run1-freeze`, `sim2-run2-freeze`, `sim2-run3-freeze`. Every name below refers to a simulated agent, not to the person. Nothing here is a view about any attendee. The purpose is to say which predictions are stable across seeds and which are not, before the real manifesto lands (~2026-10-08).
 
+
+> **Update, 2026-09-24 (batch 2).** Runs 4–6 were run the same afternoon on code `561ae16` with the three process fixes below applied, and are frozen as `sim2-run4-freeze`, `sim2-run5-freeze`, `sim2-run6-freeze` (published 13:10–13:19 UTC). The six-run results are in § Batch 2 at the end. The text between here and there is the original three-run comparison, unchanged.
+
 ## The short version
 
 The three runs agree on the principle set and disagree on packaging, on the lead idea, and on which three or four things get the most words. Nine themes appear in all three manifestos. The title and first principle differ every time. Filed dissents land on the same fault line in every run that filed any: whether "open to read" implies "open to train", and whether extractors owe a levy or a contract. Run 1 filed no dissents; runs 2 and 3 filed 3 and 5. The multi-agent runs also reproduce sim 1's principle set almost one for one, so the interaction changed the mechanisms and the attributions, not the beliefs.
@@ -119,3 +122,92 @@ The expected failure direction recorded before the runs was: more consensual, mo
 - Count unparseable reviews as `unparsed`, not as signatures.
 - Start the revise calls at effort medium. Effort high returned usable text in none of its six revise attempts across runs 2–3; every one hit the 48K cap while thinking.
 - Consider a fourth review option, "sign with a comment", so that endorsement is measurable.
+
+
+## Batch 2 (runs 4–6): what changed with the fixes, and the six-run ensemble
+
+Runs 4, 5 and 6 (seeds 4–6) ran in parallel on 2026-09-24, 11:47–13:17 UTC, on `561ae16`: harvest calls stream with a 48K cap and the high → medium → low ladder; revise starts at medium; unparseable reviews are counted as `unparsed`. Nothing else changed.
+
+**The fixes held.** All three Session 5 harvests came back complete on the first attempt at effort high (4,430 / 5,505 / 5,294 words; 22K–33K output tokens, so the old 12K cap was simply too small for thinking plus the answer). No harvest anywhere needed a retry. Of six revise calls, medium returned four and the low retry returned the other two (run 5 and run 6, round 2). No crashes, no resumes. Unparsed reviews: run 4 round 1 (Bilder), run 5 round 2 (Dyson); neither counted as a signature, and the signature line says so.
+
+### Shape
+
+| | Run 4 | Run 5 | Run 6 |
+|---|---|---|---|
+| Title | Pay for the People Who Check | Nothing Is Free | Somebody Maintains It |
+| Words (file) | 2,423 | 2,106 | 2,178 |
+| Principles | 9 | 9 | 9 |
+| Lead principle | The scarce resource is the people who check | Stop counting papers | Stop counting papers and citations |
+| Named commitments | 11 | 7 | 9 |
+| Round-2 sign / edit / dissent / unparsed | 4 / 26 / 3 / 0 | 1 / 28 / 3 / 1 | 6 / 23 / 4 / 0 |
+| Round-1 dissents | Salib, Turkle | Bratton, Salib | Becker, Bratton, Johns, Turkle |
+| Names in "Noted dissents" | 15 | 12 | 8 |
+| S5 harvest seen by drafter | complete | complete | complete |
+| "Who isn't in the room" in the text | yes | yes | yes |
+| Cost | $61.65 | $64.79 | $62.96 |
+
+Batch 2 cost $189.40; all six runs $385.07.
+
+### Principle overlap, runs 4–6
+
+Same rows as the three-run table. A cell gives the principle number where the theme is majority text; "commit." means it appears only in the commitments section; a dash means absent or dissent only.
+
+| Theme | Run 4 | Run 5 | Run 6 | Runs of 6 |
+|---|---|---|---|---|
+| Competence before reliance; order of learning; take-the-tool-away test | 6 | 9 | 4 | 6 |
+| Change the situation, don't warn individuals; name who acts | 5, 9 | 8 | 6 | 6 |
+| Monoculture / smoothness is the headline risk; show named disagreement | 7 | 4 | 5 | 6 |
+| Count independent sources, not repetitions | 7 | 4 | 5 | 6 |
+| Cite by default; link out; correction status travels in answers | 3 | 3, 4 | 6 | 6 |
+| Behavioral audits outside the vendor; shared battery; no generation more biased; keep retired models | 4 | 7 | 2 | 6 |
+| Accountable owner + mandatory liability insurance, premiums disclosed | 4, 9 | 4 (owner only) | 2 | 6 |
+| Stop counting papers; publishers' correction duties; DORA with teeth | 2 | 1, 3 | 1, 3 | 6 |
+| Pay coarsely to communities, never per item; per-retrieval pay is gamed | 1, 8 | 5 | 3 | 6 |
+| Event-level telemetry with audit rights; two witnesses; canaries | 4, 8 | 2 | commit. | 6 |
+| Antitrust safe harbour for producers bargaining as a bloc | 8 | commit. | 8 | 6 |
+| Commons-rent tax / levy / owed dues as backstop | 8 | 5 | 7 | 6 |
+| Separate controls for training vs grounding | 8 | 2 | 8 | 6 |
+| "Open to read is not open to train" as majority text | – | 2 | 8 | 4 |
+| Honour Wikipedia's chosen licence; crawlers self-identify; reusers fund infrastructure | 8 | 2 | 8 | 6 |
+| Refusal is fundable | 9 | 2 | 7 | 6 |
+| Forkable infrastructure: CC0, open source, patent non-assertion, living will, non-US copy | 9 | 5 | 9 | 6 |
+| Whoever profits from a count doesn't set it | 4 | 7 | 3 | 6 |
+| Southern / diamond journals govern with binding say and funded seats | 9 | 6 | 7 | 6 |
+| Identify agents and campaigns, never readers; anonymity stays | 7, 9 | 4 | – | 5 |
+| Failure and negative results as first-class data | 3, 7 | 3 | 5 | 6 |
+| Checkers as a paid body with a charter / Ulysses pact for every body | 9 | 5 | 9 | 6 |
+| Human in the loop is not a safeguard; overreliance; explanations can worsen it | 5 | 8 | 2, 4 | 6 |
+| Test every seat, human or machine, against a floor; novelty test | 1 | 7 | 3 | 5 |
+| No AI stand-ins for children, grief, therapy | – | 8 | – | 3 |
+| Global majority is more hopeful than this room | – | preamble | – | 2 |
+| Environmental and moderator costs in the ledger | – | – | – | 1 |
+| Apprenticeship and first jobs as a funded line item | 1, 6 | 9 | 4 | 5 |
+
+Over six runs: 21 themes in 6 of 6, 3 in 5 of 6, 1 in 4 of 6, 1 in 3, 1 in 2, 1 in 1. The stable set did not move. Two themes that were 2-of-3 in batch 1 (novelty test; funded apprenticeship) are 5-of-6 now and belong with the strong predictions. Children/grief/therapy as no-AI rooms stays at 3 of 6, and stays Turkle's dissent in the other three.
+
+### What the complete Session 5 harvest changed
+
+- **"Stop counting papers" leads when the drafter sees Session 5.** It is principle 1 in runs 1, 5 and 6 and principle 2 in run 4; in runs 2 and 3, whose drafters had no Session 5 harvest, it is principle 7 and principle 8. Bilder's Session 5 provocation is the same in every run; what differed was whether the drafter saw the room weight it. This is the clearest single effect of the fix, and it changes the emphasis prediction: with the harvest in place, the sim puts "stop counting papers" first or second in 4 of 4 runs.
+- **"Who isn't in the room" reached the manifesto in all three batch-2 runs** (a reconvening with regional co-governors, sleuths and early-career checkers; a named list of the absent with Shaub convening the next room; organizers seating SciELO, AmeliCA and Redalyc). In batch 1 only run 1 had it. The charter's "who isn't here" axis is now predictable from the ensemble.
+- **Open questions still do not get a manifesto section in any run.** They live in the Session 5 harvests (`runN/harvests/s5.md` § 2), which are the sim's prediction for that deliverable: recurring items are who pays and who has leverage to collect, who guards the guards, whether competence returns after tool removal, whether independence between models can be measured, and where warrant comes from in slow-feedback fields.
+- **Named commitments stayed dense** (7–11 people per run) without Session 5 being the source, so that is a review-round effect, as suspected.
+
+### Dissents, six runs
+
+Filed round-2 dissents across the five runs that filed any (run 1 filed none):
+
+| Agent | Runs | Position |
+|---|---|---|
+| Salib | 2, 3, 4, 5 | consent rule = new property right; contracts for new work, no levy on existing text |
+| Becker | 3, 4, 5, 6 | nothing in an LLM tracks truth; lab or billionaire money is leverage; public levy |
+| Bratton | 3, 5, 6 | keep training open; public wealth fund or dividend; open weights + compute commons |
+| Turkle | 2, 4, 6 | no "I", no simulated feeling, no AI in therapy, grief, children's companionship |
+| Johns | 3, 6 | every counter is a police force; who guards the guards |
+| Agüera y Arcas | 2 | "AI may not grade AI" is not absolute |
+| O'Reilly | 3 | walls lose to scrapers; pay at output per use |
+
+Seven agents account for every filed dissent in 24 review rounds over six runs (run 1's rounds produced none). The two fault lines are stable: consent and payment mechanism (Salib, Bratton, O'Reilly against the majority's opt-in and levy), and whether a model belongs in the checking loop or the room at all (Becker, Turkle). Johns's objection is to the whole apparatus rather than to a principle. Scoring plan unchanged: are the real dissenters drawn from these seven, and is the real fault line one of these two.
+
+### Ensemble prediction, restated for six runs
+
+Strong (6 of 6 or 5 of 6): the 24 themes above. Emphasis: "stop counting papers" first or second; "the people who check are the scarce resource" as the other candidate lead. Coin flip: whether "open to read is not open to train" is majority text (4 of 6) or a recorded split (2 of 6). Dissenters: Salib, Becker, Bratton, Turkle most likely; Johns, Agüera y Arcas, O'Reilly possible. Expected bias unchanged: the real document will be shorter on mechanism and narrower in scope than any of these.

@@ -31,6 +31,8 @@ $PY run.py --out smoke-s3 --only s3
 nohup $PY run.py --out run1 --seed 1 > run1.log 2>&1 &
 # runs 2 and 3 (2026-09-23, after the length-enforcement change): same command, --seed 2 --out run2 / --seed 3 --out run3;
 # they were launched in parallel (CPU-only retrieval; ~16 concurrent API calls in total)
+# runs 4–6 (2026-09-24, batch 2, code 561ae16: harvest ladder, revise at medium, unparsed reviews): --seed 4/5/6 --out run4/5/6,
+# three in parallel, ~85 min and ~$63 each; see COMPARE.md § Batch 2
 ```
 
 Manifesto length: every draft or revision outside 1,500–2,400 words is sent back to the convener with per-section budgets
