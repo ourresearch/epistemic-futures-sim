@@ -13,7 +13,8 @@ from pathlib import Path
 from common import set_log, SIM_HEADER, MODEL, words, name_of, write_md, LOG as _LOG
 import common
 from schedule import SESSIONS, OPENING, UNCONFERENCE_TOPICS, SESSION_FORMAT, CONCEPT_NOTE_FOR
-from agents import (Attendee, Convener, ROSTER, load_concept_note_sections, SHARED_INSTRUCTIONS, CONVENER_SYSTEM)
+from agents import (Attendee, Convener, ROSTER, load_concept_note_sections, SHARED_INSTRUCTIONS, CONVENER_SYSTEM,
+                    LENGTH_MIN, LENGTH_MAX, LENGTH_TARGET, LENGTH_RULE)
 import recall as R
 
 SLUGS = [r["slug"] for r in ROSTER]
@@ -246,6 +247,18 @@ class Run:
             self.do_harvest(sess, turns)
             self.do_diaries(sess, turns, SLUGS)
 
+    def fit(self, doc, ver):
+        """Length enforcement: keep the uncut text on disk, re-ask until in range, record every attempt in state.json."""
+        n = words(doc)
+        rec = {"raw_words": n, "attempts": [], "final_words": n}
+        if not (LENGTH_MIN <= n <= LENGTH_MAX):
+            (self.out / f"manifesto-{ver}.uncut.md").write_text(SIM_HEADER + "\n\n" + doc + "\n")
+            doc, rec["attempts"] = self.convener.fit_length(doc, tag=f"fit_{ver}", phase="manifesto")
+            rec["final_words"] = words(doc)
+        rec["in_spec"] = LENGTH_MIN <= rec["final_words"] <= LENGTH_MAX
+        self.state.setdefault("length", {})[ver] = rec; self.save_state()
+        return doc
+
     def phase_manifesto(self):
         mdir = self.out
         v1p = mdir / "manifesto-v1.md"
@@ -253,6 +266,7 @@ class Run:
             syn = jload(self.spath("s6"), {"turns": []})["turns"]
             syntheses = "\n\n".join(f"### Closing synthesis — {t['name']}\n\n{t['text']}" for t in syn if t["role"] == "synthesis")
             v1 = self.convener.draft_manifesto(self.harvests_text(), "# Closing syntheses\n\n" + syntheses, phase="manifesto")
+            v1 = self.fit(v1, "v1")
             v1p.write_text(SIM_HEADER + "\n\n" + v1 + "\n")
         draft = v1p.read_text().split("\n", 2)[2].strip()
         for rnd in (1, 2):
@@ -266,6 +280,7 @@ class Run:
             vp = mdir / f"manifesto-v{rnd+1}.md"
             if not vp.exists():
                 revised = self.convener.revise_manifesto(draft, [reviews[s] for s in SLUGS], rnd, phase="manifesto")
+                revised = self.fit(revised, f"v{rnd+1}")
                 vp.write_text(SIM_HEADER + "\n\n" + revised + "\n")
             draft = vp.read_text().split("\n", 2)[2].strip()
         # final = v3 + signature summary from round 2
@@ -322,6 +337,9 @@ class Run:
         h = lambda s: hashlib.sha256(s.encode()).hexdigest()[:16]
         r2 = jload(out / "reviews" / "round2.json", {}); c2 = Counter(r["action"] for r in r2.values())
         started = self.state.get("started", "?"); ended = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        length_row = "; ".join(f"{v}: {r['raw_words']:,} → {r['final_words']:,} words after {len(r['attempts'])} cut(s)"
+                               + ("" if r["in_spec"] else " (STILL OUT OF SPEC)")
+                               for v, r in sorted(self.state.get("length", {}).items())) or "(no manifesto phase in this run)"
         body = f"""| | |
 |---|---|
 | Started (UTC) | {started} |
@@ -337,6 +355,7 @@ class Run:
 | Attendee turns | {n_turns} (spoken turns in sessions; cost ${att_turn_cost:.2f}, ${att_turn_cost/max(n_turns,1):.3f} per turn) |
 | Recall | {with_recall}/{n_turns} turns called recall; {len(recalls)} passages retrieved, {distinct} distinct ({distinct/max(len(recalls),1):.0%}) |
 | Review round 2 | sign {c2['sign']}, edit {c2['edit']}, dissent {c2['dissent']} |
+| Length enforcement | {LENGTH_MIN:,}–{LENGTH_MAX:,} words (target {LENGTH_TARGET:,}) on the manifesto text, header and signature footer excluded; out-of-range drafts re-asked at effort low with per-section budgets, up to 3 times. {length_row} |
 
 Assumptions recorded: the first name listed for each session on the published schedule is treated as its lead; the
 unconference topic pool is the organizers' sign-up sheet as of 2026-08-23 (titles only); the marketplace and closing

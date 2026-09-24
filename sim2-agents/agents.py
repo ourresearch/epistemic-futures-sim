@@ -154,6 +154,30 @@ class Attendee:
         return out
 
 
+# Length enforcement (added 2026-09-23 before run 2, after run 1's final came in at 4,216 words against a 1,500–2,500 spec).
+# The whole manifesto text (title through Noted dissents; the SIMULATED header and the signature footer are not counted)
+# must land in LENGTH_MIN..LENGTH_MAX. The ceiling is 2,400 rather than 2,500 so the written file, header and footer
+# included, also stays under 2,500. Out-of-range drafts go back to the convener with per-section word budgets.
+LENGTH_MIN, LENGTH_MAX, LENGTH_TARGET = 1500, 2400, 2100
+LENGTH_RULE = ("Hard length limit: the whole document, 'Noted dissents' included, must be between 1,500 and 2,400 words; "
+               "aim for about 2,100. A draft outside that range is sent back to you for cutting, so budget the words now: "
+               "a preamble of at most 150 words, one paragraph of at most 130 words per principle, commitments of at most "
+               "200 words in total, and each noted dissent in at most 60 words.")
+
+
+def sections(doc):
+    """Split a manifesto into (label, word_count) at Markdown headings and bold numbered principle lines."""
+    out = []; label = "(title and preamble)"; buf = []
+    for line in doc.splitlines():
+        if re.match(r"^(#{1,3} |\*\*\d+\.)", line.strip()):
+            if buf: out.append((label, words("\n".join(buf))))
+            label = re.sub(r"[#*]", "", line).strip()[:80]; buf = [line]
+        else:
+            buf.append(line)
+    if buf: out.append((label, words("\n".join(buf))))
+    return out
+
+
 class Convener:
     def _call(self, user, *, context=None, max_tokens=8000, effort="high", tag="", phase="", min_words=0):
         system = [{"type": "text", "text": CONVENER_SYSTEM, "cache_control": {"type": "ephemeral"}}]
@@ -211,12 +235,13 @@ class Convener:
                 "cache_control": {"type": "ephemeral"}}]
         spec = load_concept_note_sections(["Where this leads"])
         user = ("Draft the summit manifesto from these harvests. The organizers' brief (from the concept note):\n\n" + spec +
-                "\n\nRequirements: 1,500–2,500 words. A short, plain-spoken manifesto for sustaining human knowledge: a title, a "
+                "\n\nRequirements: a short, plain-spoken manifesto for sustaining human knowledge: a title, a "
                 "short preamble, then numbered principles (each a bold one-line statement followed by one paragraph of argument in "
                 "the room's own terms), then a short section on what the signatories commit to do. It is opinionated, not a "
                 "consensus report; where the room split, take the majority position and record the split in a final section "
                 "headed 'Noted dissents', attributing each dissent by name from the harvests' minority positions. Use no "
-                "phrasing that the harvests do not support. Output only the manifesto in Markdown, starting with a level-1 title.")
+                "phrasing that the harvests do not support. " + LENGTH_RULE + " Output only the manifesto in Markdown, starting "
+                "with a level-1 title.")
         return self._call(user, context=ctx, max_tokens=48000, effort="high", tag="draft_v1", phase=phase, min_words=1400)
 
     def revise_manifesto(self, draft, reviews, round_no, phase=""):
@@ -230,8 +255,43 @@ class Convener:
                 f"## Proposed edits\n\n{rev or '(none)'}\n\n## Dissents\n\n{dis or '(none)'}\n\n"
                 "Revise the draft. Accept an edit when it is consistent with the harvests and with the rest of the room's "
                 "positions; when two edits conflict, keep the one closer to the harvests and note the other as a dissent. "
-                "Do not soften principles to win signatures. Keep 1,500–2,500 words. Replace the 'Noted dissents' section with "
+                "Do not soften principles to win signatures. Replace the 'Noted dissents' section with "
                 "the dissents filed this round, verbatim (trimmed only for length), under each dissenter's name; keep any "
-                "earlier-round dissent whose author did not sign this round. Output only the revised manifesto in Markdown, "
-                "starting with the level-1 title.")
+                "earlier-round dissent whose author did not sign this round. " + LENGTH_RULE + " Output only the revised "
+                "manifesto in Markdown, starting with the level-1 title.")
         return self._call(user, context=ctx, max_tokens=48000, effort="high", tag=f"revise_v{round_no+1}", phase=phase, min_words=1400)
+
+    def fit_length(self, doc, tag, phase="", tries=5):
+        """Send an out-of-range manifesto back with per-section word budgets until it lands in LENGTH_MIN..LENGTH_MAX.
+        Effort low on purpose: in run 1 a medium-effort compression call spent its whole 48K budget thinking. At effort low
+        the model under-cuts (about 15% per pass in the pre-run test), so the budgets are hard ceilings aimed below the
+        target and later passes are told the previous one fell short.
+        Returns (doc, attempts): the candidate closest to LENGTH_TARGET, and one record per attempt."""
+        attempts = []; cands = [doc]; prev = None
+        for i in range(tries):
+            n = words(doc)
+            if LENGTH_MIN <= n <= LENGTH_MAX: break
+            over = n > LENGTH_MAX
+            aim = (LENGTH_TARGET - 200) if over else LENGTH_TARGET
+            scale = aim / n; verb = "Cut" if over else "Expand"
+            budget = "\n".join(f"- {label}: {w} words now → {'at most' if over else 'about'} {max(15, round(w * scale))}"
+                                for label, w in sections(doc))
+            short = (f"Your previous attempt came back at {prev:,} words, still outside the limit, because it cut too little "
+                     "in every section. This time the budgets below are hard ceilings; go under them.\n\n") if prev else ""
+            user = (f"This draft is {n:,} words. The hard limit is 1,500–2,400 words and the target is about 2,100. {short}"
+                    f"{verb} it section by section to these budgets (current → allowed), so the whole document totals about "
+                    f"{aim:,} words:\n\n{budget}\n\n"
+                    "Keep every principle, every commitment and every named dissent; cut argument, examples and repetition, "
+                    "not positions, and do not add anything new. Commitments: one sentence each. Noted dissents: one entry "
+                    "per person, at most 60 words each, no sub-bullets. Keep the title, the headings and the numbering. "
+                    "Output only the manifesto in Markdown, starting with the level-1 title.")
+            ctx = [{"type": "text", "text": f"# Current draft\n\n{doc}", "cache_control": {"type": "ephemeral"}}]
+            system = [{"type": "text", "text": CONVENER_SYSTEM, "cache_control": {"type": "ephemeral"}}] + ctx
+            resp = call(system=system, messages=[{"role": "user", "content": user}], max_tokens=48000, effort="low",
+                        agent="convener", phase=phase, tag=f"{tag}:fit{i+1}")
+            out = text_of(resp); m = words(out)
+            ok = resp.stop_reason != "max_tokens" and m >= 1000 and out.lstrip().startswith("#")
+            attempts.append({"attempt": i + 1, "words_in": n, "words_out": m, "stop_reason": resp.stop_reason, "usable": ok})
+            if ok: doc = out; cands.append(out); prev = m
+        best = min(cands, key=lambda d: abs(words(d) - LENGTH_TARGET))
+        return best, attempts

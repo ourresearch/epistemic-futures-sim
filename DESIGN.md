@@ -125,6 +125,18 @@ The convener revises between rounds. Final = manifesto + noted dissents by name 
 The signature count and dissent count are also the two metrics theory says will be most wrong
 (too consensual), so we get the charter's §3 scoring axes for free.
 
+**Length enforcement (added 2026-09-23, after run 1 and before runs 2–3).** Run 1's final came in at
+4,216 words against the 1,500–2,500 spec: both revisions ignored the "keep 1,500–2,500 words" line,
+and post-hoc compression at effort medium spent its whole output budget thinking. From run 2 on,
+the draft and revision prompts carry an explicit word budget per part, and every draft or revision
+that falls outside 1,500–2,400 words (2,400 so the file stays under 2,500 with header and signature
+footer) goes back to the convener at effort low with per-section word counts and hard ceilings, up
+to five times; the candidate closest to 2,100 words is kept. The uncut text is kept beside the
+draft (`manifesto-v*.uncut.md`) and every attempt is recorded in `state.json` and `RUN.md`. In a
+pre-run test on run 1's final, one pass cut 4,158 words to 2,204 with all ten principles and all
+thirteen named dissents kept. This is the only change between run 1 and runs 2–3; run 1 is kept
+as frozen, including its length miss.
+
 ## Cost (Opus 5.5 at $4 in / $20 out per MTok)
 
 | Item | Turns | Per turn | Total |
