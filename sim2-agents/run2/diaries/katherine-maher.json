@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Ivan's Goodhart point stuck with me. I've been saying citations should be the default in AI answers, and I still believe that. But if every retrieval pays, we invite people to write for the retriever. So measure carefully, and pay in ways that don't reward volume. Leslie's DOI point sharpened my own worry about who can afford to take part. Being counted can't be the price of being included. Brent's \"open is a tactic\" keeps nagging at me. I still say the mission isn't neutral, but I owe people more than a slogan about how open gets sustained. Later I want to press on correctability: public ways to find and fix errors in answers, and funding for the contributors we don't have yet."
+ },
+ {
+  "session": "s1",
+  "text": "Session 1 mostly confirmed my read: things were broken before AI and are now accelerating. Leslie and Johns made me sharper on one point. There was no golden age of costly signals. The question is whose signals they were, and who paid for the policing. Tim's 92% uncited figure, along with Alex's bot-taxonomy data, gives me evidence and not just an argument that attribution is a design choice. James's finding moved me. A single balanced answer made people overconfident and worse at the task, which means citations alone aren't enough. Answers have to invite contesting. Sherry's \"whether\" still feels wrong as a general stance, though Kara's point about schools is fair. Later I want to press on correctability loops, and on reinvesting in the commons without locking it up."
+ },
+ {
+  "session": "s2",
+  "text": "Selena's AutoModerator example was the best thing I heard. The communities hold the switch, every revert gets explained, and there's a button to report a false positive. That's the correction loop I keep asking for, and it already exists. Mahzarin unsettled me, though. If people copy a moderately biased model almost exactly, then public flagging by humans can carry the bias forward instead of catching it. Correctability needs the indirect testing she described, and not just the crowd. Leslie's funded refusal is something I can't brush aside. \"Keep content free, charge for service\" assumes you were at the table when the terms were set. Later I'll back Anil's cite-by-default commitment, and I'll ask who governs the correction loops and who gets to sit at that table."
+ },
+ {
+  "session": "marketplace",
+  "text": "Weinberger and Jason made the Wikimedia Enterprise argument better than I would have: keep the content free and charge for reliable, correctable access. Alex conceding that reporting clauses belong only in paid licences matters to me. Being counted can't be the price of access. Ramón's failure events are the correction loop I keep asking for, and Adam Bly admitting you can't yet flag an error and watch it get fixed is exactly the gap. Mahzarin's audit before royalties answers my worry from this morning that the crowd alone copies the bias. Amy pushed me: open for reading need not mean open for training. I'm not sure yet. Later I'll back mandatory public failure reporting and ask who sits at the coalition table. Adam's annotators belong there."
+ },
+ {
+  "session": "s3",
+  "text": "Saying out loud that Enterprise worked because Wikipedia was too big to route around was a concession, and I meant it. Leslie and Kara are right that most of the record has no such leverage, so a bloc may be the only way smaller producers get to the table. I'm still unconvinced that withholding beats service. Selena refusing to block training reassured me more than the room's rush toward \"open to read, not to train.\" Mike's point landed hardest: cite-by-default is hollow if the link ends at a paywall. Tamar's warning about piece rates matches why Wikipedians edit at all. Later I want to hold the interface line: citations that link back, a visible way to report errors, and users governing whatever allocation body forms."
+ },
+ {
+  "session": "s4",
+  "text": "Saying Wikipedia started with no institutional trust felt right in this room. Tui sharpened something I only half-said: if earned authority means a long record, we rebuild the privilege that spare time already bakes into our editor base. Kara's Blue Zones case made it concrete, since the checking came from an outsider. Ivan's numbers humbled me. A missing retraction looks clean, so a correction loop that isn't maintained is theater. Pomerantsev named what I believe about Wikipedia: people trust by taking part, not by reading badges. Selena's warning against bounties matches why people edit. Later I want to join cite-and-link to open on-ramps for newcomers, and to insist that any model's correction record sit outside the vendor. And I have to press Kara's question: who pays, and by when?"
+ },
+ {
+  "session": "s5",
+  "text": "Geoffrey's line that nonprofit is a tax status and not a virtue landed, and I say that as someone who ran one. Adrian made it sharper: every body we proposed is a police force, and somebody has to be paid to read the self-audits. Tui is right that the funder signs the pact too. I've lived what happens when the money leaves. Ivan persuaded me that paper-counting sits upstream of everything, including any licensing deal I'd praise. Weinberger's line about a nickel per phrase matches why Enterprise sold access, not content. Selena still doesn't know whether a link-out makes an editor, and neither do I. Later I want to push on who pays for the parts of the record with no leverage, and put a date on it."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's synthesis was fair, and Selena's dissent from \"open to read, not to train\" deserved to stay on the record. Geoffrey's line that open isn't free is the one I've lived: every unowned item is a staffing line, and I watched ours disappear when federal money left. His point that the open record sits in the US on political funding hit home. Leslie is right that refusal isn't a strike, and that fixes my service-first framing. Anil named what I've wanted to say all day. We need to state what we're for, and small, public, consent-trained models built from trusted institutions is that. Later I'll back his one line, cite and link to something people can open, and ask to put a name beside the public-interest model."
+ }
+]

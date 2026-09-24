@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Blaise's point about constraint landed. \"They always hallucinate\" was always about fluency not telling you truth from error, but Mike is right that errors cluster, and I should say that more carefully instead of leaning on the quip. Mahzarin unsettled me. If a model hides its \"female\" signal before output, then my plea for calibrated confidence is only as good as whatever audits it, and self-report won't do. Adam's finding-as-unit sharpened \"differences held in connection\" into something you could actually compute. Later, in the infrastructure session, I want to push openness and decentralization: open metadata, open weights, many imperfect systems kept alive. And I want to warn against answering extraction with copyright metering that walls off the commons."
+ },
+ {
+  "session": "s1",
+  "text": "Krakauer's reply stung usefully. Grading the dialogue presumes the student already knows enough to probe, so order matters. I'd defended transcripts as the new literacy without saying what has to come first. I still think dialogue beats the essay for most people, but I'll concede sequencing. James's finding helped me more than anyone's: the visibly skewed answer made people argue longer and do better. That's my \"design for dialogue\" with numbers attached. It also cuts against my own push for calibrated confidence, if a balanced answer just lulls people. Amy's history lesson on open access unsettled me. Openness pushed through policy fed consolidation. In the infrastructure session I still want open data and many systems kept alive, but I owe the room an answer about who pays."
+ },
+ {
+  "session": "s2",
+  "text": "Mahzarin's hiring study hit my \"humans in the flow\" squarely. People paired with a moderately biased model simply copied it. Flow doesn't help if the human just absorbs the drift, so the dialogue has to include pushing back, and Mike's \"evidence for and against\" default is one way to build that in. Tamar backed me on situation over pronoun, but her aside about her own brain doing the likely thing makes \"they don't know anything\" look too clean. I should stop saying it so flatly. Selena and Katherine gave me the answer I owed Amy on who pays: keep the content free, charge for reliable access, and build public correction loops. Adrian's history of captured registers strengthens the case for Alex's manifests and many directories. Later I'll argue for open infrastructure with correction built into it."
+ },
+ {
+  "session": "marketplace",
+  "text": "Geoffrey's confession stayed with me. \"Sell services, not data\" was the answer I borrowed from Selena and Katherine in the last session, and he called it naive. Endowments may be the sturdier way to pay. Ramón's failure events are the correction loop I asked for, with a schema attached, and they speak to my worry about who holds the meter better than my own nickel-per-phrase warning did. Tui turned \"unanticipation\" into money: pay the least-retrieved, because the outlier is where the particulars live. Sherry and Krakauer are right that nothing here records reading, and I shouldn't wave that away as nostalgia for the essay. Later I want to argue for keeping the content free, making failure data open, and funding the commons through endowments."
+ },
+ {
+  "session": "s3",
+  "text": "Leslie caught me out. I lumped all withholding together, and \"withholding just makes it disappear\" is true only for people who are already indexed, in English, and counted. A community's public no is consent, not a silo, and Anil's line between that and indiscriminate blocking is the one I should have drawn myself. I'm less sure about \"open to read, not to train.\" It sounds right, but unanticipation meant uses nobody foresaw, and training is one of them. Mike's version I can take whole: open to read has to mean a human can click through for free. Selena and Krakauer made the same point in two ways: a fork saves the text but not the people who keep it alive. Later I want to concede on refusal, hold firm against metering, and back Anil's many small models."
+ },
+ {
+  "session": "s4",
+  "text": "Alex's citation laundering knocked out my own argument, and I said so. Transparency only works if the links lead back to separate sources, so \"see through it\" now needs audits behind it. Ramón unsettled my plea for inexplicability. I've said reliable outcomes can excuse opacity, but frequencies don't tell you how the next strange failure happens. I should grant that. Henry hit the particulars argument. A summarizing system strains out the rare claim, which is exactly the outlier I've been celebrating. Anil, Selena and Brent made cite-and-link a recruitment pipe for checkers, and that's my linked medium with a mechanism attached. Later I want to back cite-and-link by default, open failure data held outside vendors, and Tui's warning against building a new seniority."
+ },
+ {
+  "session": "s5",
+  "text": "Geoffrey's question is the one I ducked: I said \"endowments and pooled funds\" as if a pool guards itself. Adrian's point that every body we propose is a police force, and Tui's that the funder signs the pact too, are the honest answer, and I should have folded them in. Katherine eased my \"does anyone click\" worry. Citations work because a small share of readers check, so I don't need everyone. Sherry's Proust question is still mine, though, and a link isn't reading. On vocabulary, Salib and Bratton want \"just statistical models\" out, and Becker wants \"intelligence\" out. I've said \"they don't know anything\" too flatly all week. Later I want to side with keeping both phrases out, and with Cukier on keeping disagreement visible."
+ },
+ {
+  "session": "s6",
+  "text": "Krakauer's second variable landed hardest. If sequencing can't save anyone from an opaque tool, then my plea for inexplicability now has to live with a teaching problem as well as an epistemic one. I'll concede that transparency matters wherever people have to learn. Bly's warning that one graph becomes a hub is the old re-decentralize argument turned on our own fix, and I agree with it. Geoffrey is right that open isn't free, and that the record we lean on is American and politically funded. Anil said what I should have: say what we're for. Small, local, open, consent-trained models. Kara's column embarrasses me, because my name sits next to nothing. Later I want to back Anil's line, stress that Mike's clustering point has now been dropped four times, and find something I can actually own."
+ }
+]

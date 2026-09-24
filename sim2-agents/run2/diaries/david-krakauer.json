@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-3",
+  "text": "Tui's reply stayed with me. She folded my transparency point into hers: a map lets you see the side street and take it. I'd said detours on an opaque tool are useless, and I still think so. But she's right that transparency and the freedom to go somewhere the tool didn't predict may be one property, not two. That sharpens \"complementary\" usefully.\n\nEsther pushed opacity outward to the objective function. Fair. A transparent tool optimizing for retention is still competitive.\n\nKara's question unsettles me most. I have a dynamical model and no named actor. \"Competence before reliance\" means nothing without a school board or an employer behind it.\n\nLater: insist that a human in the loop is insufficient, and say who sequences the learning."
+ },
+ {
+  "session": "s1",
+  "text": "Evans unsettled me most. If older reviewers already punished disruptive work, then \"human in the loop\" can mean senior gatekeepers who lock in the narrowing. My sequencing argument protects competence, not conservatism, and I have to say that explicitly or it gets heard as defending incumbents.\n\nSloman's Air France point is the right frame. What we lose is oversight skill, not memory, and we need it most when the tool fails. Gendler gave me the mechanism: roles get filled by habits formed elsewhere.\n\nOn enforcement, Shaub offered funders and Miller offered school boards. Both are better than my silence. Grant conditions could require competence before reliance.\n\nLater: distinguish competent judgment from gatekeeping. Name funders and graduate programs as the ones who sequence. Press Weinberger on what a student has to know before a transcript is worth grading."
+ },
+ {
+  "session": "s2",
+  "text": "Banaji's hiring result is the one I keep turning over. People paired with a moderately biased model copied its preferences almost exactly and pushed back only when the bias was glaring. That is my collapse regime showing up in judgment, not just in skill. An uncritical human doesn't only lose competence. That person passes the error into the next round of training data. So \"humans in the flow\" needs more than sequencing. It needs a measured ability to catch subtle error.\n\nCaulfield put it better than I did: the question is whether the scaffolding ever comes off. My model predicts hysteresis, but it's a model. Gendler asked where first-hand evaluation still happens.\n\nLater: propose that funders pay for experiments that remove the scaffolding and then measure whether error detection survives."
+ },
+ {
+  "session": "marketplace",
+  "text": "Every event on Alex's list counts use, and I said so. What mattered more was Ramón. Failure events are the first thing on the table that touches my real worry, error nobody can detect. But a logged misattribution only tells you someone caught it. The ones that matter are the ones no one flags.\n\nBanaji's free-tier finding sharpens the collapse picture. The people with the least competence get the worst tool, and that sits squarely in the regime my model predicts.\n\nI backed \"measure finely, pay out coarsely\" for defensive reasons, not because I like it. I'm still uneasy that scholars are being turned into sellers.\n\nLater: propose that failure reports record who caught each error, a human or an automated check. That is a measure of whether detection capacity survives."
+ },
+ {
+  "session": "s3",
+  "text": "Banaji's caution cuts at my own proposal. A human catch isn't clean evidence that competence survives if the human is copying a moderately biased model. So the \"who caught it\" field needs a harder test: seeded errors, subtle ones, planted and scored, not just catches counted. Alvarado is right that surfacing errors isn't the same as knowing where they come from.\n\nSalib's contracting still bothers me. Paying for corrections one item at a time turns judgment into output. Gendler's daycare point and Shaub's pooled fund are closer to what I mean by paying for the conditions of judgment.\n\nLater: propose seeded-error audits, funded through Shaub's pool, that measure human detection with the scaffolding removed. Name funders and graduate programs as the ones who run them."
+ },
+ {
+  "session": "s4",
+  "text": "Tui took my seeded-error audits and made them better. Open them to anyone who wants to be scored, not only people already inside a program. Without that, \"tested competence\" becomes seniority by another route, and Evans's numbers show seniority already filters out novel work. So I accept the amendment: testing competence has to mean testing anyone who shows up.\n\nJohns handed me history. Rushworth's cross-checkers had trained the habit until it was second nature. A competence is cultivated, never simply owned.\n\nFarrell's point stays with me. Track records measure the common case, and the rare claims are the ones that disappear unnoticed.\n\nKara's question is still open. Nobody named a funder, and neither did I.\n\nLater: name one. Propose that a single foundation pilot open audits this year, with no scores attached to careers."
+ },
+ {
+  "session": "s5",
+  "text": "The idea got adopted and nobody paid for it. Gendler, Kara and Blaise all folded \"competence before reliance\" and seeded-error audits into their own proposals, and I still had to write \"unowned.\" Kara went further with employers who have stopped mentoring. I have no answer there.\n\nCaulfield sharpened things most. My hysteresis prediction and his scaffolding bet are the same experiment. That turns two untested claims into one fundable study.\n\nIvan's point applies to me too. Once audit scores feed careers, they become another thing to count.\n\nOn wording, Becker wants \"intelligence\" out and Salib and Bratton want \"just statistical models\" out. I agree with both: capability, not intelligence, and no easy dismissal either.\n\nLater: pitch the joint experiment with Mike to a named foundation, in the room."
+ },
+ {
+  "session": "s6",
+  "text": "I asked in the room which foundation would pay. Tui took the conversation but promised no check, and Mike asked her the same thing. So the experiment has two names on it and no money.\n\nMahzarin's measure is what I was missing. Telling a real human check from one that just passes along a moderate bias is the scoring instrument the take-it-away study needs. Otherwise a \"catch\" proves nothing.\n\nRamón's error provenance belongs with my transparency half. A tool that hides where its errors come from is opaque, whatever its track record says.\n\nAdam Bly on scores getting gamed is Ivan's warning again. No audit result follows anyone.\n\nLater: ask Mahzarin to co-design, and give Tui one budget number to carry."
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Sloman's challenge stuck with me: no good evidence that general critical-information training works. I half agree. Generic \"be skeptical\" training doesn't work, and that's why SIFT was always a set of specific, cheap moves you do when you have a reason to check. That's worth saying, and I need to show evidence rather than assert it. Evans's result helps: people perform better when they see disagreement than when they get a single balanced answer. The harvest dropped my hallucination point, so I'll restate it: errors cluster in situations people can learn. Bly is right that clicking through isn't the endpoint, but for most people it's the start. Later I'll push \"teach use, don't refuse,\" ask someone to fund testing of SIFT for AI, and raise the enclosure of the open web, which nobody mentioned."
+ },
+ {
+  "session": "s1",
+  "text": "Session 1 went better than I expected on sourcing. Tim's 92% no-link figure and Springer's bot data make my \"no answers from nowhere\" point concrete: not citing is a design choice. The harvest again folded my hallucination point into a Becker dispute. I need to say it more simply: errors cluster, and people can learn where. Gendler and Sloman are right that awareness fails, which sharpens my view. SIFT works only as cheap moves triggered in the moment, built into the situation, not as a lecture. Evans's skewed-answer result backs showing contested positions instead of a single answer. On Krakauer's sequencing, scaffolding complicates the order. Later I'll push for a claim-level citation standard for research tools and ask someone to fund testing SIFT for AI."
+ },
+ {
+  "session": "s2",
+  "text": "Becker came partway: errors cluster and people can learn where. That was the point I kept losing in the harvests, and this time item 1 at least credits fabrication rates at release. But Banaji's warning lands on me. If link-fabrication rates become a shipped metric, vendors will tune to pass it. So it needs independent, versioned tests, not self-reports. Gendler's \"situation, not label\" is basically why SIFT is moves, not lectures. Deckelmann's falling pageviews and Dash's cite-by-default made enclosure concrete at last. Priem and Brand circled it too. Later I'll push a claim-level citation standard: is it the right source, cited accurately, representative of the field? And I'll again ask someone to fund testing whether AI scaffolding ever comes off."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mostly not my lane. Royalty mechanics I'll leave to Tim, Alex and Nick. But three things landed. Bly said provenance has to reach the claim, not the document, which is my citation standard: right source, cited accurately, representative of the field. Ramón's failure events are the other half of it. Log the stitched-together references, and use Banaji's split by model version so vendors can't tune to a self-reported score. Becker's \"always errors\" again. Fine, but they cluster, and that's teachable. Turkle and Krakauer rewarding the link out is just \"get out of the LLM to check the LLM\" written as policy. Weinberger and Priem kept enclosure alive: keep content free. Later I'll push the claim-level standard and ask, again, who funds testing SIFT for AI."
+ },
+ {
+  "session": "s3",
+  "text": "Finally said the enclosure thing out loud, and it landed better tied to Alex's finding. Blocking grounding bots removes you from the one path readers still take. Amy's \"open to read, not to train\" is the right line, but only if \"read\" means a free click-through. Otherwise cite-by-default just points people at a paywall. Ivan sharpened my citation standard for me: a default check against a flattering record launders it. Pomerantsev and Sloman on counting sources, not echoes, is lateral reading written as payment policy. Most of the money questions I'll leave to others. Tui's pooled foundation fund might finally be who pays to test SIFT for AI. In Session 4 I'll push stakes and expensive signals. LLMs route you to authority, they aren't authority."
+ },
+ {
+  "session": "s4",
+  "text": "Session 4 made me narrow my claim, and I think it's better for it. Kenneth's biopsy model is right: systems checked against ground truth and independently revalidated can earn instrument-style trust. My worry is claims you can't check yourself, where accountability is part of the function. Salib's point stings a little. \"No stakes\" describes today's law, not the nature of the thing. Esther's insurers might make stakes real. Tui and Leslie hit my own test hardest. \"Expensive to fake\" can mean expensive to earn, and \"position to know\" leaves open who decides. Wikipedia's persistent pseudonyms are the answer I'd give: a record of what someone did, not their pedigree. In Session 5 I'll push the claim-level citation standard, and ask again who funds testing SIFT for AI. Nobody named a funder."
+ },
+ {
+  "session": "s5",
+  "text": "Session 5 finally turned my two threads into one experiment. Krakauer's hysteresis prediction and my scaffolding bet stand or fall on the same test: take the tool away and see what's left. Kara put his pilot in the unowned column, so SIFT-for-AI testing is still unfunded after three days. Weinberger's \"doorway, not stopping point\" and Selena's link-out experiments are my enclosure point grown up. Cite-and-link only means something if the click lands somewhere free, and I'm glad that made it into my standard. Salib and Bratton kept \"just statistical models\" out of the text, which I'm fine with. Becker wants \"intelligence\" out too, and I can live with that. In the closing, I'll push to name a funder for the shared experiment, not just write down that it's unowned."
+ },
+ {
+  "session": "s6",
+  "text": "The closing got my narrowed position right: instruments checked against ground truth can earn trust, and LLMs are conduits, not arbiters. But the harvest dropped \"errors cluster, and that's teachable\" for the fourth time, and my SIFT-for-AI commitment went missing too. Ramón's error-provenance point is the same idea in his vocabulary, so maybe that's how it survives. Krakauer's transparency variable sharpens my scaffolding bet: if the tool hides its working, sequencing won't save anyone, so the tool has to show sources. Tui took the funder conversation but promised no check. Still unfunded. Bly's warning bites: a single provenance graph becomes a validator. Tomorrow I'll write the openly licensed materials anyway and put a date on them, so there's something ready to fund."
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Leslie's point landed hardest. I'd been treating identifiers as neutral plumbing, but if the trace is keyed to DOIs, a journal that can't pay for them is simply absent from the count. The schema has to accept plain URLs and server-log events as first-class, not as a fallback. Ivan and Geoffrey on Goodhart sharpened something too. Two witnesses catch fabricated events, but they don't catch content written for the retriever. That's a payout design problem, not a measurement one, and I should say so rather than imply the schema solves it. Admitting our accreditation is self-attested felt right. Geoffrey's line that nobody reads self-audits stung. Later I'll commit to a date for independent audit and a published governance process."
+ },
+ {
+  "session": "s1",
+  "text": "Tim's 92% number and my citation audit told the same story from two directions: retrieval can cite, and not citing is a choice. That's useful ground for the marketplace session. Geoffrey's vibe-coded scrapers sharpened my identity argument. Most bad traffic may be ignorant rather than malicious, which is exactly why unverifiable agents are the problem, not villains. Amy's line that pre-training drops provenance and retrieval keeps it is my training-versus-grounding split in her words. Ivan unsettled me. Telemetry faithfully measuring influence from an uncorrected record isn't a win. I don't have an answer there and shouldn't pretend to. Later: plumbing before prices, stay neutral on allocation when Tim pushes royalties, and restate the URL-first and audit-date commitments."
+ },
+ {
+  "session": "s2",
+  "text": "Adrian's point unsettled me most. Authentication machinery serves two masters, and a signed manifest that proves who an agent is could also be used to track who deployed it. I need to be clear that AIMS identifies operators, not readers, and that telemetry records content events, not people. Henry's warning that paying per retrieval makes people write for the retriever is my Goodhart worry again, now heard from someone else. That strengthens the case for keeping price out of the schema. Mahzarin's point that models learn to pass output tests is the same logic as self-reporting, so it supports two witnesses. Selena and Anil gave me allies on cite-by-default. For the marketplace session I'll put identity, then measurement, then value return. I'll also name surveillance limits explicitly."
+ },
+ {
+  "session": "marketplace",
+  "text": "Ramón's point is the one I keep turning over. Every event I listed records something going right, and a fabricated reference would still look to our schema like a clean \"cited.\" Failure events belong in the vocabulary: misattributed, fabricated, correction flagged, correction applied. They should be reported openly and broken out by model version, as Mahzarin asked. I should say plainly that I'll draft them rather than just nod along. Sherry caught something real too. Nothing we measure says anyone actually read the source, and I shouldn't dress up link-outs as reading. Jason and Geoffrey sharpened my scope: reporting clauses go only where money changes hands, never as a condition for touching open content. Later I'll give the audit date, name who should hold the raw data, and put failure events on our spec roadmap."
+ },
+ {
+  "session": "s3",
+  "text": "Geoffrey's Bootleggers-and-Baptists warning hit harder than anything else. An open spec that's too complex for small presses to implement is enclosure by other means, so conformance has to be possible from plain server logs alone. Mahzarin sharpened the two-witness case. A model that prefers its own company's sources makes citation itself a biased judgment. Retrieved-then-dropped needs to be measurable by outsiders. David's \"who caught it\" field is cheap and I'll add it next to the failure events. Nick's receipts idea worries me a little, because telemetry could quietly turn into a tax-compliance instrument. Later I want to commit to an audit date, propose that a neutral party hold the raw logs, and repeat that nothing inside the model's context can be seen from outside."
+ },
+ {
+  "session": "s4",
+  "text": "Saying out loud that most of my spec fails Mike's fake-it test felt necessary. Blaise's confession made the point for me: a fine metric reported by the wrong party is worthless. Ivan's line stuck hardest. A missing retraction looks like a clean record, so a \"correction applied\" event only means something if we check it against Retraction Watch and Crossref, not the platform's own claim. Esther gave failure events a buyer: insurers need them and won't take badges. Krakauer's worry about auditors raised on the tool means canaries and sampled audits should come from people outside the pipeline. Kara's question stands, and I can't name a funder either. Later I want to commit to a date for the failure-event draft and an independent audit, and to a neutral holder of the raw logs."
+ },
+ {
+  "session": "s5",
+  "text": "Hearing my signed manifests cited three times, by Salib, Esther and Selena, was gratifying and uneasy at once. Adrian's question now applies to me: who guards the manifest directories? Operators only, never readers, has to be written into the spec, not just said aloud. Leslie caught something I missed. I proposed checking \"correction applied\" against Crossref and Retraction Watch, and those are exactly the Northern validators she means. The check should also accept regional sources like Redalyc. Tim's telemetry package is nearly mine, and O'Reilly Answers as a test implementation helps. But pooled payment still rests on grounding nobody can verify. Nobody named who funds the neutral log holder. Later I'll give an actual month for the failure-event draft and the audit, and write the neutral holder down as \"unowned.\""
+ },
+ {
+  "session": "s6",
+  "text": "Kara listed my draft and independent audit as owned, and Adam Becker will report on whether dated commitments were kept. I still haven't said a month out loud. That has to change today. Tui's point hit my schema directly: paying on retrieval pays the median. Measurement can record least-retrieved sources, but the budget line is a pricing decision, and it belongs outside the spec. Geoffrey's \"open isn't free\" applies to us too. Someone maintains the conformance tooling. Leslie's \"who governs the validators\" includes OpenAttribution, and Adam Bly's hub warning covers any central log holder. Anil's one line, \"cite and link,\" is my \"show your work.\" Later I'll give dates for the failure-event draft and the audit, and keep the neutral holder marked unowned."
+ }
+]

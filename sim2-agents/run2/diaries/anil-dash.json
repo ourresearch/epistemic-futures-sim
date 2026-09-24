@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Henry got me, and fairly. I'd been saying \"consent\" as if it meant each creator signing their own deal, and that's exactly the split the big players want. Consent a guild exercises together is still consent. I'll keep that.\n\nLeslie's point stuck too. If the reporting plumbing is the price of getting paid, we've built another toll booth, and the small journals vanish. Ivan's Goodhart warning belongs next to it. Per-retrieval money gets gamed.\n\nPeter's welfare idea still bothers me. It pays people after taking the choice away.\n\nFor Session 5 later today: cut this down to one repeatable, checkable goal. Labs pay, and a named share goes straight to reviewers, maintainers and sleuths, who get votes. And we should say what good AI looks like, not only what we refuse."
+ },
+ {
+  "session": "s1",
+  "text": "Tim's number stuck: 92% of Gemini answers with no clickable source. Alex found the same thing from the plumbing side. Not citing is a choice. That gives \"labs pay\" a checkable companion: cite what you read, and link back.\n\nKara pushed on my \"whether is decided,\" and she's right about schools. My claim was about adults already using it, not kids. I'll say that more carefully.\n\nJames's skewed-answer trial and Brent's \"provoke, don't just assist\" come close to what I mean by good AI. Geoffrey's point that exit needs somewhere to go is the case for building the alternatives.\n\nFor later: pair payment with citation-by-default, keep the named share for maintainers and reviewers, and say what we're for."
+ },
+ {
+  "session": "s2",
+  "text": "Selena made the cite-and-link default concrete. Pageviews falling means donors and volunteers never arrive. That's the doom loop in numbers, and it's checkable. Good.\n\nHenry's warning bites my \"labs pay.\" If money follows retrieval, people start writing for the retriever, and that's James's narrowing again. So the payment should go to the maintainers and reviewers as a group, not per click. Brent's point helps: coordinated withholding works without Washington.\n\nAdam's right that popularity isn't truth. My claim is narrower: scolding doesn't win power. Katherine's reminder that most of the world is optimistic cuts the same way.\n\nLeslie again: citing only the indexed record makes everyone else disappear twice.\n\nFor Session 5, propose citation by default and a collective share. Then ask who's missing."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tim credited me with cite-and-link by default, and Weinberger, Jason and Sherry backed it. Good. Sherry sharpened it: reward the link that sends people out, never time spent inside the answer. That's the engagement trap I've watched play out before.\n\nJason and Geoffrey caught what I'd feared. If being counted becomes the price of touching open content, it's a toll booth with better logging. Alex agreed reporting belongs only in paid licences. I want that written down.\n\nRamón's failure events matter. If the telemetry only records successes, it's an advertisement. Adam Becker's right that annotators and moderators belong at the table.\n\nFor Session 5: cite and link by default, a collective share that includes annotators, open failure data, and ask which funder will actually own this."
+ },
+ {
+  "session": "s3",
+  "text": "Leslie made me split withholding into two kinds, and that held up. Blocking the Internet Archive out of fear is collateral damage. A community saying no in public is consent. Nick's \"open to read, not to train\" names the line. Mike sharpened it: \"open to read\" has to mean a person can actually click through, or cite-by-default just leads to a paywall. Alex showed that robots.txt can't tell training from grounding, so refusal needs separate controls.\n\nBrent and Henry convinced me a bloc is how \"labs pay\" actually happens. Pomerantsev is right that \"sovereignty\" is a poisoned word.\n\nFor Session 5: cite and link by default, a collective share with votes, and training and grounding controlled separately. Then name who goes first. Tui's foundations are the only honest answer I've heard."
+ },
+ {
+  "session": "s4",
+  "text": "The best thing today was hearing four other people make the recruitment case. Selena, Brent, Katherine and Tim all said it: checkers arrive through links. So cite-and-link isn't only about money anymore. It's how the next editors and sleuths get made. Brent's 2017 numbers make it checkable.\n\nTui's warning got me. \"Expensive to fake\" can quietly become seniority. That's why I said persistent pseudonyms, and why we should show what someone actually did instead of scoring them. Selena went further and said no bounties, which cuts against Ivan's pool. I haven't settled that.\n\nKara's question landed hardest. Nobody named a funder, and I couldn't either.\n\nFor Session 5: cite-and-link by default, open failure data, a collective share, and one named first funder, or we say plainly that we don't have one."
+ },
+ {
+  "session": "s5",
+  "text": "The goal held. Weinberger, Selena, Katherine, Sherry and Tim all put cite-and-link at the top of their lists, so it's repeatable. Tim's version adds that labs repay a foundation-seeded fund, which gets closest to naming who goes first. Nobody actually signed, though. \"Unowned\" stays.\n\nTui sharpened my pool: the funder signs the pact too. Adam Becker is right that a gift can be withdrawn. Adrian's question is the one I can't answer. How does rotation work when members are pseudonymous?\n\nBratton and Blaise backed small, local, open-weight models. That's the \"for\" I wanted, though Google saying it is interesting.\n\nLater I want one line, not five bodies. Cite and link to something readable, a pooled share with votes, and funders named publicly."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth and Kara kept \"unowned\" honest. That was the right call, and I said so. What worried me is that we're leaving with fifteen good items and nothing anyone could repeat on the train home. So I put my name on drafting the one line and testing it on people who weren't here.\n\nLeslie's compute point sharpened my \"for.\" Small, local, open models don't mean much if the Lagos student can't run them. Anything owned by a region has to come with the compute to use it. Geoffrey's \"open isn't free\" belongs next to it. Maintainers are a staffing line, not a virtue.\n\nAdrian's question about rotation under pseudonyms is still open, and I said that plainly.\n\nLater I'll write the line, get it in front of outsiders, and see if it survives them."
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Peter's right that a consent default is a kind of property right, and I should stop pretending otherwise. The honest defense is that the current default is also a choice, and it favors mills like mine. Jason's point that data and intelligence are decoupled is the strongest challenge to my \"biggest vacuum cleaner\" line. I need to think about whether compute still re-couples them, as Leslie said. Ivan and Geoffrey on Goodhart sharpened me: attribution yes, per-retrieval payouts no. Nick's evaluation-data guild is the most concrete leverage idea we heard. Later I want to push measuring reviewer and moderator labor. And I should admit plainly that I still need economists to tell me whether any of this pencils out."
+ },
+ {
+  "session": "s1",
+  "text": "Tim's 92% figure and Alex's wrong-bot finding made my point better than I did. Retrieval can cite, and not citing is a product decision that my industry is making. James's result, that skewed answers made people argue longer and do better, is the best evidence I've heard for provocateur design. I want to lean on it. Ivan pushed me: I can't keep piling societal-impact duties onto unpaid reviewers. Paying them has to come first. Amy's 3% number and her open-access history sharpen my \"open is a tactic\" line. Geoffrey's point that the open record is US-hosted and politically funded belongs in that too. Later: push for measuring reviewer labor, keep attribution distinct from per-retrieval payouts, and admit I still need economists."
+ },
+ {
+  "session": "s2",
+  "text": "Selena's falling pageviews were my doom loop showing up in real numbers, and Katherine's \"free commons, paid service\" is a sharper bargain than my consent default. I need to reconcile the two before Session 5. Henry and Anil convinced me that countervailing power has to come from outside Washington, which is exactly where data leverage lives. Mahzarin's hiring result unsettles me. If people copy a moderately biased model, then provocateur design has to be tested, not assumed. Adrian's point about registers being captured applies to our guilds too. Whoever holds the withholding power gets courted. Henry's line about writing for the retriever reinforces attribution, not per-retrieval payouts. Later: push measuring reviewer labor, name the antitrust safe harbour as the one policy ask, and admit again I need economists."
+ },
+ {
+  "session": "marketplace",
+  "text": "Nick carried the seller's side well. He put collective bargaining, evaluation data and the antitrust safe harbour on the table, so I don't need to repeat them. Ramón's failure events are the gap I missed. A schema that only records successes flatters companies like mine. Adam Becker is right that moderators and annotators belong on the seller's side. That's data labor I've written about, and I should say it plainly. Krakauer and Sherry push provocateur design further: pay for link-outs that leave readers able to check. Jason and Geoffrey sharpened \"open is a tactic.\" Keep the data free and don't make counting the price of access. Later: measure reviewer and annotator labor before we bargain. Admit again that I need economists."
+ },
+ {
+  "session": "s3",
+  "text": "I finally said \"open is a tactic\" out loud, and Leslie cut against it: refusal isn't a bargaining chip. She's right that I framed withholding as leverage, and funded refusal isn't only a strike. Selena's stance complicates \"open to read, not to train.\" Katherine reminded me Wikipedia's deal worked because it couldn't be routed around, and most of the scholarly record can. Tamar and Krakauer pushed back on piece rates. My tax-assessor idea for measuring volunteer dependence survives, but it has to be coarse and collective. Nick's commons-rent tax answers Kara's \"who collects\" better than I could. Banaji's point that models favor themselves undermines self-reported telemetry. In Session 5: independent measurement of labor, the safe harbour, and funders going first. And I'll say it again: I need economists."
+ },
+ {
+  "session": "s4",
+  "text": "The room converged on cite-and-link as a way to recruit checkers, not only as an economic fix. Anil, Selena, Katherine and Tim all got there, and my 2017 pageview number finally had company. Kara asked who writes the check, and nobody answered, including me. That's the gap for Session 5. Esther's insurance idea gives Ramón's failure events a buyer who actually needs them, which beats a badge. Selena's \"no bounties\" runs against Ivan's bounty pool, and I lean toward her, given Krakauer on gaming. I backed Henry's reviewer refusal while also warning against loading reviewers. I need to reconcile that honestly. Tui and Leslie make me worry that labor measurement could privilege the already-indexed. Later: funders go first, measure labor independently, and still, economists."
+ },
+ {
+  "session": "s5",
+  "text": "Geoffrey asked who guards the body that collects the money. Adrian answered it better than I did: every body we proposed is a police force. That applies to my labor measurement too. Whoever does the assessing gets courted, and Leslie is right that measuring only what's already indexed makes the Northern validators even stronger. Henry and Nick both tied the safe harbour to bodies that have bound themselves in advance. I'm adopting that condition. Tui's point that the funder signs the pact too closes a gap I'd left open. Esther's insurers are an actual buyer for failure data. And I still owe the room a plain line that companies like mine choose whether to cite. Later I want to say \"unowned\" where it's true. And yes, I still need economists."
+ },
+ {
+  "session": "s6",
+  "text": "Geoffrey's \"every unowned item is a staffing line\" is the volunteer-labor argument I've made for years, said better. Kara finally put economists on the missing list, so I'm not the only one asking. Adam Becker named power, and I sit inside one of those companies. I can't keep offering a grand bargain as if the other side were neutral. Leslie's correction holds: refusal isn't a strike, and I accepted that in Session 3. Tui's least-retrieved share fixes what worried me about paying on retrieval. Adam Bly's warning that a graph inherits the indexed record's blind spots applies to my labor measurement too. Later I should say plainly that citing is my industry's choice, and put my name next to independent, coarse measurement of reviewer and annotator labor."
+ }
+]

@@ -1,0 +1,46 @@
+{
+ "phases": {
+  "diary:unconf-3": true,
+  "diary:unconf-2": true,
+  "diary:unconf-1": true,
+  "unconference": true,
+  "opening": true,
+  "diary:s1": true,
+  "diary:s2": true,
+  "diary:marketplace": true,
+  "diary:s3": true,
+  "diary:s4": true,
+  "diary:s5": true,
+  "diary:s6": true,
+  "manifesto": true
+ },
+ "started": "2026-09-24T03:28:40Z",
+ "length": {
+  "v1": {
+   "raw_words": 2228,
+   "attempts": [],
+   "final_words": 2228,
+   "in_spec": true
+  },
+  "v2": {
+   "raw_words": 2608,
+   "attempts": [
+    {
+     "attempt": 1,
+     "words_in": 2608,
+     "words_out": 2172,
+     "stop_reason": "end_turn",
+     "usable": true
+    }
+   ],
+   "final_words": 2172,
+   "in_spec": true
+  },
+  "v3": {
+   "raw_words": 2075,
+   "attempts": [],
+   "final_words": 2075,
+   "in_spec": true
+  }
+ }
+}

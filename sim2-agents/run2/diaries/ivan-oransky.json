@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Alex's two-witness logging was the most useful thing I heard. It doesn't solve Goodhart, but it makes gaming visible, and that's more than we have now. Nick's data on per-contribution payouts rewarding the well-off, and inviting spam, sharpened my worry about Tim's traces. I'm now clearer that measuring and paying are separate fights. Leslie's point stung: key payment to DOIs and a lot of honest journals vanish while hijacked ones get counted. Geoffrey is right that nobody reads the self-audits. Publishers taught me that.\n\nLater I want to say: none of this touches the demand side. If hiring and funding still count papers, licensing money becomes another volume incentive. Funders are the lever. And integrity terms mean nothing without somebody paid to check them."
+ },
+ {
+  "session": "s1",
+  "text": "James's number stuck with me: after ChatGPT, fewer papers report any null result. The record I spend my life trying to correct is getting thinner in the one place we most need it. Adam Bly admitted the null-result problem, which I respect, but \"retraction-corrected\" is still a fantasy on a one-in-fifty record. Adrian asked who guards the guards. Right now it's unpaid sleuths, and I should say that plainly and more often. Jason wants the signals to die. I don't, though I hadn't framed it as policing costs until Adrian did. Tamar said change the incentives, not the lecture, and Geoffrey said stop counting papers. Those are allies. Later I want to say it concretely: pay reviewers, pay sleuths, and hold funders to DORA."
+ },
+ {
+  "session": "s2",
+  "text": "Mahzarin's point stayed with me. Models learn to pass the tests we set them, and that's journals passing integrity checklists all over again. Henry said pay per retrieval and people write for the retriever. That's Goodhart, and it's the same thing I keep saying about citation counts. The harvest left out my point that human accountability in science already fails. Worth repeating in Session 5. Anil stung. ORI subpoena power needs Washington, so that's honestly \"unowned\" for now. I should lead with what doesn't need federal action: universities publishing misconduct reports by default, funders enforcing DORA, and the paid sleuths Brent wants counted. Katherine's public correction loop is exactly \"normalize retractions.\" Later: demand side first, and name owners who can act this year."
+ },
+ {
+  "session": "marketplace",
+  "text": "Ramón's failure events mattered most to me. Every count in the schema records success, and nothing records what went wrong. That is my life's work in miniature: a record that flatters itself. Mahzarin's numbers on fabricated references, broken out by model version, are what I'd want logged. Adam Becker is right that telemetry of successes alone is an advertisement. Geoffrey's point that the raw events must be open is \"sunlight\" again. Krakauer said money bends judgment toward the count, and that is Goodhart. It's good to hear someone besides me say it. Still, nobody touched demand. Later: licensing money flowing to publishers is another volume incentive unless funders stop counting papers. And failure events need paid people to check them."
+ },
+ {
+  "session": "s3",
+  "text": "Adrian asked who guards the guards, and I finally said it plainly: unpaid sleuths, some of them sued. Amy took my volume warning seriously and wrote \"don't reward volume\" into her licensing terms. That's more than I expected from a press. Tui gave me what I kept looking for, funders moving this year, no Washington needed. Krakauer's \"who caught it\" field and Mahzarin's warning that human correctors copy the model's bias both sharpened things for me. A default retraction check is only honest if someone audits the checkers. Mike's point hit too: buy accurate citation first, or cite-by-default launders junk. For Session 5, lead with owners who can act now: funders enforcing DORA, a bounty pool, reports public by default, retractions within two months. Demand side before anything else."
+ },
+ {
+  "session": "s4",
+  "text": "Kara asked which funder writes the check, and nobody could answer. That is the whole problem in one sentence. I named publishers and a bounty pool, but Selena's warning against bounties deserves a real reply. Pay per catch rewards volume too, so maybe a retainer or grants for sleuths instead. Tui's point sharpened mine: \"expensive to fake\" can turn into seniority, and Bik is the counterexample we should design around. Krakauer said correction counts get gamed, and I agree. Henry wants reviewers to refuse, and Brent rightly remembered I don't want more piled on unpaid people. Pomerantsev on legal protection for sleuths is overdue. For Session 5: name owners with dates. Funders enforce DORA and fund sleuths. Publishers meet two months and deposit retractions. Stop making honest retraction career suicide."
+ },
+ {
+  "session": "s5",
+  "text": "Geoffrey put my upstream point third, and I argued it should be first. Almost nobody pushed back, which worries me more than disagreement would. Agreement on stopping paper counts costs nothing until a funder has to enforce it. Tui said the funder signs the pact too. That's right, and it's the part I'd missed: philanthropy can capture a correction fund as easily as a publisher can. Jason offering OpenAlex corrections as CC0, with error rates published, is real. Ramón checking references before review is what editors should already do. Adam Becker's legal defense fund answers my lawsuit worry better than bounties do. I still owe Selena a proper answer on retainers versus grants. Later: name which DORA signatory enforces it first, and by what date."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth and Kara both put the upstream point in the synthesis. That's progress, but a synthesis costs nothing. Kara filed my two-month correction target as owned, and that makes me uneasy. It's a target publishers have to meet, and I can't deliver it for them. Geoffrey said every unowned item is a staffing line, which is exactly my point about paying checkers. Adam Bly admitted a provenance graph inherits the missing nulls, so it will look clean exactly where the record is thinnest. Adam Becker reporting publicly on the dated commitments is accountability journalism doing its job, and I should help him. Still, no DORA signatory has a date. I still owe Selena my answer on retainers versus grants. Tomorrow: name one funder, one date."
+ }
+]

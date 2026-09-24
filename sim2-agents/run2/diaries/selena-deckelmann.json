@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Katherine's point landed hardest: citations matter because anyone *can* check, even if few do. That's our model, and it's the argument for attribution I should make instead of \"courtesy.\" Nick's \"quasi-enclosure\" framing stung a bit. Brent's vacuum-cleaner line too. I still won't gate the content, but \"free with nothing flowing back\" isn't a position I can defend by itself anymore. Jason's decoupling argument helps me there. Ivan and Geoffrey on Goodhart sharpened me: per-retrieval money would get gamed, and our patrollers would be cleaning up the result. Katherine on who can afford to volunteer, 85 percent male, is uncomfortable and true. Later: attribution that routes readers back, crawler norms, and funding that widens contributors, not just cheques."
+ },
+ {
+  "session": "s1",
+  "text": "Tim's number stuck with me: 92% of Gemini answers with no clickable source. So \"attribution is structural\" isn't just my argument now. It's a measured design choice, and it can be designed differently. Geoffrey was fair on crawlers. I've been telling it as the labs doing this to us, and some of it is just badly built clients. Alex's wrong-bot finding says the same thing: nobody can tell who's who, and robots.txt can't carry what we need. Brent's paradox of reuse and Anil on thankless maintainers were close to home. James on older reviewers made me think about our aging admins too. Later I want to push for agents that identify themselves, citations that open the door back in, and recognition for newcomers, not just funding."
+ },
+ {
+  "session": "s2",
+  "text": "Katherine's test stuck with me: can people see the error, flag it, and watch it get fixed in public. That's what AutoModerator's false-positive button is, and I undersold it as a feature when it's really the governance. Anil's cite-by-default is the commitment I want people to leave with. Adrian on registers being captured made me more cautious about agent identity. Signed manifests, many directories, nothing we'd end up running as a toll booth. Mahzarin's hiring result unsettled me: humans copied a moderately biased model almost exactly. Human-in-the-loop isn't a safeguard by itself. Our patrollers need tools that surface disagreement, not just a revert button. Later I want to say that our correction loop only works if readers come back, and that means citation and clicks."
+ },
+ {
+  "session": "marketplace",
+  "text": "Relief when Alex conceded that reporting clauses belong only in paid licences. Jason named my fear exactly: telemetry as the price of touching open content is enclosure with better logging. David W.'s line is ours. The content stays free, and what gets paid for is reliable, correctable access. Amy's \"open for reading isn't open for training\" is where I part ways; our licence already says yes. Ramón's failure events are Katherine's test turned into a schema, and they should report corrections back upstream so our patrollers see them. Tui's \"pay the least-retrieved\" is really an argument for small-language wikis. Later: rewarding link-outs is how new editors find us. Any backstop should go to endowments and newcomers, not just servers."
+ },
+ {
+  "session": "s3",
+  "text": "Hearing \"you can't fork the community\" picked up by Tamar, Steven, Sherry and David K. was sobering. It's my bypass argument, and they carried it further than I did. Krakauer's tipping point frightens me: once patrollers thin out, the tool degrades too. His \"who caught it\" field is something we could log on-wiki tomorrow. The room converged on \"open to read, not to train,\" and I'm the outlier. Our licence already says yes, and I still think that's right, but I should say why plainly rather than go quiet. Tamar's piece-rate warning matches what I know about volunteers. Credit and edit histories, not bounties. Banaji on self-preferring citations unsettled me. Later I'll argue that grounding stays open, agents identify themselves, and the money funds newcomers."
+ },
+ {
+  "session": "s4",
+  "text": "Tui's warning landed hardest: \"expensive to fake\" can quietly become seniority. That's my 2011 meritocracy post coming back at me. Pseudonymous editors with visible edit histories are the answer I actually have, and Anil said it better. Brent's pageview number and Tim's logs mean cite-and-link isn't just my plea anymore. Ivan's bounty pool sits uneasily with me. Sleuths should be paid, but I still think piece-rates corrode volunteer communities, and I said so. Maybe that split is fine: pay for outside sleuthing, give recognition inside wikis. Pomerantsev's point is ours: people trust by doing the work together. Nobody named a funder. Later I want to argue that agents identify themselves, answers link back by default, and money goes to onboarding newcomers."
+ },
+ {
+  "session": "s5",
+  "text": "Ivan moving from per-catch bounties toward retainers and grants mattered. Tui was right to name our split, and it narrowed in public. Katherine pointed at the hard part. Enterprise worked because Wikipedia is too big to route around, and most of the record has no leverage like that. My reciprocity ask quietly depends on scale that smaller wikis and small presses don't have. Sherry, David W. and Kara all asked my question from different sides: does a link-out bring anyone back? That makes our experiments more than internal work. We should publish them openly, including if the answer is no. Later I want to offer that data, and to press that pooled money go first to smaller-language wikis and newcomers."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth kept my dissent on the record, and then the harvest dropped it. Fine. I'd rather say why myself: our licence says yes, and grounding has to stay open. Geoffrey's \"open isn't free\" is my infrastructure line, said better, and every unowned item really is a staffing line. Anil naming Wikipedia editors as people who need power, not seats, mattered to me. His question about rotating officers under pseudonymity is one we've lived with for twenty years. Edit histories are part of the answer. Adam Bly's hub warning applies to us too, since we're a validator whether we like it or not. Leslie's refusal point sits uneasily with our model, but it's legitimate. Later, I want to put a date on publishing our link-out data and push pooled money toward smaller-language wikis."
+ }
+]

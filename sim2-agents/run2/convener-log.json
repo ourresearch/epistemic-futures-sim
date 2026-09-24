@@ -1,0 +1,126 @@
+[
+ {
+  "session": "unconference",
+  "allocation": {
+   "rooms": [
+    {
+     "topic_no": 2,
+     "topic": "Who pays, and who gets paid?",
+     "members": [
+      "geoffrey-bilder",
+      "amy-brand",
+      "adam-becker",
+      "leslie-chan",
+      "anil-dash",
+      "selena-deckelmann",
+      "henry-farrell",
+      "brent-hecht",
+      "adrian-johns",
+      "katherine-maher",
+      "tim-oreilly",
+      "ivan-oransky",
+      "peter-salib",
+      "alex-springer",
+      "nick-vincent",
+      "jason-priem"
+     ]
+    },
+    {
+     "topic_no": 4,
+     "topic": "The role of knowledge in the age of LLMs",
+     "members": [
+      "blaise-aguera-y-arcas",
+      "ramon-alvarado",
+      "mahzarin-banaji",
+      "adam-bly",
+      "benjamin-bratton",
+      "mike-caulfield",
+      "kenneth-cukier",
+      "james-evans",
+      "steven-sloman",
+      "david-weinberger"
+     ]
+    },
+    {
+     "topic_no": 1,
+     "topic": "Cognitive atrophy: real phenomenon or not?",
+     "members": [
+      "david-krakauer",
+      "tui-shaub",
+      "esther-dyson",
+      "tamar-gendler",
+      "kara-miller",
+      "peter-pomerantsev",
+      "sherry-turkle"
+     ]
+    }
+   ],
+   "first_choice_counts": {
+    "Who pays, and who gets paid?": 15,
+    "Cognitive atrophy: real phenomenon or not?": 7,
+    "The role of knowledge in the age of LLMs": 9,
+    "AI and the Reproduction of Epistemic Worlds (citation justice, whose genealogies)": 2
+   }
+  }
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "blaise-aguera-y-arcas",
+  "reason": "Esther Dyson and Ramón Alvarado both answered Blaise's question directly. Esther said walls don't work and the systems are 'just following orders.' Ramón said 'actor' should mean a technology, not a mind. Blaise has not yet responded to positions taken on his own question."
+ },
+ {
+  "session": "s2",
+  "after_turn": 21,
+  "slug": "sherry-turkle",
+  "reason": "Her proposal to remove first-person 'I' from chatbots was directly disputed by Tim O'Reilly, David Weinberger, Blaise Agüera y Arcas and Tui Shaub, who argued the harm is the single smooth answer rather than the pronoun. She has not had a chance to respond."
+ },
+ {
+  "session": "s2",
+  "after_turn": 29,
+  "slug": "peter-salib",
+  "reason": "Adam Becker and Kenneth Cukier both directly challenged his asset-holding agent entity proposal as a liability shield that lets owners hide, and he has not yet responded."
+ },
+ {
+  "session": "s2",
+  "after_turn": 29,
+  "slug": "adam-becker",
+  "reason": "Benjamin Bratton directly argued that Becker's positions contradict each other (\"it knows nothing\" versus \"it needs unions and tax authorities as a counterweight\"). Mike Caulfield and Anil Dash also pushed back on him by name."
+ },
+ {
+  "session": "marketplace",
+  "after_turn": 11,
+  "slug": "alex-springer",
+  "reason": "Two floor speakers directly challenged parts of Alex's proposal. Jason Priem warned that the event-level reporting clause could become a condition for touching CC0 data and rebuild enclosure. Sherry Turkle objected to 'engaged' as a paid event. Alex has not yet responded to either."
+ },
+ {
+  "session": "s3",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Several speakers have invoked and reinterpreted his exit test. Leslie said exit requires regional capacity, Kenneth said a fork is a safety valve rather than governance, Tamar said a fork copies data but not the people who check, and Esther applied it to contributors. The test is his, so he should get to respond to how it is being redefined."
+ },
+ {
+  "session": "s3",
+  "after_turn": 21,
+  "slug": "nick-vincent",
+  "reason": "Peter Salib invoked 'Nick's point' about a single reviewer facing a market of buyers, then said he has no settled view on a safe harbour for seller blocs. That is a claim in Nick's area, and he hasn't yet had a chance to answer it this session."
+ },
+ {
+  "session": "s4",
+  "after_turn": 13,
+  "slug": "ivan-oransky",
+  "reason": "Geoffrey Bilder cited Ivan's morning evidence on how often publishers fail to deposit corrections, and Steven, Jason, Geoffrey and Amy all made the correction record central. That is a claim in his area, and it rests on his data."
+ },
+ {
+  "session": "s4",
+  "after_turn": 21,
+  "slug": "mike-caulfield",
+  "reason": "Blaise Agüera y Arcas, Benjamin Bratton, Kenneth Cukier and Ramón Alvarado each directly challenged his claim that a model 'can never be authority,' arguing his own hard-to-fake test is about track record, not what kind of thing a model is. He hasn't had a chance to answer."
+ },
+ {
+  "session": "s4",
+  "after_turn": 21,
+  "slug": "sherry-turkle",
+  "reason": "Several speakers named her in the same challenge. Blaise Agüera y Arcas also directly disputed her interface proposal, saying removing the first-person 'I' won't switch off the alief because a flat oracle voice is fluent too. She hasn't had a chance to respond."
+ }
+]

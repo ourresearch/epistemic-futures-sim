@@ -355,7 +355,7 @@ class Run:
 | Attendee turns | {n_turns} (spoken turns in sessions; cost ${att_turn_cost:.2f}, ${att_turn_cost/max(n_turns,1):.3f} per turn) |
 | Recall | {with_recall}/{n_turns} turns called recall; {len(recalls)} passages retrieved, {distinct} distinct ({distinct/max(len(recalls),1):.0%}) |
 | Review round 2 | sign {c2['sign']}, edit {c2['edit']}, dissent {c2['dissent']} |
-| Length enforcement | {LENGTH_MIN:,}–{LENGTH_MAX:,} words (target {LENGTH_TARGET:,}) on the manifesto text, header and signature footer excluded; out-of-range drafts re-asked at effort low with per-section budgets, up to 3 times. {length_row} |
+| Length enforcement | {LENGTH_MIN:,}–{LENGTH_MAX:,} words (target {LENGTH_TARGET:,}) on the manifesto text, header and signature footer excluded; out-of-range drafts re-asked at effort low with per-section budgets, up to 5 times. {length_row} |
 
 Assumptions recorded: the first name listed for each session on the published schedule is treated as its lead; the
 unconference topic pool is the organizers' sign-up sheet as of 2026-08-23 (titles only); the marketplace and closing
