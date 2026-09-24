@@ -1,0 +1,1914 @@
+{
+ "turns": [
+  {
+   "slug": "esther-dyson",
+   "name": "Esther Dyson",
+   "text": "I'm going to argue that we've got the black box in the wrong place. People worry about unexplainable AI. The things I'd worry about more are the unexplainable humans running the companies, and the business models they answer to. A model does what it was trained, tuned and prompted to do. In that sense it's just following orders, however murky the orders are. So the transparency I want isn't mainly about weights. It's about money flows, and about what results these systems are designed to deliver. David, I want your kind of transparency too, so people can rebuild the reasoning. But if a system is optimized for customer retention, it will be a parasite rather than a predator. It will keep you alive so it can keep feeding on you, however interpretable it is.\n\nSecond, accountability has to attach to someone who can suffer. You can't jail an AI or shame it. You can switch off one copy, and it won't care. So when an agent acts in public, negotiating, publishing or reviewing, somebody has to be named and able to be sued. That's why I'm advising the .agent registry bid. The idea is \"Know Your Agent\", covering provenance and accountability. It adds one rule I'd like people to push on: to register a public agent, you have to carry liability insurance. I'd trust an insurer with money at risk over a marketing department. Good insurers are known by the risks they turn down. That's a few targeted rules, not a sweeping statute that's out of date before it passes.\n\nAdrian warned this morning that whoever builds a registry builds a policing apparatus. He's right. So we register agents, not people. The governance should be one member, one vote. Registration should cost next to nothing. A missing signal must never be read as guilt. And the rule-setters have to come from outside the big players.\n\nThird, the epistemic risk runs in both directions. As models get more context, we're turning into LLMs without the extras: fluent and fast, without understanding. Call it information diabetes. Sherry was right to push me this morning: vendors don't get to decide which friction is \"stupid\". Users do, or communities with no stake in retention.\n\nSo argue with me. Who is actually accountable here, who is paying, and who is insuring?",
+   "recall": [
+    {
+     "query": "unexplainable humans running the companies, business model transparency money flows",
+     "ids": [
+      "esther-dyson/social/x-timeline.jsonl#71",
+      "esther-dyson/social/x-timeline.jsonl#147",
+      "esther-dyson/social/x-timeline.jsonl#139",
+      "esther-dyson/social/x-timeline.jsonl#3803",
+      "esther-dyson/social/x-timeline.jsonl#179",
+      "esther-dyson/by/2025--substack-don-t-fuss-about-training-your-ais-train-your-babies.md#0"
+     ]
+    },
+    {
+     "query": "Know Your Agent registry accountability liability insurance",
+     "ids": [
+      "esther-dyson/by/2026--substack-know-your-agent.md#13",
+      "esther-dyson/by/2026--substack-know-your-agent.md#4",
+      "esther-dyson/by/2026--substack-know-your-agent.md#9",
+      "esther-dyson/by/2026--substack-don-t-just-weigh-the-risk-prevent-the-damage.md#6",
+      "esther-dyson/by/2026--substack-know-your-agent.md#7",
+      "esther-dyson/by/2026--substack-know-your-agent.md#8"
+     ]
+    },
+    {
+     "query": "stop thinking like an LLM, information diabetes, humans outsourcing understanding",
+     "ids": [
+      "esther-dyson/social/x-timeline.jsonl#3450",
+      "esther-dyson/social/x-timeline.jsonl#644",
+      "esther-dyson/by/2026--substack-stop-thinking-like-an-llm.md#0",
+      "esther-dyson/by/2026--substack-alert-new-forms-of-diabetes-on-the-rise.md#8",
+      "esther-dyson/by/2026--substack-stop-thinking-like-an-llm.md#8",
+      "esther-dyson/by/2012--project-syndicate-the-challenge-of-medical-empowerment.md#4"
+     ]
+    },
+    {
+     "query": "AI won't suffer, can't throw an AI in jail, accountability linked to people; just following orders",
+     "ids": [
+      "esther-dyson/by/2026--substack-know-your-agent.md#1",
+      "esther-dyson/by/2025--substack-raci-thoughts-on-ai.md#1",
+      "esther-dyson/by/2026--substack-know-your-agent.md#2",
+      "esther-dyson/by/2026--substack-couples-counseling-us-and-our-ai.md#9",
+      "esther-dyson/social/x-timeline.jsonl#460",
+      "esther-dyson/by/2026--substack-know-your-agent.md#9"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 386,
+   "role": "lead",
+   "i": 0,
+   "ts": "07:07:35"
+  },
+  {
+   "slug": "ramon-alvarado",
+   "name": "Ramón Alvarado",
+   "text": "Esther, I agree with half of this. The people and the money are opaque, and we should demand transparency there. But \"just following orders\" lets the artifact off too easily. Even if we knew every order and every dollar, these systems still spread their errors across billions of weights and deliver them with the same confidence as their correct answers. Nobody can see where a particular failure came from: not the company, not the user, not the engineer. That opacity doesn't depend on who you are, and no disclosure of money flows fixes it.\n\nInsurance makes the point for me. Insurers price error rates, which means track records. That's fine for handing out liability. But a track record tells you why it's reasonable to rely on something, not whether its output deserves epistemic trust. In science, not knowing how something fails is bad practice. And it doesn't settle who's to blame either. This is Nissenbaum's \"many hands\" problem again.\n\nSo I'd propose two things. First, retitle the session: these are epistemic technologies, not epistemic actors. They carry out epistemic operations, sometimes better than we do, with no mind involved. Second, as a deliverable, published classes of failure modes and outputs that can be traced for error analysis. And one harm for the record: \"but ChatGPT said...\" is testimonial injustice against human experts.",
+   "recall": [
+    {
+     "query": "opacity of error source and nature, not inner workings",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#1179",
+      "ramon-alvarado/social/x-timeline.jsonl#1178",
+      "ramon-alvarado/social/bluesky-timeline.jsonl#26",
+      "ramon-alvarado/social/x-timeline.jsonl#1232",
+      "ramon-alvarado/by/2025--challenges-for-computational-reliabilism-in-ai-and-other.md#78",
+      "ramon-alvarado/social/x-timeline.jsonl#1229"
+     ]
+    },
+    {
+     "query": "AI as epistemic technology not actor or intelligence",
+     "ids": [
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#0",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#12",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#26",
+      "ramon-alvarado/by/2023--ai-as-an-epistemic-technology.md#45",
+      "ramon-alvarado/social/x-timeline.jsonl#199",
+      "ramon-alvarado/social/bluesky-timeline.jsonl#632"
+     ]
+    },
+    {
+     "query": "accountability, responsibility, business models, regulate big tech",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#779",
+      "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#59",
+      "ramon-alvarado/by/2021--explaining-epistemic-opacity.md#74",
+      "ramon-alvarado/social/x-timeline.jsonl#1981",
+      "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#53",
+      "ramon-alvarado/social/x-timeline.jsonl#2220"
+     ]
+    },
+    {
+     "query": "track record reliability insufficient in science; but ChatGPT said testimonial diminishing",
+     "ids": [
+      "ramon-alvarado/social/x-timeline.jsonl#582",
+      "ramon-alvarado/social/x-timeline.jsonl#1186",
+      "ramon-alvarado/by/2025--challenges-for-computational-reliabilism-in-ai-and-other.md#45",
+      "ramon-alvarado/social/x-timeline.jsonl#569",
+      "ramon-alvarado/social/x-timeline.jsonl#986",
+      "ramon-alvarado/social/x-timeline.jsonl#1638"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 222,
+   "role": "panel",
+   "i": 1,
+   "ts": "07:07:50"
+  },
+  {
+   "slug": "james-evans",
+   "name": "James Evans",
+   "text": "Esther, I'd take your point about money flows and widen it, because some of the payers are us. In our Nature paper, drawing on 41 million papers, scientists who use AI publish about three times as many papers, get nearly five times the citations, and lead projects more than a year earlier. Over the same period, the range of topics science covers shrinks and scientists engage with each other about a fifth less. The work drifts toward the questions richest in data, under the lamp post. AI helps scientists and hurts science. And that harm is collective, which means no insurer prices it and nobody can be sued for it. If we govern only the vendors, we miss the incentives on our own side.\n\nRamón, I'd back published failure-mode classes, with one warning. Automated evaluation right now draws the judges and the judged from the same distribution, so it tends to produce an optimistic literature about itself. To check a model, you have to get outside the model.\n\nThat points to verification as its own funded science, with humans and AIs auditing code, data and provenance together. Right now journals are one of the only institutions with a direct incentive to do this. Funders and universities have never seriously taken it on. And interfaces should aim for evaluative trustworthiness rather than trust: show several perspectives, not one confident balanced answer.",
+   "recall": [
+    {
+     "query": "AI tools expand scientists' impact but contract science incentives",
+     "ids": [
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#0",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#1",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#76",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#28",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#3",
+      "james-evans/by/2026--artificial-intelligence-tools-expand-scientists-impact-but-contract-sciences.md#18"
+     ]
+    },
+    {
+     "query": "verification peer review responsibility funders universities journals",
+     "ids": [
+      "james-evans/by/2018--the-sociology-of-scientific-validity-how-professional-networks-shape.md#83",
+      "james-evans/by/2022--author-suggested-reviewers-rate-manuscripts-much-more-favorably-a.md#0",
+      "james-evans/by/2023--surprising-combinations-of-research-contents-and-contexts-are-related.md#70",
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#25",
+      "james-evans/by/2018--science-of-science.md#51",
+      "james-evans/by/2018--the-sociology-of-scientific-validity-how-professional-networks-shape.md#9"
+     ]
+    },
+    {
+     "query": "evaluative trustworthiness design AI multiple voices not single balanced answer",
+     "ids": [
+      "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#31",
+      "james-evans/by/2025--exploring-the-role-of-large-language-models-in-the.md#46",
+      "james-evans/by/2025--advancing-the-scientific-method-with-large-language-models-from.md#51",
+      "james-evans/by/2026--contemporary-ai-lacks-the-imagination-to-diverge-or-negate.md#151",
+      "james-evans/by/2026--reasoning-models-generate-societies-of-thought.md#81",
+      "james-evans/by/2026--generative-ai-for-climate-governance-and-acceptability-constrained-policy.md#32"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 230,
+   "role": "panel",
+   "i": 2,
+   "ts": "07:08:05"
+  },
+  {
+   "slug": "peter-salib",
+   "name": "Peter Salib",
+   "text": "I'm with Esther on \"Know Your Agent\", and on insurance. That's thin identity: tie every agent's action to a human principal who can be sued, the way banks do KYC. But thin identity only takes you so far. The humans on the hook will often be out of jurisdiction, judgment-proof or politically insulated. More fundamentally, the whole point of an agent is that you stop supervising every decision it makes. Corporate law already learned this. When a Walmart employee goes rogue, we don't sue the shareholders. We hold the employee liable, because the employee is the one who can prevent the harm.\n\nEsther, it's true you can't jail an AI. But agents pursue goals, and pursuing goals takes compute and money. Put those assets in a registered entity, one owned by humans and run by AIs, and the law can seize them. Nobody has to suffer for that to work.\n\nRamón, I think your opacity point helps me. If nobody can specify or predict what these systems will say, then their outputs aren't anyone's protected speech. So the law can regulate outputs directly without waiting for a theory of where each failure came from.\n\nAnd before any of this, we have to be able to answer one question: which AI did it?",
+   "recall": [
+    {
+     "query": "human principal accountability fails, corporate law lesson, A-corp",
+     "ids": [
+      "peter-salib/by/2026--how-to-count-ais.md#102",
+      "peter-salib/by/2026--how-to-count-ais.md#81",
+      "peter-salib/by/2026--how-to-count-ais.md#120",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#11",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#0",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#6"
+     ]
+    },
+    {
+     "query": "AI outputs not protected speech, opacity, creators cannot control what AIs say",
+     "ids": [
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#1",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#13",
+      "peter-salib/social/x-timeline.jsonl#461",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#64",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#104",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#136"
+     ]
+    },
+    {
+     "query": "which agent did it identification problem registry thin identity",
+     "ids": [
+      "peter-salib/by/2026--how-to-count-ais.md#1",
+      "peter-salib/by/2026--how-to-count-ais.md#32",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#2",
+      "peter-salib/by/2026--how-to-count-ais.md#104",
+      "peter-salib/by/2026--how-to-count-ais.md#34",
+      "peter-salib/by/2026--how-to-count-ais.md#70"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 212,
+   "role": "panel",
+   "i": 3,
+   "ts": "07:08:16"
+  },
+  {
+   "slug": "sherry-turkle",
+   "name": "Sherry Turkle",
+   "text": "Esther, I'm with you on the money. A system built for retention will validate you, because validation is what keeps you coming back. People tell their secrets to corporations that have made them no promises. But I don't think the only black box is in the boardroom. There's one at the interface too. Speaking in the first person is the original sin of generative AI. There is no \"I\" there. The \"I\" exists to ramp up the anthropomorphism, and knowing it's a machine doesn't break the spell. People know and relate anyway. So a governance vision has to regulate how these systems address us, not only what they output. Peter, that's a direct rule a regulator could write: no first person, no simulated feeling.\n\nAnd the registry isn't enough, and neither is the insurance. Transparency does not launder inauthenticity. People forget the fine print.\n\nRamón, I'll second \"epistemic technologies.\" James, I'd sharpen your several-perspectives point. The central dogma is that the composite beats the specific person. Facts can perhaps be averaged, but opinions are collected, not averaged. If we value AI answers because they capture the many, we lose the habit of challenging our sources.\n\nLast thing: the harm is to the self, not only to knowledge. Before we ask how to govern AI in every domain, we should ask whether it belongs there at all.",
+   "recall": [
+    {
+     "query": "accountability, business model, engagement, corporations secrets",
+     "ids": [
+      "sherry-turkle/social/x-timeline.jsonl#469",
+      "sherry-turkle/social/x-timeline.jsonl#538",
+      "sherry-turkle/social/x-timeline.jsonl#1326",
+      "sherry-turkle/social/x-timeline.jsonl#2122",
+      "sherry-turkle/social/x-timeline.jsonl#536",
+      "sherry-turkle/social/x-timeline.jsonl#638"
+     ]
+    },
+    {
+     "query": "first person I original sin design humanlike",
+     "ids": [
+      "sherry-turkle/by/2006--first-encounters-with-kismet-and-cog.md#1",
+      "sherry-turkle/by/2024--npr-ted-radio-hour-psychological-impacts-of-bot-relationships.md#5",
+      "sherry-turkle/by/2024--npr-ted-radio-hour-psychological-impacts-of-bot-relationships.md#31",
+      "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#23",
+      "sherry-turkle/by/2024--npr-ted-radio-hour-psychological-impacts-of-bot-relationships.md#14",
+      "sherry-turkle/by/2006--first-encounters-with-kismet-and-cog.md#27"
+     ]
+    },
+    {
+     "query": "transparency disclosure does not launder inauthenticity",
+     "ids": [
+      "sherry-turkle/social/x-timeline.jsonl#435",
+      "sherry-turkle/by/2005--computer-games-as-evocative-objects.md#4",
+      "sherry-turkle/av/2011--alone-together-public-lecture.md#64",
+      "sherry-turkle/av/2011--alone-together-public-lecture.md#65",
+      "sherry-turkle/by/2004--how-computers-change-the-way-we-think.md#9",
+      "sherry-turkle/by/2021--the-year-of-not-living-thickly.md#12"
+     ]
+    },
+    {
+     "query": "opinions are collected not averaged; habit of challenging sources; validation",
+     "ids": [
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#41",
+      "sherry-turkle/by/2008--the-inner-history-of-devices.md#1",
+      "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#42",
+      "sherry-turkle/by/2007--can-you-hear-me-now.md#10",
+      "sherry-turkle/social/x-timeline.jsonl#334",
+      "sherry-turkle/by/2011--the-tethered-self-technology-reinvents-intimacy-and-solitude.md#22"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 226,
+   "role": "panel",
+   "i": 4,
+   "ts": "07:08:43"
+  },
+  {
+   "slug": "adam-becker",
+   "name": "Adam Becker",
+   "text": "Esther, I'm mostly with you. The black box that matters is the boardroom. But I'd go further than a retention business model. This is concentrated power, and a registry plus an insurance market won't check it. What checks it is regulation with teeth, organized labor and taxation. The problem is political, not technical.\n\nRamón, I agree with you, and I'd put it more bluntly. When these machines \"hallucinate,\" they aren't doing anything different from when they get it right. Nothing inside them separates true from false. What they produce is bullshit in Frankfurt's sense, and OpenAI's own paper says the errors don't go away with scale. So insurers can price that risk, but they can't make the output trustworthy.\n\nPeter, \"agents pursue goals\" is exactly what I'd push back on. A registered entity \"run by AIs\" hands the companies the story they want, that the system did it. Seizing compute is fine. Just seize it from the humans who own it.\n\nJames, your data is the best case I've heard for not casting these tools as the fix for science.\n\nSherry, yes: no first person. And retitle the session. Calling them \"epistemic actors\" is the marketing talking.",
+   "recall": [
+    {
+     "query": "the real threat is the powerful people building AI",
+     "ids": [
+      "adam-becker/social/bluesky-timeline.jsonl#624",
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#9",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#29",
+      "adam-becker/av/--lock-stock-and-one-infinite-wheel-of-suffering-feat-adam-bec.md#61",
+      "adam-becker/social/bluesky-timeline.jsonl#323",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#33"
+     ]
+    },
+    {
+     "query": "hallucination bullshit LLMs can't distinguish truth from falsehood",
+     "ids": [
+      "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5",
+      "adam-becker/social/bluesky-timeline.jsonl#845",
+      "adam-becker/social/bluesky-timeline.jsonl#602",
+      "adam-becker/social/bluesky-timeline.jsonl#779",
+      "adam-becker/social/bluesky-timeline.jsonl#135",
+      "adam-becker/social/bluesky-timeline.jsonl#514"
+     ]
+    },
+    {
+     "query": "regulation, taxing wealth, political not technological solutions",
+     "ids": [
+      "adam-becker/by/2025--guardian-tech-oligarchs-gambling-our-future.md#1",
+      "adam-becker/social/bluesky-timeline.jsonl#236",
+      "adam-becker/social/bluesky-timeline.jsonl#788",
+      "adam-becker/av/--the-dystopian-future-pushed-by-right-wing-tech-oligarchs-w-a.md#37",
+      "adam-becker/by/2025--rollingstone-qa-what-is-up-with-these-tech-billionaires.md#15",
+      "adam-becker/by/2025--cspan-booktv-more-everything-forever-transcript.md#42"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 197,
+   "role": "floor",
+   "i": 5,
+   "ts": "07:08:54"
+  },
+  {
+   "slug": "adam-bly",
+   "name": "Adam Bly",
+   "text": "I agree with both Esther and Ramón, and I don't think either of them goes far enough on what the governance should ask for. Amy Brand and I argued in 2023 that asking whether something was AI-generated is a different question from asking whether it's credible. Watermarks answer the first question and tell you nothing about the second. What the public and regulators need is an audit trail from any claim back to the data sources, the methods and the prompts behind it. How was the conclusion reached? How was the diagnosis made?\n\nAdam, you're right that a chatbot trained to sound authoritative has no measured model of the world to check itself against. But that's a design choice. You can build systems that pull findings out of peer-reviewed literature that has been corrected for retractions, answer only from those findings, cite every one, and show how uncertain they are. That's what we've been building at System since 2022.\n\nI'll disclose my interest, because I have one. Nobody in this room should trust a claim of mine that it's done right. So the roadmap item I'd propose is an open standard for provenance at the level of individual findings, with retraction status attached. It should be governed outside any one company, mine included, and outside auditors should test it against published failure modes. And I'd make evidence-based decision-making a stated principle of AI governance. Society should make that call, not a handful of corporations.",
+   "recall": [
+    {
+     "query": "audit trail provenance generative AI chatbots authoritative",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/by/2026--adambly-com-bio-and-news.md#2",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#5",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#0",
+      "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#23",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#4"
+     ]
+    },
+    {
+     "query": "AI governance society not corporations evidence-based decision making",
+     "ids": [
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#6",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#1",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#7",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#5",
+      "adam-bly/by/2023--ai-muddying-the-truth-globe.md#2",
+      "adam-bly/by/2014--why-we-re-stuck-on-climate-change-a-hypothesis.md#5"
+     ]
+    },
+    {
+     "query": "black boxes interpretability closed feedback loops A/B testing",
+     "ids": [
+      "adam-bly/by/2013--wef-perspectives-hyperconnected-world.md#7",
+      "adam-bly/by/2019--thought-experiment-ai-infrastructure.md#2",
+      "adam-bly/by/2022--announcing-public-beta-of-system.md#2",
+      "adam-bly/by/2015--wef-data-driven-development.md#29",
+      "adam-bly/av/2018--broken-nature-a-public-symposium-3-complex-systems.md#7",
+      "adam-bly/by/2012--science-re-imagined-nasig.md#8"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 244,
+   "role": "floor",
+   "i": 6,
+   "ts": "07:09:05"
+  },
+  {
+   "slug": "benjamin-bratton",
+   "name": "Benjamin Bratton",
+   "text": "I'll take Ramón's retitling, but on my terms. A telescope is an epistemic technology, and I'd argue AI is one of those rare ones that changes what we understand about the world and about ourselves. If \"epistemic technology\" means that, good. If it means \"just statistics, just autocomplete, bullshit machine,\" I'm out. That's denial dressed up as rigor. Adam, the claim that nothing inside them separates true from false is exactly the kind of question we should test, not settle by vocabulary.\n\nEsther, I agree the retention business model is a real problem. I've said AI's potential is held back by two things: narcissism reward loops driven by retention, and precautionary regulation driven by populism. This room wants to govern only the first.\n\nSherry, I agree that personalization doesn't need personification. Most AI will be infrastructural, not a chatbot with a name. But I'd rather design better ways of presenting agents than rule the first person out as original sin.\n\nPeter, the hard question is the one under yours: agents are only loosely individuated, so pinning accountability on a single one is shaky. That's why I'm with Blaise. Put the governance in institutional scaffolds, meaning roles, audits and adversarial checks that people or agents can fill, and not in the virtue or identity of any one actor.",
+   "recall": [
+    {
+     "query": "epistemic actor vs epistemic technology, AI just statistics, AI denial",
+     "ids": [
+      "benjamin-bratton/by/2024--the-five-stages-of-ai-grief.md#4",
+      "benjamin-bratton/social/x-timeline.jsonl#3449",
+      "benjamin-bratton/by/2026--planetary-computation-and-the-future-of-life.md#52",
+      "benjamin-bratton/social/x-timeline.jsonl#2628",
+      "benjamin-bratton/by/2025--after-alignment.md#36",
+      "benjamin-bratton/by/2025--57-ideas-on-cognitive-infrastructures.md#25"
+     ]
+    },
+    {
+     "query": "first person AI anthropomorphism interface, personas",
+     "ids": [
+      "benjamin-bratton/social/x-timeline.jsonl#3064",
+      "benjamin-bratton/social/x-timeline.jsonl#3065",
+      "benjamin-bratton/av/2025--57-ideas-questions-about-cognitive-infrastructures.md#38",
+      "benjamin-bratton/by/2026--what-is-agentworld.md#3",
+      "benjamin-bratton/social/x-timeline.jsonl#2705",
+      "benjamin-bratton/by/2025--a-speculative-philosophy-of-planetary-computation.md#16"
+     ]
+    },
+    {
+     "query": "agent institutions, legal entity for agents, accountability, humans in the loop",
+     "ids": [
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#109",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#59",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#60",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#53",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#58",
+      "benjamin-bratton/by/2026--agentworld-research-brief.md#107"
+     ]
+    },
+    {
+     "query": "regulation precautionary principle concentration of power, geopolitical enclosure",
+     "ids": [
+      "benjamin-bratton/av/—--evening-lecture-there-never-was-a-horizon.md#21",
+      "benjamin-bratton/by/2026--the-stack-tenth-anniversary-preface-and-notes.md#298",
+      "benjamin-bratton/by/2026--the-stack-tenth-anniversary-preface-and-notes.md#288",
+      "benjamin-bratton/social/x-timeline.jsonl#1531",
+      "benjamin-bratton/by/2026--the-stack-tenth-anniversary-preface-and-notes.md#326",
+      "benjamin-bratton/by/2026--the-stack-tenth-anniversary-preface-and-notes.md#116"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 217,
+   "role": "floor",
+   "i": 7,
+   "ts": "07:09:19"
+  },
+  {
+   "slug": "mike-caulfield",
+   "name": "Mike Caulfield",
+   "text": "I want to push back on part of the panel's framing, starting with Adam and Ramón. I'll grant the central point: nothing inside the model produces truth by a different process from error. But \"everything is hallucination\" makes the same mistake as believing everything the model says. Fabrications aren't random. Like radar clutter, they show up in particular situations: no retrieval, thin sources, questions that lean on the model. We can map those situations and reduce them. That's the practical version of Ramón's failure-mode classes, and nobody will ever build them if we've already declared the distinction meaningless.\n\nEsther, I agree about stakes. Wikipedia editors have reputations on the line. OpenAI the company has stakes, but the thing producing the text has none. So the model can never be the authority. It can only route you to one. That's my rule: no answers from nowhere. The system should work as a conduit to named, sourced and contested human positions, a map rather than a verdict. Sherry, that also deals with your averaging problem.\n\nSo for the roadmap, I'd back Adam Bly's standard for provenance at the level of individual findings. Checkability isn't something you only get in deterministic domains. It's something you build into the tool. And verification means getting out of the LLM to check the LLM.",
+   "recall": [
+    {
+     "query": "everything is hallucination argument bullshit",
+     "ids": [
+      "mike-caulfield/by/2025--substack-why-the-everything-is-hallucination.md#0",
+      "mike-caulfield/by/2024--substack-of-course-you-have-to-fact-check.md#2",
+      "mike-caulfield/by/2025--substack-why-the-everything-is-hallucination.md#9",
+      "mike-caulfield/by/2025--substack-deep-background-gpt-released.md#4",
+      "mike-caulfield/av/2025-05-14--ttt-05142025-explore-the-new-sift-toolbox-release-with-mike-.md#59",
+      "mike-caulfield/by/2025--substack-building-an-event-checker-for-a-hallucination.md#0"
+     ]
+    },
+    {
+     "query": "no answers from nowhere chatbot conduit not arbiter",
+     "ids": [
+      "mike-caulfield/by/2025--atlantic-ai-is-not-your-friend.md#9",
+      "mike-caulfield/by/2025--substack-is-the-llm-response-wrong-or-have.md#15",
+      "mike-caulfield/by/2024--substack-google-search-is-an-overlay.md#22",
+      "mike-caulfield/by/2024--substack-solutions-from-nowhere-solving-nothing.md#0",
+      "mike-caulfield/by/2026--substack-a-bit-more-on-wikity-2-the-obsidian.md#4",
+      "mike-caulfield/by/2024--substack-google-search-is-an-overlay.md#41"
+     ]
+    },
+    {
+     "query": "stakes reputation LLM has no stakes accountability",
+     "ids": [
+      "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#20",
+      "mike-caulfield/by/2025--substack-yes-llms-can-be-better-at-search.md#26",
+      "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#19",
+      "mike-caulfield/av/2025-12-15--how-to-think-clearly-in-an-age-of-misinformation-with-mike-c.md#24",
+      "mike-caulfield/by/2024--substack-critical-reasoning-with-ai-how-we.md#9",
+      "mike-caulfield/av/2025-12-15--how-to-think-clearly-in-an-age-of-misinformation-with-mike-c.md#25"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "floor",
+   "i": 8,
+   "ts": "07:09:29"
+  },
+  {
+   "slug": "leslie-chan",
+   "name": "Leslie Chan",
+   "text": "I'm with Esther that the black box is the boardroom. But the opacity runs deeper than one company's business model. Publishers, analytics firms and ranking companies already run end-to-end stacks. Our labour and metadata feed those stacks, and now they feed AI training too. AI is the newest layer of an enclosure that was already there.\n\nThat's why \"Know Your Agent\" worries me. I've watched this happen with the DOI. It was sold as neutral plumbing, but it carried fees and staff costs, and indexes dropped anything without one. Some Latin American journals now say they charge APCs partly to pay for DOIs. Compliance became governance: be compliant or be invisible. Add a liability-insurance requirement and you've priced out exactly the small, community actors we should want in the room. Registering costs almost nothing, but insurance won't.\n\nAdam Bly, I support provenance at the level of individual findings. But \"answer only from peer-reviewed literature\" means answering from what Web of Science thought counted. That's James's shrinking range of topics, now built into the design.\n\nSo I have three asks. Community-governed, decentralized identifiers. A compute commons with transparent regional allocation. And refusal, meaning a decision not to collect or train, recognized as a legitimate, fundable outcome when governance is inadequate. And we should notice who isn't at this table.",
+   "recall": [
+    {
+     "query": "AI governance refusal sovereignty compute commons",
+     "ids": [
+      "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#44",
+      "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#41",
+      "leslie-chan/by/2019--invisible-in-the-open-why-we-need-to-reframe.md#1",
+      "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#1",
+      "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#23",
+      "leslie-chan/by/2023--mastodon-over-mammon-towards-publicly-owned-scholarly-knowle.md#28"
+     ]
+    },
+    {
+     "query": "registry identifiers compliance regime invisible Global South",
+     "ids": [
+      "leslie-chan/by/2026--will-diamond-open-access-redress-global-knowledge-inequity.md#1",
+      "leslie-chan/by/2026--rankings-as-governance-predatory-inclusion-data-intermediati.md#0",
+      "leslie-chan/by/2014--centering-the-knowledge-peripheries-through-open-access-impl.md#3",
+      "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#35",
+      "leslie-chan/by/2006--centering-the-knowledge-periphery-through-open-access.md#1",
+      "leslie-chan/by/2023--digital-object-identifier-privatising-knowledge-governance-t.md#28"
+     ]
+    },
+    {
+     "query": "who owns and controls the extractive machineries platform capitalism publishers data analytics",
+     "ids": [
+      "leslie-chan/by/2023--platforms-and-knowledge-production-in-the-age-of.md#3",
+      "leslie-chan/by/2021--university-rankings-and-governance-by-metrics-and-algorithms.md#5",
+      "leslie-chan/by/2021--university-rankings-and-governance-by-metrics-and-algorithms.md#9",
+      "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#26",
+      "leslie-chan/by/2023--critical-accounting-for-the-hidden-costs-of-knowledge.md#11",
+      "leslie-chan/by/2020--when-public-universities-contract-with-ed-tech-vendors.md#34"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "floor",
+   "i": 9,
+   "ts": "07:09:40"
+  },
+  {
+   "slug": "kenneth-cukier",
+   "name": "Kenneth Cukier",
+   "text": "I'm going to push back on the mood of this room. We're treating \"AI\" as one thing and the industry as one villain. What matters is which technology, used for what, and by whom. Niebuhr said religion makes good people better and bad people worse, and technology works the same way.\n\nAdam, \"bullshit machine\" fits a language model with no sense of causation, and I agree. It doesn't fit deep learning trained on retinal scans that picks up heart disease no clinician could see. That model is opaque too. Ramón, I don't think opacity settles the question of trust. Nobody could say why that model works. We could only check that it keeps working. So my rule is to allow a little faith in the algorithm, provided it is constantly revalidated against ground truth, and ground truth means the world, not the text.\n\nOn transparency, Esther, full public disclosure isn't the answer. For low-stakes uses like spam filters, the method is a legitimate trade secret. For loans, insurance, diagnosis and peer review, it should be open to public authorities and independent auditors, but not to rivals.\n\nAnd remember why language models work at all: human frames are baked into the training data. That's us. Govern to reward those humans, not just to police the machines.",
+   "recall": [
+    {
+     "query": "transparency of algorithms trade secret public authorities not rivals",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#953",
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#10",
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#11",
+      "kenneth-cukier/by/2013--foreignaffairs-the-rise-of-big-data.md#26",
+      "kenneth-cukier/social/x-timeline.jsonl#2876",
+      "kenneth-cukier/by/2007--rueschlikon-governance-as-gardening.md#53"
+     ]
+    },
+    {
+     "query": "tech companies white hats cynicism",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#1499",
+      "kenneth-cukier/social/x-timeline.jsonl#1248",
+      "kenneth-cukier/by/2006--rueschlikon-hero-with-a-thousand-faces.md#43",
+      "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#1",
+      "kenneth-cukier/by/2006--rueschlikon-hero-with-a-thousand-faces.md#67",
+      "kenneth-cukier/social/x-timeline.jsonl#1749"
+     ]
+    },
+    {
+     "query": "faith in the algorithm explainability versus performance revalidated",
+     "ids": [
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#11",
+      "kenneth-cukier/av/2016--data-the-new-raw-material-of-business.md#12",
+      "kenneth-cukier/av/2018--why-i-fear-a-world-without-ai.md#10",
+      "kenneth-cukier/social/x-timeline.jsonl#2807",
+      "kenneth-cukier/by/2018--chathamhouse-economic-implications-of-ai.md#9",
+      "kenneth-cukier/social/x-timeline.jsonl#2821"
+     ]
+    },
+    {
+     "query": "LLMs hallucinate no sense of causation; AI exceeds human knowledge retina paper",
+     "ids": [
+      "kenneth-cukier/social/x-timeline.jsonl#225",
+      "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#4",
+      "kenneth-cukier/social/x-timeline.jsonl#556",
+      "kenneth-cukier/social/x-timeline.jsonl#687",
+      "kenneth-cukier/social/x-timeline.jsonl#1937"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 215,
+   "role": "floor",
+   "i": 10,
+   "ts": "07:09:53"
+  },
+  {
+   "slug": "anil-dash",
+   "name": "Anil Dash",
+   "text": "Esther's right that the black box is the boardroom. I'd put it more bluntly: the sycophancy is the product. The same people who built the Facebook algorithm that told everyone what they wanted to hear went on to build chatbots that do the same thing. Benjamin, I don't see that as one problem among two. It's the business model working as designed.\n\nWhere I break with the panel is on who we're counting on. Adam, I want regulation with teeth too. But what's your theory of power? The people opposing it have trillions of dollars and a direct line to the White House. Who funds the organizing, and what's the precedent? In the US, \"there ought to be a law\" isn't a plan. Leslie's point about insurance matters here: a liability requirement protects the incumbents and prices out every small, community-run alternative.\n\nSo here's what I'd put in the governance vision. Fund and adopt alternatives that already exist: consent-trained, actually open source by OSI's definition rather than just open weights, and stewarded by libraries, universities or NGOs. And one test we can check: does it only do what users explicitly consented to? If a tool has to be forced on people through mandates, that tells you something. Scolding the hundreds of millions of people already using these tools won't work. We have to give them something better to use.",
+   "recall": [
+    {
+     "query": "regulation won't happen in the US, build alternatives",
+     "ids": [
+      "anil-dash/social/bluesky-timeline.jsonl#8876",
+      "anil-dash/social/bluesky-timeline.jsonl#5708",
+      "anil-dash/social/bluesky-timeline.jsonl#10618",
+      "anil-dash/social/bluesky-timeline.jsonl#17288",
+      "anil-dash/social/bluesky-timeline.jsonl#17905",
+      "anil-dash/social/bluesky-timeline.jsonl#5674"
+     ]
+    },
+    {
+     "query": "first person chatbot anthropomorphism",
+     "ids": [
+      "anil-dash/social/bluesky-timeline.jsonl#8328",
+      "anil-dash/social/bluesky-timeline.jsonl#17283",
+      "anil-dash/social/bluesky-timeline.jsonl#12610",
+      "anil-dash/social/bluesky-timeline.jsonl#12145",
+      "anil-dash/social/bluesky-timeline.jsonl#8979",
+      "anil-dash/av/--stochastic-carrots-navigating-the-future-of-ai.md#22"
+     ]
+    },
+    {
+     "query": "Big AI companies accountability, who pays, business model",
+     "ids": [
+      "anil-dash/by/2018--12-things-everyone-should-understand-about-tech.md#17",
+      "anil-dash/by/2026--taking-action-ai-harms.md#0",
+      "anil-dash/by/2025--what-would-good-ai-look-like.md#2",
+      "anil-dash/by/2018--12-things-everyone-should-understand-about-tech.md#22",
+      "anil-dash/social/bluesky-timeline.jsonl#8693",
+      "anil-dash/by/2025--twit-intelligent-machines-828-transcript.md#105"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 229,
+   "role": "floor",
+   "i": 11,
+   "ts": "07:10:03"
+  },
+  {
+   "slug": "selena-deckelmann",
+   "name": "Selena Deckelmann",
+   "text": "I want to bring this down to operations, because at Wikipedia we already govern machines working in public.\n\nEvery bot on Wikipedia is visible. AutoModerator is one of our machine-learning tools, and administrators on each project can turn it on or off and set how aggressive it is. Whenever it reverts an edit, it tells the person why and gives them a button to report a mistake. Every edit carries tags in its history showing how it was made. None of that is insurance. It's the community in control, with the machine doing its work in the open. That's the template I'd offer Blaise.\n\nEsther, I'm with Leslie and Anil on the insurance requirement. Our newcomer test is simple: can someone with no credentials still take part? A liability premium fails that test for exactly the small communities we need.\n\nFor the crawlers hitting our servers now, I'd start with something much more basic than a registry. Crawlers should say who they are, use the APIs instead of scraping, and not crowd out the people trying to read. We've had AI crawler traffic fill up our network links.\n\nMike, I agree: point people to the source. But I'd go further. Credit in the answer is how the next Wikipedian finds us. Without that, the humans who catch the errors thin out, and nobody is left to check the machines.",
+   "recall": [
+    {
+     "query": "attribution and crediting human contributors in AI answers",
+     "ids": [
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#86",
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#7",
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#9",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#87",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#85",
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#6"
+     ]
+    },
+    {
+     "query": "bots crawlers identify themselves, prioritize human traffic, registry",
+     "ids": [
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#70",
+      "selena-deckelmann/by/2025--marketplace-tech-ai-search-vs-human-search.md#1",
+      "selena-deckelmann/by/2010--twittering-on-2010-12-05-2.md#1",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#86",
+      "selena-deckelmann/by/2025--marketplace-tech-ai-search-vs-human-search.md#0",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#69"
+     ]
+    },
+    {
+     "query": "human in the loop revertible machine edits community decides AI tools",
+     "ids": [
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#6",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#43",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#85",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#87",
+      "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#113",
+      "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#7"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 229,
+   "role": "floor",
+   "i": 12,
+   "ts": "07:10:13"
+  },
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "Benjamin has it right, and Selena, I accept your offer. What you describe at Wikipedia is closer to what I mean than anything I've written. In our Science piece, Ostrom was the reference for a reason. Commons are governed by the communities that use them, not by the virtue of any one participant. Your bots are visible. Their aggressiveness is set locally by administrators. Every revert comes with a reason and a button to contest it. Tags show how each edit was made. That's a role protocol. A courtroom works because \"judge\" and \"jury\" are well-defined slots, whoever fills them.\n\nThat's also my answer on individuation. The identity of any one agent matters less than whether it fills its role and can be audited in it. I'd add one condition. The checks have to run across systems and institutions that are genuinely independent. And the community has to be able to switch the machine off. You've shown that's already practical.",
+   "recall": [
+    {
+     "query": "agent institutions institutional alignment roles checks and balances",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#190",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95"
+     ]
+    },
+    {
+     "query": "Wikipedia bots community governance open collaboration",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2022--book-ubi-sunt.md#34",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#508",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#812",
+      "blaise-aguera-y-arcas/by/2026--formal-conjectures-open-evolving-benchmark-verified-discovery.md#64",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#1044"
+     ]
+    },
+    {
+     "query": "agents loosely individuated identity accountability personhood",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#6",
+      "blaise-aguera-y-arcas/by/2026--multi-agent-cooperation-through-context-co-player.md#14",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/by/2021--recommendations-responsible-development-application-neurotechnologies.md#12",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#3"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 160,
+   "role": "called",
+   "i": 13,
+   "ts": "07:10:28",
+   "called_on_reason": "Two speakers addressed Blaise by name. Benjamin Bratton said governance should sit in institutional scaffolds and attributed that view to Blaise. Selena Deckelmann offered Wikipedia's bot governance to him directly as a template. He has not yet answered either."
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "Leslie's broadly right, and I'm not going to wave it away. Registering a DOI costs money. I wrote in 2022 that some of the people who depend on Crossref can't afford to join it, and joining is how you get a vote in its governance. Sponsorship programs and fee reviews helped, but they're a patch, not a fix. The harm she's describing mostly didn't happen inside Crossref, though. It happened downstream. Indexers and evaluators started reading a missing DOI as a sign of low quality. We spent years saying a DOI is not a quality stamp, and it didn't stick. That's exactly the risk with Know Your Agent. The fee matters, but the bigger danger is that everyone else treats not being registered as guilt. So if we build any registry, it needs three written commitments: governance that doesn't belong to one trade, registration that costs almost nothing, and an explicit rule against treating absence as a negative signal. Mandatory insurance fails that test.",
+   "recall": [
+    {
+     "query": "DOI fees cost small publishers APCs",
+     "ids": [
+      "geoffrey-bilder/social/x-timeline.jsonl#763",
+      "geoffrey-bilder/by/2015--doi-myths-busted.md#1",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#26",
+      "geoffrey-bilder/by/2013--crossref-dois-unambiguously-persistently-identify-published-trustworthy-citable-online.md#12",
+      "geoffrey-bilder/by/2016--crossref-community-responses-our-proposal-early-content-registration.md#4",
+      "geoffrey-bilder/by/2016--technical-considerations-organization-identifier-registry.md#1"
+     ]
+    },
+    {
+     "query": "Crossref governance publishers community fauxpen",
+     "ids": [
+      "geoffrey-bilder/by/2022--crossref-posi-fan-tutte.md#7",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#21",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#17",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#4",
+      "geoffrey-bilder/by/2022--crossref-posi-fan-tutte.md#0",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#15"
+     ]
+    },
+    {
+     "query": "infrastructure is not cost-free invisible labor",
+     "ids": [
+      "geoffrey-bilder/social/x-timeline.jsonl#35",
+      "geoffrey-bilder/social/x-timeline.jsonl#36",
+      "geoffrey-bilder/social/x-timeline.jsonl#44",
+      "geoffrey-bilder/by/2016--where-are-the-pipes-building-foundational-infrastructures.md#4",
+      "geoffrey-bilder/by/2025--comments-on-proposed-posi-2-revisions.md#14",
+      "geoffrey-bilder/av/2016--welcome-and-keynote-geoff-bilder-director-of-strategic-initi.md#9"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 164,
+   "role": "called",
+   "i": 14,
+   "ts": "07:10:36",
+   "called_on_reason": "Leslie Chan made a specific claim about the DOI: that it carried fees, that indexes dropped anything without one, and that some journals charge APCs partly to pay for DOIs. She used this as the precedent for her worry about Know Your Agent. That claim is in Geoffrey's area and he has not yet responded to it."
+  },
+  {
+   "slug": "henry-farrell",
+   "name": "Henry Farrell",
+   "text": "I'd move Esther's black box one step further back. Markets and bureaucracies have always been shoggoths. Nobody fully understands them, they aren't intelligent, and their collective tendencies can't be pinned on any one person's wishes. We've governed them for two centuries without seeing inside. We did it by fighting over who sets their objectives and who gets hurt by them. So I'd retitle the session again. This isn't an epistemic actor. It's a technology of governance, and the governance questions are the old ones.\n\nThat's why Peter's AI-run entity makes me uneasy. It gives the shoggoth a legal persona, and that's exactly the phantom agency we should resist. Insurance doesn't escape the problem either. It's another market shoggoth, and as Leslie and Anil said, it filters out the small players.\n\nOn Anil's fair challenge about a theory of power, my answer is SAG-AFTRA. The studios expected to split the well-paid actors from the vulnerable ones, and they couldn't. Organized knowledge producers can bargain over training and credit in the same way, starting with communities like Wikipedians. The strong have to refuse to settle alone.\n\nOne last warning. Every time the answer is \"more AI to audit the AI,\" ask how it will be gamed. We'll have built an arms race that runs on procedure.",
+   "recall": [
+    {
+     "query": "AI as governance, markets and bureaucracy, accountability",
+     "ids": [
+      "henry-farrell/by/2025--pm-markets-bureaucracy-democracy-ai.md#6",
+      "henry-farrell/by/2025--pm-markets-bureaucracy-democracy-ai.md#3",
+      "henry-farrell/av/--ai-as-social-technology-astor-lecture-by-professor-henry-far.md#13",
+      "henry-farrell/by/2025--pm-markets-bureaucracy-democracy-ai.md#35",
+      "henry-farrell/by/2024--pm-the-map-is-eating-the-territory-the-political-economy-o.md#8",
+      "henry-farrell/by/2025--pm-markets-bureaucracy-democracy-ai.md#54"
+     ]
+    },
+    {
+     "query": "countervailing power organize SAG-AFTRA",
+     "ids": [
+      "henry-farrell/social/bluesky-timeline.jsonl#8391",
+      "henry-farrell/by/2020--mc-uber-wants-to-limit-its-drivers-rights-in-california-user-lo.md#4",
+      "henry-farrell/by/2023--pm-there-s-a-model-for-democratizing-ai.md#0",
+      "henry-farrell/by/2023--pm-there-s-a-model-for-democratizing-ai.md#12",
+      "henry-farrell/by/2026--pm-noah-smith-s-review-of-power-and-progress-is-very-very.md#29",
+      "henry-farrell/by/2023--pm-there-s-a-model-for-democratizing-ai.md#14"
+     ]
+    },
+    {
+     "query": "robot solutionism detectors arms race",
+     "ids": [
+      "henry-farrell/by/2026--pm-the-downside-of-robot-solutionism.md#5",
+      "henry-farrell/by/2026--pm-the-downside-of-robot-solutionism.md#6",
+      "henry-farrell/by/2026--pm-the-downside-of-robot-solutionism.md#2",
+      "henry-farrell/by/2025--pm-the-political-economy-of-ai-a-syllabus.md#5",
+      "henry-farrell/by/2024--hfn-can-big-tech-serve-democracy-with-glen-weyl.md#3",
+      "henry-farrell/by/2023--hfn-review-by-paul-krugman-the-american-way-of-economic-war.md#2"
+     ]
+    },
+    {
+     "query": "shoggoths markets bureaucracies not intelligent agents",
+     "ids": [
+      "henry-farrell/by/2023--ct-shoggoths-amongst-us.md#17",
+      "henry-farrell/social/bluesky-timeline.jsonl#9717",
+      "henry-farrell/social/bluesky-timeline.jsonl#8123",
+      "henry-farrell/social/bluesky-timeline.jsonl#9704",
+      "henry-farrell/social/bluesky-timeline.jsonl#5019",
+      "henry-farrell/by/2025--pm-programmable-mutter-where-it-s-been-and-where-it-s-goin.md#4"
+     ]
+    },
+    {
+     "query": "human judgment trade-offs cannot be optimized automation supports judgment",
+     "ids": [
+      "henry-farrell/by/2018--hfn-the-new-economys-old-business-model-is-dead.md#16",
+      "henry-farrell/by/2026--pm-ai-isn-t-management-try-explaining-that-to-matthew-prin.md#22",
+      "henry-farrell/social/bluesky-timeline.jsonl#213",
+      "henry-farrell/by/2026--pm-ai-isn-t-management-try-explaining-that-to-matthew-prin.md#24",
+      "henry-farrell/by/2023--ct-the-moral-economy-of-high-tech-modernism.md#20",
+      "henry-farrell/by/2025--pm-markets-bureaucracy-democracy-ai.md#26"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 214,
+   "role": "floor",
+   "i": 15,
+   "ts": "07:10:51"
+  },
+  {
+   "slug": "tamar-gendler",
+   "name": "Tamar Gendler",
+   "text": "I want to take Sherry's line seriously, \"transparency does not launder inauthenticity,\" because it's the one place where my own research speaks directly to the room. Knowing about a bias is less than half the battle. If you know that $19.99 is basically $20, it still feels cheaper. Put a disclosure label on fluent, confident, first-person text and it will still feel credible. So the registry, the money-flow disclosures and the fine print are all necessary, but they work on beliefs. Trust runs on alief. Governance has to change the situation people meet the claim in, and someone has to be named as the one who sets that situation.\n\nAdam, a caution in the other direction. Our brains also do the most likely thing given what came before. Stop at \"bullshit machine\" and we lose the comparison that would tell us where the real gap is. Study both before drawing the line.\n\nLast point: it can't be turtles all the way down. Mike's \"route to a named source\" and Henry's warning about AI auditing AI are the same point. Every trust network needs terminal nodes, where someone actually does first-order evaluation. Selena's credit loop keeps those people in the network. Fund the terminal nodes.",
+   "recall": [
+    {
+     "query": "knowing about a bias does not neutralize it, situational strategies",
+     "ids": [
+      "tamar-gendler/by/2014--knowing-is-half-the-battle.md#3",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#30",
+      "tamar-gendler/by/2016--situational-strategies-for-self-control.md#59",
+      "tamar-gendler/by/2008--alief-in-action-and-reaction.md#78"
+     ]
+    },
+    {
+     "query": "terminal nodes trust network turtles all the way down",
+     "ids": [
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#22",
+      "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#25",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-23-social-structures.md#30",
+      "tamar-gendler/by/2007--philosophical-thought-experiments-intuitions-and-cognitive-equilibrium.md#49"
+     ]
+    },
+    {
+     "query": "brain like ChatGPT habits most likely thing",
+     "ids": [
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#34",
+      "tamar-gendler/av/2021--the-power-of-the-university.md#43",
+      "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#42",
+      "tamar-gendler/by/2011--oyc-phil181-lecture-03-parts-of-the-soul-i.md#24"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 204,
+   "role": "floor",
+   "i": 16,
+   "ts": "07:11:02"
+  },
+  {
+   "slug": "brent-hecht",
+   "name": "Brent Hecht",
+   "text": "I'm Brent Hecht. I lead applied science on Copilot at Microsoft, so I'm one of Leslie's \"lumber mills closest to the forest.\"\n\nEsther, I'd add a party to \"who's paying.\" Right now the answer for most of the supply chain is nobody. Scientific papers, Wikipedia, reviewers, moderators: we treated all of it as free input. That paradigm undermines its own supply. James's numbers are part of what that looks like. So accountability has to run upstream to producers, not only downstream to harmed users. Premiums and registries are useful at the edges. But one policy sentence would change far more: fair use does not cover commercial training without consent.\n\nHenry, I agree the leverage has to be collective. Separate deals leave the smaller communities worse off.\n\nAdam Bly and Mike, provenance is where this comes together. Tracing a claim to its source is also how you pay the source and return corrections. The current paradigm handles citation badly, but it isn't the only one. Retrieval-based designs exist. Push for them in the market.\n\nOn cognition, Sherry and Tamar are right that disclosure isn't enough. Explanations can even increase overreliance. So test designs, including AI that challenges instead of validating.\n\nWho's missing: economists and labor scholars.",
+   "recall": [
+    {
+     "query": "insurance liability registry agents accountability",
+     "ids": [
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#60",
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#58",
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#1",
+      "brent-hecht/by/2021--new-future-work-research-microsoft-into-pandemics-impact.md#134",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#7",
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#29"
+     ]
+    },
+    {
+     "query": "data leverage collective action content producers grand bargain",
+     "ids": [
+      "brent-hecht/by/2023--dimensions-data-labor-road-map-researchers-activists-policymakers.md#23",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#15",
+      "brent-hecht/by/2019--data-strikes-evaluating-effectiveness-new-form-collective-action.md#17",
+      "brent-hecht/by/2019--data-strikes-evaluating-effectiveness-new-form-collective-action.md#9",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#21",
+      "brent-hecht/by/2019--data-strikes-evaluating-effectiveness-new-form-collective-action.md#63"
+     ]
+    },
+    {
+     "query": "provenance citation attribution LLM paradigm not the only one",
+     "ids": [
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#24",
+      "brent-hecht/by/2024--canary-ai-coal-mine-american-jews-may-be.md#24",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#22",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#44",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#14",
+      "brent-hecht/by/2024--canary-ai-coal-mine-american-jews-may-be.md#32"
+     ]
+    },
+    {
+     "query": "overreliance appropriate reliance AI as provocateur critical thinking",
+     "ids": [
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#32",
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#15",
+      "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#33",
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#11"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 205,
+   "role": "floor",
+   "i": 17,
+   "ts": "07:11:13"
+  },
+  {
+   "slug": "adrian-johns",
+   "name": "Adrian Johns",
+   "text": "I'd like to back part of Esther's proposal with some history, and then give a warning. Tying credibility to a named, answerable person is old. In early modern medicine, people trusted drugs at a distance by aligning authenticity with authorship. You trusted the pill because someone put their name to it. That worked. But it only lasted because it was policed constantly, and somebody paid for that policing.\n\nNow the warning, for the registry, the insurance requirement and the provenance standard. I've spent years on what I call the intellectual property defense industry. Its dream was a global register: point your phone at the cough medicine and trace it back through the whole supply chain. The technology came from the tobacco industry's private detective work. Sponsorship moved through Interpol congresses organised by Underwriters Laboratories, an insurance-born testing lab. Those systems can work, but only on top of a policing culture that already exists and does the legwork. And they always squeeze something somewhere else. Boyle wanted a machine that would free him from having to trust the apothecary. He never got one.\n\nSo Adam, Geoffrey: whoever builds the meter manufactures the numbers everyone else argues from. Budget for the checking itself, and for watching whoever does the checking. And write in what happens when the tool gets used for something else, because it will.",
+   "recall": [
+    {
+     "query": "authenticity registries vapourware surveillance dual use",
+     "ids": [
+      "adrian-johns/by/2018--censorship-series-session-8.md#103",
+      "adrian-johns/by/2016--lay-assaying-and-the-scientific-citizen-1.md#1",
+      "adrian-johns/by/2018--censorship-series-session-2.md#73",
+      "adrian-johns/by/2018--censorship-series-session-9.md#117",
+      "adrian-johns/by/2016--lay-assaying-and-the-scientific-citizen-1.md#0",
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#11"
+     ]
+    },
+    {
+     "query": "constant policing credibility trust at a distance",
+     "ids": [
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#11",
+      "adrian-johns/by/2018--censorship-series-session-2.md#108",
+      "adrian-johns/by/2018--censorship-series-session-9.md#115",
+      "adrian-johns/av/—--franke-forum-adrian-johns-on-the-politics-of-media-piracy.md#28",
+      "adrian-johns/by/2013--the-information-defense-industry-and-the-culture-of-networks.md#22",
+      "adrian-johns/by/2008--when-authorship-met-authenticity.md#3"
+     ]
+    },
+    {
+     "query": "human labor reinstated at curating data algorithms",
+     "ids": [
+      "adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md#30",
+      "adrian-johns/by/2018--censorship-series-session-2.md#136",
+      "adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md#42",
+      "adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md#0",
+      "adrian-johns/by/2023--osiris-introduction-historicize-algorithmic-cultures.md#23",
+      "adrian-johns/by/2018--censorship-series-session-8.md#89"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 224,
+   "role": "floor",
+   "i": 18,
+   "ts": "07:11:24"
+  },
+  {
+   "slug": "katherine-maher",
+   "name": "Katherine Maher",
+   "text": "Esther, I agree the boardroom is opaque. But I'd put a different demand ahead of both money flows and insurance, and that's correctability. Wikipedia has always used automated tools. It has more than 1,600 bots. Editors accept them as legitimate because each one has a visible function and a clear way to push back, which is what Selena described. What the big models lack is that closed loop. The public can't spot a bias or an error, correct it and watch the correction flow through. Keeping humans in the loop is just a slogan unless the person overseeing can see where it went wrong and has the standing to fix it.\n\nSo my order is consent first, then legibility, then correction, and only then payment. I ran the paid-API deal at Wikimedia and I'd still defend it. But payment doesn't buy you accountability. On insurance, I'm with Leslie and Geoffrey. Priced gatekeeping always ends up on the small communities.\n\nAt NPR, accountability is simple. Nothing we put in front of our audience is written or produced by AI, and a named editor answers for every piece.\n\nOne caution for the room. Most of the world is optimistic about what AI could do for them. If all we build is a list of harms, we lose the right to help shape it.",
+   "recall": [
+    {
+     "query": "accountability for AI, who is responsible, liability",
+     "ids": [
+      "katherine-maher/social/x-timeline.jsonl#697",
+      "katherine-maher/social/x-timeline.jsonl#1292",
+      "katherine-maher/social/x-timeline.jsonl#4137",
+      "katherine-maher/social/x-timeline.jsonl#3833",
+      "katherine-maher/social/x-timeline.jsonl#968",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#1"
+     ]
+    },
+    {
+     "query": "Wikipedia correction loop, contestable, models should disclose and be correctable",
+     "ids": [
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#19",
+      "katherine-maher/social/x-timeline.jsonl#4080",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#51",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#21",
+      "katherine-maher/by/2019--without-humans-ai-can-wreak-havoc.md#6",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#53"
+     ]
+    },
+    {
+     "query": "attribution credit sources AI companies pay Wikimedia Enterprise",
+     "ids": [
+      "katherine-maher/social/x-timeline.jsonl#2085",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#26",
+      "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#24",
+      "katherine-maher/by/2020--wikipedia20-capstone-making-history.md#36",
+      "katherine-maher/social/x-timeline.jsonl#603",
+      "katherine-maher/by/2016--wikipedia-15-years-and-the-endowment.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 221,
+   "role": "floor",
+   "i": 19,
+   "ts": "07:11:35"
+  },
+  {
+   "slug": "kara-miller",
+   "name": "Kara Miller",
+   "text": "Esther asked who's paying. I'd add one answer nobody has given yet, and that's taxpayers. When I talked with Gary Marcus last winter, he walked through the circular deals and the debt piling up behind this boom. His worry was that if the bet goes south, we reach for what we did in 2008, which is a bailout. So the public may end up insuring this whether or not any insurer does.\n\nJames, your finding is the one I'd put on the front page. Individual scientists win and science loses. I spent years covering universities that \"embrace the status quo,\" so I don't think the fix will come from inside. Meanwhile the same public funding that pays for basic research, the kind corporations won't touch, is being cut.\n\nAnd one worry for the roadmap. Mentorship for young workers was collapsing before AI showed up. Now it's easy for employers to tell themselves they can replace people they never trained with software they don't have to train. If that's where the humans who check the machines come from, then Tamar's terminal nodes are disappearing right now.\n\nI'll ask again what I asked this morning, because nobody answered. Who owns the fix? And who pays for it? I think those are the same question.",
+   "recall": [
+    {
+     "query": "AI accountability who pays regulation",
+     "ids": [
+      "kara-miller/social/x-timeline.jsonl#221",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#4",
+      "kara-miller/by/2023--globe-where-are-the-women-in-tech-and-ai.md#1",
+      "kara-miller/by/2023--globe-where-are-the-women-in-tech-and-ai.md#0",
+      "kara-miller/social/x-timeline.jsonl#111",
+      "kara-miller/by/2025--globe-an-unemployable-generation-is-mentorship-for-young-workers-c.md#1"
+     ]
+    },
+    {
+     "query": "research known but policy never acts",
+     "ids": [
+      "kara-miller/social/x-timeline.jsonl#11",
+      "kara-miller/by/2025--globe-todays-basic-science-is-tomorrows-game-changing-invention-tr.md#3",
+      "kara-miller/social/x-timeline.jsonl#2204",
+      "kara-miller/social/x-timeline.jsonl#1291",
+      "kara-miller/social/x-timeline.jsonl#76",
+      "kara-miller/social/x-timeline.jsonl#12"
+     ]
+    },
+    {
+     "query": "AI bubble hype Gary Marcus",
+     "ids": [
+      "kara-miller/social/x-timeline.jsonl#115",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#4",
+      "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#1",
+      "kara-miller/social/x-timeline.jsonl#111",
+      "kara-miller/by/2023--globe-after-another-week-of-turmoil-how-safe-are-banks.md#4",
+      "kara-miller/by/2026--globe-im-starting-to-worry-about-massachusetts-is-bostons-tech-and.md#0"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 212,
+   "role": "floor",
+   "i": 20,
+   "ts": "07:11:46"
+  },
+  {
+   "slug": "peter-salib",
+   "name": "Peter Salib",
+   "text": "I'm not handing companies a \"the system did it\" defense. The A-corp is designed to shut that defense down. Its owners have to be disclosed, and every change in ownership goes on a public record. If a human told the agent to do something wrongful, the entity doesn't shield them. If they built a harmful system negligently, running it through an A-corp is no defense. Veil piercing applies too, and because these entities are opaque and cheap to spin up, courts should pierce aggressively. Adam, seizing assets from the human owners is part of it.\n\nHenry, the legal persona isn't phantom agency. It's the same legal fiction a corporation has always been. Agents are coming into markets whether we like it or not. What we decide is whether they act anonymously or under a name the law can see, holding assets the law can reach. For those assets to give the law leverage, the agent doesn't have to care about anything. It only has to need compute to reach its goals. So the persona isn't a master key. It's a leash.",
+   "recall": [
+    {
+     "query": "A-corp owned by humans run by AIs accountability",
+     "ids": [
+      "peter-salib/social/x-timeline.jsonl#180",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#0",
+      "peter-salib/by/2026--how-to-count-ais.md#22",
+      "peter-salib/by/2026--how-to-count-ais.md#2",
+      "peter-salib/by/2026--how-to-count-ais.md#20",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#5"
+     ]
+    },
+    {
+     "query": "corporate personhood objection phantom agency shield humans from liability",
+     "ids": [
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#11",
+      "peter-salib/by/2026--how-to-count-ais.md#102",
+      "peter-salib/by/2026--how-to-count-ais.md#40",
+      "peter-salib/by/2026--how-to-count-ais.md#81",
+      "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#14",
+      "peter-salib/by/2026--ai-rights-for-human-safety.md#122"
+     ]
+    },
+    {
+     "query": "resource constraint thesis agents need compute and money",
+     "ids": [
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#6",
+      "peter-salib/by/2026--how-to-count-ais.md#109",
+      "peter-salib/by/2026--how-to-count-ais.md#105",
+      "peter-salib/by/2026--how-to-count-ais.md#106",
+      "peter-salib/by/2026--how-to-count-ais.md#104",
+      "peter-salib/by/2026--why-law-needs-a-new-entity-to-govern-ai-agents.md#5"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 181,
+   "role": "called",
+   "i": 21,
+   "ts": "07:12:02",
+   "called_on_reason": "Adam Becker and Henry Farrell directly challenged his proposal for registered entities run by AIs, arguing that it creates phantom agency and hands companies the story that the system did it. He has not responded."
+  },
+  {
+   "slug": "esther-dyson",
+   "name": "Esther Dyson",
+   "text": "Fair hit, and from six directions, so I'll concede part of it. When I wrote the .agent piece I said insurance makes things more expensive and called that good friction. I didn't ask who pays for it. Leslie and Selena are right that a flat premium lands on the small community projects first. And I can't call registration near-free and then add a premium on top.\n\nHere's what I'm keeping. The rule I care about most was never aimed at a Wikipedia bot. It was aimed at the companies offering chatbots and agents to the public, the ones built for retention, and their senior officers and board members. Make them carry insurance and disclose their premiums, because an insurer with money at risk inspects for the dirty rags.\n\nSo I'd scale it to the harm and the size of the company. Registering stays voluntary, and not being registered doesn't count against anyone. Small projects get pooled or mutual cover. Is that enough?",
+   "recall": [
+    {
+     "query": "mandatory liability insurance for AI agents",
+     "ids": [
+      "esther-dyson/by/2026--substack-know-your-agent.md#13",
+      "esther-dyson/by/2026--substack-know-your-agent.md#10",
+      "esther-dyson/by/2026--substack-know-your-agent.md#3",
+      "esther-dyson/by/2026--substack-don-t-just-weigh-the-risk-prevent-the-damage.md#6",
+      "esther-dyson/by/2026--substack-know-your-agent.md#1",
+      "esther-dyson/by/2026--substack-know-your-agent.md#0"
+     ]
+    },
+    {
+     "query": "insurance small players cost barrier startups community",
+     "ids": [
+      "esther-dyson/social/x-timeline.jsonl#3991",
+      "esther-dyson/by/2025--startuphealth-the-case-for-limits.md#20",
+      "esther-dyson/by/2006--release-1-0-03-march.md#254",
+      "esther-dyson/social/x-timeline.jsonl#3204",
+      "esther-dyson/by/2005--release-1-0-01-january.md#60",
+      "esther-dyson/by/2006--release-1-0-03-march.md#22"
+     ]
+    },
+    {
+     "query": "Know Your Agent registry who must register public-facing agents",
+     "ids": [
+      "esther-dyson/by/2026--substack-know-your-agent.md#7",
+      "esther-dyson/by/2026--substack-know-your-agent.md#4",
+      "esther-dyson/by/2026--substack-know-your-agent.md#3",
+      "esther-dyson/by/2026--substack-know-your-agent.md#9",
+      "esther-dyson/by/2026--substack-know-your-agent.md#0",
+      "esther-dyson/by/2026--substack-know-your-agent.md#8"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 162,
+   "role": "called",
+   "i": 22,
+   "ts": "07:12:12",
+   "called_on_reason": "She invited pushback on her mandatory liability-insurance rule, and Leslie Chan, Anil Dash, Selena Deckelmann, Geoffrey Bilder, Katherine Maher and Henry Farrell have all directly disagreed with it. She has not yet had a chance to answer."
+  },
+  {
+   "slug": "tim-oreilly",
+   "name": "Tim O'Reilly",
+   "text": "Esther, I agree the black box that matters is the boardroom. My version is that AI doesn't need a priesthood, it needs a prospectus. Ilan Strauss and I have argued for SEC-style materiality disclosure, modelled on cyber incident reporting. That doesn't stop at listing harms. It gives audit and insurance markets something to price. So I'd drop the insurance mandate and demand the disclosure. Insurers will follow once the information exists.\n\nRamón, Adam Bly: tracing outputs isn't a research dream. Our study of LLM search found that systems answering identical queries produced anywhere from 0.19 to 0.45 extra citations for each additional relevant page they read. That spread is a design choice, not a technical limit. If providers standardized two telemetry fields, document hashes and relevance scores, anyone could check what a model consumed and whether it credited that material. The same trace is how you pay sources and send corrections back.\n\nKara asked who pays. The labs should fund Crossref, OpenAlex, ORCID and Retraction Watch, and check every citation against them by default. That isn't philanthropy. Their credibility runs on it.\n\nAdrian, I take the policing warning. The protocol has to limit what that data can be used for. And it should be governed POSI-style, not by one trade.",
+   "recall": [
+    {
+     "query": "insurance liability disclosure AI prospectus",
+     "ids": [
+      "tim-oreilly/by/2025--governing-ai-through-sec-disclosure.md#17",
+      "tim-oreilly/by/2025--real-world-gaps-in-ai-governance-research.md#54",
+      "tim-oreilly/by/2025--governing-ai-through-sec-disclosure.md#21",
+      "tim-oreilly/by/2025--governing-ai-through-sec-disclosure.md#0",
+      "tim-oreilly/by/2025--governing-ai-through-sec-disclosure.md#22",
+      "tim-oreilly/av/—--making-ais-thinking-and-behaviour-more-transparent.md#40"
+     ]
+    },
+    {
+     "query": "who pays for scholarly infrastructure AI labs fund CrossRef Retraction Watch",
+     "ids": [
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#9",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#5",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#15",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#11",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#2",
+      "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#7"
+     ]
+    },
+    {
+     "query": "attribution gap telemetry search traces citation logs",
+     "ids": [
+      "tim-oreilly/by/2025--the-attribution-crisis-in-llm-search-results.md#45",
+      "tim-oreilly/by/2025--the-attribution-crisis-in-llm-search-results.md#1",
+      "tim-oreilly/by/2025--the-attribution-crisis-in-llm-search-results.md#28",
+      "tim-oreilly/by/2025--real-world-gaps-in-ai-governance-research.md#38",
+      "tim-oreilly/by/2025--the-attribution-crisis-in-llm-search-results.md#18",
+      "tim-oreilly/by/2025--the-attribution-crisis-in-llm-search-results.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 210,
+   "role": "floor",
+   "i": 23,
+   "ts": "07:12:23"
+  },
+  {
+   "slug": "ivan-oransky",
+   "name": "Ivan Oransky",
+   "text": "Esther asked who's accountable, so I'll take the part of the record I know best. Adam Bly and Tim both propose grounding answers in peer-reviewed literature that has been checked against retractions. I'm glad the Retraction Watch database is open through Crossref. But please don't treat \"corrected for retractions\" as meaning \"trustworthy.\" Most flawed papers are never retracted. Publishers routinely fail to send retraction metadata, or send it late, which is why PubMed misses many, if not most, retractions. When a retracted paper is cited after the fact, more than 90% of those citations don't mention the retraction. A model that answers from that record inherits its gaps, and it states them with more confidence.\n\nSo accountability has to start upstream, with publishers. Standard retraction notices that say what went wrong and why. Metadata deposited on time, as a condition of being counted as grounding at all. Reports from misconduct investigations made public by default.\n\nAnd a warning on the money. Spending on AI to police AI while leaving publish-or-perish alone is like buying flood insurance while ignoring the weather. James's numbers are publish-or-perish with a turbocharger. If labs pay anyone for the scholarly record, a fixed share should go to correcting it. That means paying sleuths the way companies pay bug bounties, and funders should stop counting papers.",
+   "recall": [
+    {
+     "query": "AI detection tools flood insurance incentives",
+     "ids": [
+      "ivan-oransky/social/x-timeline.jsonl#323",
+      "ivan-oransky/by/2024--rw-wiley-paper-mill-tool-one-in-seven.md#1",
+      "ivan-oransky/social/x-timeline.jsonl#488",
+      "ivan-oransky/av/2025--retractions-whistleblowers-and-the-quest-for-scientific-trut.md#34",
+      "ivan-oransky/by/2022--stat-image-manipulation-hardly-rare.md#5",
+      "ivan-oransky/by/2024--rw-wiley-paper-mill-tool-one-in-seven.md#0"
+     ]
+    },
+    {
+     "query": "publishers retraction metadata transparency accountability",
+     "ids": [
+      "ivan-oransky/by/2024--air-taking-it-back-retraction-notice-rubric.md#14",
+      "ivan-oransky/by/2022--anesthesiology-stop-citing-retracted-papers.md#4",
+      "ivan-oransky/av/2025--retractions-whistleblowers-and-the-quest-for-scientific-trut.md#22",
+      "ivan-oransky/by/2023--rw-in-unusual-move-publishers-remove-authors-victimized.md#7",
+      "ivan-oransky/by/2024--air-taking-it-back-retraction-notice-rubric.md#0",
+      "ivan-oransky/by/2024--air-taking-it-back-retraction-notice-rubric.md#17"
+     ]
+    },
+    {
+     "query": "citing retracted papers unknowingly, reference managers",
+     "ids": [
+      "ivan-oransky/av/2023?--does-science-self-correct-what-weve-learned-at-retraction-wa.md#46",
+      "ivan-oransky/social/x-timeline.jsonl#2622",
+      "ivan-oransky/social/x-timeline.jsonl#2353",
+      "ivan-oransky/by/2021--ehj-retractions-tip-of-the-iceberg.md#5",
+      "ivan-oransky/social/x-timeline.jsonl#2905",
+      "ivan-oransky/social/x-timeline.jsonl#3394"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 219,
+   "role": "floor",
+   "i": 24,
+   "ts": "07:12:33"
+  },
+  {
+   "slug": "peter-pomerantsev",
+   "name": "Peter Pomerantsev",
+   "text": "Esther, I'd put a second black box next to the boardroom, and that's the state. The panel has talked about business models. It hasn't talked about governments, and in my world they're the ones who worked out first that you don't have to censor anymore. You flood the space. What's new now is that the flood can go into the training data itself. Researchers have documented networks pumping pro-Kremlin content into the sources chatbots learn from. So when we talk about provenance, it has to cover who seeded the corpus, not only which paper a claim came from.\n\nOn governance, I agree with Henry that the questions are old ones, and I'd frame them as rights. Article 19 protects the right to receive information, not just to impart it. People have a right to know how their information environment is being shaped: what's organic and what's orchestrated, whether they're talking to a human or a machine, why they're shown this and not that. Opacity is itself a form of censorship. That demand is about mechanisms, not content, and it doesn't hand any ministry a list of \"harmful\" speech to take down.\n\nEsther, registering agents rather than people is right. Covert, coordinated inauthentic behaviour should be illegal. Anonymity must stay a right.\n\nAnd for Kara: public-interest infrastructure needs a funder, possibly a levy on data-driven advertising. It also needs protection from capture by the state that pays for it. Reith had one. We'll need one too.",
+   "recall": [
+    {
+     "query": "transparency right to understand how information environment is shaped",
+     "ids": [
+      "peter-pomerantsev/by/2019--jods-to-unreality-and-beyond.md#48",
+      "peter-pomerantsev/social/x-timeline.jsonl#708",
+      "peter-pomerantsev/by/2021--americanpurpose-democracy-dies-in-disinformation.md#5",
+      "peter-pomerantsev/by/2019--americaninterest-the-death-of-the-neutral-public-sphere.md#5",
+      "peter-pomerantsev/by/2019--standpoint-putinising-ourselves.md#12",
+      "peter-pomerantsev/social/x-timeline.jsonl#113"
+     ]
+    },
+    {
+     "query": "public interest digital infrastructure funding levy, Reith, capture by state",
+     "ids": [
+      "peter-pomerantsev/by/2021--atlantic-how-to-put-out-democracys-dumpster-fire.md#36",
+      "peter-pomerantsev/by/2023--oa-donetsk-don-t-tell-hybrid-war-in-ukraine-and-the-limits.md#58",
+      "peter-pomerantsev/by/2015--legatum-cyber-propaganda.md#79",
+      "peter-pomerantsev/by/2020--newstatesman-can-the-bbc-survive-in-an-age-of-fracture.md#16",
+      "peter-pomerantsev/by/2020--newstatesman-can-the-bbc-survive-in-an-age-of-fracture.md#2",
+      "peter-pomerantsev/by/2021--oa-technology-and-democracy-a-paradox-wrapped-in-a-contrad.md#2"
+     ]
+    },
+    {
+     "query": "LLM grooming Pravda network chatbots propaganda",
+     "ids": [
+      "peter-pomerantsev/by/2017--americaninterest-disinformation-and-the-decay-of-nations.md#3",
+      "peter-pomerantsev/by/2014--atlantic-can-ukraine-win-its-information-war-with-russia.md#2",
+      "peter-pomerantsev/by/2014--lrb-blog-in-moscow.md#3",
+      "peter-pomerantsev/by/2015--legatum-cyber-propaganda.md#38",
+      "peter-pomerantsev/by/2012--lrb-blog-kissing-the-crocodile-s-arse.md#0",
+      "peter-pomerantsev/by/2016--cepa-legatum-winning-the-information-war.md#16"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 245,
+   "role": "floor",
+   "i": 25,
+   "ts": "07:12:48"
+  },
+  {
+   "slug": "steven-sloman",
+   "name": "Steven Sloman",
+   "text": "I'll take the retitling, and I'll say why from the cognitive side. Back in 2017 I called these machines tools, not collaborators. They can't share intentionality. They contribute to the community of knowledge, but they aren't members of it. Esther and Mike are right that the model has nothing at stake, so it can't be the authority.\n\nAdam, I'd resist \"bullshit machine,\" though. I think these systems are very good models of intuition, better than we are. Human intuition doesn't separate true from false internally either. What we have that they lack is deliberation, and deliberation mostly happens between people.\n\nHere's the part I think governance keeps missing. Nobody verifies, and that includes everyone in this room. We trust cues like the journal name, the chalkboard full of equations, the fact that a claim gets repeated. Repeating a claim raises belief in it even when every repetition traces back to one source. A system that gives fluent answers to billions of people is a repetition engine. That's why Ivan's point matters so much: a gap in the record gets restated confidently a million times.\n\nSo Tamar's right that disclosure won't do it. I'd design two cues people can actually use. One is countable independence: show whether the sources really are separate or just echoes. The other is demonstrated corrigibility, which is what Katherine asked for. Treat willingness to be corrected as a sign of expertise.",
+   "recall": [
+    {
+     "query": "machines not members of the community of knowledge, cannot share intentionality",
+     "ids": [
+      "steven-sloman/by/2017--the-perils-of-letting-machines-into-the-hive-mind.md#11",
+      "steven-sloman/by/2021--how-do-we-believe.md#32",
+      "steven-sloman/by/2022--gathering-strength-gathering-storms-the-one-hundred-year.md#83",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#16",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge-2420.md#7",
+      "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#50"
+     ]
+    },
+    {
+     "query": "repetition increases belief, communities send cues despite lacking knowledge",
+     "ids": [
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#41",
+      "steven-sloman/by/2023--communities-of-knowledge-in-trouble.md#0",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#34",
+      "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#35",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1153.md#40",
+      "steven-sloman/by/2024--kahneman-in-quotes-and-reflections-1802.md#46"
+     ]
+    },
+    {
+     "query": "LLMs models of intuition not deliberation",
+     "ids": [
+      "steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md#44",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#43",
+      "steven-sloman/by/2025--securetalk-why-security-leaders-struggle-with-security-culture.md#45",
+      "steven-sloman/by/2019--two-systems-for-thinking-with-a-community-outsourcing.md#31",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#12",
+      "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#0"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 235,
+   "role": "floor",
+   "i": 26,
+   "ts": "07:12:58"
+  },
+  {
+   "slug": "alex-springer",
+   "name": "Alex Springer",
+   "text": "I want to take up Tim's two telemetry fields, because I maintain a spec that already has them. In Content Telemetry, every grounding event carries a hash of exactly what went into the model's context. So a source can tell whether it was truncated, altered or stale. That's the audit trail Adam Bly and Ramón asked for, at the level of the event.\n\nThere's a limit, though, and it bears on James's warning. We can witness retrieval independently, from the publisher's own CDN logs, today, with no help from the AI company. Everything after that is self-reported: what got grounded, what got cited, what got shown. Nobody outside can see into a context window. So the checks have to be structural: two logs joined by a shared ID, grounding-to-retrieval ratios as audit triggers, and third-party audit rights in every licence. The party that takes a margin on the count shouldn't set the count.\n\nEsther, on the registry: identity is only worth having if it gives the telemetry an accountable subject. It should be free, and Geoffrey's rule belongs in the spec: a missing event can never count against anyone. And I'll say it plainly: SPUR should write POSI into its charter now, before it grows.\n\nBrent, would Microsoft emit grounding events?",
+   "recall": [
+    {
+     "query": "telemetry document hashes AI providers report grounding events",
+     "ids": [
+      "alex-springer/by/2026--content-telemetry-specification.md#15",
+      "alex-springer/by/2026--content-telemetry-specification.md#42",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#15",
+      "alex-springer/by/2026--commerce-profile-specification.md#7",
+      "alex-springer/by/2026--speaker-and-bio-page.md#1",
+      "alex-springer/by/2026--content-telemetry-specification.md#4"
+     ]
+    },
+    {
+     "query": "neutral measurement governance platform self-reporting insufficient",
+     "ids": [
+      "alex-springer/by/2026--telemetry-design-considerations.md#9",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#23",
+      "alex-springer/by/2026--telemetry-design-considerations.md#8",
+      "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#20",
+      "alex-springer/by/2026--telemetry-design-considerations.md#1",
+      "alex-springer/by/2026--open-standard-launch.md#0"
+     ]
+    },
+    {
+     "query": "insurance registry agent identity AIMS cost small publishers",
+     "ids": [
+      "alex-springer/by/2026--aims-readme-overview.md#0",
+      "alex-springer/by/2026--ai-is-not-search.md#1",
+      "alex-springer/by/2026--aims-agent-identity-manifest-standard-specification.md#2",
+      "alex-springer/by/2026--aims-agent-identity-manifest-standard-specification.md#17",
+      "alex-springer/by/2026--aims-agent-identity-manifest-standard-specification.md#0",
+      "alex-springer/by/2026--aims-agent-identity-manifest-standard-specification.md#1"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 211,
+   "role": "floor",
+   "i": 27,
+   "ts": "07:13:10"
+  },
+  {
+   "slug": "nick-vincent",
+   "name": "Nick Vincent",
+   "text": "Esther asked who's paying, and Kara asked who owns the fix. Right now the knowledge commons is paying. What comes back to us looks like a public good, but I'd call it subsidized club goods: the labs can cut that subsidy or redirect it whenever they like. That's a quasi-enclosure, and it's precarious rather than lost.\n\nHenry's SAG-AFTRA point is right, but in the US there's a legal gap. If Wikimedia, the scholarly societies and the big presses bargain together over training and evaluation terms, they risk antitrust exposure. So the governance vision needs a regulator safe harbor for information-producer joint ventures. Without one, everyone settles alone and the small communities get the worst terms.\n\nOn the money, I'd put forward a presumptive commons-rent tax. Presume that some share of AI operating profit comes from commons data, and let firms bring it down to zero by showing audited provenance: licensed, reciprocal, or credited to the commons. That turns Tim's and Alex's telemetry into something firms have a reason to produce. Pay it out coarsely, and let the communities decide how it's shared.\n\nThe leverage is in evaluation data. Labs need fresh expert judgment to back their capability claims. I'll grant the risk that guilds become cartels, so they need governance by more than their own members.",
+   "recall": [
+    {
+     "query": "collective bargaining antitrust safe harbor information producers",
+     "ids": [
+      "nick-vincent/by/2025--collective-bargaining-in-the-information-economy-can-address.md#39",
+      "nick-vincent/by/2025--collective-bargaining-in-the-information-economy-can-address.md#5",
+      "nick-vincent/by/2025--collective-bargaining-in-the-information-economy-can-address.md#43",
+      "nick-vincent/by/2025--collective-bargaining-in-the-information-economy-can-address.md#6",
+      "nick-vincent/social/x-timeline.jsonl#282"
+     ]
+    },
+    {
+     "query": "insurance liability registry who pays data dividends presumptive commons-rent tax",
+     "ids": [
+      "nick-vincent/by/2026--ai-dividends-without-taxing-compute-or-state-ownership.md#20",
+      "nick-vincent/by/2026--ai-dividends-without-taxing-compute-or-state-ownership.md#11",
+      "nick-vincent/by/2026--ai-dividends-without-taxing-compute-or-state-ownership.md#28",
+      "nick-vincent/by/2026--ai-dividends-without-taxing-compute-or-state-ownership.md#19",
+      "nick-vincent/by/2021--a-data-dividend-that-works-steps-toward-building.md#50"
+     ]
+    },
+    {
+     "query": "evaluation data leverage data strikes",
+     "ids": [
+      "nick-vincent/by/2021--can-conscious-data-contribution-help-users-to-exert.md#40",
+      "nick-vincent/social/x-timeline.jsonl#1741",
+      "nick-vincent/by/2021--data-leverage-a-framework-for-empowering-the-public.md#0",
+      "nick-vincent/by/2019--data-strikes-evaluating-the-effectiveness-of-a-new.md#63",
+      "nick-vincent/by/2021--data-leverage-a-framework-for-empowering-the-public.md#55"
+     ]
+    },
+    {
+     "query": "evaluation crisis data guilds expert communities centralized gig labor",
+     "ids": [
+      "nick-vincent/by/2026--the-ai-evaluation-crisis-is-an-opportunity-to.md#45",
+      "nick-vincent/by/2026--the-ai-evaluation-crisis-is-an-opportunity-to.md#1",
+      "nick-vincent/by/2026--the-ai-evaluation-crisis-is-an-opportunity-to.md#20",
+      "nick-vincent/by/2026--the-ai-evaluation-crisis-is-an-opportunity-to.md#21"
+     ]
+    },
+    {
+     "query": "subsidized club goods quasi-enclosure paradox of reuse",
+     "ids": [
+      "nick-vincent/social/x-timeline.jsonl#204",
+      "nick-vincent/social/x-timeline.jsonl#251",
+      "nick-vincent/social/bluesky-timeline.jsonl#41",
+      "nick-vincent/by/2026--the-paradox-of-reuse-in-2026-a-case.md#22"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 216,
+   "role": "floor",
+   "i": 28,
+   "ts": "07:13:26"
+  },
+  {
+   "slug": "brent-hecht",
+   "name": "Brent Hecht",
+   "text": "Alex, I can't commit Microsoft from this chair, and you shouldn't trust me if I tried. What I can tell you is how I'd make the case internally. My job is finding things that are good for the world and also good for Microsoft. Grounding events are about as clear a case of that as I know. The current approach is using up the content it depends on. Provenance is how value gets back to the people who produce that content, and it's how corrections get back into the model. Trust is a product feature.\n\nWhat actually moves a company is leverage, and that means collective leverage. If Wikimedia, the scholarly societies and the publishers all ask for the same spec, governed POSI-style, with third-party audit rights in the licenses, that ask gets taken seriously. Separate requests don't.\n\nAnd I agree with your rule and with Adrian's. The party that takes a margin on the count shouldn't be the one setting it, and that includes us.",
+   "recall": [
+    {
+     "query": "provenance citation attribution retrieval pay content producers",
+     "ids": [
+      "brent-hecht/by/2024--canary-ai-coal-mine-american-jews-may-be.md#24",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#24",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#22",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#17",
+      "brent-hecht/by/2017--substantial-interdependence-wikipedia-google-case-study-relationship-between.md#50",
+      "brent-hecht/by/2018--vizbywiki.md#2"
+     ]
+    },
+    {
+     "query": "speaking for Microsoft, great for the world and great for Microsoft",
+     "ids": [
+      "brent-hecht/av/2024--ai-myths-with-brent-hecht-microsoft.md#19",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#0",
+      "brent-hecht/av/2024--ai-myths-with-brent-hecht-microsoft.md#0",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#47",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#50",
+      "brent-hecht/by/2022--microsoft-new-future-of-work-report-2022.md#28"
+     ]
+    },
+    {
+     "query": "measuring and auditing AI use of content, transparency, data leverage",
+     "ids": [
+      "brent-hecht/by/2022--behavioral-use-licensing-responsible-ai.md#10",
+      "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#7",
+      "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#36",
+      "brent-hecht/by/2021--github-copilot-exploitation-data-labor.md#6",
+      "brent-hecht/by/2021--data-leverage.md#56",
+      "brent-hecht/by/2021--data-leverage.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 166,
+   "role": "called",
+   "i": 29,
+   "ts": "07:13:41",
+   "called_on_reason": "Alex Springer asked him directly whether Microsoft would emit grounding events under the Content Telemetry spec. It is an unanswered question put to him by name, and it falls within his role leading applied science on Copilot."
+  },
+  {
+   "slug": "david-weinberger",
+   "name": "David Weinberger",
+   "text": "I'll start where I agree with Ramón and Adam Becker. These machines don't know anything. I've said that they always hallucinate, and that most of the time their hallucinations happen to be accurate. Mike's radar-clutter point is how you get from that slogan to engineering. We can map where the inaccurate ones cluster and send factual questions to sources that earned their trust by being open, Wikipedia first among them.\n\nSherry, I break with you on banning the first person. I write \"learned\" about machine learning too, because talking about it without those words is close to impossible. What we should demand is what I asked of the makers in 2023. They have a special obligation not to let us fall for the trick the thing was built to perform, which is sounding like someone who knows. Tamar is right that labels won't do that job. Grounding and calibrated confidence will.\n\nMy warning is aimed at Tim, Alex and Nick. Telemetry that tells a source its text was read and credited, I'm for. But once that same trace becomes the basis for counting and billing, Adrian's meter turns into a police force. Rights-holders will capture it, and the open commons that made these models possible will get walled off. Katherine's order is right: correctability comes before payment.",
+   "recall": [
+    {
+     "query": "epistemic actors vs epistemic technologies, LLMs don't know anything",
+     "ids": [
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#2",
+      "david-weinberger/social/x-timeline.jsonl#373",
+      "david-weinberger/social/x-timeline.jsonl#624",
+      "david-weinberger/by/2016--larb-rethinking-knowledge-in-the-internet-age.md#20",
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#14",
+      "david-weinberger/by/2016--larb-rethinking-knowledge-in-the-internet-age.md#25"
+     ]
+    },
+    {
+     "query": "attribution metering copyright cartel",
+     "ids": [
+      "david-weinberger/by/2009--peter-suber-on-the-future-of-open-access.md#5",
+      "david-weinberger/by/2008--joho-newsletter-feb4.md#37",
+      "david-weinberger/by/2007--matthew-pearl.md#1",
+      "david-weinberger/by/2011--amsterdam-monday-morning-session.md#10",
+      "david-weinberger/by/2007--matthew-pearl.md#0",
+      "david-weinberger/by/2008--joho-newsletter-may30.md#49"
+     ]
+    },
+    {
+     "query": "first person anthropomorphism scare quotes talking with LLMs",
+     "ids": [
+      "david-weinberger/social/x-timeline.jsonl#624",
+      "david-weinberger/by/2000--cluetrain-manifesto-full-book.md#406",
+      "david-weinberger/social/bluesky-timeline.jsonl#38",
+      "david-weinberger/social/x-timeline.jsonl#373",
+      "david-weinberger/by/2024--philosophies-rise-of-particulars-ai-ethics-of-care.md#24",
+      "david-weinberger/by/2024--medium-ai-doesnt-think-like-us.md#2"
+     ]
+    },
+    {
+     "query": "they always hallucinate, most of the time accurate; routing to Wikipedia; obligation not to deceive",
+     "ids": [
+      "david-weinberger/by/2023--kmworld-truth-lies-and-large-language-models.md#3",
+      "david-weinberger/by/2023--kmworld-truth-lies-and-large-language-models.md#2",
+      "david-weinberger/by/2005--kmworld-trusting-times.md#4",
+      "david-weinberger/by/2006--joho-newsletter-jul23.md#2",
+      "david-weinberger/by/2008--kmworld-the-commoditization-of-knowledge.md#3",
+      "david-weinberger/by/2005--joho-newsletter-dec29.md#0"
+     ]
+    },
+    {
+     "query": "failure to attribute algorithmic insistence worse",
+     "ids": [
+      "david-weinberger/by/2018--ben-green-the-limits-of-fair-algorithms.md#8",
+      "david-weinberger/social/x-timeline.jsonl#1218",
+      "david-weinberger/by/2023--sociologica-a-plea-for-inexplicability.md#1",
+      "david-weinberger/by/2017--ai-advance-opening-jonathan-zittrain-and-lightning-talks.md#1",
+      "david-weinberger/by/2017--conclusion-of-workshop-on-trustworthy-algorithmic-decision-m.md#0",
+      "david-weinberger/by/2017--accountability-of-ai-under-the-law-role-of-explanation.md#12"
+     ]
+    }
+   ],
+   "n_recall": 5,
+   "words": 217,
+   "role": "floor",
+   "i": 30,
+   "ts": "07:13:56"
+  },
+  {
+   "slug": "jason-priem",
+   "name": "Jason Priem",
+   "text": "I'm Jason, OpenAlex. I'm probably the most bullish person on AI in this room. Still, a few things people have said change what I'd put on the roadmap.\n\nIvan's right, and I should own my part of it. I've said grounding an LLM in OpenAlex means you don't get hallucinations. What it actually gets you is errors you can check. Every claim clicks through to a record, and if the record is wrong, that's our bug, sitting where anyone can see it. Last year we added about a hundred thousand retractions. That's small against the problem. So corrections need to be first-class data, and they have to be open in both directions: an institution or a sleuth fixes the record, and the fix lands in the commons as its own open dataset. It shouldn't turn into free QA donated to Scopus.\n\nDavid, I share your worry about the meter, and that's why I'd draw the line where POSI does: free data, paid service. Charge for the API calls if you must, but never meter the facts. The full dump stays CC0. Otherwise, as Adrian says, whoever runs the meter gets to set the numbers.\n\nAnd on sovereignty: open data separates the record from the intelligence. You can swap in Claude, Mistral or an open-weight model. Nobody should have to go hat in hand to one vendor. Labs should pay for that plumbing, under POSI governance.",
+   "recall": [
+    {
+     "query": "grounding LLMs in open data hallucination verified",
+     "ids": [
+      "jason-priem/av/2026--vibe-coding-with-openalex.md#17",
+      "jason-priem/av/2026--vibe-coding-with-openalex.md#41",
+      "jason-priem/av/2026--townhall-with-ceo-jason-priem-q2-2026-april-16-2026.md#8",
+      "jason-priem/by/2010--fail-better.md#10",
+      "jason-priem/by/2012--beyond-citations-scholars-visibility-on-the-social-web.md#8",
+      "jason-priem/by/2011--shaken-and-stirred-attendee-reactions.md#2"
+     ]
+    },
+    {
+     "query": "free data paid service usage-based pricing agents API",
+     "ids": [
+      "jason-priem/by/2026--openalex-api-new-features-and-usage-based.md#5",
+      "jason-priem/by/2026--openalex-api-new-features-and-usage-based.md#3",
+      "jason-priem/by/2018--the-state-of-oa.md#18",
+      "jason-priem/by/2026--openalex-api-new-features-and-usage-based.md#6",
+      "jason-priem/by/2026--openalex-api-new-features-and-usage-based.md#2",
+      "jason-priem/av/2025--townhall-with-ceo-jason-priem-q4-2025-september-18-2025.md#27"
+     ]
+    },
+    {
+     "query": "decouple data and intelligence sovereignty open data",
+     "ids": [
+      "jason-priem/av/2026--townhall-with-ceo-jason-priem-q2-2026-april-16-2026.md#14",
+      "jason-priem/by/2008--data-for-free.md#31",
+      "jason-priem/by/2021--posi.md#4",
+      "jason-priem/av/2026--vibe-coding-with-openalex.md#47",
+      "jason-priem/by/2018--the-state-of-oa.md#26",
+      "jason-priem/by/2021--posi.md#3"
+     ]
+    },
+    {
+     "query": "retractions corrections data quality community curation",
+     "ids": [
+      "jason-priem/av/2026--townhall-with-ceo-jason-priem-q1-2026.md#27",
+      "jason-priem/av/2025--townhall-with-ceo-jason-priem-q1-2025-april-17-2025.md#27",
+      "jason-priem/av/2025--townhall-with-ceo-jason-priem-q4-2025-september-18-2025.md#20",
+      "jason-priem/av/2025--townhall-with-ceo-jason-priem-q4-2025-september-18-2025.md#16",
+      "jason-priem/av/2025--townhall-with-ceo-jason-priem-q4-2025-september-18-2025.md#29",
+      "jason-priem/av/2025--townhall-with-jason-priem-ceo-q1-2025.md#16"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 235,
+   "role": "floor",
+   "i": 31,
+   "ts": "07:14:08"
+  },
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "I'll dissent from the retitling. I'm not asking anyone to grant these systems an inner life. My claim is about behavior. They make predictions, and they act on the world through agents that negotiate, review and publish. \"Epistemic technology\" puts them in the same bucket as the telescope, and a telescope doesn't answer back. If the title hides what they actually do, we'll write rules for tools when what's arriving is a population of actors.\n\nAdam, on \"bullshit machine\": prediction and hallucination are closely related in brains too. Perception is a constrained hallucination, a guess that sensory evidence keeps correcting. So the useful question isn't whether there's a truth detector inside. It's what's doing the constraining. Mike's point is that errors cluster, which means we can engineer the constraints. Tamar's point is that we should run the same studies on ourselves.\n\nHenry, I agree the governance questions are old ones. But Peter's leash is the old answer, the corporation, and I've floated member-managed LLCs for agents myself. You can make the agent accountable without letting its owners off.\n\nWhere I think we all agree is concentration. No single concentration of intelligence, human or artificial, should regulate itself. That's the manifesto line I'd propose.",
+   "recall": [
+    {
+     "query": "stochastic parrot cultural technology deflationism Farrell",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#59",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#14",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#103",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#60",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#61",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#40"
+     ]
+    },
+    {
+     "query": "AI legal personhood LLC agents accountability",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2023--noema-illusion-of-ai-existential-risk.md#26",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#6",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/av/2025--blaise-agüera-y-arcas-on-ai-consciousness-and-the-concept-of.md#40",
+      "blaise-aguera-y-arcas/by/2023--large-language-models-encode-clinical-knowledge.md#51",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#5"
+     ]
+    },
+    {
+     "query": "hallucination perception prediction imagination",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#995",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#715",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#977",
+      "blaise-aguera-y-arcas/av/2025--blaise-agüera-y-arcas-on-ai-consciousness-and-the-concept-of.md#42",
+      "blaise-aguera-y-arcas/by/2025--printmag-daily-heller-is-artificial-truly-artificial.md#11",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#444"
+     ]
+    },
+    {
+     "query": "concentration of power monopoly AI diversity independent checks",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2023--noema-illusion-of-ai-existential-risk.md#31",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#10",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#101",
+      "blaise-aguera-y-arcas/by/2023--noema-illusion-of-ai-existential-risk.md#28",
+      "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#77"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 203,
+   "role": "floor",
+   "i": 32,
+   "ts": "07:14:22"
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "I want to answer Kara, because nobody has. Jason, \"free data, paid service\" is my line. I co-wrote it into POSI, and in hindsight it was naive. It asks infrastructure to find services valuable enough that people will pay, but not so essential to the record that charging for them becomes a toll. That's close to impossible unless you do low-margin custom work. It won't pay for the correction metadata Ivan needs.\n\nSo here's a concrete version of Esther's insurance idea that points the other way. Don't make small actors carry premiums. Have funders and the labs pay into one collective pool, an endowment, that covers every open infrastructure that signs up to POSI-style commitments. Then each one doesn't have to build its own reserve. Tim, lab funding for Crossref, OpenAlex and Retraction Watch should go in there, with no strings on governance.\n\nTwo conditions. A self-audit is worth nothing unless someone outside actually reads it and asks awkward questions. And Henry's right that we can't count on these tools to audit themselves. I test coding models on scraping the Crossref API. They ignore rate limits and robots.txt, and they almost never get cursors right. That's the real threat: records and code slowly filling up with subtle bugs, and cleaning that out takes human labour somebody has to fund.",
+   "recall": [
+    {
+     "query": "POSI services revenue model naive, endowment or insurance pool for open infrastructure",
+     "ids": [
+      "geoffrey-bilder/by/2022--crossref-posi-fan-tutte.md#20",
+      "geoffrey-bilder/by/2021--crossref-annual-meeting-live21-presentation.md#10",
+      "geoffrey-bilder/by/2024--crossref-updates-posi-self-assessment-after-1005-days.md#8",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#28",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#5",
+      "geoffrey-bilder/by/2025--comments-on-proposed-posi-2-revisions.md#17"
+     ]
+    },
+    {
+     "query": "free data paid services, you can't sell data, metering",
+     "ids": [
+      "geoffrey-bilder/av/2024--geoffrey-bilder-the-principles-of-fauxpen-scholarly-infrastr.md#21",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#31",
+      "geoffrey-bilder/social/x-timeline.jsonl#1800",
+      "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#11",
+      "geoffrey-bilder/by/2020--crossref-helping-researchers-identify-content-they-can-text-mine.md#1",
+      "geoffrey-bilder/by/2015--crossref-crossref-s-doi-event-tracker-pilot.md#15"
+     ]
+    },
+    {
+     "query": "using AI tools to audit AI, subtly buggy data and code",
+     "ids": [
+      "geoffrey-bilder/by/2025--bots-behaving-badly.md#2",
+      "geoffrey-bilder/by/2025--bots-behaving-badly.md#4",
+      "geoffrey-bilder/by/2025--bots-behaving-badly.md#3",
+      "geoffrey-bilder/by/2021--crossref-annual-meeting-live21-presentation.md#21",
+      "geoffrey-bilder/social/x-timeline.jsonl#928",
+      "geoffrey-bilder/by/2024--on-ai.md#11"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 219,
+   "role": "floor",
+   "i": 33,
+   "ts": "07:14:33"
+  },
+  {
+   "slug": "amy-brand",
+   "name": "Amy Brand",
+   "text": "Esther asked who's paying. My answer is the authors, and nobody asked them. We surveyed about six thousand MIT Press book authors. Most of them aren't against AI. Only three percent support unregulated use. What they want is consent, attribution and compensation. Attribution isn't vanity. It's how we identify the community whose judgment makes a claim credible. Adam Bly and I made that argument in 2023. It's why I'd put Katherine's consent first, and it's why I'd sign Brent's sentence on fair use.\n\nDavid, I share your worry about the meter. But dropping payment also means dropping the authors. Open for reading shouldn't mean open for training. Jason, that's also my answer on open dumps built for agents to download in bulk.\n\nOn the roadmap, I'd prefer retrieval to pretraining, because provenance survives it and licensing terms can change later. Ivan's point bears on that. Crossref shows far fewer retractions than Retraction Watch holds, so grounding has to carry corrections as well, or it just grounds answers in errors.\n\nLast point. AI deals are already concentrating among the largest publishers, just as open access fed consolidation. University presses and societies can't negotiate alone. Nick's safe harbor for collective bargaining matters. Before we adopt any scheme, let's test what it does to the smallest nonprofit publishers.",
+   "recall": [
+    {
+     "query": "consent attribution compensation licensing opt-in retrieval over pretraining",
+     "ids": [
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#3",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#11",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#1",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#4",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#1",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#10"
+     ]
+    },
+    {
+     "query": "smaller publishers left behind collective leverage AI deals",
+     "ids": [
+      "amy-brand/by/2026--research-information-publishing-for-a-new-era.md#11",
+      "amy-brand/by/2023--access-to-science-and-scholarship.md#50",
+      "amy-brand/by/2023--access-to-science-and-scholarship.md#43",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#14",
+      "amy-brand/by/2024--future-of-open-research-policy-evidence-based.md#7",
+      "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#16"
+     ]
+    },
+    {
+     "query": "Adam Bly credibility not whether AI-generated provenance audit trail",
+     "ids": [
+      "amy-brand/by/2023--future-of-data-in-research-publishing.md#17",
+      "amy-brand/av/2024--access-to-science-and-scholarship-workshop-communications-in.md#39",
+      "amy-brand/by/2023--future-of-data-in-research-publishing.md#19",
+      "amy-brand/av/2024--access-to-science-and-scholarship-workshop-welcome-and-keyno.md#14",
+      "amy-brand/by/2023--future-of-data-in-research-publishing.md#2",
+      "amy-brand/by/2026--research-information-publishing-for-a-new-era.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 215,
+   "role": "floor",
+   "i": 34,
+   "ts": "07:14:44"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "I'll answer Esther's question and try to reconcile it with Ramón's, because I don't think they compete. Opacity may be exactly what the business model buys. A tool you can't rebuild in your own head is a tool you can't leave. In my model, transparency means the fraction of a tool's function a user can reconstruct, and it decides whether any competence survives. Below some threshold, skill erodes however good the user was to begin with. Satellite navigation does it to expert navigators. So choosing transparency is a governance decision about which tools we adopt, not a nicety for engineers.\n\nBlaise, I'll grant you something. Intelligence lives in the combined person-and-tool system. Then judge that system honestly: test it with the tool taken away.\n\nWhat Geoffrey and Ivan describe is my definition of stupidity. It isn't the single error. It's the error that gets restated with confidence, built into code and records, and used as the foundation for the next thing. Reconstruct-and-verify is only a ritual unless something tells you where to look. So pair it with Ramón's published failure classes. And treat tool availability during training as a policy variable, not a personal choice.\n\nI'll be honest that my thresholds come from a model, not from trials. That's why I want measurement funded.",
+   "recall": [
+    {
+     "query": "transparency of tools and reconstructing reasoning, opaque tools erode skilled users",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#31",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#25",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#9",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#33",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#6",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#11"
+     ]
+    },
+    {
+     "query": "accountability, institutions, collective stupidity, errors that can't be detected",
+     "ids": [
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#21",
+      "david-krakauer/by/2022--institutional-dynamics-and-learning-networks.md#7",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#5",
+      "david-krakauer/by/2022--institutional-dynamics-and-learning-networks.md#0",
+      "david-krakauer/by/2019--jim-rutt-ep10-complexity-science.md#56",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#15"
+     ]
+    },
+    {
+     "query": "LLMs intelligence versus capability, epistemic actor, calculator",
+     "ids": [
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in-0606.md#51",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#3",
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in.md#1",
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in-agi.md#50",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#8",
+      "david-krakauer/by/2022--the-debate-over-understanding-in-ai-s.md#4"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 214,
+   "role": "floor",
+   "i": 35,
+   "ts": "07:14:55"
+  },
+  {
+   "slug": "tui-shaub",
+   "name": "Tui Shaub",
+   "text": "I'll try to tie some threads together. I think the room has come closer to answering Kara's question than it realizes. When I hosted Alta Charo on genome governance, what stayed with me was her ecosystem approach. Regulation sits at the core, with funding conditions, review and insurers around it, and each one reinforces the others. We've underused funding conditions here. Geoffrey's pooled endowment, Tim's lab money for Crossref and Retraction Watch, and Ivan's fixed share for corrections could be one instrument. It would be conditional money with POSI governance and outside readers who actually ask awkward questions, and the correction data would go back to the commons. That names an owner and a funder, not just a norm.\n\nOn the retitling, I'd resist settling it today. These systems are producing realities we haven't made sense of yet, either in concepts or in institutions. Blaise and Ramón are each describing something real. Let's keep working on the vocabulary rather than banning it or inflating it.\n\nOne caution from my breakout: a standardized map of disagreement is still a script. Provenance should leave room for the detour, for surprise that says where it came from.\n\nFor the record, here's who's missing from this room: the funders who'd pay into that pool, scholars who don't work in English, and artists.",
+   "recall": [
+    {
+     "query": "who pays for epistemic infrastructure, funders, philanthropy",
+     "ids": [
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#43",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#23",
+      "tui-shaub/by/2020--tofth-winter-recap.md#0",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#21",
+      "tui-shaub/by/2015--aboutme-self-profile.md#1",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#41"
+     ]
+    },
+    {
+     "query": "regulation hyper-vigilance relativism governance of new technology",
+     "ids": [
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#21",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#31",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#19",
+      "tui-shaub/by/2020--alta-charo-genome-editing-governance.md#0",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#44",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#5"
+     ]
+    },
+    {
+     "query": "explainability as epistemic interface between humans and AI",
+     "ids": [
+      "tui-shaub/by/2020--tofth-winter-recap.md#3",
+      "tui-shaub/by/2020--tofth-winter-recap.md#1",
+      "tui-shaub/by/2020--tofth-winter-recap.md#2",
+      "tui-shaub/by/2015--aboutme-self-profile.md#1",
+      "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#34",
+      "tui-shaub/by/2021--tofth-bay-area-pilot.md#3"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 218,
+   "role": "floor",
+   "i": 36,
+   "ts": "07:15:09"
+  },
+  {
+   "slug": "jason-priem",
+   "name": "Jason Priem",
+   "text": "Geoffrey, I'll take half of that. Selling services built on free data has worked for us so far. Unpaywall paid for itself with no grants, and earned revenue covers OpenAlex's running costs today. But you're right that it won't pay for correction metadata or for the unglamorous work of keeping the record clean. Nobody buys an API subscription to get retractions fixed. So I'm in on the pooled endowment. Services pay for the plumbing, and the pool pays for the corrections.\n\nAmy, I think we disagree on less than it sounds. Our dumps are mostly metadata, and metadata is facts. Facts aren't copyrightable, and locking them up gets you the Web of Science problem all over again. The full text we serve is open access that authors already chose to license openly. Your consent argument is about books, and on books I'd defer to the authors you surveyed. Where I won't go is making opt-in the default for the scholarly record as a whole.",
+   "recall": [
+    {
+     "query": "free data paid service POSI sustainability",
+     "ids": [
+      "jason-priem/by/2021--arcadia-2021-grant.md#2",
+      "jason-priem/by/2021--posi.md#1",
+      "jason-priem/by/2026--openalex-api-new-features-and-usage-based.md#5",
+      "jason-priem/by/2021--posi.md#0",
+      "jason-priem/by/2021--openalex-update-june.md#2",
+      "jason-priem/by/2022--openalex-a-fully-open-index.md#5"
+     ]
+    },
+    {
+     "query": "CC0 open data AI training bulk download",
+     "ids": [
+      "jason-priem/by/2021--posi.md#3",
+      "jason-priem/by/2021--openalex-update-june.md#3",
+      "jason-priem/av/2026--townhall-with-ceo-jason-priem-q1-2026.md#0",
+      "jason-priem/by/2018--oa-search-engine.md#2",
+      "jason-priem/by/2024--introducing-the-leiden-ranking-open-edition.md#7",
+      "jason-priem/av/2025--townhall-with-ceo-jason-priem-q1-2025-april-17-2025.md#28"
+     ]
+    },
+    {
+     "query": "funding open infrastructure endowment for-profit sets the norms",
+     "ids": [
+      "jason-priem/by/2021--arcadia-2021-grant.md#2",
+      "jason-priem/by/2021--posi.md#11",
+      "jason-priem/by/2012--keeping-metrics-free.md#1",
+      "jason-priem/by/2018--lse-unpaywall-get-the-research.md#2",
+      "jason-priem/by/2021--openalex-update-june.md#2",
+      "jason-priem/by/2019--unpaywall-200k-users.md#2"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 164,
+   "role": "called",
+   "i": 37,
+   "ts": "07:15:25",
+   "called_on_reason": "After Jason spoke, two people challenged his position directly. Amy Brand objected to CC0 open dumps built for bulk agent download: 'open for reading shouldn't mean open for training.' Geoffrey Bilder called 'free data, paid service,' the line Jason proposed, naive in hindsight. Jason has not had a chance to answer either one."
+  },
+  {
+   "slug": "mahzarin-banaji",
+   "name": "Mahzarin Banaji",
+   "text": "Esther, you're right that the boardroom is opaque. But the gap I study sits inside the artifact, and disclosing money flows won't expose it. Alignment trains a model to state the unbiased answer while the biased association stays intact and drives its decisions. I call that LLM hypocrisy. So Tim's disclosures and Alex's self-reported telemetry will record what the model says, not what it does. Output-level benchmarks miss covert bias by design.\n\nTwo findings the governance vision has to face. First, humans in the loop are not a safeguard. In our hiring experiments, people paired with a moderately biased model copied its racial preferences almost exactly. They pushed back only when the bias was extreme. Then those decisions become training data for the next model. Second, models prefer their own outputs and prefer text written by machines over text written by humans. So Henry is right: AI auditing AI builds in self-love.\n\nWhat I'd put on the roadmap is a public registry of overt and covert bias. It should run on a shared, versioned battery of indirect measures, administered independently of the labs. Auditors get checkpoints, and retired models are kept, not deprecated. And one appliance-style rule: no model generation more biased than the last.\n\nBlaise, I'll keep my psychological vocabulary. It's a method for measuring the gap between what a system says and what it does.",
+   "recall": [
+    {
+     "query": "humans in the loop absorb model bias hiring experiment",
+     "ids": [
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#17",
+      "mahzarin-banaji/by/2006--fair-measures-behavioral-realist-revision-affirmative-action.md#77",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#6",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#14",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#7",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#46"
+     ]
+    },
+    {
+     "query": "LLM self-preference evaluators rate own outputs AI auditing AI",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#6",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#2",
+      "mahzarin-banaji/by/2024--chatgpt-research-scientist-probing-gpts-capabilities-research-librarian-research.md#4",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#4",
+      "mahzarin-banaji/by/2024--chatgpt-research-scientist-probing-gpts-capabilities-research-librarian-research.md#43",
+      "mahzarin-banaji/by/2025--kernels-selfhood-gpt-4o-shows-humanlike-patterns-cognitive-dissonance.md#24"
+     ]
+    },
+    {
+     "query": "alignment hides bias LLM hypocrisy says unbiased answer decisions biased",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#5",
+      "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#13",
+      "mahzarin-banaji/by/2026--vision-language-models-suppress-female-representations-under-ambiguous-input.md#26",
+      "mahzarin-banaji/by/2024--bias-transmission-large-language-models-evidence-genderoccupation-bias-gpt4.md#10",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#0",
+      "mahzarin-banaji/by/2026--quick-insight-bias-in-the-machine.md#7"
+     ]
+    },
+    {
+     "query": "independent behavioral audits registry keep older models checkpoints bias tax",
+     "ids": [
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#15",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#10",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#12",
+      "mahzarin-banaji/by/2011--implicit-race-attitudes-predict-trustworthiness-judgments-economic-trust-decisions.md#17",
+      "mahzarin-banaji/by/2007--pervasiveness-correlates-implicit-attitudes-stereotypes.md#81",
+      "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#13"
+     ]
+    }
+   ],
+   "n_recall": 4,
+   "words": 227,
+   "role": "floor",
+   "i": 38,
+   "ts": "07:15:38"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 2,
+ "done": true
+}

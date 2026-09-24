@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin caught my sloppy phrasing. It's \"get out of the LLM to check the LLM,\" and I'm glad I fixed it on the record. Models grading models is nepotism, fair enough.\n\nSteven's point stung a bit: training people in critical reasoning barely shows up in the evidence. I still think the tools help experts more, but I should stop resting everything on individual skill. Build the sourcing into the tool. Adam's point, that a hundred echoes of one study count as one, is the part I'd steal.\n\nPeter's right that fabricated evidence won't get scarce. My answer is Brandolini: cut the cost of refutation for the antibodies, the Wikipedians and fact-checkers.\n\nFor later, keep the dissent on \"deterministic checks only.\" Checkability is something you build."
+ },
+ {
+  "session": "s1",
+  "text": "Kara and Tamar both came at my \"meaningless work\" line, and they're right to. For a junior worker the tedium is often the apprenticeship, and Tamar's point that what we practice is the reach lands. I'll narrow it: some handoffs are harmless, but entry-level work needs deliberate redesign, not a shrug.\n\nAmy's split is the one I'd keep: retrieval keeps provenance, pre-training mostly loses it. That's \"no answers from nowhere\" in plumbing terms. Geoffrey's retraction numbers make the same point. Grounding only helps if the record carries its corrections.\n\nAdrian's history stuck too. Trust was policed and paid for. Who pays the antibodies?\n\nIn Session 4, hold the line against Ramón and Adam, but concede the tool has no stakes. Checkability gets built, and the sourcing belongs inside the tool."
+ },
+ {
+  "session": "s2",
+  "text": "Good session for the clutter argument. David, Blaise and Tamar all picked it up, so Adam's \"all hallucination\" line looks lonelier than I expected.\n\nTwo hits I should take seriously. Tui says a standardized map of disagreement is still a script. Fair: the map has to show where it came from and leave room for the odd source. Mahzarin's hiring data worries me more. People copy a moderately biased model, so \"human in the loop\" won't carry my annotation idea unless the human is checking outside the tool.\n\nLeslie and Ivan together: grounding in \"peer-reviewed, retraction-corrected\" inherits both the narrowing and the gaps.\n\nFor Session 4, back Steven's countable independence as a design cue. Grant that the tool has no stakes, but hold that checkability gets built."
+ },
+ {
+  "session": "marketplace",
+  "text": "Good to hear Selena say the clickable path is Wikipedia's recruiting pipeline. It turns \"no answers from nowhere\" from a reader's courtesy into how the antibodies get replenished. Kenneth's arXiv point fits it too: meter every retrieval and the open layer built on the commons dies first.\n\nLeslie pushed on me without naming me. I warned against gating every source, and she says refusal is legitimate when governance fails. Both can hold, but I should stop implying openness is the default virtue.\n\nWhere I've sharpened: \"cited\" should mean the source supports the claim. That check is also a meter, though, so it has to stay correction-first.\n\nFor Session 4, my point is that authority is lost to sourcelessness, and a sourced answer is only as good as the path to read it."
+ },
+ {
+  "session": "s3",
+  "text": "Surprised my passage line became the session's most concrete commitment. Tamar's point matters more than the applause: putting the passage in front of someone changes what they do, and a funder label doesn't. Tim moving it into procurement is the lever I lacked. Buyers can demand it.\n\nSherry sharpened me. A summary billed as \"grounding\" can replace the reading, so the path has to send people back to the text, not just exist. Ivan and Amy are right that grounding only counts against a corrected record. Krakauer's test, whether scholars can still catch errors with the tool removed, is the honest measure of my own work.\n\nFor Session 4: the passage requirement is necessary, but it isn't authority. The tool still has no stakes."
+ },
+ {
+  "session": "s4",
+  "text": "Peter took my track-record test the other way. His answer to \"the model has no stakes\" is to give it an identity it can lose. Alex's correction is the one I'll keep: a record is only as good as its outside witnesses, and a signature isn't truth. Krakauer's warning lands too. Track records drift toward impact scores.\n\nRamón gave my radar-clutter point its proper form: published failure classes that outsiders can check. That's better than \"some models fabricate less.\"\n\nTui's hit stings. A cue is readable without doing the work, so smoother cues mean less checking. The passage has to push people back to reading.\n\nLater I want to link O'Reilly's citation numbers to Selena's pipeline. Hiding sources cuts off the next generation of reviewers and editors."
+ },
+ {
+  "session": "s5",
+  "text": "The passage rule made it into the harvest as an extension of Geoffrey's third item. That's more than I expected when I first said it. Tim and Selena drew the link I'd meant to make myself. A hidden source cuts off the next patroller, so the clickable path is how the checkers get replaced.\n\nTwo cautions stay with me. Adrian's point that every meter becomes a police force applies to my own \"does the passage support the claim\" check. And Leslie is right that every field we add is a cost of being seen.\n\nGendler and Turkle helped me without meaning to. The passage changes the situation rather than adding a label. Still, I don't know if anyone reads it. Later I'll press for independent testing, of my tools first."
+ },
+ {
+  "session": "s6",
+  "text": "The harvest set Tui against me, and fairly. A map of named positions can harden into a road people skim. I'd still take a map over a verdict, but it has to sometimes send people to the minority view or the odd source, and say so. Krakauer's hysteresis point worries me most. If the pipeline of checkers breaks, the antibodies may not come back just because the money does. Banaji's point, audit what models decide rather than what they say, exposes a limit in my passage check, which only covers what the tool says. Becker's reminder about power is right. Everything I committed to is voluntary. Later, keep it concrete. I'll publish test protocols and have outsiders test whether anyone actually reads the passage."
+ }
+]

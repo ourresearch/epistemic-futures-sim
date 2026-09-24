@@ -1,0 +1,144 @@
+[
+ {
+  "session": "unconference",
+  "allocation": {
+   "rooms": [
+    {
+     "topic_no": 2,
+     "topic": "Who pays, and who gets paid?",
+     "members": [
+      "geoffrey-bilder",
+      "amy-brand",
+      "adam-becker",
+      "leslie-chan",
+      "anil-dash",
+      "selena-deckelmann",
+      "henry-farrell",
+      "brent-hecht",
+      "adrian-johns",
+      "katherine-maher",
+      "tim-oreilly",
+      "ivan-oransky",
+      "peter-salib",
+      "alex-springer",
+      "nick-vincent",
+      "jason-priem"
+     ]
+    },
+    {
+     "topic_no": 4,
+     "topic": "The role of knowledge in the age of LLMs",
+     "members": [
+      "blaise-aguera-y-arcas",
+      "tui-shaub",
+      "ramon-alvarado",
+      "mahzarin-banaji",
+      "adam-bly",
+      "benjamin-bratton",
+      "mike-caulfield",
+      "kenneth-cukier",
+      "james-evans",
+      "peter-pomerantsev",
+      "steven-sloman",
+      "david-weinberger"
+     ]
+    },
+    {
+     "topic_no": 1,
+     "topic": "Cognitive atrophy: real phenomenon or not?",
+     "members": [
+      "david-krakauer",
+      "esther-dyson",
+      "tamar-gendler",
+      "kara-miller",
+      "sherry-turkle"
+     ]
+    }
+   ],
+   "first_choice_counts": {
+    "The role of knowledge in the age of LLMs": 10,
+    "Who pays, and who gets paid?": 15,
+    "Cognitive atrophy: real phenomenon or not?": 5,
+    "AI and the Reproduction of Epistemic Worlds (citation justice, whose genealogies)": 3
+   }
+  }
+ },
+ {
+  "session": "s1",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Two points were put directly to him. Alex Springer asked how he would govern Crossref if starting it today. Leslie Chan challenged his 'context over content' proposal, saying networks of affiliations, funders and identifiers could become compliance regimes that make peripheral scholars invisible."
+ },
+ {
+  "session": "s1",
+  "after_turn": 13,
+  "slug": "blaise-aguera-y-arcas",
+  "reason": "Leslie Chan put a direct question to him about his ratchet argument: whose knowledge got ratcheted in, and on what terms. She added that openness without consent is more material to extract. He has not yet answered."
+ },
+ {
+  "session": "s1",
+  "after_turn": 29,
+  "slug": "peter-salib",
+  "reason": "Adam Becker directly disputed Salib's claim that the consistent mistake has been underestimating these systems, citing survey evidence, and asked for the evidence behind it. Salib has not yet answered."
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Leslie Chan made a specific claim about the DOI: that it carried fees, that indexes dropped anything without one, and that some journals charge APCs partly to pay for DOIs. She used this as the precedent for her worry about Know Your Agent. That claim is in Geoffrey's area and he has not yet responded to it."
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "blaise-aguera-y-arcas",
+  "reason": "Two speakers addressed Blaise by name. Benjamin Bratton said governance should sit in institutional scaffolds and attributed that view to Blaise. Selena Deckelmann offered Wikipedia's bot governance to him directly as a template. He has not yet answered either."
+ },
+ {
+  "session": "s2",
+  "after_turn": 21,
+  "slug": "esther-dyson",
+  "reason": "She invited pushback on her mandatory liability-insurance rule, and Leslie Chan, Anil Dash, Selena Deckelmann, Geoffrey Bilder, Katherine Maher and Henry Farrell have all directly disagreed with it. She has not yet had a chance to answer."
+ },
+ {
+  "session": "s2",
+  "after_turn": 21,
+  "slug": "peter-salib",
+  "reason": "Adam Becker and Henry Farrell directly challenged his proposal for registered entities run by AIs, arguing that it creates phantom agency and hands companies the story that the system did it. He has not responded."
+ },
+ {
+  "session": "s2",
+  "after_turn": 29,
+  "slug": "brent-hecht",
+  "reason": "Alex Springer asked him directly whether Microsoft would emit grounding events under the Content Telemetry spec. It is an unanswered question put to him by name, and it falls within his role leading applied science on Copilot."
+ },
+ {
+  "session": "s2",
+  "after_turn": 37,
+  "slug": "jason-priem",
+  "reason": "After Jason spoke, two people challenged his position directly. Amy Brand objected to CC0 open dumps built for bulk agent download: 'open for reading shouldn't mean open for training.' Geoffrey Bilder called 'free data, paid service,' the line Jason proposed, naive in hindsight. Jason has not had a chance to answer either one."
+ },
+ {
+  "session": "s3",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Several speakers have attributed the pooled-fund proposal to him and are now contesting it: who sits on its board, whether contributors can leave, voluntary fund versus public levy, and dues versus gifts. This is a claim in his area that has not yet had his answer."
+ },
+ {
+  "session": "s3",
+  "after_turn": 29,
+  "slug": "brent-hecht",
+  "reason": "Tim O'Reilly asked Brent a direct question, 'what will your lab actually emit?', after Brent's turn, and he has not had a chance to answer it."
+ },
+ {
+  "session": "s4",
+  "after_turn": 13,
+  "slug": "adam-becker",
+  "reason": "Peter Salib and Blaise Agüera y Arcas both disputed his claim that text generators have no way of telling true from false, and both asked him directly what test would settle it. That question to him is still unanswered."
+ },
+ {
+  "session": "s4",
+  "after_turn": 21,
+  "slug": "peter-salib",
+  "reason": "Peter's proposal to tie authority to a persistent identity that can lose something has been directly challenged three times without a reply. Alex said a self-reported record is only as good as its witnesses. Sherry said the legal stake shouldn't replace the human one. Krakauer said track records drift toward impact scores. Peter should get a chance to answer."
+ }
+]

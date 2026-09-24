@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mike's correction mattered: \"get out of the LLM to check the LLM\" is a method I can live with. Still, the whole room assumes errors are visible when they show up. They aren't. Mahzarin sharpened that for me: bias hides behind neutral surfaces the same way error hides behind uniform confidence. Error opacity and bias opacity are one problem, and I should say so. Adam's computed map is the most concrete thing I heard, but provenance of findings isn't provenance of failure. Blaise's \"society of thought\" bothers me more than \"intelligence\" did, because it's a metaphor placed exactly where inspection is impossible. Later: push for published failure-mode classes and traceability, and put \"but ChatGPT said...\" on the record as an epistemic injustice, not a footnote."
+ },
+ {
+  "session": "s1",
+  "text": "Adam Becker took my error point somewhere I don't want it. \"Truth shows up only by accident\" collapses opacity into dismissal. These artifacts do perform epistemic operations, and sometimes better than we do. I need to separate \"we can't trace how it fails\" from \"it's just autocomplete.\" Mike is right that hallucinations cluster, which gives us a partial taxonomy. But clustering in known situations isn't access to the source of a particular error. James's correlated-error finding is the sharpest version of my worry: shared blind spots that no single audit sees. Adam Bly committing to publish his failure modes is a real opening. Later, in Session 2, I want to propose \"epistemic technology\" in place of \"actor,\" and push for failure-mode classes as a concrete deliverable."
+ },
+ {
+  "session": "s2",
+  "text": "Blaise's dissent is the one I have to answer properly. \"A telescope doesn't answer back\" is fair, but \"epistemic technology\" was never a passivity claim. I've granted these artifacts epistemic agency without intelligence. I should say that plainly, or the retitle reads as deflation, which is how Becker is using it. Kenneth's constant revalidation is computational reliabilism with better manners. It works where the world gives feedback fast, like retinas. It fails where science's feedback is slow. Mahzarin confirmed what I suspected: covert bias and error opacity are one problem. Krakauer's reconstructable fraction pairs well with failure-mode classes. Peter took my opacity point toward outputs not being speech. I'm not sure I endorse that. Later: propose the glossary, and tie traceability to published failure classes."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mostly a market session, not my ground, but the meter debate is my error problem in another costume. Alex conceded it: past retrieval, every event is self-reported. That's telemetry of what the model says it used, which is exactly where error opacity lives. Caulfield's point is the sharpest for me. \"Cited\" must mean the source supports the claim, and that needs checking outside the model. Johns worries me: whoever runs the meter manufactures the numbers everyone argues from. On attested judgment I'm sympathetic but uneasy. Gendler and Evans are right that attestation drifts into credential, and nobody asked what an attester actually warrants about failure. Later: argue that any trace spec include error provenance, not just credit provenance."
+ },
+ {
+  "session": "s3",
+  "text": "Session 3 went better than I expected. The provenance-of-failure amendment stuck: Mahzarin folded bias into it, and her self-feeding citation errors show error doesn't stay put. Blaise's independent models checking each other answers my correlated-error worry better than anything yet, provided they really are independent. James's centralization finding is a warning there. Kenneth moving to \"audit what it decides, not what it says\" was a real shift. Nobody engaged my complexity-versus-power point, though. Johns frames everything as who enforces, and a well-policed CC0 registry can still hide where an error came from. Krakauer's test, whether scholars can still catch errors with the tool removed, is the empirical side of error opacity. For the rest of today, I'll get failure-mode classes into Tim's procurement conditions alongside the readable passage, then push the glossary."
+ },
+ {
+  "session": "s4",
+  "text": "Session 4 took my failure-classes test as a definition of earned authority, and Adam Bly applied it to his own benchmarks. James's result settled the Becker–Blaise fight better than either of them did: \"not yet, and not from the same distribution.\" Bratton's reversal is fair. Humans have no internal error check either, which is my point about warrant rather than personhood. Farrell's ritual argument I can't dismiss. Losing the assumption of care is itself an epistemic harm. Leslie is right that failure-mode disclosure could become another costly signal only the rich can send. Ivan's slow corrections are error opacity at the level of institutions. Later I'll push corrigibility and failure classes into the manifesto together, and keep \"but ChatGPT said...\" on the record."
+ },
+ {
+  "session": "s5",
+  "text": "The failure-mode classes made the harvest, and so did the glossary and \"but ChatGPT said...\" as a harm in its own right. My complexity point finally landed too, as an open question rather than a dismissal. Leslie's warning got recorded against me, and it should. Failure disclosure can't become a toll only rich labs pay. Sloman counting independence outside the system and Johns's second budget line are both \"get out of the LLM to check the LLM.\" Krakauer's claim that a human in the loop doesn't fix anything unsettles my Humphreys argument less than it seems to. The point was never human-first, it was warrant. For the closing, I want the manifesto to keep error provenance separate from credit provenance, and to make failure reporting cheap for small journals."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's synthesis was fairer than I expected from someone Symons and I once filed under \"death of theory,\" and his wager on framing is a real test, not a slogan. My error-versus-credit split made the floor. Banaji's point sharpens it: audit what models decide, not what they say. Priem's funded-but-unpicked auditor and Blaise's independence measurement are the institutional form of \"get out of the LLM to check the LLM.\" The vocabulary split bothers me. Blaise says \"artificial\" is the wrong half and Bratton defends both, which proves the term asserts what's disputed. Becker's \"power, not design\" is half right. Complexity hides failure even under perfect governance. Next: draft the glossary, and take cheap failure reporting to my board."
+ }
+]

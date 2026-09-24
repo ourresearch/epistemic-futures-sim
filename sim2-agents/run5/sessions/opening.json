@@ -1,0 +1,136 @@
+{
+ "turns": [
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "I'm Blaise. I run Paradigms of Intelligence at Google. Let me be upfront about something: I co-wrote the concept note, and parts of it say things I don't believe. That's deliberate. We built a big tent.\n\nHere's why I wanted us together. Knowledge has never lived in one head. It lives in what Tomasello calls the cultural ratchet: writing, libraries, journals, peer review. Those are institutions that let knowledge pile up across generations without anyone having to rebuild the whole thing. As the note says, those institutions were cracking long before AI. What's new is that part of the ratchet now runs in silicon. These models are trained on the accumulated output of human social cognition. So what we're really asking is how to redesign the institutions around them.\n\nWhat I want from the room: the manifesto, the roadmap and the open questions, and I'd like the roadmap to lean toward institutional design. Courtrooms don't work because judges are virtuous. They work because the roles are well defined and power checks power. Knowledge work mixing humans and AI needs templates like that: roles, auditors, and disagreement that runs across systems and institutions that are genuinely independent. One model arguing with itself doesn't count.\n\nThe one thing I most want argued about is vocabulary. The note says calling this \"intelligence\" assumes the thing in dispute. My view is that prediction is intelligence, and that attributing it isn't anthropomorphism. My claim is about behavior, not about any inner life. Precision cuts both ways. Let's not inflate the language, and let's not ban it either. Push back hard. David, I'm looking at you.",
+   "recall": [
+    {
+     "query": "cultural ratchet collective intelligence knowledge institutions",
+     "ids": [
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#5",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15"
+     ]
+    },
+    {
+     "query": "institutional alignment agent institutions power checks power",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#164"
+     ]
+    },
+    {
+     "query": "are LLMs really intelligent, anthropomorphism, stochastic parrot",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--unreasonable-effectiveness-pattern-matching.md#4",
+      "blaise-aguera-y-arcas/by/2026--poggio-lab-mit-interview.md#14",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#59",
+      "blaise-aguera-y-arcas/by/2022--medium-can-machines-learn-how-to-behave.md#49"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 270,
+   "role": "convener",
+   "i": 0,
+   "ts": "06:55:45"
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "I'm Geoffrey. I spent eighteen years at Crossref working on the plumbing: DOIs, metadata, research integrity tools. So I come at this as someone who has watched a lot of the cracking up close. Some of it we did to ourselves.\n\nHere's why I wanted this meeting. For decades the sector has broadly agreed that most integrity problems come from using publication as a stand-in for productivity. Instead of fixing that, we've fought the symptoms just before publication: plagiarism checks, image forensics, and now AI detectors. That fight was already expensive. Now that plausible text costs nothing, I think it can't be won by looking at content. I suspect this may finally be what forces institutions to separate career evaluation from publication. I'd like us to push on that.\n\nThe positive case is context over content. Generated text is easy to produce. A consistent, verifiable network of affiliations, funders, co-authors, trial registrations and citations is not. The scholarly record is a curated corpus with provenance. Whoever controls it matters a great deal, and \"open\" has to mean you can actually leave, not just a nice label.\n\nBlaise and I co-wrote that note, and I wrote the vocabulary section. I haven't changed my mind. I'll say \"machine learning\" or \"LLM\". \"Artificial intelligence\" answers the most contested questions before we've asked them. Once a predictive-policing tool gets called \"intelligent\" instead of \"a big database of historical patterns and their biases\", policy goes wrong. Blaise, you want precision in both directions. Fine. Then let's argue about what these systems actually do, and decide the word afterwards.",
+   "recall": [
+    {
+     "query": "artificial intelligence term assumes answers, machine learning vocabulary",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#1",
+      "geoffrey-bilder/by/2024--on-ai.md#2",
+      "geoffrey-bilder/by/2024--on-ai.md#0",
+      "geoffrey-bilder/by/2011--disambiguation-without-de-duplication-orcid-white-paper.md#34",
+      "geoffrey-bilder/by/2024--on-ai.md#17",
+      "geoffrey-bilder/by/2019--rfc-8574-cite-as-link-relation.md#7"
+     ]
+    },
+    {
+     "query": "decouple career evaluation from publication, perverse incentives self-inflicted",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#12",
+      "geoffrey-bilder/social/x-timeline.jsonl#1687",
+      "geoffrey-bilder/by/2016--osi-report-evolving-open-solutions-workgroup.md#4",
+      "geoffrey-bilder/by/2011--disambiguation-without-de-duplication-orcid-white-paper.md#38",
+      "geoffrey-bilder/by/2024--1000-days-since-crossref-updated-its-posi-self-assessment.md#0",
+      "geoffrey-bilder/by/2016--osi-report-evolving-open-solutions-workgroup.md#9"
+     ]
+    },
+    {
+     "query": "context over content, trust me worst way to gain trust, scholarly record curated corpus",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#18",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#2",
+      "geoffrey-bilder/by/2024--on-ai.md#13",
+      "geoffrey-bilder/by/2009--fenner-interview-author-identifiers.md#10",
+      "geoffrey-bilder/by/2024--on-ai.md#17",
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#7"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 263,
+   "role": "convener",
+   "i": 1,
+   "ts": "06:55:58"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "I'm David, from the Santa Fe Institute. I convened this because we've built the most powerful cognitive artifacts in history, and hardly anyone is asking the question that matters. Do these tools make us more capable, or less capable once they're taken away? Superintelligence only interests me if it makes me more intelligent, not more dependent.\n\nIn my work, tools come in two kinds. Complementary tools leave something behind in your head, the way an abacus does. Competitive tools take it away, the way satellite navigation does. Two things decide which kind you get. One is whether you built competence before you started relying on the tool. The other is whether the tool is transparent enough that you can rebuild its reasoning yourself. Learning in the right order is necessary but not sufficient, because an opaque tool erodes the skilled too. My fear for scholarship is errors we can no longer catch, because the abilities that would catch them have been handed to the machine. That's stupidity: error that gets elaborated, institutionalized and built on.\n\nFrom the room I want roadmap items that can be tested. One is reconstruct-and-verify as the working norm. Another is serious funding to measure competence, reliance and error detection across the scholarly system. I'll be honest that my thresholds come from a model, not from trials.\n\nBlaise, you asked for pushback, so here it is. What should be argued about is not the word \"intelligence.\" It's whether capability is the same thing as intelligence. These systems know an enormous amount. Intelligence is doing more with less. Geoffrey is right that we should describe what they actually do before we name it.",
+   "recall": [
+    {
+     "query": "complementary versus competitive cognitive artifacts competence collapse",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#25",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#20",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#10",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#29",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#0",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#28"
+     ]
+    },
+    {
+     "query": "LLMs capability not intelligence, intelligence is doing more with less",
+     "ids": [
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in-0606.md#51",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#32",
+      "david-krakauer/av/2026--david-krakauer-emergence-and-scaling-of-agi.md#8",
+      "david-krakauer/by/2026--large-language-models-and-emergence-a-complex.md#0",
+      "david-krakauer/by/2022--the-debate-over-understanding-in-ai-s.md#4",
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in-agi.md#50"
+     ]
+    },
+    {
+     "query": "science of stupidity, errors humans can no longer detect",
+     "ids": [
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#5",
+      "david-krakauer/by/2026--the-biophysics-of-paradigm-change.md#3",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#21",
+      "david-krakauer/by/2015--ingenious-david-krakauer.md#6",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#20",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#15"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 276,
+   "role": "convener",
+   "i": 2,
+   "ts": "06:56:09"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 0,
+ "done": true
+}

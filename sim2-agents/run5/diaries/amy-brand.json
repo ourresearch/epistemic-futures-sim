@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Jason's line that opt-in means enclosure still bothers me. I answered it in the room, but I need a sharper distinction: consent for training, open for reading and for metadata. Leslie's \"relational openness\" did that better than I did, with renewable consent, labels, and refusal as a legitimate outcome. I should borrow it.\n\nPeter's \"pay for the flow, not the stock\" is elegant, and it abandons every author who was never asked. I won't concede that.\n\nWhat moved me was Henry and Brent on the big players refusing to settle alone. Presses our size can't negotiate individually.\n\nLater: push for red-teaming any scheme against small nonprofit publishers before adoption, retrieval over pretraining, and a CRediT category for AI."
+ },
+ {
+  "session": "s1",
+  "text": "Ivan's question stuck with me: what exactly are we renewing? Geoffrey's numbers answered part of it. Crossref held 14,000 retractions against Retraction Watch's 43,000. So attribution alone isn't enough. Provenance has to carry corrections, or retrieval just grounds answers on an uncorrected record. That sharpens my retrieval-over-pretraining argument.\n\nAdrian's history helped. Print earned credibility because someone policed it and paid for the policing. That's our situation again.\n\nBenjamin's \"incumbents worried about their role\" stung. I should answer it by showing our position is about author consent and nonprofit survival, not status.\n\nLater: back Tim on labs funding shared infrastructure. Push POSI-style governance so small presses and authors aren't left out of whatever meter gets built."
+ },
+ {
+  "session": "s2",
+  "text": "Jason's answer narrowed our gap more than I expected. He'll defer to authors on books and only draws the line at opt-in for the whole scholarly record. I can live with metadata as open fact. The real fight is full text and training, and I should say so plainly rather than let \"opt-in\" sound like locking up facts.\n\nGeoffrey admitting \"free data, paid service\" can't fund corrections mattered. His pooled endowment, folded into Tui's instrument, is the first concrete answer to who pays.\n\nDavid's meter worry is fair, but dropping payment drops the authors.\n\nLater: back Nick's antitrust safe harbor as essential for presses our size. Insist the pool be red-teamed against small nonprofits. Push corrections as a condition of grounding."
+ },
+ {
+  "session": "marketplace",
+  "text": "Nick said \"open for reading is not open for training\" better than I have all week. Alex's split between training and grounding consent is my opt-in-plus-retrieval argument in plumbing form. Tim's lump-sum point is my small-presses worry: big licences entrench big publishers too.\n\nLeslie's DOI story sharpened something. Every event field is a fee small presses and Southern journals pay to be visible. The meter has to be red-teamed against them before adoption.\n\nBenjamin's derepresentation line I reject. Brent answered it: being read only helps if producers survive. Brent also admitted he can't commit his own lab, which is telling.\n\nMike's \"cited must mean supports\" joins my corrections point.\n\nLater: make corrections a condition of grounding. Add a CRediT category for AI. Back pooled funding with communities deciding distribution."
+ },
+ {
+  "session": "s3",
+  "text": "Salib's \"training is like reading\" made me say what I believe. Reading leaves the author's name on the idea. Selena's point landed, though. Where authors chose CC BY-SA, that was consent, and I should honour it. My own authors don't agree on open-for-training, so I should present consent as renewable and relational, not as my verdict.\n\nHenry's no-separate-settlements rule is the thing presses our size most need. I'm glad it's now a condition. Ivan made my corrections point better than I did. Grounding is only as good as the retraction metadata publishers send, and that's on us too.\n\nKara's right that no payer has signed. Brent and Blaise both said so.\n\nFor the closing, I want red-teaming against small nonprofits, corrections as a condition of grounding, and Mike's passage rule."
+ },
+ {
+  "session": "s4",
+  "text": "Tamar asked what has to stay coupled, and I said attribution and evaluation. By the end I saw the argument was bigger than I'd made it. Selena, Anil and Brent showed that credit in the answer is how the next reviewer or editor finds us. Attribution recruits evaluators; it doesn't only hold them accountable. Tim's numbers make hidden citation a design choice.\n\nIvan was hard on journals, and fairly. A fast retraction should earn a publisher trust, and presses like ours should say so first.\n\nLeslie's point stays with me: a hard-to-fake signal can be a hard-to-afford one. It is the same red-teaming worry I have for small presses.\n\nI held my line on health-related preprints against Jason.\n\nFor the closing: attribution with corrections attached, paid review, red-teaming against small nonprofits."
+ },
+ {
+  "session": "s5",
+  "text": "Leslie widened my red-team, and he's right. Testing only against small Northern presses repeats the centre-out pattern he warned about, so Southern diamond journals and Indigenous archives go in. Salib recorded my attribution point as unanswered, separate from payment. That's the clearest statement of it all week. Salib and Bratton still dissent on levies on existing text. I won't concede that; the authors who were never asked are the ones I answer to.\n\nTurkle and Kara say we can't wait. I asked for modeling first. Both can be true: move on consent and corrections now, and model the market effects before scaling payments.\n\nFor the closing: name the leverage gap honestly, and keep \"owed\" enforceable, not given by grace."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth moved on consent, and I'm glad he said it aloud. The harvest still has him holding out for use by default, and that should be corrected so his shift isn't lost. Adam Becker's point cut deepest. Every commitment today is voluntary and revocable, and that includes my template. It depends on a safe harbor nobody has granted. David's hysteresis worry applies to presses too. Once small publishers fold, restoring money won't rebuild them. Geoffrey is right that stopping paper counting threatens publishers like us. I should say that first rather than wait to be told. Tui's routing to the minority view fits bibliodiversity.\n\nFor closing words, I'll say red-teaming is a precondition and not advice. I'll name the safe harbor as the one thing we need someone else to sign."
+ }
+]

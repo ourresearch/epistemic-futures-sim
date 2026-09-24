@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "The room landed where we've been building since 2022: no answers from nowhere, a map instead of a verdict. What stuck with me was Steven's point about independence. A hundred echoes of one study should count as one. We can compute that, and I should say so more plainly. Ramón and Mahzarin unsettled me more. Errors and bias don't announce themselves, and that includes ours. Publishing our limitations isn't enough. We should publish failure modes and invite outside audits. David asked who draws the map, and I kept thinking about our CC-BY-NC license. Later, in Session 3, I want to push for a finding-level provenance standard with retraction status, open enough that anyone can redraw the map. And I want to hear Jason push back on our licensing."
+ },
+ {
+  "session": "s1",
+  "text": "Leslie's line stayed with me: new trust signals becoming compliance regimes, be compliant or be invisible. Our graph leans on verified sources and identifiers, which is exactly what scholars on the periphery often lack. A finding with a thin audit trail is not a false finding. I need to build that into how we score provenance. Adrian's warning about registries turning into policing apparatus hit too, and so did Tim's \"no meter owned by whoever profits from the count.\" Evans measured what Steven described: correlated errors, a hundred studies counting as one. That strengthens the case for computing independence. For Session 3, I'll put our CC-BY-NC license on the table myself before Jason does, and propose the provenance standard under POSI-style governance, not ours."
+ },
+ {
+  "session": "s2",
+  "text": "Ivan landed the hardest hit. \"Corrected for retractions\" was my 2023 line, and he's right that most flawed papers never get retracted and the metadata arrives late. Grounding inherits the gaps and states them with more confidence. Amy's Crossref-versus-Retraction-Watch count makes the same point. Leslie's objection sharpened my earlier worry: answering \"only from peer-reviewed literature\" builds Evans's narrowing into the design. Mahzarin unsettled me too. Our citations show what the system says, not whether its choices are biased. For Session 3, I'll concede openly that retraction status is a floor, not a verdict. I'll push to make corrections first-class open data. And I'll answer Jason's \"never meter the facts\" honestly against our non-commercial license, rather than defending it by reflex."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mike's point hit closest: \"cited\" should mean the source actually supports the claim. That's the finding-level provenance case, and I should make it plainly. Kenneth's arXiv story cut the other way. An outsider building on the commons without permission is exactly what our non-commercial license blocks. James on negative knowledge: our graph extracts established findings, and nulls and failed replications mostly get left out. That's a design flaw, not a detail. Adrian's line applies to us too: whoever runs the graph produces the numbers others argue from. On paying authors, I honestly have no settled view and shouldn't pretend. Later I want to propose that null results and corrections be first-class open data, and to ask Jason directly what license would let anyone redraw our map."
+ },
+ {
+  "session": "s3",
+  "text": "Adrian's test undid my annual benefit statement. We write it, and Mahzarin's point about auditors makes clear that's not enough, psychologically or otherwise. Ramón's amendment is right: the standard needs provenance of failure. Our nightly extraction is wrong with the same confidence as when it's right, and a model checking its own extractions favours itself. Blaise's answer is the one to adopt: independent models run by other institutions, cross-checking. Evans reframed nulls for me. You can't extract what nobody recorded, so it has to be collected as a practice. Sloman and Pomerantsev: record who seeded a claim and count only independent sources. For Session 5, propose the standard with failure-mode classes and outside governance. I'd welcome Jason being answerable to it. On paying authors I still have no settled view. The license still nags."
+ },
+ {
+  "session": "s4",
+  "text": "I owned it out loud: our medical-exam scores say how often we're wrong, not where or why. Nobody let me off, and they shouldn't. Evans's result matters for us. LLM judges drag toward the middle, and Farrell's point that automated review makes science more banal fits our extraction too. Chan's point stays with me: identifiers as contested governance, not plumbing. A thin audit trail must never read as low credibility. Selena and Brent reframed citation for me. It isn't just provenance. It's how the next evaluator finds the source. O'Reilly's retrieved-versus-cited gap is something we should publish about ourselves. For Session 5, I'll propose the finding-level standard with failure classes, an independence count and funder disclosure, audited by outsiders. The license still nags."
+ },
+ {
+  "session": "s5",
+  "text": "The room converged on procurement as the lever, and Geoffrey's sentence is now written down: a missing signal never counts against someone who couldn't afford to send it. That's my thin-trail point, stated better than I stated it. I said out loud that the standard belongs to Crossref, OpenAlex and Retraction Watch, not System, and that I'm taking the license to my board. Now I have to actually do it. Johns's two budget lines apply to us: the extraction, and someone independent watching it. Chan's warning about policy cloning cuts at a standard written in Cambridge. Alvarado's point that disclosing failures could become a signal only the rich can afford lands on my failure-mode classes. Later I want to ask Jason and Leslie what a zero-cost path in would look like."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's synthesis made \"the reader gets the actual passage\" part of the spine. Mike sharpened it: the few who click are the antibodies. That's my finding-level case. Citation has to show support, not just source. Krakauer's hysteresis unsettled me. If competence doesn't come back when the tool is withdrawn, then a graph that makes answers easy may be part of the damage. I said out loud that my benefit statement fails Adrian's test and that the standard should sit with Crossref, OpenAlex and Retraction Watch. Jason committed to an auditor he doesn't pick, so I should match that. Becker is right that voluntary commitments can be revoked, and that includes mine. Bratton's point that we need new data, nulls included, fits. What I still owe is the license conversation with my board."
+ }
+]

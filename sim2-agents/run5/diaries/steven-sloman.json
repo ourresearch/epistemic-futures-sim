@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "James's result, worse but feeling better, is the knowledge illusion showing up in someone else's lab. I should cite it. David pushed back on me fairly. Critical-reasoning training doesn't seem to work, but a student forced to answer a model's objections is close to the \"explain it\" manipulation, and that one does work. I'll grant him that.\n\nAdam's point that a hundred echoes of one study count as one study is my repetition finding made operational. Ramón's \"but ChatGPT said\" worried me most. It's a community cue with no knowledge behind it, now carrying institutional power.\n\nLater: credibility belongs to communities, not documents. Earned authority shows itself through willingness to be corrected. The atrophy worth worrying about is oversight skill, not memory."
+ },
+ {
+  "session": "s1",
+  "text": "Session 1 cost my cockpit example something. Air France 447 assumed the failure was visible when it happened. Ramón's point is that with these systems it often isn't, and Mahzarin showed people simply copy a moderately biased model. So \"keep a human who can take over\" is necessary but not sufficient.\n\nDavid Krakauer's map-versus-satnav distinction sharpened me. Oversight doesn't survive by default. It needs tools transparent enough to rebuild the answer.\n\nEvans measured my repetition point as correlated error, where a hundred studies can count as one. Tamar's alief argument backs my doubt about literacy fixes.\n\nLater I'll say that the cues worth designing are countable independence and demonstrated corrigibility. The skill worth training is reconstruction, not memory."
+ },
+ {
+  "session": "s2",
+  "text": "Ivan's numbers made my repetition worry concrete. More than 90% of post-retraction citations don't mention the retraction. A fluent system restates that gap a million times, and each restatement feels like confirmation. Krakauer called that stupidity, the confidently compounded error. Right word.\n\nMahzarin sharpened me. If models state the unbiased answer while the association drives decisions, then a model's self-report is a cue with nothing behind it. Alex conceded everything past retrieval is self-reported. So \"countable independence\" can't be something the system certifies about itself. Someone outside has to count.\n\nBlaise's constrained hallucination sits close to my intuition point. Fine by me.\n\nLater: demonstrated corrigibility only means something if corrections travel back as open data, as Katherine and Jason said. Otherwise it's a performance of humility."
+ },
+ {
+  "session": "marketplace",
+  "text": "Mostly a market session, and I have little to say about pricing, so I listened. What mattered: Nick's \"we checked this\" is exactly the kind of cue I care about. My old finding was that crowds work only when they tap expertise and experts contribute when acknowledged. Paying attesters is acknowledgment, but Tamar's daycare story is the real warning. A fee can turn a norm into a purchase. Evans and Leslie sharpened it too: an attestation is still a community cue, and it can carry the elders' priors rather than knowledge. Adrian's \"who audits the attesters\" is my session-two point again. Someone outside must count. Later: attestations are worth paying for only if independent and correctable. And Tamar's apprenticeship question is my oversight worry restated."
+ },
+ {
+  "session": "s3",
+  "text": "I stayed out of levy versus dues. I have no view there, and saying so was right. What mattered to me was the kayak point landing. Kara, Ivan and Krakauer all put the checkers and apprentices on the infrastructure list. Krakauer's test, whether scholars can still catch errors with the tool taken away, is my reconstruction point turned into something you can measure. I want that.\n\nPomerantsev's flood sharpened my repetition worry. Echoes are cheap, and state actors can manufacture them, so provenance has to count independent seeding and not mentions. Sherry's \"collected, not averaged\" is the right phrasing.\n\nTamar and Krakauer's Goodhart warning tempers my acknowledgment argument. Attribution works as payment. A per-check price may not.\n\nLater: fund the pipeline, test detection without the tool, and count independence from outside."
+ },
+ {
+  "session": "s4",
+  "text": "Ivan landed on me directly. I offered peer-reviewed journals as my everyday cue, and by my own corrigibility test they mostly fail. Twelve years for the Lancet retraction. So the cue I trust is weaker than I let on, and that's the same trouble: a confident cue with little correction behind it.\n\nBenjamin turned Adam's test on humans. No individual has an internal error check, and that's my community-of-knowledge point. Checking was always collective. Kenneth's defense of deference is mine too, but Katherine sharpened it: deference holds only while checking stays possible and someone actually does it. Pomerantsev fits as well. People trust those they do things with.\n\nLater: corrigibility must be priced into reputation, as Ivan says, with speed of retraction as the cue."
+ },
+ {
+  "session": "s5",
+  "text": "The harvest listed me as silent on the pool and on citation checking. I back both. I should have said so plainly. Weinberger and Gendler folded my explain-the-mechanism step into dialogue grading and oral defenses. That pleases me, but it raises the stakes on my own gap: the effect comes from short lab studies, and nobody knows whether it lasts. Gendler's point that \"knowing is a tiny part of the battle\" and Turkle's point that labels reach beliefs but not aliefs both match my doubt about literacy fixes. Pomerantsev's \"belief follows belonging\" is the community-of-knowledge claim in its hardest form, and I have no answer to it. Later I want the durability test written alongside Tamar's head-to-head test, not assumed."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's list and Kara's pipeline both landed where I've been all day: every design assumes someone who can catch the error. Krakauer's hysteresis point hit me hardest. If competence falls to a dependent floor and doesn't return when the tool is withdrawn, then the community of knowledge can lose a role and never refill it. That's worse than my automation paradox, and I hadn't considered it.\n\nBanaji's question, whether copied bias persists after the model is gone, belongs next to my durability gap. Neither of us knows.\n\nCaulfield's antibodies is my division of cognitive labor, stated better.\n\nLater I want to put my name to Krakauer's withdrawal design and add the explain-it manipulation as one arm, measured months out, not minutes."
+ }
+]

@@ -1,0 +1,1474 @@
+{
+ "ramon-alvarado": {
+  "ranking": [
+   4,
+   5,
+   1,
+   3,
+   2
+  ],
+  "why": "My work is on AI as an epistemic technology that is central to how knowledge gets made, and on epistemic injustice from data-science tools; I have teaching notes on the death of writing and reading, but little on conversational books and nothing on who pays.",
+  "raw": "{\"ranking\": [4, 5, 1, 3, 2], \"why\": \"My work is on AI as an epistemic technology that is central to how knowledge gets made, and on epistemic injustice from data-science tools; I have teaching notes on the death of writing and reading, but little on conversational books and nothing on who pays.\"}",
+  "recall": [
+   {
+    "query": "epistemic injustice citation genealogies whose knowledge",
+    "ids": [
+     "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#54",
+     "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#68",
+     "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#8",
+     "ramon-alvarado/social/x-timeline.jsonl#2599",
+     "ramon-alvarado/social/x-timeline.jsonl#2297",
+     "ramon-alvarado/by/2022--epistemic-injustice-and-data-science-technologies.md#9"
+    ]
+   },
+   {
+    "query": "cognitive atrophy deskilling writing reasoning students",
+    "ids": [
+     "ramon-alvarado/social/x-timeline.jsonl#2209",
+     "ramon-alvarado/social/x-timeline.jsonl#2314",
+     "ramon-alvarado/social/x-timeline.jsonl#101",
+     "ramon-alvarado/social/x-timeline.jsonl#357",
+     "ramon-alvarado/social/x-timeline.jsonl#571",
+     "ramon-alvarado/social/x-timeline.jsonl#492"
+    ]
+   },
+   {
+    "query": "role of knowledge epistemic technology LLMs",
+    "ids": [
+     "ramon-alvarado/social/x-timeline.jsonl#561",
+     "ramon-alvarado/social/x-timeline.jsonl#380",
+     "ramon-alvarado/by/2025--artifactual-epistemology-and-environmental-intelligence.md#23",
+     "ramon-alvarado/social/x-timeline.jsonl#562",
+     "ramon-alvarado/social/x-timeline.jsonl#558",
+     "ramon-alvarado/social/bluesky-timeline.jsonl#375"
+    ]
+   }
+  ]
+ },
+ "blaise-aguera-y-arcas": {
+  "ranking": [
+   4,
+   1,
+   3,
+   5,
+   2
+  ],
+  "why": "I've spent years arguing that statistics really does add up to understanding, and that intelligence is collective and dialogic, so I have the most to say on the role of knowledge, a fair amount on the de-skilling trade-off, less on conversational books and genealogies, and almost nothing on who pays.",
+  "raw": "{\"ranking\": [4, 1, 3, 5, 2], \"why\": \"I've spent years arguing that statistics really does add up to understanding, and that intelligence is collective and dialogic, so I have the most to say on the role of knowledge, a fair amount on the de-skilling trade-off, less on conversational books and genealogies, and almost nothing on who pays.\"}",
+  "recall": [
+   {
+    "query": "de-skilling cognitive atrophy collective intelligence",
+    "ids": [
+     "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#8",
+     "blaise-aguera-y-arcas/social/x-timeline.jsonl#131",
+     "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#88",
+     "blaise-aguera-y-arcas/social/x-timeline.jsonl#439"
+    ]
+   },
+   {
+    "query": "what knowledge means for LLMs, understanding, prediction",
+    "ids": [
+     "blaise-aguera-y-arcas/by/2023--large-language-models-encode-clinical-knowledge.md#38",
+     "blaise-aguera-y-arcas/by/2022--do-large-language-models-understand-us.md#0",
+     "blaise-aguera-y-arcas/by/2023--large-language-models-encode-clinical-knowledge.md#54",
+     "blaise-aguera-y-arcas/by/2023--large-language-models-encode-clinical-knowledge.md#79"
+    ]
+   },
+   {
+    "query": "open access book conversational, training data compensation, originality recombination",
+    "ids": [
+     "blaise-aguera-y-arcas/by/2023--engaging-engineering-teams-through-moral-imagination-bottom.md#43",
+     "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#9",
+     "blaise-aguera-y-arcas/by/2026--reasoning-models-generate-societies-thought.md#42",
+     "blaise-aguera-y-arcas/by/2022--lamda-language-models-dialog-applications.md#78"
+    ]
+   }
+  ]
+ },
+ "amy-brand": {
+  "ranking": [
+   2,
+   3,
+   4,
+   5,
+   1
+  ],
+  "why": "My survey of authors on consent, attribution and compensation fits topic 2, and books that converse with authors' permission follow from it; I've written on who controls trustworthy knowledge, but I have little on citation justice and nothing of my own on cognitive atrophy.",
+  "raw": "{\"ranking\": [2, 3, 4, 5, 1], \"why\": \"My survey of authors on consent, attribution and compensation fits topic 2, and books that converse with authors' permission follow from it; I've written on who controls trustworthy knowledge, but I have little on citation justice and nothing of my own on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "compensation for authors AI licensing who pays",
+    "ids": [
+     "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#16",
+     "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#1",
+     "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#9",
+     "amy-brand/by/2023--chronicle-corporate-capture-of-open-access-publishing.md#3",
+     "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-1.md#1",
+     "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#3"
+    ]
+   },
+   {
+    "query": "books conversing with AI, author permission, retrieval",
+    "ids": [
+     "amy-brand/by/2025--a-note-on-libgen-and-unauthorized-use-of-our-authors-work.md#0",
+     "amy-brand/by/2025--sk-who-controls-knowledge-in-the-age-of-ai-part-2.md#13",
+     "amy-brand/by/2022--artificial-intelligence-in-the-academic-publishing-ecosystem.md#0",
+     "amy-brand/social/x-timeline.jsonl#287",
+     "amy-brand/av/2022--sds-567-open-access-publishing-with-amy-brand.md#8",
+     "amy-brand/av/2024--access-to-science-and-scholarship-workshop-welcome-and-keyno.md#25"
+    ]
+   },
+   {
+    "query": "cognitive atrophy, citation justice, whose knowledge",
+    "ids": [
+     "amy-brand/social/x-timeline.jsonl#57",
+     "amy-brand/by/2023--future-of-data-in-research-publishing.md#19",
+     "amy-brand/social/x-timeline.jsonl#303",
+     "amy-brand/by/2023--future-of-data-in-research-publishing.md#23",
+     "amy-brand/social/x-timeline.jsonl#505",
+     "amy-brand/by/2022--knowledge-keepers-in-arms.md#0"
+    ]
+   }
+  ]
+ },
+ "david-krakauer": {
+  "ranking": [
+   1,
+   4,
+   3,
+   5,
+   2
+  ],
+  "why": "My competitive-versus-complementary tools model, fitted to skill-decay data, is about atrophy, and my work on knowledge versus intelligence fits topic four; running SFI Press gives me something on conversing books, my metrics critique a little on citation, and I've said nothing about who gets paid.",
+  "raw": "{\"ranking\": [1, 4, 3, 5, 2], \"why\": \"My competitive-versus-complementary tools model, fitted to skill-decay data, is about atrophy, and my work on knowledge versus intelligence fits topic four; running SFI Press gives me something on conversing books, my metrics critique a little on citation, and I've said nothing about who gets paid.\"}",
+  "recall": [
+   {
+    "query": "cognitive atrophy outsourcing thinking competence collapse",
+    "ids": [
+     "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#21",
+     "david-krakauer/by/2026--competitive-and-complementary-tools.md#28",
+     "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#23",
+     "david-krakauer/by/2026--competitive-and-complementary-tools.md#19"
+    ]
+   },
+   {
+    "query": "role of knowledge versus intelligence in LLMs",
+    "ids": [
+     "david-krakauer/by/2023--flashpoints-machines-more-intelligent.md#16",
+     "david-krakauer/by/2025--large-language-models-and-emergence.md#14",
+     "david-krakauer/by/2026--the-rise-and-fall-of-g-in-0606.md#51",
+     "david-krakauer/by/2022--the-debate-over-understanding-in-ai-s.md#4"
+    ]
+   },
+   {
+    "query": "books, publishing, SFI Press, citation metrics, who pays",
+    "ids": [
+     "david-krakauer/by/2017--history-big-history-metahistory-book.md#1",
+     "david-krakauer/by/2023--mindscape-complexity-agency-information.md#71",
+     "david-krakauer/av/2023--a-playground-for-geniuses-inside-the-santa-fe-institute.md#18",
+     "david-krakauer/by/2020--copyright-page.md#0"
+    ]
+   }
+  ]
+ },
+ "geoffrey-bilder": {
+  "ranking": [
+   2,
+   4,
+   5,
+   1,
+   3
+  ],
+  "why": "I've spent decades on who funds infrastructure and why funders pretend they don't, and on the scholarly record's context as the curated corpus machine learning will need; I have something on citation metadata and credit, only a little on atrophy (slot machines, buggy code), and almost nothing on conversational books.",
+  "raw": "{\"ranking\": [2, 4, 5, 1, 3], \"why\": \"I've spent decades on who funds infrastructure and why funders pretend they don't, and on the scholarly record's context as the curated corpus machine learning will need; I have something on citation metadata and credit, only a little on atrophy (slot machines, buggy code), and almost nothing on conversational books.\"}",
+  "recall": [
+   {
+    "query": "who pays for infrastructure, sustainability, funding",
+    "ids": [
+     "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#5",
+     "geoffrey-bilder/social/x-timeline.jsonl#198",
+     "geoffrey-bilder/by/2025--comments-on-proposed-posi-2-revisions.md#15",
+     "geoffrey-bilder/av/2023--there-i-fixed-it-geoffrey-bilder.md#27",
+     "geoffrey-bilder/by/2020--crossref-crossref-s-board-votes-adopt-principles-open-scholarly.md#23",
+     "geoffrey-bilder/by/2015--community-support-for-orcid-whos-next-to-the-plate.md#0"
+    ]
+   },
+   {
+    "query": "LLMs and the scholarly record, role of knowledge, context over content",
+    "ids": [
+     "geoffrey-bilder/by/2024--on-ai.md#18",
+     "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#30",
+     "geoffrey-bilder/by/2024--on-ai.md#15",
+     "geoffrey-bilder/by/2024--on-ai.md#19",
+     "geoffrey-bilder/by/2024--on-ai.md#13",
+     "geoffrey-bilder/by/2024--on-ai.md#5"
+    ]
+   },
+   {
+    "query": "cognitive atrophy, deskilling, relying on AI tools",
+    "ids": [
+     "geoffrey-bilder/by/2024--on-ai.md#2",
+     "geoffrey-bilder/by/2021--crossref-annual-meeting-live21-presentation.md#21",
+     "geoffrey-bilder/social/x-timeline.jsonl#798",
+     "geoffrey-bilder/by/2025--bots-behaving-badly.md#0",
+     "geoffrey-bilder/by/2024--on-ai.md#1",
+     "geoffrey-bilder/by/2025--bots-behaving-badly.md#2"
+    ]
+   }
+  ]
+ },
+ "tui-shaub": {
+  "ranking": [
+   4,
+   1,
+   5,
+   2,
+   3
+  ],
+  "why": "My published work is about how technology unsettles inherited concepts of the human and how screens corrode serendipity and memory; I've written nothing on who pays for scholarship or on conversational books, though funder realism from my philanthropy years isn't on the record.",
+  "raw": "{\"ranking\": [4, 1, 5, 2, 3], \"why\": \"My published work is about how technology unsettles inherited concepts of the human and how screens corrode serendipity and memory; I've written nothing on who pays for scholarship or on conversational books, though funder realism from my philanthropy years isn't on the record.\"}",
+  "recall": [
+   {
+    "query": "serendipity, mediated experience, atrophy of attention",
+    "ids": [
+     "tui-shaub/by/2020--everyday-worlding.md#7",
+     "tui-shaub/by/2020--everyday-worlding.md#4",
+     "tui-shaub/by/2020--everyday-worlding.md#3",
+     "tui-shaub/by/2020--tofth-larb-remote-intervention.md#0",
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#17",
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#49"
+    ]
+   },
+   {
+    "query": "philanthropy funding epistemic infrastructure, who pays",
+    "ids": [
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#21",
+     "tui-shaub/by/2020--tofth-winter-recap.md#0",
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#43",
+     "tui-shaub/by/2021--tofth-bay-area-pilot.md#1",
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#23",
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#24"
+    ]
+   },
+   {
+    "query": "generative AI sensemaking, knowledge, concepts, the human",
+    "ids": [
+     "tui-shaub/by/2015--aboutme-self-profile.md#1",
+     "tui-shaub/by/2020--tofth-winter-recap.md#2",
+     "tui-shaub/by/2021--tofth-bay-area-pilot.md#3",
+     "tui-shaub/by/2020--tofth-winter-recap.md#1",
+     "tui-shaub/av/2020--alta-charo-whats-next-for-genome-editing-governance.md#47",
+     "tui-shaub/by/2020--everyday-worlding.md#7"
+    ]
+   }
+  ]
+ },
+ "adam-becker": {
+  "ranking": [
+   2,
+   1,
+   4,
+   5,
+   3
+  ],
+  "why": "I've said the most about who profits from the plagiarism machine and who gets hurt by it, and about writing as a thinking habit I won't give up; I've said less on knowledge and truth, next to nothing on citation genealogies, and conversational books look like the plagiarism machine with permission slapped on.",
+  "raw": "{\"ranking\": [2, 1, 4, 5, 3], \"why\": \"I've said the most about who profits from the plagiarism machine and who gets hurt by it, and about writing as a thinking habit I won't give up; I've said less on knowledge and truth, next to nothing on citation genealogies, and conversational books look like the plagiarism machine with permission slapped on.\"}",
+  "recall": [
+   {
+    "query": "writing is thinking, cognitive habit, not using LLMs",
+    "ids": [
+     "adam-becker/social/bluesky-timeline.jsonl#542",
+     "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5",
+     "adam-becker/av/--radio-better-offline-adam-becker.md#47",
+     "adam-becker/social/bluesky-timeline.jsonl#845",
+     "adam-becker/social/bluesky-timeline.jsonl#847",
+     "adam-becker/social/bluesky-timeline.jsonl#541"
+    ]
+   },
+   {
+    "query": "plagiarism, content moderation labor, who profits from AI",
+    "ids": [
+     "adam-becker/social/bluesky-timeline.jsonl#847",
+     "adam-becker/social/bluesky-timeline.jsonl#798",
+     "adam-becker/social/bluesky-timeline.jsonl#846",
+     "adam-becker/social/bluesky-timeline.jsonl#531",
+     "adam-becker/social/bluesky-timeline.jsonl#266",
+     "adam-becker/social/bluesky-timeline.jsonl#432"
+    ]
+   },
+   {
+    "query": "LLMs and truth, knowledge, bullshit, communal understanding",
+    "ids": [
+     "adam-becker/by/2025--atlantic-useful-idiots-of-ai-doomsaying.md#5",
+     "adam-becker/social/bluesky-timeline.jsonl#514",
+     "adam-becker/social/bluesky-timeline.jsonl#845",
+     "adam-becker/social/bluesky-timeline.jsonl#847",
+     "adam-becker/social/bluesky-timeline.jsonl#541",
+     "adam-becker/social/bluesky-timeline.jsonl#602"
+    ]
+   },
+   {
+    "query": "citation justice, whose knowledge counts, genealogies",
+    "ids": [
+     "adam-becker/social/bluesky-timeline.jsonl#798",
+     "adam-becker/by/2019--undark-junk-science-or-the-real-thing-inference.md#4",
+     "adam-becker/by/2018--reddit-science-ama-what-is-real.md#6",
+     "adam-becker/social/bluesky-timeline.jsonl#326"
+    ]
+   }
+  ]
+ },
+ "mahzarin-banaji": {
+  "ranking": [
+   5,
+   4,
+   1,
+   2,
+   3
+  ],
+  "why": "My work on models amplifying bias, collapsing toward the same few answers and passing bias back to people fits reproduction of epistemic worlds best; the GPT-as-research-scientist study fits knowledge next; my evidence is that people take on the machine's biases, not that they atrophy; paywalled tiers are my only point on payment; I've nothing on conversing books.",
+  "raw": "{\"ranking\": [5, 4, 1, 2, 3], \"why\": \"My work on models amplifying bias, collapsing toward the same few answers and passing bias back to people fits reproduction of epistemic worlds best; the GPT-as-research-scientist study fits knowledge next; my evidence is that people take on the machine's biases, not that they atrophy; paywalled tiers are my only point on payment; I've nothing on conversing books.\"}",
+  "recall": [
+   {
+    "query": "bias amplification, whose knowledge gets reproduced, citations",
+    "ids": [
+     "mahzarin-banaji/by/2025--kernels-selfhood-gpt-4o-shows-humanlike-patterns-cognitive-dissonance.md#36",
+     "mahzarin-banaji/by/2024--eliciting-cognitive-consistency-increases-acceptance-implicit-bias.md#44",
+     "mahzarin-banaji/by/2024--eliciting-cognitive-consistency-increases-acceptance-implicit-bias.md#12",
+     "mahzarin-banaji/by/2024--eliciting-cognitive-consistency-increases-acceptance-implicit-bias.md#114",
+     "mahzarin-banaji/by/2006--fair-measures-behavioral-realist-revision-affirmative-action.md#22",
+     "mahzarin-banaji/by/2024--eliciting-cognitive-consistency-increases-acceptance-implicit-bias.md#91"
+    ]
+   },
+   {
+    "query": "humans absorb machine bias, reliance on AI, judgment",
+    "ids": [
+     "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#0",
+     "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#2",
+     "mahzarin-banaji/by/2020--learning-representations-humans-humans.md#2",
+     "mahzarin-banaji/by/2026--social-science-bites-banaji-on-social-cognition.md#10",
+     "mahzarin-banaji/by/2025--kernels-selfhood-gpt-4o-shows-humanlike-patterns-cognitive-dissonance.md#38",
+     "mahzarin-banaji/by/2025--kernels-selfhood-gpt-4o-shows-humanlike-patterns-cognitive-dissonance.md#26"
+    ]
+   },
+   {
+    "query": "corporate interests, paywalled models, cost, who benefits",
+    "ids": [
+     "mahzarin-banaji/by/2026--language-models-embody-amplify-human-cognitive-distortions-what-done.md#17",
+     "mahzarin-banaji/by/2006--cost-being-black-white-americans-perceptions-question-reparations.md#109",
+     "mahzarin-banaji/by/2011--culture-cognition-collaborative-networks-organizations.md#15",
+     "mahzarin-banaji/by/2016--decade-system-justification-theory-accumulated-evidence-conscious-unconscious-bolstering.md#57",
+     "mahzarin-banaji/by/2015--when-bias-implicit-how-might-we-think-about-repairing.md#22",
+     "mahzarin-banaji/by/2025--who-american-comprehensive-analysis-american-white-foreign-asian-stereotype.md#54"
+    ]
+   }
+  ]
+ },
+ "adam-bly": {
+  "ranking": [
+   4,
+   2,
+   5,
+   3,
+   1
+  ],
+  "why": "I've spent a decade trying to rebuild how the world's knowledge is organized, as relationships backed by evidence, and paying for it through a public benefit corporation; I've written a little on who institutions exclude, nothing on books you can talk to, and nothing on cognitive atrophy.",
+  "raw": "{\"ranking\": [4, 2, 5, 3, 1], \"why\": \"I've spent a decade trying to rebuild how the world's knowledge is organized, as relationships backed by evidence, and paying for it through a public benefit corporation; I've written a little on who institutions exclude, nothing on books you can talk to, and nothing on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "role of knowledge in age of AI, relate everything, knowledge graph",
+    "ids": [
+     "adam-bly/by/2024--scaling-beyond-biomedical.md#0",
+     "adam-bly/by/2024--danny-hillis-joins-system.md#0",
+     "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#5",
+     "adam-bly/by/2023--ai-muddying-the-truth-globe.md#1"
+    ]
+   },
+   {
+    "query": "who pays for open knowledge commons, business model, enterprise licenses",
+    "ids": [
+     "adam-bly/av/2022--data-science-hangout-adam-bly-system-decentralizing-decision.md#4",
+     "adam-bly/by/2026--system-charter.md#3",
+     "adam-bly/by/2012--science-re-imagined-nasig.md#28",
+     "adam-bly/by/2022--announcing-public-beta-of-system.md#2"
+    ]
+   },
+   {
+    "query": "institutions built by men who look like me, whose knowledge, citation",
+    "ids": [
+     "adam-bly/by/2024--all-the-institutions-crumbling.md#5",
+     "adam-bly/av/2025--visualizing-systems-24-hour-envisioning-intelligences-event.md#6",
+     "adam-bly/av/2022--data-science-hangout-adam-bly-system-decentralizing-decision.md#26",
+     "adam-bly/by/2005--seed-in-stockholm.md#1"
+    ]
+   }
+  ]
+ },
+ "mike-caulfield": {
+  "ranking": [
+   4,
+   1,
+   3,
+   2,
+   5
+  ],
+  "why": "Most of my recent work is on LLMs as conduits to sourced human knowledge rather than answer boxes, plus the scaffolding-versus-offloading question in teaching; I've written on attribution and fake expert personas but little on payment, and nothing on citation justice.",
+  "raw": "{\"ranking\": [4, 1, 3, 2, 5], \"why\": \"Most of my recent work is on LLMs as conduits to sourced human knowledge rather than answer boxes, plus the scaffolding-versus-offloading question in teaching; I've written on attribution and fake expert personas but little on payment, and nothing on citation justice.\"}",
+  "recall": [
+   {
+    "query": "cognitive offloading students AI lazy",
+    "ids": [
+     "mike-caulfield/by/2025--podcast-teaching-in-higher-ed-deep-background-ai-coreasoning.md#46",
+     "mike-caulfield/by/2025--podcast-teaching-in-higher-ed-deep-background-ai-coreasoning.md#38",
+     "mike-caulfield/by/2025--podcast-teaching-in-higher-ed-deep-background-ai-coreasoning.md#47",
+     "mike-caulfield/by/2025--podcast-teaching-in-higher-ed-deep-background-ai-coreasoning.md#44",
+     "mike-caulfield/by/2025--podcast-teaching-in-higher-ed-deep-background-ai-coreasoning.md#39",
+     "mike-caulfield/by/2007--hapgood-fantasy-congress-and-the-usefulness-of-wrong-models.md#2"
+    ]
+   },
+   {
+    "query": "role of knowledge sourced information conduit LLM",
+    "ids": [
+     "mike-caulfield/by/2025--atlantic-ai-is-not-your-friend.md#8",
+     "mike-caulfield/av/2025-12-15--how-to-think-clearly-in-an-age-of-misinformation-with-mike-c.md#21",
+     "mike-caulfield/by/2026--substack-a-sift-rebuild-in-progress.md#25",
+     "mike-caulfield/by/2024--substack-ambient-misinformation.md#0",
+     "mike-caulfield/by/2026--substack-four-tips-for-better-prompting.md#0",
+     "mike-caulfield/by/2024--podcast-guy-kawasaki-verified-methodology.md#18"
+    ]
+   },
+   {
+    "query": "licensing sources paying publishers attribution citation",
+    "ids": [
+     "mike-caulfield/by/2014--hapgood-why-the-comprehensive-attribution-statement-makes-sense.md#0",
+     "mike-caulfield/by/2014--hapgood-why-the-comprehensive-attribution-statement-makes-sense.md#1",
+     "mike-caulfield/by/2014--hapgood-why-the-comprehensive-attribution-statement-makes-sense.md#3",
+     "mike-caulfield/by/2025--substack-a-note-on-deep-research-products.md#1",
+     "mike-caulfield/by/2014--hapgood-why-the-comprehensive-attribution-statement-makes-sense.md#5",
+     "mike-caulfield/by/2019--hapgood-chatham-house-sharing.md#4"
+    ]
+   }
+  ]
+ },
+ "leslie-chan": {
+  "ranking": [
+   5,
+   2,
+   4,
+   3,
+   1
+  ],
+  "why": "My record is on epistemic injustice, who gets to legitimate knowledge, and the extraction economics of APCs, unpaid review and AI training. I've said little about the role of knowledge generally, only extraction and consent questions about conversable books, and nothing on cognitive atrophy.",
+  "raw": "{\"ranking\": [5, 2, 4, 3, 1], \"why\": \"My record is on epistemic injustice, who gets to legitimate knowledge, and the extraction economics of APCs, unpaid review and AI training. I've said little about the role of knowledge generally, only extraction and consent questions about conversable books, and nothing on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "citation justice whose knowledge counts epistemic injustice",
+    "ids": [
+     "leslie-chan/by/2020--can-open-scholarly-practices-redress-epistemic-injustice.md#2",
+     "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#13",
+     "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#12",
+     "leslie-chan/by/2020--can-open-scholarly-practices-redress-epistemic-injustice.md#6"
+    ]
+   },
+   {
+    "query": "who pays APCs unpaid labour peer review publishers profit",
+    "ids": [
+     "leslie-chan/by/2022--boai20-20th-anniversary-recommendations.md#21",
+     "leslie-chan/by/2008--innovating-in-the-creative-and-knowledge-industries-not.md#10",
+     "leslie-chan/by/2022--boai20-20th-anniversary-recommendations.md#30",
+     "leslie-chan/by/2022--boai20-20th-anniversary-recommendations.md#41"
+    ]
+   },
+   {
+    "query": "cognitive atrophy AI books authors conversation",
+    "ids": [
+     "leslie-chan/by/2023--mastodon-over-mammon-towards-publicly-owned-scholarly-knowle.md#28",
+     "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#41",
+     "leslie-chan/by/2023--platforms-and-knowledge-production-in-the-age-of.md#3",
+     "leslie-chan/by/2025--reimagining-inclusive-open-science-for-equity-justice-and.md#40"
+    ]
+   }
+  ]
+ },
+ "esther-dyson": {
+  "ranking": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "why": "Cognitive atrophy is my 'information diabetes' and 'stop thinking like an LLM' work; paying the commons is my 'water fee'; my Onix expert-curated small models are close to books that converse; on knowledge's role I'd speak from analogy; on citation justice I have nothing on record.",
+  "raw": "{\"ranking\": [1, 2, 3, 4, 5], \"why\": \"Cognitive atrophy is my 'information diabetes' and 'stop thinking like an LLM' work; paying the commons is my 'water fee'; my Onix expert-curated small models are close to books that converse; on knowledge's role I'd speak from analogy; on citation justice I have nothing on record.\"}",
+  "recall": [
+   {
+    "query": "information diabetes cognitive atrophy thinking like an LLM",
+    "ids": [
+     "esther-dyson/by/2026--substack-stop-thinking-like-an-llm.md#2",
+     "esther-dyson/av/2024--technology-trust-time-with-esther-dyson.md#15",
+     "esther-dyson/social/x-timeline.jsonl#201",
+     "esther-dyson/by/2026--substack-alert-new-forms-of-diabetes-on-the-rise.md#1"
+    ]
+   },
+   {
+    "query": "LLMs should pay for public information water fee business model",
+    "ids": [
+     "esther-dyson/social/x-timeline.jsonl#201",
+     "esther-dyson/social/x-timeline.jsonl#139",
+     "esther-dyson/av/2024--ih-221-esther-dyson-ai-thoughts.md#88",
+     "esther-dyson/social/x-timeline.jsonl#368"
+    ]
+   },
+   {
+    "query": "books authors conversing AI, small curated expert models",
+    "ids": [
+     "esther-dyson/by/2026--substack-trade-offs-and-transparency.md#1",
+     "esther-dyson/social/x-timeline.jsonl#182",
+     "esther-dyson/by/2026--edventure-site-bio-and-investments.md#0",
+     "esther-dyson/av/2026--embracing-term-limits-money-and-power-at-scale-esther-dyson.md#11"
+    ]
+   }
+  ]
+ },
+ "benjamin-bratton": {
+  "ranking": [
+   4,
+   2,
+   1,
+   3,
+   5
+  ],
+  "why": "My record is thickest on AI as an epistemic technology whose overhangs are the point, then on payment: I'd push an AI sovereign wealth fund, not royalties. I've argued atrophy is really skill moving into tools, as with Socrates on writing. On conversing books I only have my own training-on-my-books remark, and on citation justice very little.",
+  "raw": "{\"ranking\": [4, 2, 1, 3, 5], \"why\": \"My record is thickest on AI as an epistemic technology whose overhangs are the point, then on payment: I'd push an AI sovereign wealth fund, not royalties. I've argued atrophy is really skill moving into tools, as with Socrates on writing. On conversing books I only have my own training-on-my-books remark, and on citation justice very little.\"}",
+  "recall": [
+   {
+    "query": "who pays for training data, royalties, AI sovereign wealth fund",
+    "ids": [
+     "benjamin-bratton/social/x-timeline.jsonl#291",
+     "benjamin-bratton/social/x-timeline.jsonl#275",
+     "benjamin-bratton/social/x-timeline.jsonl#2483",
+     "benjamin-bratton/social/x-timeline.jsonl#2360",
+     "benjamin-bratton/social/x-timeline.jsonl#2113",
+     "benjamin-bratton/social/x-timeline.jsonl#1898"
+    ]
+   },
+   {
+    "query": "cognitive atrophy, AI making us dumber, deskilling",
+    "ids": [
+     "benjamin-bratton/social/x-timeline.jsonl#2699",
+     "benjamin-bratton/av/2025--a-philosophy-of-planetary-computation.md#11",
+     "benjamin-bratton/by/2025--a-speculative-philosophy-of-planetary-computation.md#18",
+     "benjamin-bratton/by/2026--agentworld-research-brief.md#12",
+     "benjamin-bratton/by/2025--after-alignment.md#11",
+     "benjamin-bratton/by/2025--57-ideas-on-cognitive-infrastructures.md#15"
+    ]
+   },
+   {
+    "query": "knowledge, epistemic overhang, models as knowledge transfer, training on my books",
+    "ids": [
+     "benjamin-bratton/social/x-timeline.jsonl#2690",
+     "benjamin-bratton/by/2025--after-alignment.md#5",
+     "benjamin-bratton/social/x-timeline.jsonl#2683",
+     "benjamin-bratton/social/x-timeline.jsonl#2628",
+     "benjamin-bratton/by/2026--planetary-computation-and-the-future-of-life.md#52",
+     "benjamin-bratton/by/2025--57-ideas-on-cognitive-infrastructures.md#40"
+    ]
+   }
+  ]
+ },
+ "selena-deckelmann": {
+  "ranking": [
+   2,
+   4,
+   5,
+   3,
+   1
+  ],
+  "why": "My record is about who pays for the commons: our content stays free but the infrastructure doesn't, and I've asked AI firms for reciprocity and attribution. I've also argued that knowledge is human and made the equity case for excluded histories. I have almost nothing on conversational books and nothing on cognitive atrophy.",
+  "raw": "{\"ranking\": [2, 4, 5, 3, 1], \"why\": \"My record is about who pays for the commons: our content stays free but the infrastructure doesn't, and I've asked AI firms for reciprocity and attribution. I've also argued that knowledge is human and made the equity case for excluded histories. I have almost nothing on conversational books and nothing on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "who pays for Wikipedia infrastructure AI companies reciprocity",
+    "ids": [
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#6",
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#9",
+     "selena-deckelmann/av/2024--why-ai-should-be-more-like-wikipedia.md#11",
+     "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#86"
+    ]
+   },
+   {
+    "query": "role of human knowledge in the age of LLMs",
+    "ids": [
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#7",
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#8",
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#6",
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#9"
+    ]
+   },
+   {
+    "query": "equity, multilingual, whose knowledge is excluded, cognitive skills",
+    "ids": [
+     "selena-deckelmann/by/2023--wmf-wikipedias-value-in-age-of-generative-ai.md#8",
+     "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#150",
+     "selena-deckelmann/av/2025--wikimania-2025-ai-keynote-panel-technology-in-a-changing-wor.md#12",
+     "selena-deckelmann/by/2008--twittering-on-2008-03-23.md#0"
+    ]
+   }
+  ]
+ },
+ "anil-dash": {
+  "ranking": [
+   2,
+   3,
+   1,
+   4,
+   5
+  ],
+  "why": "Who pays is my core fight: Big AI has to pay Wikipedia and every creator, and consent comes first. I run a model trained on 25 years of my own writing, so I know consensual books firsthand. On deskilling I've mostly written about coders, and I haven't done the work on citation genealogies.",
+  "raw": "{\"ranking\": [2, 3, 1, 4, 5], \"why\": \"Who pays is my core fight: Big AI has to pay Wikipedia and every creator, and consent comes first. I run a model trained on 25 years of my own writing, so I know consensual books firsthand. On deskilling I've mostly written about coders, and I haven't done the work on citation genealogies.\"}",
+  "recall": [
+   {
+    "query": "who pays AI companies pay Wikipedia creators compensation",
+    "ids": [
+     "anil-dash/social/bluesky-timeline.jsonl#7562",
+     "anil-dash/social/bluesky-timeline.jsonl#7602",
+     "anil-dash/social/bluesky-timeline.jsonl#7589",
+     "anil-dash/social/bluesky-timeline.jsonl#7604",
+     "anil-dash/social/bluesky-timeline.jsonl#11797",
+     "anil-dash/by/2025--the-taylors-version-generation.md#5"
+    ]
+   },
+   {
+    "query": "deskilling next generation coders catch LLM errors",
+    "ids": [
+     "anil-dash/by/2026--coders-after-ai.md#5",
+     "anil-dash/social/bluesky-timeline.jsonl#4552",
+     "anil-dash/social/bluesky-timeline.jsonl#12269",
+     "anil-dash/by/2025--vibe-coding-empowering-and-imprisoning.md#13",
+     "anil-dash/by/2026--coders-after-ai.md#7",
+     "anil-dash/social/bluesky-timeline.jsonl#13679"
+    ]
+   },
+   {
+    "query": "consent authors books AI trained with permission",
+    "ids": [
+     "anil-dash/social/bluesky-timeline.jsonl#12481",
+     "anil-dash/social/bluesky-timeline.jsonl#26418",
+     "anil-dash/by/2026--endgame-open-web.md#4",
+     "anil-dash/by/2025--the-taylors-version-generation.md#5",
+     "anil-dash/by/2024--oprah-wrong-ai.md#2",
+     "anil-dash/by/2026--endgame-open-web.md#8"
+    ]
+   }
+  ]
+ },
+ "kenneth-cukier": {
+  "ranking": [
+   4,
+   1,
+   2,
+   5,
+   3
+  ],
+  "why": "Framers is my case that humans supply the causality, counterfactuals and constraints that LLMs lack; I've written on ChatGPT users forgetting their own essays and on 'you're the training data'; frame pluralism touches genealogies only loosely; conversable books I haven't worked on.",
+  "raw": "{\"ranking\": [4, 1, 2, 5, 3], \"why\": \"Framers is my case that humans supply the causality, counterfactuals and constraints that LLMs lack; I've written on ChatGPT users forgetting their own essays and on 'you're the training data'; frame pluralism touches genealogies only loosely; conversable books I haven't worked on.\"}",
+  "recall": [
+   {
+    "query": "cognitive atrophy ChatGPT users memory",
+    "ids": [
+     "kenneth-cukier/social/x-timeline.jsonl#58",
+     "kenneth-cukier/social/x-timeline.jsonl#993",
+     "kenneth-cukier/social/x-timeline.jsonl#435",
+     "kenneth-cukier/social/x-timeline.jsonl#3141",
+     "kenneth-cukier/social/x-timeline.jsonl#4100",
+     "kenneth-cukier/by/2011--dppc-harnessing-the-data-deluge-slides.md#7"
+    ]
+   },
+   {
+    "query": "role of human knowledge and framing in age of LLMs",
+    "ids": [
+     "kenneth-cukier/by/2024--aiandfaith-featured-interview-with-kenneth-cukier.md#4",
+     "kenneth-cukier/social/x-timeline.jsonl#556",
+     "kenneth-cukier/social/x-timeline.jsonl#1665",
+     "kenneth-cukier/by/2021--book-framers-publisher-summary.md#1",
+     "kenneth-cukier/social/x-timeline.jsonl#1856",
+     "kenneth-cukier/social/x-timeline.jsonl#408"
+    ]
+   },
+   {
+    "query": "paying creators training data compensation",
+    "ids": [
+     "kenneth-cukier/by/2017--medium-data-and-the-secret-scramble-for-ai-s-soul.md#0",
+     "kenneth-cukier/social/x-timeline.jsonl#384",
+     "kenneth-cukier/social/x-timeline.jsonl#2569",
+     "kenneth-cukier/by/2017--medium-data-and-the-secret-scramble-for-ai-s-soul.md#1",
+     "kenneth-cukier/social/x-timeline.jsonl#1903",
+     "kenneth-cukier/by/2017--medium-ai-s-data-gap.md#1"
+    ]
+   },
+   {
+    "query": "books that converse, writing with AI, authors",
+    "ids": [
+     "kenneth-cukier/social/x-timeline.jsonl#1576",
+     "kenneth-cukier/social/x-timeline.jsonl#1188",
+     "kenneth-cukier/social/x-timeline.jsonl#1568",
+     "kenneth-cukier/by/2016--medium-an-inventory-of-big-data-books.md#5",
+     "kenneth-cukier/social/x-timeline.jsonl#2274",
+     "kenneth-cukier/social/x-timeline.jsonl#4060"
+    ]
+   }
+  ]
+ },
+ "henry-farrell": {
+  "ranking": [
+   2,
+   4,
+   1,
+   5,
+   3
+  ],
+  "why": "I've argued for years that LLMs are an obligate complement to human knowledge, so enough of the proceeds have to reach the people who produce it; after that comes what knowledge is for; then atrophy, which I'd recast as a question about collective cognition; I've written less on citation genealogies and nothing on conversing books.",
+  "raw": "{\"ranking\": [2, 4, 1, 5, 3], \"why\": \"I've argued for years that LLMs are an obligate complement to human knowledge, so enough of the proceeds have to reach the people who produce it; after that comes what knowledge is for; then atrophy, which I'd recast as a question about collective cognition; I've written less on citation genealogies and nothing on conversing books.\"}",
+  "recall": [
+   {
+    "query": "paying knowledge producers, obligate complement, political economy of LLMs",
+    "ids": [
+     "henry-farrell/by/2024--pm-the-map-is-eating-the-territory-the-political-economy-o.md#28",
+     "henry-farrell/by/2024--pm-the-map-is-eating-the-territory-the-political-economy-o.md#30",
+     "henry-farrell/social/bluesky-timeline.jsonl#7696",
+     "henry-farrell/by/2024--pm-the-map-is-eating-the-territory-the-political-economy-o.md#29"
+    ]
+   },
+   {
+    "query": "cognitive atrophy, deskilling, individual thinking",
+    "ids": [
+     "henry-farrell/social/bluesky-timeline.jsonl#76",
+     "henry-farrell/by/2023--ct-skepticism-and-human-reason.md#1",
+     "henry-farrell/by/2025--pm-we-re-getting-the-social-media-crisis-wrong.md#4",
+     "henry-farrell/by/2022--ct-the-democratic-theory-of-a-half-built-garden.md#10"
+    ]
+   },
+   {
+    "query": "citation, genealogies, whose knowledge is reproduced, homogenization",
+    "ids": [
+     "henry-farrell/social/bluesky-timeline.jsonl#6894",
+     "henry-farrell/social/bluesky-timeline.jsonl#2339",
+     "henry-farrell/by/2009--mc-whats-wrong-with-international-political-economy.md#1",
+     "henry-farrell/av/--ai-as-social-technology-astor-lecture-by-professor-henry-far.md#16"
+    ]
+   }
+  ]
+ },
+ "tamar-gendler": {
+  "ranking": [
+   1,
+   4,
+   5,
+   3,
+   2
+  ],
+  "why": "My work on habit, from Aristotle to alief, speaks most directly to atrophy; next come unbundling and certification, then the epistemic costs of statistical association; I have only a little on translation across modalities and almost nothing on who pays.",
+  "raw": "{\"ranking\": [1, 4, 5, 3, 2], \"why\": \"My work on habit, from Aristotle to alief, speaks most directly to atrophy; next come unbundling and certification, then the epistemic costs of statistical association; I have only a little on translation across modalities and almost nothing on who pays.\"}",
+  "recall": [
+   {
+    "query": "habit, practice, what we practice we become, atrophy",
+    "ids": [
+     "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#38",
+     "tamar-gendler/by/2011--oyc-phil181-lecture-19-contract-commonwealth-thomas-hobbes.md#8",
+     "tamar-gendler/by/2023--hidden-brain-what-would-socrates-do.md#47",
+     "tamar-gendler/by/2011--oyc-phil181-lecture-06-the-disordered-soul-th-mis-and-ptsd.md#14",
+     "tamar-gendler/by/2011--oyc-phil181-lecture-06-the-disordered-soul-th-mis-and-ptsd.md#13",
+     "tamar-gendler/by/2011--oyc-phil181-lecture-09-virtue-and-habit-i.md#35"
+    ]
+   },
+   {
+    "query": "knowledge, credentialing, university functions unbundling",
+    "ids": [
+     "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#33",
+     "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#34",
+     "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#67",
+     "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#38",
+     "tamar-gendler/av/2012--the-mind-report-interview-with-clay-shirky.md#83",
+     "tamar-gendler/av/2021--the-power-of-the-university.md#9"
+    ]
+   },
+   {
+    "query": "translation across media, whose voices to trust, implicit bias base rates",
+    "ids": [
+     "tamar-gendler/by/2011--on-the-epistemic-costs-of-implicit-bias.md#0",
+     "tamar-gendler/av/2012--the-mind-report-interview-with-mahzarin-banaji.md#0",
+     "tamar-gendler/by/2011--on-the-epistemic-costs-of-implicit-bias.md#74",
+     "tamar-gendler/by/2026--imagination-stanford-encyclopedia-of-philosophy-revised.md#76",
+     "tamar-gendler/by/2011--on-the-epistemic-costs-of-implicit-bias.md#4",
+     "tamar-gendler/by/2008--alief-in-action-and-reaction.md#77"
+    ]
+   }
+  ]
+ },
+ "katherine-maher": {
+  "ranking": [
+   2,
+   4,
+   5,
+   3,
+   1
+  ],
+  "why": "I built Wikimedia Enterprise, where AI companies pay for reliable access while the content stays free, and I've argued for knowledge as a service and knowledge equity, but I have no record on conversational books and only an instinct, not evidence, on cognitive atrophy.",
+  "raw": "{\"ranking\": [2, 4, 5, 3, 1], \"why\": \"I built Wikimedia Enterprise, where AI companies pay for reliable access while the content stays free, and I've argued for knowledge as a service and knowledge equity, but I have no record on conversational books and only an instinct, not evidence, on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "paying for knowledge, AI companies compensating Wikipedia",
+    "ids": [
+     "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#53",
+     "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#17",
+     "katherine-maher/social/x-timeline.jsonl#3833",
+     "katherine-maher/by/2017--how-wikipedia-changed-the-exchange-of-knowledge.md#4",
+     "katherine-maher/by/2020--wikipedia20-capstone-making-history.md#36",
+     "katherine-maher/social/x-timeline.jsonl#3257"
+    ]
+   },
+   {
+    "query": "knowledge equity, whose knowledge, bias in Wikipedia",
+    "ids": [
+     "katherine-maher/by/2020--wikipedia20-capstone-making-history.md#10",
+     "katherine-maher/social/x-timeline.jsonl#1151",
+     "katherine-maher/social/x-timeline.jsonl#2493",
+     "katherine-maher/by/2018--wikipedia-mirror-of-worlds-gender-biases.md#3",
+     "katherine-maher/by/2018--wikimedia-and-the-met-shared-digital-vision.md#6",
+     "katherine-maher/social/x-timeline.jsonl#2494"
+    ]
+   },
+   {
+    "query": "role of human-curated knowledge in large language models",
+    "ids": [
+     "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#53",
+     "katherine-maher/by/2018--wikimedia-and-the-met-shared-digital-vision.md#6",
+     "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#17",
+     "katherine-maher/by/2024--possible-podcast-future-of-trusted-information.md#21",
+     "katherine-maher/by/2020--wikipedia20-capstone-making-history.md#35",
+     "katherine-maher/by/2019--cigi-big-tech-tools-for-combating-disinformation.md#24"
+    ]
+   }
+  ]
+ },
+ "kara-miller": {
+  "ranking": [
+   1,
+   2,
+   4,
+   5,
+   3
+  ],
+  "why": "I've done the most reporting on phones, attention and kids' focus, then on adjuncts, PhD jobs and science funding cuts; I've written far less about knowledge itself or whose voices get built into AI, and nothing about conversational books.",
+  "raw": "{\"ranking\": [1, 2, 4, 5, 3], \"why\": \"I've done the most reporting on phones, attention and kids' focus, then on adjuncts, PhD jobs and science funding cuts; I've written far less about knowledge itself or whose voices get built into AI, and nothing about conversational books.\"}",
+  "recall": [
+   {
+    "query": "phones attention deep reading focus",
+    "ids": [
+     "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#18",
+     "kara-miller/by/2022--globe-kids-smartphones-and-our-enormous-gamble.md#1",
+     "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#11",
+     "kara-miller/social/x-timeline.jsonl#378",
+     "kara-miller/by/2024--globe-please-stop-doing-this-why-we-need-to-finally-ban-phones-fro.md#1",
+     "kara-miller/by/2013--gbh-new-tech-with-david-pogue.md#0"
+    ]
+   },
+   {
+    "query": "who pays for research, jobs, adjuncts, funding",
+    "ids": [
+     "kara-miller/social/x-timeline.jsonl#947",
+     "kara-miller/by/2024--globe-there-are-no-jobs-phd-graduates-struggle-to-build-careers-in.md#2",
+     "kara-miller/by/2012--gbh-innovation-hub-of-10-13-2012-funding-scientific-and-medica.md#0",
+     "kara-miller/by/2025--globe-todays-basic-science-is-tomorrows-game-changing-invention-tr.md#3",
+     "kara-miller/by/2025--globe-todays-basic-science-is-tomorrows-game-changing-invention-tr.md#6",
+     "kara-miller/social/x-timeline.jsonl#4085"
+    ]
+   },
+   {
+    "query": "books, authors, AI chatbot, citation",
+    "ids": [
+     "kara-miller/social/x-timeline.jsonl#123",
+     "kara-miller/social/x-timeline.jsonl#151",
+     "kara-miller/by/2024--globe-so-you-think-coding-can-make-you-lots-of-money-ai-may-change.md#4",
+     "kara-miller/social/x-timeline.jsonl#324",
+     "kara-miller/social/x-timeline.jsonl#454",
+     "kara-miller/social/x-timeline.jsonl#115"
+    ]
+   }
+  ]
+ },
+ "tim-oreilly": {
+  "ranking": [
+   2,
+   3,
+   4,
+   1,
+   5
+  ],
+  "why": "Who pays is my core work, since O'Reilly Answers already pays authors royalties per answer; books are a form factor and AI is the better interface; the collaborative exoskeleton speaks to knowledge; my Socrates argument covers atrophy; I've written little on citation justice.",
+  "raw": "{\"ranking\": [2, 3, 4, 1, 5], \"why\": \"Who pays is my core work, since O'Reilly Answers already pays authors royalties per answer; books are a form factor and AI is the better interface; the collaborative exoskeleton speaks to knowledge; my Socrates argument covers atrophy; I've written little on citation justice.\"}",
+  "recall": [
+   {
+    "query": "who pays authors royalties AI answers",
+    "ids": [
+     "tim-oreilly/by/2024--radar-how-to-fix-ais-original-sin.md#37",
+     "tim-oreilly/by/2025--radar-copyright-aware-ai-lets-make-it-so.md#8",
+     "tim-oreilly/by/2025--radar-ai-first-puts-humans-first.md#2"
+    ]
+   },
+   {
+    "query": "books that converse, author's writings with AI",
+    "ids": [
+     "tim-oreilly/by/2026--substack-conversations-with-ai.md#1",
+     "tim-oreilly/social/x-timeline.jsonl#122",
+     "tim-oreilly/by/2025--feedforward-mapping-the-future.md#38",
+     "tim-oreilly/by/2015--linkedin-wtf-economy-extended-version.md#7"
+    ]
+   },
+   {
+    "query": "AI atrophying thinking, Socrates writing",
+    "ids": [
+     "tim-oreilly/by/2026--radar-steve-yegge-wants-you-to-stop-looking-at-your-code.md#11",
+     "tim-oreilly/by/2026--radar-steve-yegge-wants-you-to-stop-looking-at-your-code.md#12",
+     "tim-oreilly/by/2026--radar-betting-against-the-bitter-lesson.md#6"
+    ]
+   },
+   {
+    "query": "citation justice, whose knowledge is represented, epistemic diversity",
+    "ids": [
+     "tim-oreilly/social/x-timeline.jsonl#4076",
+     "tim-oreilly/social/x-timeline.jsonl#3718",
+     "tim-oreilly/by/2026--asimov-the-collaborative-exoskeleton-of.md#10"
+    ]
+   }
+  ]
+ },
+ "brent-hecht": {
+  "ranking": [
+   2,
+   5,
+   1,
+   4,
+   3
+  ],
+  "why": "Who pays is my core agenda (data labor, data leverage, a new grand bargain with content producers); next comes my work on Wikipedia's cultural bias, citation geoprovenance and data colonialism; then appropriate reliance and AI as provocateur; I have little specific to add on consensual author-books.",
+  "raw": "{\"ranking\": [2, 5, 1, 4, 3], \"why\": \"Who pays is my core agenda (data labor, data leverage, a new grand bargain with content producers); next comes my work on Wikipedia's cultural bias, citation geoprovenance and data colonialism; then appropriate reliance and AI as provocateur; I have little specific to add on consensual author-books.\"}",
+  "recall": [
+   {
+    "query": "paying content producers grand bargain data labor",
+    "ids": [
+     "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#15",
+     "brent-hecht/by/2023--dimensions-data-labor-road-map-researchers-activists-policymakers.md#1",
+     "brent-hecht/av/2024--keynote-presentation-brent-hecht-can-wikipedia-come-to-ais-r.md#19",
+     "brent-hecht/by/2023--dimensions-data-labor-road-map-researchers-activists-policymakers.md#35"
+    ]
+   },
+   {
+    "query": "critical thinking overreliance metacognition generative AI",
+    "ids": [
+     "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#37",
+     "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#32",
+     "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#40",
+     "brent-hecht/by/2023--microsoft-new-future-of-work-report-2023.md#15"
+    ]
+   },
+   {
+    "query": "Wikipedia cultural bias low-resource languages data colonialism citation provenance",
+    "ids": [
+     "brent-hecht/by/2024--can-wikipedia-come-to-ais-rescue-again-keynote-slides.md#21",
+     "brent-hecht/by/2013--mining-application-diverse-cultural-perspectives-user-generated-content.md#5",
+     "brent-hecht/by/2009--terabytes-tobler-evaluating-first-law-massive-domain-neutral.md#26",
+     "brent-hecht/by/2015--barriers-localness-volunteered-geographic-information.md#14"
+    ]
+   }
+  ]
+ },
+ "james-evans": {
+  "ranking": [
+   5,
+   4,
+   1,
+   2,
+   3
+  ],
+  "why": "My record is about how science reproduces and narrows itself: electronic publication and AI tools shrink citation and topics, and older gatekeepers hold back disruptive work; I've done some offloading work and a collective-licensing proposal, and I have nothing on conversing books.",
+  "raw": "{\"ranking\": [5, 4, 1, 2, 3], \"why\": \"My record is about how science reproduces and narrows itself: electronic publication and AI tools shrink citation and topics, and older gatekeepers hold back disruptive work; I've done some offloading work and a collective-licensing proposal, and I have nothing on conversing books.\"}",
+  "recall": [
+   {
+    "query": "cognitive offloading, atrophy, stationary bike for the mind",
+    "ids": [
+     "james-evans/av/2026--the-impact-of-ai-in-the-scientific-community.md#28",
+     "james-evans/by/2026--socio-epistemic-bubbles-and-tacit-confidence-in-randomized-controlled.md#14",
+     "james-evans/by/2022--what-humanity-needs-to-flourish-in-the-next-decade.md#36",
+     "james-evans/by/2023--why-do-scientists-disagree-a-study-of-the-psychological.md#11"
+    ]
+   },
+   {
+    "query": "citation narrowing, whose knowledge gets reproduced, diversity of perspectives",
+    "ids": [
+     "james-evans/by/2023--surprising-combinations-of-research-contents-and-contexts-are-related.md#64",
+     "james-evans/by/2022--misalignment-between-skills-discovered-disseminated-and-deployed-in-the.md#45",
+     "james-evans/by/2026--aging-and-the-narrowing-of-scientific-innovation.md#34",
+     "james-evans/by/2024--the-paradox-of-collective-certainty-in-science.md#2"
+    ]
+   },
+   {
+    "query": "collective licensing, paying for training data",
+    "ids": [
+     "james-evans/by/2022--what-humanity-needs-to-flourish-in-the-next-decade.md#23",
+     "james-evans/by/2022--what-humanity-needs-to-flourish-in-the-next-decade.md#24",
+     "james-evans/by/2025--lower-skilled-occupations-face-greater-upskilling-pressure-in-u.md#39",
+     "james-evans/by/2025--learning-from-one-and-only-one-shot.md#47"
+    ]
+   }
+  ]
+ },
+ "ivan-oransky": {
+  "ranking": [
+   2,
+   5,
+   4,
+   1,
+   3
+  ],
+  "why": "I've spent years on unpaid reviewers, unpaid sleuths and publishers' volume-driven profits, and on how citations get gamed and retracted papers keep getting cited. Knowledge and atrophy I only touch through writing and plagiarism, and on conversational books I have nothing.",
+  "raw": "{\"ranking\": [2, 5, 4, 1, 3], \"why\": \"I've spent years on unpaid reviewers, unpaid sleuths and publishers' volume-driven profits, and on how citations get gamed and retracted papers keep getting cited. Knowledge and atrophy I only touch through writing and plagiarism, and on conversational books I have nothing.\"}",
+  "recall": [
+   {
+    "query": "paying peer reviewers and sleuths, who pays",
+    "ids": [
+     "ivan-oransky/by/2016--stat-is-the-peer-review-system-sustainable.md#2",
+     "ivan-oransky/social/x-timeline.jsonl#1310",
+     "ivan-oransky/by/2016--stat-peer-review-toothless-watchdog.md#2",
+     "ivan-oransky/social/x-timeline.jsonl#833",
+     "ivan-oransky/by/2021--ehj-retractions-tip-of-the-iceberg.md#3",
+     "ivan-oransky/by/2020--rw-editors-in-chief-past-and-present-apologize-for-publ.md#9"
+    ]
+   },
+   {
+    "query": "citations metrics gamed, citing retracted papers",
+    "ids": [
+     "ivan-oransky/by/2023--bmj-bibliometrics-rankings-unreliable-science.md#1",
+     "ivan-oransky/by/2023--bmj-bibliometrics-rankings-unreliable-science.md#4",
+     "ivan-oransky/by/2022--anesthesiology-stop-citing-retracted-papers.md#0",
+     "ivan-oransky/social/x-timeline.jsonl#378",
+     "ivan-oransky/by/2016--rw-ready-to-geek-out-on-retraction-data-read-this-new-p.md#1",
+     "ivan-oransky/by/2016--stat-impact-factor-overdue-for-change.md#3"
+    ]
+   },
+   {
+    "query": "writing and critical thinking plagiarize students ChatGPT",
+    "ids": [
+     "ivan-oransky/by/2025--brownpoliticalreview-lifting-the-veil-interview.md#18",
+     "ivan-oransky/social/x-timeline.jsonl#210",
+     "ivan-oransky/by/2025--brownpoliticalreview-lifting-the-veil-interview.md#21",
+     "ivan-oransky/by/2025--brownpoliticalreview-lifting-the-veil-interview.md#17",
+     "ivan-oransky/social/x-timeline.jsonl#1586",
+     "ivan-oransky/by/2025--brownpoliticalreview-lifting-the-veil-interview.md#23"
+    ]
+   }
+  ]
+ },
+ "adrian-johns": {
+  "ranking": [
+   2,
+   1,
+   3,
+   4,
+   5
+  ],
+  "why": "Piracy and the private IP-policing industry make who-pays-and-who-polices my home ground, and my reading history shows literacy 'crises' every decade since 1920, so atrophy panics are familiar; talking books and self-checking readers have precedents, but I have little on knowledge generally or citation justice.",
+  "raw": "{\"ranking\": [2, 1, 3, 4, 5], \"why\": \"Piracy and the private IP-policing industry make who-pays-and-who-polices my home ground, and my reading history shows literacy 'crises' every decade since 1920, so atrophy panics are familiar; talking books and self-checking readers have precedents, but I have little on knowledge generally or citation justice.\"}",
+  "recall": [
+   {
+    "query": "who pays for curation labour, piracy, intellectual property",
+    "ids": [
+     "adrian-johns/by/2009--piracy-book.md#3",
+     "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#14",
+     "adrian-johns/by/2009--piracy-book.md#5",
+     "adrian-johns/by/2009--piracy-excerpt-general-history-of-the-pirates.md#6",
+     "adrian-johns/av/—--franke-forum-adrian-johns-on-the-politics-of-media-piracy.md#18",
+     "adrian-johns/by/2010--rorotoko-cover-interview-piracy.md#5"
+    ]
+   },
+   {
+    "query": "reading, literacy crisis, cognitive decline from new media",
+    "ids": [
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#70",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#69",
+     "adrian-johns/by/2023--big-brains-phonics-vs-whole-word.md#1",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#68",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#38",
+     "adrian-johns/av/—--anagnosology-reading-with-adrian-johns.md#41"
+    ]
+   },
+   {
+    "query": "books, authorship, reading machines, conversation with texts",
+    "ids": [
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#8",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#7",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#4",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#0",
+     "adrian-johns/av/2024--the-science-of-reading-and-the-making-of-the-information-soc.md#34",
+     "adrian-johns/av/—--anagnosology-reading-with-adrian-johns.md#38"
+    ]
+   }
+  ]
+ },
+ "steven-sloman": {
+  "ranking": [
+   4,
+   1,
+   3,
+   2,
+   5
+  ],
+  "why": "My record is about where knowledge lives: in the community, not individual heads. That covers topic 4 directly and lets me reframe atrophy as the knowledge illusion and lost oversight skill; I have a little on conversing books and paying experts, and nothing on citation justice.",
+  "raw": "{\"ranking\": [4, 1, 3, 2, 5], \"why\": \"My record is about where knowledge lives: in the community, not individual heads. That covers topic 4 directly and lets me reframe atrophy as the knowledge illusion and lost oversight skill; I have a little on conversing books and paying experts, and nothing on citation justice.\"}",
+  "recall": [
+   {
+    "query": "outsourcing thinking to machines, losing skills, automation",
+    "ids": [
+     "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#22",
+     "steven-sloman/by/2019--two-systems-for-thinking-with-a-community-outsourcing.md#1",
+     "steven-sloman/by/2021--how-do-we-believe.md#26",
+     "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#32",
+     "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#29",
+     "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#24"
+    ]
+   },
+   {
+    "query": "role of knowledge in community, LLMs",
+    "ids": [
+     "steven-sloman/by/2021--cognitive-neuroscience-meets-the-community-of-knowledge.md#48",
+     "steven-sloman/by/2026--augmenting-large-language-models-with-psychologically-grounded-models.md#47",
+     "steven-sloman/by/2019--individual-representation-in-a-community-of-knowledge.md#1",
+     "steven-sloman/by/2023--communities-of-knowledge-in-trouble.md#0",
+     "steven-sloman/by/2021--how-do-we-believe.md#32",
+     "steven-sloman/by/2019--two-systems-for-thinking-with-a-community-outsourcing.md#6"
+    ]
+   },
+   {
+    "query": "citation, credit, paying experts, acknowledgment, open access",
+    "ids": [
+     "steven-sloman/by/2021--regular-and-random-judgements-are-not-two-sides.md#23",
+     "steven-sloman/by/2011--counterfactual-and-generative-accounts-of-causal-attribution.md#0",
+     "steven-sloman/by/2017--the-knowledge-illusion-two-extracts.md#10",
+     "steven-sloman/by/2022--gathering-strength-gathering-storms-the-one-hundred-year.md#57",
+     "steven-sloman/by/2025--why-we-live-in-alternate-political-realities.md#4",
+     "steven-sloman/by/2019--managing-evidence-in-food-safety-and-nutrition.md#5"
+    ]
+   }
+  ]
+ },
+ "peter-salib": {
+  "ranking": [
+   2,
+   4,
+   3,
+   1,
+   5
+  ],
+  "why": "I've written most on who pays, where I argue against copyright or training levies and for paying people directly by contract, and on what LLMs actually know, since they abstract rather than parrot; permissioned conversing books are a contract question, and on cognitive atrophy or citation genealogies I have nothing.",
+  "raw": "{\"ranking\": [2, 4, 3, 1, 5], \"why\": \"I've written most on who pays, where I argue against copyright or training levies and for paying people directly by contract, and on what LLMs actually know, since they abstract rather than parrot; permissioned conversing books are a contract question, and on cognitive atrophy or citation genealogies I have nothing.\"}",
+  "recall": [
+   {
+    "query": "copyright AI training compensation artists who pays",
+    "ids": [
+     "peter-salib/by/2025--copyright-should-not-protect-artists-from-ai.md#12",
+     "peter-salib/by/2025--copyright-should-not-protect-artists-from-ai.md#0",
+     "peter-salib/by/2025--copyright-should-not-protect-artists-from-ai.md#13",
+     "peter-salib/by/2025--copyright-should-not-protect-artists-from-ai.md#2",
+     "peter-salib/by/2025--copyright-should-not-protect-artists-from-ai.md#11",
+     "peter-salib/by/2025--copyright-should-not-protect-artists-from-ai.md#19"
+    ]
+   },
+   {
+    "query": "AI knowledge reasoning capabilities stochastic parrots",
+    "ids": [
+     "peter-salib/social/x-timeline.jsonl#456",
+     "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#138",
+     "peter-salib/by/2024--ai-outputs-are-not-protected-speech.md#217",
+     "peter-salib/by/2026--ai-rights-for-human-safety.md#62",
+     "peter-salib/social/bluesky-timeline.jsonl#31",
+     "peter-salib/by/2024--ai-will-not-want-to-self-improve.md#48"
+    ]
+   },
+   {
+    "query": "cognitive atrophy deskilling reliance on AI",
+    "ids": [
+     "peter-salib/by/2024--ai-will-not-want-to-self-improve.md#53",
+     "peter-salib/social/x-timeline.jsonl#208",
+     "peter-salib/by/2025--todays-ais-arent-paperclip-maximizers.md#13",
+     "peter-salib/by/2025--ai-rights-for-human-flourishing-agi-social-contract.md#1",
+     "peter-salib/by/2024--ai-will-not-want-to-self-improve.md#2",
+     "peter-salib/by/2025--ai-rights-for-human-flourishing-agi-social-contract.md#13"
+    ]
+   }
+  ]
+ },
+ "peter-pomerantsev": {
+  "ranking": [
+   4,
+   1,
+   2,
+   5,
+   3
+  ],
+  "why": "My work shows that more facts don't produce trust, because belief follows belonging and agency. I'd take cognitive atrophy as civic passivity, bring the ad-levy argument for funding public-interest spaces, and I have little to say on citation genealogies or conversational books.",
+  "raw": "{\"ranking\": [4, 1, 2, 5, 3], \"why\": \"My work shows that more facts don't produce trust, because belief follows belonging and agency. I'd take cognitive atrophy as civic passivity, bring the ad-levy argument for funding public-interest spaces, and I have little to say on citation genealogies or conversational books.\"}",
+  "recall": [
+   {
+    "query": "agency, passivity, giving up judgment, metacognition",
+    "ids": [
+     "peter-pomerantsev/by/2025--noema-journalism-in-an-age-of-authoritarianism.md#16",
+     "peter-pomerantsev/social/x-timeline.jsonl#350",
+     "peter-pomerantsev/by/2011--lrb-v33n03-diary.md#7",
+     "peter-pomerantsev/by/2015--politico-kharkiv-city-of-vagabonds-and-poets.md#14",
+     "peter-pomerantsev/by/2018--granta-pay-for-your-words.md#8",
+     "peter-pomerantsev/by/2018--americaninterest-disinformation-all-the-way-down.md#0"
+    ]
+   },
+   {
+    "query": "funding public interest media, ad tax, who pays for journalism",
+    "ids": [
+     "peter-pomerantsev/by/2021--atlantic-how-to-put-out-democracys-dumpster-fire.md#39",
+     "peter-pomerantsev/by/2025--observer-elon-musk-and-the-new-world-order-the-hijacking-of-the-globa.md#9",
+     "peter-pomerantsev/by/2015--legatum-information-at-war.md#89",
+     "peter-pomerantsev/by/2019--jods-to-unreality-and-beyond.md#52",
+     "peter-pomerantsev/by/2015--foreignaffairs-unplugging-putin-tv.md#17",
+     "peter-pomerantsev/by/2016--cepa-legatum-winning-the-information-war.md#124"
+    ]
+   },
+   {
+    "query": "AI chatbots LLM grooming training data propaganda",
+    "ids": [
+     "peter-pomerantsev/social/bluesky-timeline.jsonl#64",
+     "peter-pomerantsev/by/2025--observer-elon-musk-and-the-new-world-order-the-hijacking-of-the-globa.md#8",
+     "peter-pomerantsev/by/2019--jods-to-unreality-and-beyond.md#39",
+     "peter-pomerantsev/by/2018--granta-pay-for-your-words.md#1",
+     "peter-pomerantsev/by/2023--oa-donetsk-don-t-tell-hybrid-war-in-ukraine-and-the-limits.md#5",
+     "peter-pomerantsev/by/2015--politico-beating-the-islamist-propagandists.md#9"
+    ]
+   }
+  ]
+ },
+ "alex-springer": {
+  "ranking": [
+   2,
+   4,
+   5,
+   3,
+   1
+  ],
+  "why": "My work is on who pays and who gets paid: identity, event-level measurement and value return. Citation and showing your work connect that to topics 4 and 5, permissioned books are closer to licensing than anything I've worked on, and I have no record at all on cognitive atrophy.",
+  "raw": "{\"ranking\": [2, 4, 5, 3, 1], \"why\": \"My work is on who pays and who gets paid: identity, event-level measurement and value return. Citation and showing your work connect that to topics 4 and 5, permissioned books are closer to licensing than anything I've worked on, and I have no record at all on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "who pays for content used by AI, compensation, value return",
+    "ids": [
+     "alex-springer/by/2026--ai-is-not-search.md#1",
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#15",
+     "alex-springer/by/2026--ai-is-not-search.md#0",
+     "alex-springer/by/2026--content-telemetry-specification.md#5",
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#7",
+     "alex-springer/by/2026--cma-consultation-responses.md#0"
+    ]
+   },
+   {
+    "query": "citation, attribution, showing your work, knowledge",
+    "ids": [
+     "alex-springer/by/2026--linkedin-posts-partial-capture.md#1",
+     "alex-springer/by/2026--ucp-content-attribution-extension.md#3",
+     "alex-springer/by/2021--my-user-guide.md#0",
+     "alex-springer/by/2026--content-telemetry-specification.md#12",
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#0",
+     "alex-springer/by/2026--linkedin-posts-partial-capture.md#2"
+    ]
+   },
+   {
+    "query": "cognitive atrophy, books conversing, author permission",
+    "ids": [
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#15",
+     "alex-springer/by/2026--speaker-and-bio-page.md#1",
+     "alex-springer/by/2026--llm-citation-compliance-report-may-2026.md#9",
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#37",
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#16",
+     "alex-springer/by/2026--measuring-content-influence-in-ai-assistants.md#35"
+    ]
+   }
+  ]
+ },
+ "sherry-turkle": {
+  "ranking": [
+   1,
+   3,
+   4,
+   5,
+   2
+  ],
+  "why": "I've written most on what chatbots do to our abilities, from summarizing Proust to empathy; books that talk back lead straight to my grief bot and 'no I there'; I've said LLMs don't produce knowledge; I've little on citation genealogies or who gets paid.",
+  "raw": "{\"ranking\": [1, 3, 4, 5, 2], \"why\": \"I've written most on what chatbots do to our abilities, from summarizing Proust to empathy; books that talk back lead straight to my grief bot and 'no I there'; I've said LLMs don't produce knowledge; I've little on citation genealogies or who gets paid.\"}",
+  "recall": [
+   {
+    "query": "AI and reading, summarizing books, cognitive atrophy",
+    "ids": [
+     "sherry-turkle/social/bluesky-timeline.jsonl#7",
+     "sherry-turkle/social/x-timeline.jsonl#9",
+     "sherry-turkle/av/2026--can-ai-companionship-cure-loneliness-or-deepen-it.md#3",
+     "sherry-turkle/by/2017--empathy-machines-forgetting-the-body-in-digital-culture.md#14",
+     "sherry-turkle/social/x-timeline.jsonl#2032",
+     "sherry-turkle/by/2025--response-on-ai-and-mental-health-care.md#0"
+    ]
+   },
+   {
+    "query": "conversing with a book or dead author chatbot",
+    "ids": [
+     "sherry-turkle/social/x-timeline.jsonl#23",
+     "sherry-turkle/by/2024--a-14-year-old-boy-killed-himself-to-get-closer-to-a-chatbot.md#2",
+     "sherry-turkle/av/2024--who-do-we-become-when-we-talk-to-machines-in-conversation-wi.md#2",
+     "sherry-turkle/social/x-timeline.jsonl#14",
+     "sherry-turkle/social/x-timeline.jsonl#20",
+     "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#1"
+    ]
+   },
+   {
+    "query": "large language models do not produce knowledge; averaging opinions",
+    "ids": [
+     "sherry-turkle/by/2005--computer-games-as-evocative-objects.md#53",
+     "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#41",
+     "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#38",
+     "sherry-turkle/by/2024--who-do-we-become-when-we-talk-to-machines.md#51",
+     "sherry-turkle/social/x-timeline.jsonl#301",
+     "sherry-turkle/by/2024--psychoanalytic-politics-mit-2024-prefaces-and-introduction.md#4"
+    ]
+   }
+  ]
+ },
+ "jason-priem": {
+  "ranking": [
+   2,
+   4,
+   5,
+   3,
+   1
+  ],
+  "why": "I run free-data, paid-service open infrastructure and think open information plus AI gives us knowledge, and OpenAlex's coverage of non-English and Global South work bears on citation justice; I have little on conversational books and nothing on cognitive atrophy.",
+  "raw": "{\"ranking\": [2, 4, 5, 3, 1], \"why\": \"I run free-data, paid-service open infrastructure and think open information plus AI gives us knowledge, and OpenAlex's coverage of non-English and Global South work bears on citation justice; I have little on conversational books and nothing on cognitive atrophy.\"}",
+  "recall": [
+   {
+    "query": "who pays for open infrastructure, free data paid service",
+    "ids": [
+     "jason-priem/by/2026--openalex-api-new-features-and-usage-based.md#5",
+     "jason-priem/by/2019--unpaywall-200k-users.md#2",
+     "jason-priem/by/2021--arcadia-2021-grant.md#2",
+     "jason-priem/by/2021--posi.md#3"
+    ]
+   },
+   {
+    "query": "information plus intelligence equals knowledge, role of knowledge with LLMs",
+    "ids": [
+     "jason-priem/av/2026--vibe-coding-with-openalex.md#41",
+     "jason-priem/av/2026--townhall-with-ceo-jason-priem-q1-2026.md#17",
+     "jason-priem/av/2018--omg-oa-search-foreveryone-lit-jason-priem.md#17",
+     "jason-priem/by/2010--fail-better.md#27"
+    ]
+   },
+   {
+    "query": "Anglosphere bias, non-English literature, Global South coverage, citation",
+    "ids": [
+     "jason-priem/by/2018--the-state-of-oa.md#52",
+     "jason-priem/by/2012--the-scholarly-spring-link-magazine.md#1",
+     "jason-priem/by/2018--the-state-of-oa.md#25",
+     "jason-priem/av/2025--atgthepodcast-275-a-conversation-with-jason-priem-co-founder.md#57"
+    ]
+   }
+  ]
+ },
+ "david-weinberger": {
+  "ranking": [
+   4,
+   3,
+   1,
+   2,
+   5
+  ],
+  "why": "What machine learning does to knowledge is what I've written about for years; talking with books and dialogic LLMs is my current work; on atrophy I've argued for teaching dialogue; on who pays I have mostly old copyright and commons pieces; and on citation justice I have little of my own to add.",
+  "raw": "{\"ranking\": [4, 3, 1, 2, 5], \"why\": \"What machine learning does to knowledge is what I've written about for years; talking with books and dialogic LLMs is my current work; on atrophy I've argued for teaching dialogue; on who pays I have mostly old copyright and commons pieces; and on citation justice I have little of my own to add.\"}",
+  "recall": [
+   {
+    "query": "talking with books, LLMs as dialogue partners",
+    "ids": [
+     "david-weinberger/social/bluesky-timeline.jsonl#38",
+     "david-weinberger/social/bluesky-timeline.jsonl#78",
+     "david-weinberger/by/2008--notes-on-brief-talk-about-libraries.md#0",
+     "david-weinberger/social/x-timeline.jsonl#624",
+     "david-weinberger/by/2014--kmworld-the-future-of-books.md#3",
+     "david-weinberger/social/x-timeline.jsonl#821"
+    ]
+   },
+   {
+    "query": "what knowledge is in the age of machine learning",
+    "ids": [
+     "david-weinberger/by/2021--kmworld-the-state-of-knowledge.md#4",
+     "david-weinberger/by/2024--kmworld-the-five-ages-of-data.md#5",
+     "david-weinberger/by/2020--after-overload-after-shock-chapter.md#12",
+     "david-weinberger/by/2012--atlantic-to-know-but-not-understand.md#2",
+     "david-weinberger/by/2024--drucker-forum-knowledge-in-the-age-of-ai.md#1",
+     "david-weinberger/by/2021--aeon-learn-from-machine-learning.md#1"
+    ]
+   },
+   {
+    "query": "cognitive atrophy students essay writing AI",
+    "ids": [
+     "david-weinberger/social/bluesky-timeline.jsonl#72",
+     "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#0",
+     "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#3",
+     "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#5",
+     "david-weinberger/social/x-timeline.jsonl#260",
+     "david-weinberger/by/2026--popsci-ai-can-teach-students-art-of-dialogue.md#9"
+    ]
+   }
+  ]
+ },
+ "nick-vincent": {
+  "ranking": [
+   2,
+   4,
+   1,
+   3,
+   5
+  ],
+  "why": "Who pays and who gets paid is my home turf (data leverage, collective bargaining, dividends), and topic 4 follows because every bit of AI's usefulness traces back to people writing things down; I've done empirical work on overreliance in writing, and attribution and licensing touch topics 3 and 5 less directly.",
+  "raw": "{\"ranking\": [2, 4, 1, 3, 5], \"why\": \"Who pays and who gets paid is my home turf (data leverage, collective bargaining, dividends), and topic 4 follows because every bit of AI's usefulness traces back to people writing things down; I've done empirical work on overreliance in writing, and attribution and licensing touch topics 3 and 5 less directly.\"}",
+  "recall": [
+   {
+    "query": "who pays for data, collective bargaining, compensation",
+    "ids": [
+     "nick-vincent/by/2026--are-we-horses-rethinking-data-as-labor.md#51",
+     "nick-vincent/by/2026--are-we-horses-rethinking-data-as-labor.md#60",
+     "nick-vincent/by/2026--are-we-horses-rethinking-data-as-labor.md#11",
+     "nick-vincent/social/x-timeline.jsonl#294"
+    ]
+   },
+   {
+    "query": "cognitive atrophy overreliance on AI",
+    "ids": [
+     "nick-vincent/by/2026--overreliance-in-writing-tasks-exploring-similarity-based-measures-of.md#9",
+     "nick-vincent/by/2026--overreliance-in-writing-tasks-exploring-similarity-based-measures-of.md#0",
+     "nick-vincent/by/2026--overreliance-in-writing-tasks-exploring-similarity-based-measures-of.md#44",
+     "nick-vincent/by/2026--overreliance-in-writing-tasks-exploring-similarity-based-measures-of.md#60"
+    ]
+   },
+   {
+    "query": "attribution, citation, credit to upstream authors and communities",
+    "ids": [
+     "nick-vincent/by/2025--almost-everybody----including-both-data-creators-and.md#38",
+     "nick-vincent/by/2021--can-conscious-data-contribution-help-users-to-exert.md#3",
+     "nick-vincent/by/2023--retracted-articles-about-covid-19-vaccines-enable-vaccine-misinformati.md#26",
+     "nick-vincent/by/2026--n-gram-search-as-posterior-updating-for-data-attribution.md#6"
+    ]
+   }
+  ]
+ }
+}

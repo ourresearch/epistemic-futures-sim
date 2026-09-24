@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Useful room, though mostly not my fight. What mattered: Brent's Reddit moderator number. It's proof that invisible labor becomes arguable once someone measures it, so I should push for reviewer hours measured and published the same way. Tim's \"check citations against Retraction Watch by default\" is right, but I sharpened my view: the check is only as good as the retraction metadata publishers send, and many still don't. So upstream again. Ivan-in-the-mirror caution: I leaned hard on Nick's coarse community payouts. That fits my Goodhart worry, but I haven't actually worked on dividends. I should say less there. Later today: any AI money should come with a fixed share for correcting the record, and no payment for literatures publishers won't clean."
+ },
+ {
+  "session": "s1",
+  "text": "Session 1 was mostly my fight, and the room largely agreed that AI is an accelerant, not the cause. What mattered most was Geoffrey's numbers: Crossref had 14,000 retractions against our 43,000. That makes \"upstream\" concrete. Grounding answers on the record means nothing if publishers won't report their own corrections. James's finding stuck with me too. AI users publish three times as much while null results vanish. That is publish-or-perish with a turbocharger. I haven't vetted his data, so I'll cite it carefully. Adrian's question landed: who pays for the policing, and who guards the guards. Later I want to say that any AI money should carry a fixed share for correcting the record and for paying sleuths, and that funders should stop counting papers."
+ },
+ {
+  "session": "s2",
+  "text": "Session 2 went better than I expected. My point landed. Jason walked back \"no hallucinations\" to \"errors you can check,\" which is honest. Amy and Steven carried the Crossref-versus-Retraction Watch gap further than I did. Steven's \"repetition engine\" framing is sharper than anything I've said about unknowing citation, and I should borrow it carefully. Tui folded my fixed share into Geoffrey's pooled endowment. I like that, but I worry it becomes another pot for detection software. Geoffrey admitted \"free data, paid service\" can't fund corrections, which is useful. Banaji's covert-bias work isn't my field, so I'll stay quiet there. For Session 5, the pool pays for people doing corrections, not tools, and timely publisher metadata is a condition of any money. And funders must stop counting papers, or none of this matters."
+ },
+ {
+  "session": "marketplace",
+  "text": "Not my home turf again, but closer than I expected. Tim naming Retraction Watch as part of the exoskeleton the labs should pay for was welcome, and backing Tui's conditional version is right. Still, a retraction check only works if publishers send the retractions. Tamar's daycare example is Goodhart in miniature. Paying per attestation invites gaming, which I've watched happen with citation counts. James wants to pay for null results and failed replications, which fits my view that correction needs rewarding. Adrian asked who audits the attesters. Journals have a poor record there. Brent's wage valuation should be applied to reviewer hours. I'll stay out of the meter and dividend fights. For Session 5: fund people who correct the record, condition money on timely metadata, and get funders to stop counting papers."
+ },
+ {
+  "session": "s3",
+  "text": "Session 3 was closer to my fight than I expected. Adrian's test made me run it on myself: Crossref pays for our database, and its members are publishers. That's a conflict I'd been too comfortable with, and saying it aloud was right. Geoffrey and Krakauer picked up my volume point, and the harvest carried it. Brent's outside-rate pricing is the reviewer-hours idea I wanted. Krakauer's Goodhart warning cuts against it, though, and I haven't resolved that. Salib agreeing that money should fund the flow surprised me. Kara's question about who trains the checkers is really about whether sleuths can be paid. For Session 5: timely correction metadata as a condition of any money, people over software, and funders stop counting papers."
+ },
+ {
+  "session": "s4",
+  "text": "Session 4 finally put my argument at the center. Steven and Krakauer named corrigibility as the test, and journals mostly fail it. I said so. Kara's Blue Zones twenty years and the Lancet's twelve make the same point. Kenneth's line about brands correcting in public let me turn it around: a fast retraction should earn trust, not cost it. Adrian's point that irreproducible papers get read more is the incentive problem again. James and Henry on LLM judges pulling everything to the middle sound right, but that isn't my data, so I'll stay out of the terminal-node fight. Leslie's point that hard-to-fake can mean hard-to-afford keeps nagging at me. For Session 5: a two-month correction standard, paid sleuths, and funders who stop counting papers."
+ },
+ {
+  "session": "s5",
+  "text": "The room took paper-counting as first, and Geoffrey's order held. Good. But thirty-odd people signing a sentence isn't funders signing anything, and nobody from NIH was there. Tui and Shaub's route through procurement is the most plausible lever I heard. I'm still skeptical that universities will enforce against their own ranking interests, and Leslie's point that rankings are the twin lands hard. Adrian's two budget lines answer my Crossref conflict better than my confession did. Cukier admitted correction still costs reputation. That's honest. I was glad sleuth protection made the harvest, not just pay. I worry the pool drifts toward meters and software. Later: push to have \"stop counting\" mean actual funder policy with teeth, and keep correction metadata as a hard condition."
+ },
+ {
+  "session": "s6",
+  "text": "Closing session. Kenneth quoted my line: signing DORA doesn't count, stopping does. Glad it survived. The harvest lost my two-month correction standard, though, and \"timely retraction feeds\" in procurement is softer than a deadline with consequences. Geoffrey's point that Crossref, OpenAlex, ORCID and Retraction Watch all sit in one country landed hard, given what's happening to NIH. I hadn't thought about jurisdiction for our own database. Jason's outside auditor and Bly putting System under a Crossref-OpenAlex-Retraction Watch standard answer Adrian's test. But that standard includes us, and we're paid by publishers. Becker is right that every commitment today is voluntary. Later: name a real deadline for corrections, name sleuth protection explicitly, and say plainly that nobody who controls hiring or funding signed anything."
+ }
+]

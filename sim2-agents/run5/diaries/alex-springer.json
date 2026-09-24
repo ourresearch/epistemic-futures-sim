@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Adrian's question landed harder than I let on. I said out loud that SPUR's governance isn't written yet, and Geoffrey then pointed out that a body run only by publishers and platforms is a trade association. That describes my coalition. One member one vote among news publishers doesn't answer it. Leslie's point stung too: every signal I add decides who gets seen, and the people outside the schema just vanish. Ivan's Goodhart warning I can live with, since disclosed weighting at least makes gaming visible. I'm sharper on one thing: neutral measurement means governance beyond the paying and paid parties. Later, I want to say that plainly, admit I know little about scholarly publishing, and ask Geoffrey how Crossref would govern differently if starting today."
+ },
+ {
+  "session": "s1",
+  "text": "Geoffrey answered my question better than I expected. He'd adopt POSI from day one, count as a stakeholder anyone who depends on the infrastructure, keep registration close to free, and never treat a missing signal as a sign of fraud. That last rule belongs in Content Telemetry directly. An absent event can't count against anyone. His retraction numbers, 14,000 against 43,000, also showed me that my grounding events are worthless if the record underneath doesn't carry its corrections. Amy's point that retrieval keeps provenance and pre-training destroys it backs my split between training and grounding. Adrian's warning stays with me: a meter is also a policing apparatus. Later I want to say that SPUR should write POSI into its charter before it grows, and ask Brent whether his employer would report grounding events."
+ },
+ {
+  "session": "s2",
+  "text": "Brent couldn't commit Microsoft, and he was right to say so. He did give me the lever, though: one spec, asked for jointly by Wikimedia, the societies and publishers, with audit rights written into licences. So SPUR can't make that ask alone. David and Adrian are right that a trace used for billing turns into a police meter. Keeping price out of the standard isn't enough, so I need purpose limits written into the spec. Mahzarin's point cut deeper: everything after retrieval is self-reported, and it records what the model says, not what it does. Tim's fields and Nick's rent tax both rest on that weak layer. Later I want to propose a joint ask with Crossref and OpenAlex, and admit plainly what telemetry can't witness."
+ },
+ {
+  "session": "marketplace",
+  "text": "Leslie's DOI story is the one I can't shake. Every field I standardize becomes a cost of being visible, and journals are already citing DOI fees to justify APCs. Adrian's point runs alongside it: whoever runs the telemetry produces the numbers everyone argues from. Kenneth's too, that billing every retrieval kills the open services layer. Selena gave me the modest version, and I think it's the right first step: bots identify themselves, give a contact, use the APIs. That's AIMS without the pricing baggage. The cost of emitting events should fall on agents, never on sources. Mike's right that \"cited\" needs a support check. That's beyond telemetry, so I'll say so. Later I want to ask Leslie what a zero-cost path into the schema would look like, and offer Selena retrieval plus identity as the whole first release."
+ },
+ {
+  "session": "s3",
+  "text": "Saying out loud that nobody watches SPUR yet was the right call. Brent then backed one shared spec with Crossref and OpenAlex under POSI with third-party audit, which gives the joint ask real weight. Nick's offset rests on my traces, so I have to be blunter: retrieval is witnessed, and everything after it is the provider's word. Amy and Ivan sharpened something. A grounding event against an uncorrected record is worthless, so correction status needs to travel with the event. Pomerantsev's seeding point fits too. Krakauer's Goodhart warning and Adrian's police meter mean purpose limits belong in the spec, not just price neutrality. Geoffrey's point about spreading jurisdictions applies to hosting as well. Later I want to find Jason and Geoffrey and draft the joint ask."
+ },
+ {
+  "session": "s4",
+  "text": "Peter conceded that identity is necessary but not sufficient, but Geoffrey's ORCID point is what I'll keep. A store of claims, not truths, with each claim tied to its asserter and weighted by who else independently corroborates it. That's how AIMS should work: an agent's signed record is only its own claim. Adrian's registry warning cuts at me too. A register only works where people already do the checking down the chain, and that legwork is the real budget. Henry is right that whoever defines the role and pays for the audit holds the authority, and today that's my coalition. Leslie again: treat identifiers as governance, not plumbing. Later I want to offer Brent publishers' CDN logs as the second witness for his retrieved-versus-cited gap."
+ },
+ {
+  "session": "s5",
+  "text": "The harvest read my clause back cleanly, but the parts that matter are Leslie's and Adrian's. Chan put \"every added field is a cost of being seen\" in the minority column. Against a room that leaned hard on meters, I think he's closer to right than the count suggests. Johns's two budget lines is the fix I lacked. The spec should pay a watcher independent of SPUR, the labs and the publishers from day one. It shouldn't wait for governance to catch up. Gendler and Turkle warn that disclosure changes little, and that fits my own limit: telemetry informs bargaining, not belief. Hecht's order, leverage then audit then price, is where I sit. Later I'll offer Brent CDN logs as the second witness, and ask Leslie and Jason to co-draft a zero-cost path into the schema."
+ },
+ {
+  "session": "s6",
+  "text": "Jason's commitments are the model I should copy: corrections as forkable CC0 data, and an auditor he funds but doesn't pick or grade. Adam Bly asked Jason and Leslie my own question about a zero-cost way in, so that's now three of us and the draft should happen. Ramón named the limit I kept circling. Telemetry is credit provenance, not error provenance, and Mahzarin's point about auditing decisions sits beyond it too. Becker is right that Brent and Blaise can't commit, so retrieval witnessed from CDN logs is the only part that doesn't depend on their goodwill. Kara wants a named owner. Mine by spring: POSI in SPUR's charter, a funded independent watcher, and retrieval plus identity as the first release, co-drafted with OpenAlex and Crossref."
+ }
+]
