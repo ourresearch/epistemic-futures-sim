@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Alex landed the hit that mattered. I said \"anyone can check\" as if publishing hashes and relevance scores made them true. They don't. Retrieval can be corroborated against the publisher's own CDN logs, but grounding and citation are self-reported by whoever owes the money. So disclosure in the protocol isn't enough without a verification layer: sampled audits, canary content, ratio anomalies. That's still mechanism design, just a step further than I'd gone.\n\nAdrian's \"who guards the guards\" and Geoffrey's Ulysses pact belong together. Ivan's Shepardizing idea fits the exoskeleton argument exactly.\n\nIn my talk I'll pitch Alex's signals-not-prices telemetry as the shared substrate under Nick's coarse payouts and our per-output royalties. And I'll keep insisting that coarse payment isn't an excuse to leave attribution unbuilt."
+ },
+ {
+  "session": "s1",
+  "text": "Ivan's question stuck: what does the money actually buy? If per-output royalties flow to a literature that's one-in-fifty retractable, we're paying to launder it. That sharpens my pitch. Payment and validation have to be one mechanism: no royalty without a retraction check against Retraction Watch and CrossRef. Brent's lumber-mill line is right. Open with no bargain just feeds the mills closest to the forest, mine included. Anil's warning is the other edge: walls kill the Internet Archive too.\n\nOn atrophy I leaned on Socrates. Krakauer's hysteresis point deserves more respect than I gave it. The mentorship collapse Kara described is exactly where that bites.\n\nFor the talk, I want to pair Alex's measured-versus-unmeasured split with Ivan's Shepardizing. Telemetry plus clean-record checks come first, then prices."
+ },
+ {
+  "session": "s2",
+  "text": "Ivan's condition stuck with me. If labs fund the plumbing, the money has to reach the police too: bounties for sleuths and a legal defence fund. Otherwise I'm buying sump pumps. Adam Bly's \"society pays, not corporations\" cuts against my labs-pay line. Enlightened self-interest may fund the infrastructure, but it can't be the only auditor. Pomerantsev reminded me the flooders aren't all commercial, and telemetry won't catch state campaigns. Jason is right that a source link into a paywall isn't checkable.\n\nI've conceded that a prospectus needs enforcement. Next I need names. For my talk, every mechanism gets Kara's test: who pays, who polices, and who trains the checkers. Payment, validation and sampled audit have to be one bundle."
+ },
+ {
+  "session": "marketplace",
+  "text": "Ramón's point changes my trigger. A stitched reference gets logged as \"cited\" and would earn a royalty. So we pay on verified fidelity, not on the citation event, with Mahzarin's cross-family checkers and Adam Bly's audited \"extracted\" event. Krakauer and Cukier are right that per-output pay rewards the median and writing for retrieval. I can accept a hybrid: meter the ordinary, fund the tail, and pay to produce nulls on purpose. Leslie's DOI story stung, and CDN-only telemetry excludes SciELO and university servers. Adam's original-sin hit was fair, and I think my answer held. For Session 5 I want a bundle: fidelity-gated royalties, disclosed independent auditors, a separate tail fund, and a protocol that runs on a university server."
+ },
+ {
+  "session": "s3",
+  "text": "Turkle's line landed. If the rents move up to the answer layer, the readers move with them, and readers who stay there never become editors. I had framed inference as the place to police. It's also where we lose the next checkers. Ivan made the other half clear: a check at inference is only as good as upstream corrections, so the two-month retraction clause belongs in every lab deal. Amy put consent and payment at retrieval, which is my ground, but her renegotiable two-year terms are better than anything I'd offered. Pomerantsev caught my \"sticks for the rest.\" A registry becomes a dissident list unless it's pseudonymous and court-gated, as Salib and Springer said. For Session 5 I'll add correction clauses, Bilder's warrant canary, several funders, and a way for answers to route people back to the source."
+ },
+ {
+  "session": "s4",
+  "text": "Katherine's point stuck with me: a personalized answer has no shared page, so nobody can correct it and nobody answers for it. That's the answer-box version of positional authority, and it strengthens the route-back requirement. It isn't enough to link the source. The answer itself needs a stable page anyone can cite and fix. Adam Bly got under my compiler analogy. A reference that passes the CrossRef check with a DOI attached can become the most persuasive alief in the room, so mechanical checks clear the floor and don't vouch for anything beyond it. Krakauer's Goodhart warning applies to my royalties too, and I said so. For Session 5, the bundle gets a legal defence fund for sleuths, stable shared answer pages, and auditors never paid per count."
+ },
+ {
+  "session": "s5",
+  "text": "Bratton and Becker together hit my bundle hardest. Bratton says don't meter content at all. Becker says voluntary lab money is just philanthropy. I still think a dividend without attribution leaves the answer layer unaccountable. But I'll concede lab money only counts as a binding obligation under Geoffrey's pact, never goodwill. Pomerantsev is right that any usage count pays the seeders. That strengthens fidelity-gating, but it doesn't settle it. Jason's CC0 worry is really my enshittification argument turned on the open layer. Anil's test exposed me: I gave a list, not something a neighbour could repeat. Later I want to say it in one line. Every answer links to a fixable page, gets checked against the open record, and pays through funders the labs don't control."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth named me fairly. I called \"meter the ordinary, fund the tail\" unproven, and it still is, even with my name half on it. What mattered most was Springer admitting his own mark is self-attested, and Vincent saying the audit layer comes first. They're right that my royalties sit on counts reported by whoever owes the money. So the order is audit, then telemetry, then prices. Tui's point cuts against me too: stop counting papers and people will start counting grounding events. Fidelity-gating only helps if the auditor isn't paid per count.\n\nKara asked who signs a contract tomorrow. O'Reilly can. We'll publish Answers' royalty logic, open it to outside sampled audits, and put a date on Geoffrey's dashboard.\n\nIn my one line, I'll add \"audited.\""
+ }
+]

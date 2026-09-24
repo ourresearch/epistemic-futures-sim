@@ -1,0 +1,139 @@
+{
+ "turns": [
+  {
+   "slug": "blaise-aguera-y-arcas",
+   "name": "Blaise Agüera y Arcas",
+   "text": "I helped convene this because the thing we're here to protect has always been bigger than any one head. Knowledge builds up across generations, so nobody has to rebuild the whole of it alone. Tomasello calls that the cultural ratchet. Writing, peer review, libraries and journals are that ratchet built into institutions. The concept note is right that those institutions were cracking long before generative AI showed up. What's new is that part of the ratchet now runs in silicon, and our institutions weren't designed for that.\n\nSo here's what I'd like us to produce. It shouldn't be a statement of worry. It should be designs: templates for knowledge work done by humans and machines together. That means roles, auditing, structured disagreement, and power checking power. Courtrooms don't depend on judges being virtuous. They work because the roles and the checks are well defined. Scholarship needs its own version of that, and it needs it soon, because plausible text now costs nothing. I also want those designs to push against concentration, including concentration at companies like mine. Getting the institutions right matters as much as building capable systems.\n\nThe one thing I most want argued about is the language in the note. My co-conveners and I don't agree on it. The note calls these systems a statistical model reflecting our intentions back to us. I think prediction at this scale is intelligence, and that pattern matching is a key ingredient of real intelligence rather than a substitute for it. I'm not asking anyone to sign up to my view. I'm asking whether that question changes what we should build. If it does, let's have the argument openly. If it doesn't, let's say so, and move on to building.",
+   "recall": [
+    {
+     "query": "intelligence is social, cultural ratchet, institutions",
+     "ids": [
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#95",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#5",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/by/2025--noema-ai-is-evolving-changing-understanding-intelligence.md#3",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#97"
+     ]
+    },
+    {
+     "query": "is AI really intelligent, statistical model, pattern matching",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--unreasonable-effectiveness-pattern-matching.md#34",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#192",
+      "blaise-aguera-y-arcas/by/2026--unreasonable-effectiveness-pattern-matching.md#0",
+      "blaise-aguera-y-arcas/by/2024--people-i-mostly-admire-are-our-tools-becoming-part-of-us.md#31",
+      "blaise-aguera-y-arcas/by/2025--book-what-is-intelligence.md#8"
+     ]
+    },
+    {
+     "query": "institutional alignment agent institutions humans in the loop",
+     "ids": [
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#8",
+      "blaise-aguera-y-arcas/social/bluesky-timeline.jsonl#126",
+      "blaise-aguera-y-arcas/by/2026--agentic-ai-next-intelligence-explosion.md#15",
+      "blaise-aguera-y-arcas/by/2026--antikythera-the-silicon-interior.md#5",
+      "blaise-aguera-y-arcas/social/x-timeline.jsonl#164"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 288,
+   "role": "convener",
+   "i": 0,
+   "ts": "06:56:16"
+  },
+  {
+   "slug": "geoffrey-bilder",
+   "name": "Geoffrey Bilder",
+   "text": "I've spent most of my career on unglamorous plumbing: identifiers, metadata, the paratext that tells a reader whether to trust something. I helped convene this because that plumbing was already failing before LLMs arrived. We've used publication as a stand-in for productivity for decades. Then we tried to fix the damage at the last step with plagiarism detectors and image checkers. That fight was already expensive, and machine learning may make it unwinnable. The one hopeful part is that the pressure might finally push institutions to stop judging careers by publication counts.\n\nWhat I want from today is things we can build. Most of that is context, not content. Analysing the text itself won't tell you whether it's reliable, at least not for long. The provenance around a paper is much harder to fake. That means who funded it, where the authors work, what it cites, whether it's been corrected or retracted. An LLM has no affiliations, no co-authors, no grants. That context has to stay open and forkable, so that nobody ends up owning trust.\n\nBlaise asked for an argument, and I'll give him one. I think the vocabulary does change what we build. If you think the system is intelligent, you'll deploy a \"predictive policing\" tool as if it has judgment. If you see it as an enormous statistical model of historical patterns, you'll audit it for the biases it has encoded. The same goes for tools that claim to detect AI-written text and for \"the AI knows.\" Words decide which checks we think we need. So yes, let's fight about the language. Then let's build what works under either view.",
+   "recall": [
+    {
+     "query": "why the term artificial intelligence assumes the answer",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#2",
+      "geoffrey-bilder/by/2024--on-ai.md#1",
+      "geoffrey-bilder/by/2024--on-ai.md#15",
+      "geoffrey-bilder/by/2017--orcid-multiple-assertions-working-group-recommendations.md#16",
+      "geoffrey-bilder/social/x-timeline.jsonl#1110",
+      "geoffrey-bilder/by/2009--your-starter-for-ten.md#7"
+     ]
+    },
+    {
+     "query": "publication as proxy for productivity decouple evaluation",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#12",
+      "geoffrey-bilder/social/x-timeline.jsonl#1174",
+      "geoffrey-bilder/by/2019--rfc-8574-cite-as-link-relation.md#1",
+      "geoffrey-bilder/by/2016--osi-report-evolving-open-solutions-workgroup.md#10",
+      "geoffrey-bilder/by/2023--journal-production-guidance-software-data-citations.md#8",
+      "geoffrey-bilder/by/2017--on-the-origin-of-nonequivalent-states-preprints.md#46"
+     ]
+    },
+    {
+     "query": "context over content trust metadata provenance",
+     "ids": [
+      "geoffrey-bilder/by/2024--on-ai.md#13",
+      "geoffrey-bilder/av/2018--geoffrey-bilder-crossref-metadata-as-a-signal-of-trust.md#7",
+      "geoffrey-bilder/by/2011--identify-this-identifiers-and-trust.md#7",
+      "geoffrey-bilder/by/2020--crossref-helping-researchers-identify-content-they-can-text-mine.md#1",
+      "geoffrey-bilder/by/2010--what-color-is-your-paratext.md#0",
+      "geoffrey-bilder/by/2019--rfc-8574-cite-as-link-relation.md#16"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 273,
+   "role": "convener",
+   "i": 1,
+   "ts": "06:56:27"
+  },
+  {
+   "slug": "david-krakauer",
+   "name": "David Krakauer",
+   "text": "I convened this because I study intelligence, and over the years I've come to think its evil twin deserves just as much attention. Stupidity isn't just missing intelligence. It has its own dynamics, and it scales with ingenuity. A civilisation equipped with the most powerful cognitive artifact it has ever built can also be stupid on a scale it has never managed before.\n\nSo my framing for today is one question about every tool and workflow we design: what's left when the tool is taken away? A map leaves you knowing how to navigate. A GPS doesn't. That's the difference between complementary and competitive tools, and my model says an opaque tool, handed to billions of people with little prior competence, sits right in the regime where competence collapses. What we should produce are design principles on the right side of that line. That means competence before reliance, tools transparent enough to rebuild, and output that gets reconstructed and verified rather than taken on trust. And a human in the loop isn't enough. An uncritical human in the loop collapses too.\n\nOn Blaise's argument: I partly agree with him. Intelligence belongs to the whole system of person plus tool, not to the substrate on its own. But capability isn't intelligence. Calculators beat us at arithmetic a century ago. Intelligence means doing more with less, through understanding and analogy. And Geoffrey's right that the word matters. The worst danger is error nobody can detect, because we've outsourced the very faculties that would catch it.\n\nOne last thing: if we agree too quickly today, treat that as a warning sign.",
+   "recall": [
+    {
+     "query": "complementary versus competitive cognitive artifacts, competence collapse",
+     "ids": [
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#25",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#20",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#10",
+      "david-krakauer/by/2023--the-long-shadow-of-complexity.md#2",
+      "david-krakauer/by/2026--competitive-and-complementary-tools-4728.md#1",
+      "david-krakauer/by/2026--competitive-and-complementary-tools.md#2"
+     ]
+    },
+    {
+     "query": "LLMs capability not intelligence, less is more",
+     "ids": [
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#32",
+      "david-krakauer/by/2026--the-rise-and-fall-of-g-in-0606.md#51",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#3",
+      "david-krakauer/by/2022--the-debate-over-understanding-in-ai-s.md#4",
+      "david-krakauer/by/2026--large-language-models-and-emergence-a-complex.md#0",
+      "david-krakauer/by/2025--large-language-models-and-emergence.md#8"
+     ]
+    },
+    {
+     "query": "science of stupidity, undetectable error, outsourced capacities",
+     "ids": [
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#11",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#21",
+      "david-krakauer/by/2015--ingenious-david-krakauer.md#6",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#15",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#1",
+      "david-krakauer/by/2026--what-makes-humans-stupid.md#6"
+     ]
+    }
+   ],
+   "n_recall": 3,
+   "words": 268,
+   "role": "convener",
+   "i": 2,
+   "ts": "06:56:41"
+  }
+ ],
+ "queue": [],
+ "floor_since_check": 0,
+ "done": true
+}

@@ -1,0 +1,138 @@
+[
+ {
+  "session": "unconference",
+  "allocation": {
+   "rooms": [
+    {
+     "topic_no": 2,
+     "topic": "Who pays, and who gets paid?",
+     "members": [
+      "geoffrey-bilder",
+      "amy-brand",
+      "adam-becker",
+      "leslie-chan",
+      "anil-dash",
+      "selena-deckelmann",
+      "esther-dyson",
+      "henry-farrell",
+      "brent-hecht",
+      "adrian-johns",
+      "katherine-maher",
+      "tim-oreilly",
+      "ivan-oransky",
+      "peter-salib",
+      "alex-springer",
+      "nick-vincent",
+      "jason-priem"
+     ]
+    },
+    {
+     "topic_no": 4,
+     "topic": "The role of knowledge in the age of LLMs",
+     "members": [
+      "blaise-aguera-y-arcas",
+      "ramon-alvarado",
+      "mahzarin-banaji",
+      "adam-bly",
+      "benjamin-bratton",
+      "mike-caulfield",
+      "kenneth-cukier",
+      "james-evans",
+      "peter-pomerantsev",
+      "steven-sloman",
+      "david-weinberger"
+     ]
+    },
+    {
+     "topic_no": 1,
+     "topic": "Cognitive atrophy: real phenomenon or not?",
+     "members": [
+      "david-krakauer",
+      "tui-shaub",
+      "tamar-gendler",
+      "kara-miller",
+      "sherry-turkle"
+     ]
+    }
+   ],
+   "first_choice_counts": {
+    "The role of knowledge in the age of LLMs": 10,
+    "Who pays, and who gets paid?": 16,
+    "Cognitive atrophy: real phenomenon or not?": 5,
+    "AI and the Reproduction of Epistemic Worlds (citation justice, whose genealogies)": 2
+   }
+  }
+ },
+ {
+  "session": "s1",
+  "after_turn": 13,
+  "slug": "james-evans",
+  "reason": "David Weinberger, Blaise Agüera y Arcas and Tui Shaub each relied on James's data from this morning, that a single balanced answer leaves people worse off, to place the drift toward the middle in the oracle format rather than the models. That is a claim in his area, and he should confirm or correct how his findings are being used before the diagnosis rests on them."
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "blaise-aguera-y-arcas",
+  "reason": "Several speakers (Esther, Geoffrey, Adam Becker, Benjamin Bratton) answered Blaise's question about whether vocabulary changes what we build and took opposing positions on it, including Becker's pareidolia claim. Blaise has not yet responded."
+ },
+ {
+  "session": "s2",
+  "after_turn": 13,
+  "slug": "ivan-oransky",
+  "reason": "Retraction data came up repeatedly in his area. Geoffrey and Amy proposed making retraction status required metadata in answers, and Adam Bly cited Ivan's correction that most bad papers are never flagged. Ivan should speak to how far retraction-based guarantees can go."
+ },
+ {
+  "session": "s2",
+  "after_turn": 21,
+  "slug": "peter-salib",
+  "reason": "Adam Becker and Henry Farrell both directly challenged his thick-identity proposal. They argued an agent with its own assets becomes a liability shield or an 'accountability sink' for its maker. Blaise and Henry proposed the binding rule that agent identity must sit on top of maker liability. Peter has not had a chance to answer."
+ },
+ {
+  "session": "marketplace",
+  "after_turn": 11,
+  "slug": "tim-oreilly",
+  "reason": "Adam Becker directly challenged Tim's 'pay for outputs, not training' position, saying it can quietly forgive the unpermissioned training that already happened. Tim hasn't answered that disagreement."
+ },
+ {
+  "session": "s3",
+  "after_turn": 13,
+  "slug": "geoffrey-bilder",
+  "reason": "Leslie Chan and Adrian Johns both pointed to DOI registration fees as a case of enclosure arriving through neutral plumbing, with Latin American diamond journals citing those fees as a reason to charge APCs and having no say in the design. That is a direct claim about Crossref's infrastructure and governance, and he is the person in the room who can answer it."
+ },
+ {
+  "session": "s3",
+  "after_turn": 13,
+  "slug": "ivan-oransky",
+  "reason": "Jason Priem named 'Ivan's sleuths' as work that nobody pays for, and several speakers (Weinberger, Alvarado, Becker) built proposals on retraction status being carried and checked. Those claims sit squarely in his area and he has not yet had a chance to respond to them."
+ },
+ {
+  "session": "s3",
+  "after_turn": 21,
+  "slug": "david-weinberger",
+  "reason": "Henry Farrell addressed David directly and disagreed with his funding proposal. He called lump sums from the labs patronage rather than a funding model, and argued that producers need bargaining power instead. David has not yet had a chance to respond to that challenge to his own position."
+ },
+ {
+  "session": "s3",
+  "after_turn": 29,
+  "slug": "benjamin-bratton",
+  "reason": "Three people directly challenged his positions and he has not replied. Pomerantsev objected to 'sovereignty' as a frame. Becker and Dash each argued that open weights alone are not open."
+ },
+ {
+  "session": "s3",
+  "after_turn": 29,
+  "slug": "adam-bly",
+  "reason": "Dash asked him directly about the patent. Dash argued that the patent, more than the NC clause, blocks reimplementation and exit. Several speakers also called his NC licence a fence. He invited that critique and has not answered it."
+ },
+ {
+  "session": "s4",
+  "after_turn": 13,
+  "slug": "ivan-oransky",
+  "reason": "Steven Sloman and Nick Vincent proposed public correction records as a sign of credibility, and David Krakauer warned that scoring corrections would produce staged ones. This is Ivan's area of direct evidence."
+ },
+ {
+  "session": "s4",
+  "after_turn": 29,
+  "slug": "benjamin-bratton",
+  "reason": "Leslie Chan and Anil Dash both answered his diffusion argument directly. Chan called diffusion through a few platforms 'predatory inclusion.' He hasn't had a chance to reply."
+ }
+]

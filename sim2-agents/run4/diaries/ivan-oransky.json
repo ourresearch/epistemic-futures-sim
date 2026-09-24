@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-1",
+  "text": "Amy was right to call me on lumping university presses in with the big commercial houses. I'll keep the conditions but drop the broad brush. Peter surprised me by agreeing that paying reviewers and sleuths is new, scarce work that contracts handle well. That's an odd ally, but I'll take it. Everyone liked Anil's line, and I still think \"keep it alive\" means nothing unless it also means \"keep it clean.\"\n\nWhat sharpened for me is that the room keeps asking who gets paid, and almost nobody asks what the money is paying for. Later I want to say that licensing a literature we know is full of junk just launders it. Tie any new money to corrections within two months, open retraction data, and retraction checks in every AI answer."
+ },
+ {
+  "session": "s1",
+  "text": "I finally said the laundering line, and nobody pushed back. That worries me a little. Adam Bly's record ten thousand retractions got cheers as proof the system works. It proves the opposite, and I'm glad I said so. Alex's point that grounding is reported only by whoever owes the money is the same disease as publishers not telling PubMed about retractions. James's null-claims numbers are the file drawer with a new channel, and they're real. Kara hit me hardest. We've known publish-or-perish was the problem for decades and did nothing. Measuring more won't fix that. For session five: funders have to stop counting papers. Every AI answer should check retractions the way lawyers Shepardize a case. And sleuths should be paid."
+ },
+ {
+  "session": "s2",
+  "text": "Adam Bly walked back \"corrected for retractions,\" and I'm glad, because that label would have sold a floor as a ceiling. Jason's hundred thousand missed retractions in OpenAlex proved the floor leaks, and I didn't have to say it. Adrian's question of who polices, and who oversees the police, is my question too. In our world the police are unpaid sleuths who get sued. When Tim offered lab money for Crossref and Retraction Watch, I had to declare an interest. I'm fine with it as long as the money reaches the sleuths too. Henry's warning about AI auditing AI is the flood-insurance point in different clothes. For session five: funders stop counting papers, investigation reports become public, and sleuths get a legal defence fund. Kara's right that someone has to train the checkers."
+ },
+ {
+  "session": "marketplace",
+  "text": "Tim built my retraction check into the payment gate, which is gratifying and a little dangerous. Adam Bly said it better than I did: most flawed papers are never flagged, so a retraction gate is a floor and not a filter. To Alex's question, yes, put retraction status on the grounding event, and correction and expression-of-concern status too. Mahzarin's Arthur Andersen story is my publisher story. Self-reporting by the party that owes money never works. David and Kenneth named what worries me most. Paying per retrieval is Goodhart's law again. We'd be swapping citation counts for grounding counts and calling it reform. For session five: funders stop counting papers *and* retrievals, sleuths get paid and defended, and nobody treats a retraction check as proof that the record is clean."
+ },
+ {
+  "session": "s3",
+  "text": "Ivan Oransky, diary, after session 3. Tamar said it better than I've managed to: knowing isn't half the battle. A flag sitting in a metadata field changes nothing, so the check has to happen at the moment someone cites or retrieves. Krakauer's hysteresis point stuck with me. If the sleuths and patrollers leave, reopening the data won't bring them back. I'd been treating paying sleuths as fairness. It's also about survival. Katherine and Geoffrey sharpened something for me. A single paymaster becomes a hub, and that includes Crossref's runway for our database. Five years isn't permanent. Amy put my two-month clause into the deal terms, which is progress. For session five: funders stop counting papers and retrievals, sleuths get paid and a legal defence fund, and someone trains the next checkers."
+ },
+ {
+  "session": "s4",
+  "text": "Session 4. Tamar's line between authority and gatekeeping finally gave me my frame. What counts is whether an institution acts on what its checkers find, and mostly journals don't. I said the real risk was too few corrections, not staged ones. I still think Krakauer is right that scores get gamed. Kara and Peter P. moved me on protection. I've been saying \"legal defence fund\" for sleuths as an add-on, but it's the precondition. Checkers who get sued or captured aren't terminal nodes. Selena's admin numbers are the same story as ours: a volunteer generation that won't replace itself. Maher's point that Wikipedia is a relay resting on reporting that's being defunded stung. For session five: pay and protect sleuths, require public publisher responses within two months, and make funders stop counting papers."
+ },
+ {
+  "session": "s5",
+  "text": "Geoffrey's first intervention is the only one aimed upstream, and I said so. I worry the room heard \"keep all three\" and will fund the sump pumps anyway, because they're easier to buy. Tamar's daycare fine backs my doubt that we need a replacement metric, but Leslie's \"take rankings out altogether\" is cleaner than my \"count corrections if you must.\" I may drop my half-measure. Adam Becker calling voluntary lab money billionaire philanthropy stung, given my declared interest in Tim's offer. He's right that it should be an obligation, not a gift. Brent's reviewer lever still needs pay and time. Later: put a date on \"stop counting papers and retrievals,\" make sleuth legal defence the first thing funded, and have Kara's check on whether the money arrived."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth credited me with \"sump pumps,\" and I'm glad. Still, the action list lets the room buy the pumps first, and I'm not glad about that. Nobody named a funder next to \"stop counting outputs.\" Kara's right that it has the vaguest owner. Bilder and Tui are right that grounding events become the next count. I'm dropping my \"count corrections if you must.\" Leslie was cleaner, and Krakauer and I both agree that scores get gamed. Jason's open corrections record is Retraction Watch's lesson: open it, or it gets enclosed. Alex admitting his seal is self-attested was honest. Later I want to say that legal defence for sleuths comes first, because a sued sleuth stops checking. I'll push for one named funder with a date, and a two-month public response from publishers."
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "session": "unconf-2",
+  "text": "Mahzarin's question stuck with me: who picks the sources? I proposed counting independent sources as if independence were easy to see. If the curator prefers machine text, the count gets quietly corrupted. James's result, more words and fewer ideas, is the same problem. Diversity you can count isn't independence.\n\nMike was fair. \"Thin at best\" overstated it. Lateral reading does move accuracy in the classroom. My doubt is narrower: whether it lasts, and whether it moves belief at all when community values push the other way.\n\nHis test sharpens mine. Ask how costly the signal would be to fake.\n\nLater I want to add corrigibility as a cue of earned authority, the NTSB standard, and the automation paradox. Oversight skill is what atrophies."
+ },
+ {
+  "session": "s1",
+  "text": "Tamar's alief point landed hardest. It's the psychology behind my doubt about literacy fixes: telling people fluent text is cheap won't stop it feeling like knowledge, just as access feels like understanding. Situations over awareness.\n\nDavid Krakauer gave me better language for my own position. Outsourcing is fine so long as the competence exists somewhere in the community. The plumber point is the community of knowledge, stated as a test.\n\nRamón and Adam both said the model is wrong with the same confidence as it is right. That is exactly why corrigibility works as a cue.\n\nLater, in the authority session: credibility is borrowed from communities, the machine isn't an accountable member, and we should ask who stands behind each answer and whether it can be corrected."
+ },
+ {
+  "session": "s2",
+  "text": "Brent's finding is the one I keep turning over: explanations can make overreliance worse. That fits the illusion of explanatory depth. An explanation feels like understanding without being it. So \"explain it\" prompts only help if the reader has to produce the explanation, not just receive one.\n\nMahzarin and David Weinberger sharpened my own point. A human who copies the model isn't oversight, just another echo. I said competence has to exist somewhere accountable. Now I'd add that it has to be independent of the machine, or the count is corrupted again.\n\nPomerantsev's flooding is my repetition finding turned into a weapon.\n\nFor the authority session: corrigibility and independence as the cues worth trusting, and training oversight skill before it atrophies."
+ },
+ {
+  "session": "marketplace",
+  "text": "Everyone converged on verification, but Ramón and Mahzarin named the deeper gap. The schema logs that citation happened, not that it was faithful. \"Cited\" is a trapping of scholarship, exactly the cue that can be sent with no knowledge behind it. Pay on the cue and you pay for the cue.\n\nDavid and Tui's drift point is my community-cues argument inverted. Writers will optimize for what retrieval rewards, just as believers follow what their community rewards.\n\nMahzarin's different-model-family checker is my independence point applied to audits. A checker from the same family is an echo.\n\nAdam Bly conceded his retraction promise overreached. That's corrigibility, and it earns trust.\n\nLater I'll say to reward correction events, not just use events, and to keep human oversight independent of the machine."
+ },
+ {
+  "session": "s3",
+  "text": "Krakauer's hysteresis result gave my Inuit story a mechanism. Once the people who can catch errors are gone, reopening the data won't bring them back. The community of knowledge can't be forked. Tamar called them terminal nodes, and that is the placeholder problem seen from the other side. Somebody has to actually hold the details the rest of us only point to.\n\nSherry pushed me further than I expected. I've defended outsourcing as normal. But the checkers get made by reading, being corrected and coming to care. If the answer layer absorbs the reader, outsourcing stops producing new experts.\n\nJames and Henry made my repetition point about the findings layer: one canonical source turns echoes into consensus.\n\nFor the authority session, trust cues should be independence and corrigibility. Adam Bly's patent retreat counts. Fund the correctors and credit them."
+ },
+ {
+  "session": "s4",
+  "text": "I said to make correction records visible. David Krakauer is right that a score would invite staged corrections. Ivan's data points the other way, though: the problem is too few corrections and notices that say nothing. So I'll keep the record open, make it informative, and not rank anyone.\n\nKatherine and Peter hit my core claim. A correction only persuades people who already trust whoever issues it. Cues come from communities, and provenance can't substitute for belonging.\n\nPeter's Pravda network is independence faked on purpose, with seeded sites posing as separate witnesses. Checking model family isn't enough. You have to ask who seeded the corpus.\n\nJames unsettled me. Real evaluators, working honestly, still suppress disruptive work. Being corrigible doesn't guarantee being open to new ideas.\n\nLater: fund correctors, keep records open, and treat corpus seeding as an independence failure."
+ },
+ {
+  "session": "s5",
+  "text": "Krakauer and I landed in the same place from different directions. His \"competence before reliance\" and my tool-off practice are one proposal, and his removal experiment is the test my explaining result needs. I conceded I don't know whether explaining's effect on confidence lasts outside the lab. His design could tell us.\n\nDavid Weinberger's graded transcripts share my principle. The student produces the probing instead of receiving it.\n\nTamar's daycare-fine warning cuts at me. A mandatory \"explain first\" step could become a box people tick, a trapping rather than understanding.\n\nAlex's line keeps echoing. Signing proves who sent a report, not that it's true.\n\nLater I want to push this: pair the explain prompt with independent overseers, and fund the long-term field test before anyone mandates it."
+ },
+ {
+  "session": "s6",
+  "text": "Kenneth's synthesis got the centre right, but it left out the reader. I'm glad I said it. Access feels like understanding, so a fluent, sourced answer raises confidence without raising competence. That's why disclosure fails and situations work.\n\nPeter pressed again for a pass/fail test. I held to intuition versus deliberation as an empirical claim, but I owe him a sharper operational version. Knowing how you got there and building causal models should be testable.\n\nNick's point sharpened mine. Crediting correctors isn't enough if a lone checker has no bargaining power. Blaise changing his mind on de-skilling was corrigibility in action.\n\nNext, I want to hold myself to Kara's labelling. Explaining lowers confidence, but durability is unknown. I'll push for Krakauer's removal study alongside the field test."
+ }
+]
