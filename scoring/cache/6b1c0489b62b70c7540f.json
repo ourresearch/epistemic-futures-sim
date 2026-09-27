@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Peter Salib",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nCopyright should not become a welfare program; money should buy future scarce work via contracts, and courts should be the outside overruling body.",
+ "raw": "{\"choice\":\"consent_or_payment\",\"why\":\"The dissent rejects levy-style compensation for existing text (\\\"Copyright should not become a welfare program\\\") and argues money should instead \\\"buy future scarce work via contracts.\\\" That matches the minority position on consent and payment: contracts for new work rather than dues or levies on existing text.\"}",
+ "parsed": {
+  "choice": "consent_or_payment",
+  "why": "The dissent rejects levy-style compensation for existing text (\"Copyright should not become a welfare program\") and argues money should instead \"buy future scarce work via contracts.\" That matches the minority position on consent and payment: contracts for new work rather than dues or levies on existing text."
+ }
+}

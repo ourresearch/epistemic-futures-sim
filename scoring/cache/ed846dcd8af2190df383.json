@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Leslie Chan",
+ "vote": 2,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nThe regime should be designed from the South with rankings removed from funding and promotion, as proposed mechanisms risk becoming \"the next DOI.\"",
+ "raw": "{\"choice\":\"other\",\"why\":\"The dissent concerns designing the regime \\\"from the South\\\" and removing rankings from funding and promotion, warning mechanisms risk becoming \\\"the next DOI.\\\" That is about equity and incentive structures. It does not address consent or payment for training data, and it does not address whether a model belongs in the checking loop.\"}",
+ "parsed": {
+  "choice": "other",
+  "why": "The dissent concerns designing the regime \"from the South\" and removing rankings from funding and promotion, warning mechanisms risk becoming \"the next DOI.\" That is about equity and incentive structures. It does not address consent or payment for training data, and it does not address whether a model belongs in the checking loop."
+ }
+}

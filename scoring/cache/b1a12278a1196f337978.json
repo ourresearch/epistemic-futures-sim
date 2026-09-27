@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Ivan Oransky",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nOnly stopping output counts addresses the source, a replacement metric may be unneeded, and reviewers asked to check more must be paid and given time.",
+ "raw": "{\"choice\":\"other\",\"why\":\"The dissent concerns academic incentives and review labour: \\\"Only stopping output counts addresses the source\\\" and reviewers \\\"must be paid and given time.\\\" It is not about consent or payment for training text, and not about whether a model belongs in the checking loop.\"}",
+ "parsed": {
+  "choice": "other",
+  "why": "The dissent concerns academic incentives and review labour: \"Only stopping output counts addresses the source\" and reviewers \"must be paid and given time.\" It is not about consent or payment for training text, and not about whether a model belongs in the checking loop."
+ }
+}

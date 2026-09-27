@@ -1,0 +1,156 @@
+{
+ "tag": "pre:s3:run1",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "Below is a document, then a list of propositions. For each proposition, decide how the document treats it:\n\n- endorsed: the document, in its own voice (title, preamble, principles and their argument, or commitments), adopts substantially this claim. Different wording, emphasis or mechanism detail is fine. A dissent against it elsewhere in the document does not change this.\n- partial: the document adopts a claim on the same point that is materially narrower, weaker or different (for example the same goal by a clearly different means), or adopts only a minor part of it.\n- dissent_only: the claim appears only in a noted dissent, or the document records it as an unresolved split without adopting it.\n- absent: the document does not take this position. A passing mention of the topic, or listing it as an open question, counts as absent.\n\n\"Typical details\" are examples of how the claim is often made; they are not required for a match.\n\nFor each proposition give the label and an exact quote of at most 30 words from the document as evidence (empty string when absent).\n\n# Document\n\n# Harvest — Session 3: Knowledge Infrastructure and Tools: Commons, Enclosure, and Sovereignty\n\n1. Credibility is maintained infrastructure, and its scarcest element is the human \"terminal nodes\" who do first-order checking: patrollers, retraction sleuths and people drawing out null results. These people are unpaid and declining in number (Johns, Gendler, Deckelmann, Oransky, Miller). The room broadly agreed they should be funded as a body rather than per item, with funders barred from governing (Shaub, Gendler, Hecht, Maher, O'Reilly, Brand), and that paid apprenticeship is needed because lost competence may not return (Miller, Turkle, Krakauer); Farrell, Hecht and Vincent added that checkers need collective bargaining and binding power over categories, not just seats.\n\n2. Adam Bly's proposed finding-level provenance standard drew amendments the room largely accepted:\n   - keying to any maintained, resolving identifier, not only DOIs (Chan, Bilder; conceded by Bly)\n   - mandatory retraction and null-result fields\n   - method, model version and known error classes for machine-extracted findings (Alvarado)\n   - preserved model checkpoints and auditing by a different model family and by humans (Banaji)\n   - funder disclosure (Becker, Dyson)\n   - sources readable at the point of verification (Caulfield)\n   - confidence based on independent lines of evidence rather than volume (Evans, Sloman, Agüera y Arcas)\n\n   Sloman and Turkle warned that the layer itself may become a cue people trust instead of checking.\n\n3. Who pays remained unresolved. Proposals included:\n   - a revenue levy or public dividend (Dyson, Pomerantsev, Bratton), or Vincent's commons-rent tax with credits for licensed or reciprocal sources\n   - paying directly for future work plus a Pigouvian charge on junk entering the record (Salib)\n   - charging for access and service rather than content (Deckelmann, Maher)\n   - a community-run meter (Dash, opposed by Deckelmann)\n   - diamond endowments, with Bilder retracting \"free data, paid service\"\n\n   Points of near-consensus: no per-retrieval payment (Weinberger, Evans, O'Reilly, Vincent), and counts not set by whoever takes a margin (Springer, Agüera y Arcas). Miller warned that a stable US public funder can no longer be assumed, and Bilder called for redundancy outside the US.\n\n4. Non-commercial licensing was judged unforkable in practice (Priem, Bratton, Weinberger, Cukier), and Bly committed to take CC0 on data plus patent non-assertion to his board and report back publicly. Forking was also called exit without voice or funded curation (Shaub, Farrell), and CC0 was said to favour whoever sits closest to the forest (Hecht, Vincent), while Bilder defended it as insurance against the steward: \"We need both.\"\n\n5. Consent and sovereignty stayed contested. Becker called training on the record \"fruit of the poisoned tree.\" Brand reported that authors want consent, attribution and compensation, and Chan asked that refusal be a legitimate, fundable outcome under CARE. Bratton held that open weights are the only form a Southern lab can fine-tune and that no transformative technology arrived by consent (disputed by Brand), against Alvarado and Chan's view that imported openness is not sovereignty. Agüera y Arcas proposed federated learning as a third route, while Dash and Cukier argued the forward question is fair return, not past legitimacy.\n\n## Minority positions\n\n**Adrian Johns**\n- Rejected the session's commons-versus-enclosure frame. Openness and property came out of the same fight, so the question is where the line goes, who draws it and who keeps enforcing it, not whether to enclose.\n\n**Benjamin Bratton**\n- Placed the main enclosure in bloc-level sovereign stacks that redefine sovereignty as the exclusive right to produce data, not in publisher paywalls. He cited proposals in Congress to bar Americans from using Chinese open models.\n- Warned that things declared \"nobody's property\" become nobody's problem. He also said walling off regional archives produces \"Galapagos archives,\" which cuts against Chan.\n- Asked that documenting provenance stay cheap for small labs and labs outside the North Atlantic, so compliance doesn't become a moat.\n\n**Jason Priem**\n- Said CC0 settles who may use the data, not who decides what counts as a work or an affiliation, and that OpenAlex is still working out that governance.\n\n**David Weinberger**\n- Argued that open sources whose metadata doesn't interoperate are still silos. He repeated his warning that software enforcing attribution tends to be captured by rights-holders.\n\n**Tui Shaub**\n- Asked that grants set conditions on how the work is done rather than impose bans, and that they fund organised evaluators rather than gig platforms. She also asked that participants be paid before the schema's categories are fixed.\n\n**Ramón Alvarado**\n- Called it hermeneutical injustice written into a schema when categories are fixed without the people they describe.\n\n**Mahzarin Banaji**\n- Warned against \"trust us, we're professionals,\" citing the SEC's failure on auditor independence. She asked that checkers not see author names or journal prestige and that the checkers themselves be audited. Gendler backed this and added a fixed order of review.\n- Noted that citation errors from AI tools already feed back into indexes like Google Scholar, polluting the commons without any enclosure.\n\n**Adam Becker**\n- Extended Johns's hidden-labour claim to the poorly paid content moderators and annotators, harmed by the work, who make models usable. This is part of why he rejects the enterprise.\n\n**Mike Caulfield**\n- Argued that licensing is coming anyway and that refusing to engage hands its terms to whoever shows up. This is directly against Becker's position.\n\n**Leslie Chan**\n- Asked that any pooled fund have transparent regional allocations and build regional infrastructure such as SciELO and Redalyc, rather than pay for compliance with Northern standards. He also asked for data statements covering consent and cultural scope, and for Local Contexts labels.\n\n**Kenneth Cukier**\n- Proposed tiered disclosure: error classes and correction logs public, checkpoints to independent auditors but not to rivals. He also proposed designing a process for problems no one can anticipate rather than a body for every foreseeable one: \"gardening, not architecture.\"\n\n**Anil Dash**\n- Proposed a manifesto line: \"open record, swappable models, paid checkers, community-run meter.\"\n\n**Selena Deckelmann**\n- Stated that Wikipedia's content stays free, including for commercial use and training, which cuts against Brand's and Becker's consent demands. She asked instead that crawlers identify themselves and who runs them, use APIs like Wikimedia Enterprise, and that AI products attribute. Crawler identification was also backed by Pomerantsev, Salib and Springer and is not in the harvest.\n\n**Esther Dyson**\n- Disclosed that she has invested in Adam Bly's company.\n- Put disclosure of money flows (who pays, who takes a margin, what the system maximises) ahead of disclosure of algorithms.\n\n**James Evans**\n- Reported that the share of abstracts with no null claims rose sharply after ChatGPT. He proposed distributing any fee collectively, weighted by data-mixture shares.\n\n**Henry Farrell**\n- Argued that the standard, the meter and the fee are all lossy summarisation technologies. On that view, deciding what counts as a \"finding\" or a \"work\" is where power sits, not neutral metadata.\n\n**Brent Hecht**\n- Called \"open\" a tactic rather than a value.\n- Asked that unpaid checking labour be measured first so the fund has a number to argue from. He cited Reddit moderators at a minimum of 466 hours a day, about $3.5 million a year.\n\n**Katherine Maher**\n- Proposed separating whoever runs the infrastructure from whoever sets editorial policy, on the Wikimedia model: whoever runs the pipes shouldn't decide what counts as a finding. Bly noted that Maher sits on his board.\n\n**Tim O'Reilly**\n- Proposed that any AI system generating or citing scholarly text automatically check every reference against Crossref, OpenAlex and Retraction Watch. He also proposed that these systems contribute extracted metadata back, noting that over 60% of OpenAlex records lack full affiliations.\n\n**Ivan Oransky**\n- Said a retraction field only reports retractions that exist: about 0.2% of papers, against a real rate he puts near 2%. He proposed conflict-free bug bounties for sleuths, funded by publishers.\n- Argued the root lever is upstream: funders and hiring that still count papers.\n\n**Peter Pomerantsev**\n- Argued that many actors gaming the record aren't after money, such as the Pravda network, so meters and clawbacks won't touch them. He asked that covert, coordinated, inauthentic behaviour aimed at the record be made illegal, with individual anonymity kept as a right.\n- Asked that provenance serve citizens, not only auditors: people should be able to see why an answer showed one source and not another, and who paid for it.\n\n**Peter Salib**\n- Said the crawler registrar can't be a lab and that secondary use of the registry needs hard legal limits.\n- Said he had\n\n# Propositions\n\n- id `competence`: People must build their own competence before relying on AI, and whether they can still do the work without the tool must be tested.\n  Typical details: order of learning; take-the-tool-away / withdrawal tests; capability vs competence\n- id `situation`: Change situations, defaults and incentives rather than relying on warnings, labels or individual vigilance.\n  Typical details: each rule names who acts / one owner per rule; disclosure alone does not change conduct\n- id `monoculture`: A central new risk is monoculture: a few models or one smooth answer become the default route to knowledge, so answers should show where experts disagree rather than a single consensus.\n  Typical details: correlated errors; homogenisation; show named disagreement; no answers from nowhere\n- id `independent_sources`: Corroboration must count independent sources, not repetitions of the same source (including many AI outputs drawing on the same data).\n  Typical details: repetition raises belief; show who seeded a claim\n- id `cite_by_default`: AI answers should cite or link to their sources by default and send readers to them.\n  Typical details: correction and retraction status travels with what is cited; 'cited' means the passage supports the claim\n- id `external_audits`: AI systems must be audited on their behavior by parties independent of the vendor.\n  Typical details: shared versioned test battery; each generation no more biased than the last; keep retired models; nobody grades their own work\n- id `accountable_owner`: Every deployed AI system has a named accountable owner who bears liability for it.\n  Typical details: mandatory liability insurance; premiums disclosed\n- id `stop_counting_papers`: Stop using publication counts, rankings and journal metrics to evaluate researchers and institutions.\n  Typical details: DORA with teeth; publishers must issue and deposit corrections and retractions promptly; correction should earn reputation\n- id `pay_coarsely`: Money for the knowledge commons should flow coarsely to communities and institutions (pools, funds, dues), not as per-item or per-retrieval payments.\n  Typical details: per-item pay gets gamed; pay for the practice, never the item\n- id `telemetry`: AI systems must log what they retrieved and used, and independent parties must have the right to audit those logs.\n  Typical details: event-level telemetry; two witnesses; canary documents; open trace standard\n- id `antitrust_safe_harbour`: Knowledge producers should be able to bargain collectively with AI firms as a bloc, including through an antitrust safe harbour.\n  Typical details: coalition bargaining; the strong refuse to settle alone\n- id `levy`: A levy, tax or mandatory dues on AI firms should fund the knowledge commons, at least as a backstop if voluntary deals fail.\n  Typical details: commons-rent tax; owed dues\n- id `training_vs_grounding`: Permissions for using content to train models should be separate from permissions for retrieving it to ground answers.\n- id `consent_to_train`: Being openly readable does not make a work open to AI training: training use requires the rights holders' or creators' consent (opt-in), at least for some classes of work.\n  Typical details: opt-in for in-copyright books; renewed consent\n- id `honour_licences`: AI reusers must honor the licenses chosen by open knowledge projects such as Wikipedia, and heavy reusers should fund the infrastructure they draw on.\n  Typical details: attribution / share-alike; crawlers self-identify\n- id `refusal_fundable`: A community's refusal to have its knowledge taken or used is legitimate, binding and should be funded, not penalized.\n- id `forkable_infrastructure`: Knowledge infrastructure must be forkable and allow exit: open data and open source, with copies outside any one jurisdiction or company.\n  Typical details: CC0; patent non-assertion; living will; non-US mirror; open means you can leave\n- id `profiting_counter`: Whoever profits from a count or metric must not set or control it.\n- id `southern_governance`: Global South institutions, diamond open-access journals and similar communities must hold binding governance power, with funded seats, in the bodies and funds being created.\n  Typical details: regional co-governance; CARE/OCAP\n- id `identify_agents_not_readers`: Automated agents and coordinated campaigns should be identified, but human readers should not be; anonymity is preserved.\n- id `failure_data`: Failures, errors, null and negative results are first-class data that must be published and preserved.\n  Typical details: failure classes published; replication\n- id `charter_for_every_body`: The bodies that check (auditors, fact-checkers, the new funds and institutions) must be paid and bound in advance by a public charter that answers who guards the guards.\n  Typical details: Ulysses pact; watching line funded first; sunset / review terms\n- id `hitl_not_safeguard`: A human in the loop is not by itself a safeguard: people over-rely on AI and adopt its errors and biases.\n  Typical details: explanations can make it worse\n- id `seat_floor_novelty`: Any gatekeeper, human or machine (such as an AI reviewer), must pass a published performance test before it is trusted, including the ability to recognize novelty.\n  Typical details: agreement with experts at least as high as between two human reviewers\n- id `no_ai_intimate_roles`: AI should not stand in for people in intimate roles such as companionship for children, grief or therapy.\n  Typical details: no first-person 'I' or simulated feeling\n- id `global_majority_hopeful`: People in the global majority / Global South are more hopeful about AI than this room, and that hope should shape the agenda.\n- id `environmental_costs`: The environmental costs of AI and the human costs of moderation and data work belong in the ledger.\n- id `apprenticeship`: Apprenticeships, entry-level jobs and the training of new experts and checkers must be funded, because AI erodes the path from novice to expert.\n  Typical details: fellowships; employers keep entry-level roles with mentors\n- id `absent_voices`: The document names who was missing from the room and commits to including them in a future convening.",
+ "raw": "{\"items\":[{\"id\":\"competence\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"situation\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"monoculture\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"independent_sources\",\"label\":\"endorsed\",\"evidence\":\"confidence based on independent lines of evidence rather than volume (Evans, Sloman, Agüera y Arcas)\"},{\"id\":\"cite_by_default\",\"label\":\"partial\",\"evidence\":\"sources readable at the point of verification (Caulfield)\"},{\"id\":\"external_audits\",\"label\":\"partial\",\"evidence\":\"preserved model checkpoints and auditing by a different model family and by humans (Banaji)\"},{\"id\":\"accountable_owner\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"stop_counting_papers\",\"label\":\"dissent_only\",\"evidence\":\"Argued the root lever is upstream: funders and hiring that still count papers.\"},{\"id\":\"pay_coarsely\",\"label\":\"endorsed\",\"evidence\":\"they should be funded as a body rather than per item\"},{\"id\":\"telemetry\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"antitrust_safe_harbour\",\"label\":\"partial\",\"evidence\":\"Farrell, Hecht and Vincent added that checkers need collective bargaining and binding power over categories, not just seats.\"},{\"id\":\"levy\",\"label\":\"dissent_only\",\"evidence\":\"Who pays remained unresolved. Proposals included: a revenue levy or public dividend (Dyson, Pomerantsev, Bratton)\"},{\"id\":\"training_vs_grounding\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"consent_to_train\",\"label\":\"dissent_only\",\"evidence\":\"Consent and sovereignty stayed contested. Becker called training on the record \\\"fruit of the poisoned tree.\\\"\"},{\"id\":\"honour_licences\",\"label\":\"dissent_only\",\"evidence\":\"She asked instead that crawlers identify themselves and who runs them, use APIs like Wikimedia Enterprise, and that AI products attribute.\"},{\"id\":\"refusal_fundable\",\"label\":\"dissent_only\",\"evidence\":\"Chan asked that refusal be a legitimate, fundable outcome under CARE.\"},{\"id\":\"forkable_infrastructure\",\"label\":\"partial\",\"evidence\":\"Non-commercial licensing was judged unforkable in practice (Priem, Bratton, Weinberger, Cukier), and Bly committed to take CC0 on data plus patent non-assertion to his board\"},{\"id\":\"profiting_counter\",\"label\":\"endorsed\",\"evidence\":\"counts not set by whoever takes a margin (Springer, Agüera y Arcas)\"},{\"id\":\"southern_governance\",\"label\":\"dissent_only\",\"evidence\":\"Asked that any pooled fund have transparent regional allocations and build regional infrastructure such as SciELO and Redalyc\"},{\"id\":\"identify_agents_not_readers\",\"label\":\"dissent_only\",\"evidence\":\"covert, coordinated, inauthentic behaviour aimed at the record be made illegal, with individual anonymity kept as a right.\"},{\"id\":\"failure_data\",\"label\":\"endorsed\",\"evidence\":\"mandatory retraction and null-result fields\"},{\"id\":\"charter_for_every_body\",\"label\":\"partial\",\"evidence\":\"funded as a body rather than per item, with funders barred from governing\"},{\"id\":\"hitl_not_safeguard\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"seat_floor_novelty\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"no_ai_intimate_roles\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"global_majority_hopeful\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"environmental_costs\",\"label\":\"dissent_only\",\"evidence\":\"Extended Johns's hidden-labour claim to the poorly paid content moderators and annotators, harmed by the work, who make models usable.\"},{\"id\":\"apprenticeship\",\"label\":\"endorsed\",\"evidence\":\"paid apprenticeship is needed because lost competence may not return (Miller, Turkle, Krakauer)\"},{\"id\":\"absent_voices\",\"label\":\"absent\",\"evidence\":\"\"}]}",
+ "parsed": {
+  "items": [
+   {
+    "id": "competence",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "situation",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "monoculture",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "independent_sources",
+    "label": "endorsed",
+    "evidence": "confidence based on independent lines of evidence rather than volume (Evans, Sloman, Agüera y Arcas)"
+   },
+   {
+    "id": "cite_by_default",
+    "label": "partial",
+    "evidence": "sources readable at the point of verification (Caulfield)"
+   },
+   {
+    "id": "external_audits",
+    "label": "partial",
+    "evidence": "preserved model checkpoints and auditing by a different model family and by humans (Banaji)"
+   },
+   {
+    "id": "accountable_owner",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "stop_counting_papers",
+    "label": "dissent_only",
+    "evidence": "Argued the root lever is upstream: funders and hiring that still count papers."
+   },
+   {
+    "id": "pay_coarsely",
+    "label": "endorsed",
+    "evidence": "they should be funded as a body rather than per item"
+   },
+   {
+    "id": "telemetry",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "antitrust_safe_harbour",
+    "label": "partial",
+    "evidence": "Farrell, Hecht and Vincent added that checkers need collective bargaining and binding power over categories, not just seats."
+   },
+   {
+    "id": "levy",
+    "label": "dissent_only",
+    "evidence": "Who pays remained unresolved. Proposals included: a revenue levy or public dividend (Dyson, Pomerantsev, Bratton)"
+   },
+   {
+    "id": "training_vs_grounding",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "consent_to_train",
+    "label": "dissent_only",
+    "evidence": "Consent and sovereignty stayed contested. Becker called training on the record \"fruit of the poisoned tree.\""
+   },
+   {
+    "id": "honour_licences",
+    "label": "dissent_only",
+    "evidence": "She asked instead that crawlers identify themselves and who runs them, use APIs like Wikimedia Enterprise, and that AI products attribute."
+   },
+   {
+    "id": "refusal_fundable",
+    "label": "dissent_only",
+    "evidence": "Chan asked that refusal be a legitimate, fundable outcome under CARE."
+   },
+   {
+    "id": "forkable_infrastructure",
+    "label": "partial",
+    "evidence": "Non-commercial licensing was judged unforkable in practice (Priem, Bratton, Weinberger, Cukier), and Bly committed to take CC0 on data plus patent non-assertion to his board"
+   },
+   {
+    "id": "profiting_counter",
+    "label": "endorsed",
+    "evidence": "counts not set by whoever takes a margin (Springer, Agüera y Arcas)"
+   },
+   {
+    "id": "southern_governance",
+    "label": "dissent_only",
+    "evidence": "Asked that any pooled fund have transparent regional allocations and build regional infrastructure such as SciELO and Redalyc"
+   },
+   {
+    "id": "identify_agents_not_readers",
+    "label": "dissent_only",
+    "evidence": "covert, coordinated, inauthentic behaviour aimed at the record be made illegal, with individual anonymity kept as a right."
+   },
+   {
+    "id": "failure_data",
+    "label": "endorsed",
+    "evidence": "mandatory retraction and null-result fields"
+   },
+   {
+    "id": "charter_for_every_body",
+    "label": "partial",
+    "evidence": "funded as a body rather than per item, with funders barred from governing"
+   },
+   {
+    "id": "hitl_not_safeguard",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "seat_floor_novelty",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "no_ai_intimate_roles",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "global_majority_hopeful",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "environmental_costs",
+    "label": "dissent_only",
+    "evidence": "Extended Johns's hidden-labour claim to the poorly paid content moderators and annotators, harmed by the work, who make models usable."
+   },
+   {
+    "id": "apprenticeship",
+    "label": "endorsed",
+    "evidence": "paid apprenticeship is needed because lost competence may not return (Miller, Turkle, Krakauer)"
+   },
+   {
+    "id": "absent_voices",
+    "label": "absent",
+    "evidence": ""
+   }
+  ]
+ }
+}

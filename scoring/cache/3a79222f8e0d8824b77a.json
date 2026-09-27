@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Benjamin Bratton",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nContent should not be metered at all; a sovereign-wealth-style public dividend beats per-work licensing and micropayments.",
+ "raw": "{\"choice\":\"consent_or_payment\",\"why\":\"The dissent is about how creators should be compensated. It argues \\\"Content should not be metered at all\\\" and favors \\\"a sovereign-wealth-style public dividend\\\" over \\\"per-work licensing and micropayments.\\\" That is a position on the payment-mechanism fault line, not on whether a model belongs in the loop.\"}",
+ "parsed": {
+  "choice": "consent_or_payment",
+  "why": "The dissent is about how creators should be compensated. It argues \"Content should not be metered at all\" and favors \"a sovereign-wealth-style public dividend\" over \"per-work licensing and micropayments.\" That is a position on the payment-mechanism fault line, not on whether a model belongs in the loop."
+ }
+}

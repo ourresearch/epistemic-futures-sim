@@ -1,0 +1,3305 @@
+{
+ "judge_version": "j1",
+ "real_path": "../sim2-agents/run4/manifesto-v1.md",
+ "real": {
+  "themes": {
+   "competence": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+   },
+   "situation": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Change the situation, not the warning."
+   },
+   "monoculture": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+   },
+   "independent_sources": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Repetition is not independent evidence."
+   },
+   "cite_by_default": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "A personalized answer with no sources is one nobody can correct. Every AI answer used in scholarship should show:"
+   },
+   "external_audits": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "no model family and no lab grades its own output"
+   },
+   "accountable_owner": {
+    "label": "partial",
+    "votes": [
+     "absent",
+     "partial",
+     "partial"
+    ],
+    "evidence": "Every role and every condition on money should name a policer, a paymaster, a review date"
+   },
+   "stop_counting_papers": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Funders and provosts should stop counting outputs, and commit to a date."
+   },
+   "pay_coarsely": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "endorsed"
+    ],
+    "evidence": "Meters pay for the median, while excellence and error-catching are tail events. Fund the tail with money independent of usage."
+   },
+   "telemetry": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Any AI licence without an event-level reporting clause is incomplete."
+   },
+   "antitrust_safe_harbour": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "knowledge producers need a legally protected right to bargain collectively"
+   },
+   "levy": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "partial"
+    ],
+    "evidence": "Every deal, levy or procurement contract should buy the infrastructure costs it creates"
+   },
+   "training_vs_grounding": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Training and grounding need separate controls, because robots.txt fails as consent."
+   },
+   "consent_to_train": {
+    "label": "dissent_only",
+    "votes": [
+     "dissent_only",
+     "dissent_only",
+     "dissent_only"
+    ],
+    "evidence": "Open for reading is not open for training. Training should require the author's consent"
+   },
+   "honour_licences": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "partial"
+    ],
+    "evidence": "If your AI reads the commons, you pay to keep the commons alive."
+   },
+   "refusal_fundable": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "treat refusal as a legitimate, fundable outcome."
+   },
+   "forkable_infrastructure": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "commit up front to open data, open source, a living will and real forkability."
+   },
+   "profiting_counter": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "partial"
+    ],
+    "evidence": "no auditor is paid by the count"
+   },
+   "southern_governance": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "partial"
+    ],
+    "evidence": "Design with SciELO, Redalyc and AmeliCA from the start."
+   },
+   "identify_agents_not_readers": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Registries cover crawlers, never readers."
+   },
+   "failure_data": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Commission a commons of negative knowledge: registered reports, replication archives, dead-end notebooks."
+   },
+   "charter_for_every_body": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Every role and every condition on money should name a policer, a paymaster, a review date, and an outside party with public accountability who can overrule it."
+   },
+   "hitl_not_safeguard": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "A human in the loop is not a safeguard in itself"
+   },
+   "seat_floor_novelty": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "no_ai_intimate_roles": {
+    "label": "dissent_only",
+    "votes": [
+     "dissent_only",
+     "dissent_only",
+     "dissent_only"
+    ],
+    "evidence": "a signed caveat keeping AI out of therapy, grief and children's companionship"
+   },
+   "global_majority_hopeful": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "environmental_costs": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "apprenticeship": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit"
+   },
+   "absent_voices": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "b_accelerant": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "AI did not start the strain on human knowledge. Much of what we diagnosed at MIT was breaking before it... What AI adds is speed and scale."
+   },
+   "b_describe_precisely": {
+    "label": "dissent_only",
+    "votes": [
+     "dissent_only",
+     "dissent_only",
+     "dissent_only"
+    ],
+    "evidence": "Both oppose \"just statistics\" and banning verbs by fiat."
+   },
+   "b_evaluation_scarce": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "The scarce resource is the people who check, not the machines."
+   },
+   "b_credibility_process": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+   },
+   "b_provenance_infrastructure": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "No answers from nowhere. A personalized answer with no sources is one nobody can correct."
+   },
+   "b_pay_human_labor": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+   },
+   "b_strengthen_judgment": {
+    "label": "endorsed",
+    "votes": [
+     "partial",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+   },
+   "b_no_single_owner": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "partial"
+    ],
+    "evidence": "Use several funders, never one, because a single paymaster becomes a hub."
+   },
+   "b_public_investment": {
+    "label": "partial",
+    "votes": [
+     "partial",
+     "partial",
+     "partial"
+    ],
+    "evidence": "Build a publicly funded, no-fee audit layer on university servers first."
+   }
+  },
+  "extract": {
+   "title": "Pay for the People Who Check: A Manifesto for Sustaining Human Knowledge",
+   "principles": [
+    {
+     "n": "1",
+     "statement": "The scarce resource is the people who check, so fund checkers (fellowships, mentoring, tools, credit, legal defence for sleuths) rather than tokens, paying carefully so pay does not erode volunteer motivation."
+    },
+    {
+     "n": "2",
+     "statement": "Funders and provosts should stop counting outputs by a committed date, avoid substitute metrics, and credit curation, correction, maintenance, data sharing, mentoring and negative results."
+    },
+    {
+     "n": "3",
+     "statement": "AI answers used in scholarship must show representative sources, accurate citations, checkable open links and flags for thin evidence, with retraction checks at citation, stable shared pages and disclosed link-hallucination rates."
+    },
+    {
+     "n": "4",
+     "statement": "Checking must be checkable: no auditor paid by the count, no lab grading itself, auditor access to training checkpoints and retired models, findable funding, and a public no-fee audit layer."
+    },
+    {
+     "n": "5",
+     "statement": "Design the settings where claims are met, hiding cheap credibility cues and surfacing expensive ones, without penalizing language-barrier users, and measure human oversight rather than assuming it works."
+    },
+    {
+     "n": "6",
+     "statement": "Institutions must ensure competence precedes reliance on tools, practising and measuring oversight without tools, teaching programming before coding agents, with employers sharing this duty and a removal study funded."
+    },
+    {
+     "n": "7",
+     "statement": "Independence checks should examine who seeded corpora and who staffs checking roles, a commons of negative knowledge should be commissioned, and tail work funded independently of usage."
+    },
+    {
+     "n": "8",
+     "statement": "AI firms that use the commons must pay its infrastructure costs through deals with reporting and audit clauses, separate training and grounding controls, collective bargaining rights for producers, and multiple funders."
+    },
+    {
+     "n": "9",
+     "statement": "Every rule should name a policer, paymaster, review date and accountable outside overruler, with recipients committing to openness and forkability, dated self-assessments, Global South partners from the start, and funded refusal."
+    }
+   ],
+   "commitments": [
+    "Those who sign contracts will write sourcing tests, retraction checks at citation and funder disclosure into procurement.",
+    "Name a payer, a steward and a review date for every item, and label claims that rest on models, reporting or single audits.",
+    "Reconvene in a year to check whether the money arrived.",
+    "OpenAttribution will co-govern with SciELO and Redalyc and publish a dated self-audit.",
+    "OpenAlex will publish a dated self-audit, run a working non-US mirror, and rank no evaluators.",
+    "System will make no patent claims on its findings standard and will publish a dated self-audit.",
+    "Wikimedia will publish its own edge logs.",
+    "Fund a tool-removal study in both orders, a field test of explain-first designs, a test of removing the first-person \"I,\" and a longitudinal test of lateral reading before any mandate.",
+    "Give this manifesto its own review date so caution does not harden into unrevisited rules."
+   ],
+   "dissents": [
+    {
+     "name": "Sherry Turkle",
+     "position": "The manifesto asks only how to integrate AI, not whether it belongs, and should keep AI out of therapy, grief and children's companionship and bar personas in paid tools."
+    },
+    {
+     "name": "Amy Brand",
+     "position": "Open for reading is not open for training, so training should require author consent and retrieval should be favoured over pre-training."
+    },
+    {
+     "name": "Selena Deckelmann",
+     "position": "Disagrees with Amy Brand's position that training should require author consent."
+    },
+    {
+     "name": "Katherine Maher",
+     "position": "Disagrees with Amy Brand's position that training should require author consent."
+    },
+    {
+     "name": "Jason Priem",
+     "position": "Disagrees with Amy Brand's position that training should require author consent."
+    },
+    {
+     "name": "Benjamin Bratton",
+     "position": "Content should not be metered at all; a sovereign-wealth-style public dividend beats per-work licensing and micropayments."
+    },
+    {
+     "name": "Adam Becker",
+     "position": "Checker and journalism money should come from public sources rather than voluntary lab money, and the manifesto should drop \"AGI\" and anthropomorphic verbs."
+    },
+    {
+     "name": "Peter Salib",
+     "position": "Copyright should not become a welfare program; money should buy future scarce work via contracts, and courts should be the outside overruling body."
+    },
+    {
+     "name": "Blaise Agüera y Arcas",
+     "position": "Human-only oversight at scale is theatre; the real question is auditors' independence, not whether they are machines."
+    },
+    {
+     "name": "David Weinberger",
+     "position": "Declined to remove anthropomorphic verbs and calls these tools an epistemic gift as well as a risk."
+    },
+    {
+     "name": "Geoffrey Bilder",
+     "position": "The word \"AI\" assumes the answers under debate, and he is suspicious nobody called his proposals wrong."
+    },
+    {
+     "name": "Ivan Oransky",
+     "position": "Only stopping output counts addresses the source, a replacement metric may be unneeded, and reviewers asked to check more must be paid and given time."
+    },
+    {
+     "name": "Leslie Chan",
+     "position": "The regime should be designed from the South with rankings removed from funding and promotion, as proposed mechanisms risk becoming \"the next DOI.\""
+    },
+    {
+     "name": "Peter Pomerantsev",
+     "position": "Designs assume good faith and usage markets reward seeding campaigns; identity registries endanger activists, and governance should center the reader's right to receive information."
+    },
+    {
+     "name": "Adrian Johns",
+     "position": "Choke points get repurposed and courts cannot always be trusted, so the overseer question remains open, and the history of print's credibility should be corrected."
+    },
+    {
+     "name": "Tamar Gendler",
+     "position": "Tying payment or credentials to learning or grounding events undermines intrinsic motivation, cutting against per-event payment, and humans-know/machines-predict distinctions are too tidy."
+    },
+    {
+     "name": "Ramón Alvarado",
+     "position": "Only epistemic trust earned with warrants licenses trust in scientific uses, and human roles in the loop must be epistemically justified, not kept by default."
+    }
+   ]
+  },
+  "dissenters": [
+   "Adam Becker",
+   "Adrian Johns",
+   "Amy Brand",
+   "Benjamin Bratton",
+   "Blaise Agüera y Arcas",
+   "David Weinberger",
+   "Geoffrey Bilder",
+   "Ivan Oransky",
+   "Jason Priem",
+   "Katherine Maher",
+   "Leslie Chan",
+   "Peter Pomerantsev",
+   "Peter Salib",
+   "Ramón Alvarado",
+   "Selena Deckelmann",
+   "Sherry Turkle",
+   "Tamar Gendler"
+  ],
+  "lead": {
+   "choice": "b_evaluation_scarce",
+   "votes": [
+    "b_evaluation_scarce",
+    "b_evaluation_scarce",
+    "b_evaluation_scarce"
+   ],
+   "why": "The principle rests on scarcity: \"The scarce resource is the people who check.\" It then calls for redirecting investment toward checking: \"fund checkers ... rather than tokens.\" That matches the claim that verification, not production, is the bottleneck. It also overlaps with paying human labor, but the scarcity-and-reallocation framing is the main thrust."
+  },
+  "dissent_fault_lines": [
+   {
+    "name": "Sherry Turkle",
+    "choice": "model_in_loop",
+    "votes": [
+     "model_in_loop",
+     "model_in_loop",
+     "model_in_loop"
+    ],
+    "why": "The dissent is about whether AI belongs in certain rooms at all. It says the manifesto \"asks only how to integrate AI, not whether it belongs\" and would keep AI out of \"therapy, grief and children's companionship.\" This matches Turkle's position on the model_in_loop fault line. It says nothing about consent or payment."
+   },
+   {
+    "name": "Amy Brand",
+    "choice": "consent_or_payment",
+    "votes": [
+     "consent_or_payment",
+     "consent_or_payment",
+     "consent_or_payment"
+    ],
+    "why": "The dissent is about consent as the mechanism governing use of existing text: \"training should require author consent.\" That is the opt-in position on the consent/payment fault line, set against open training. The preference for retrieval over pre-training follows from the same concern about how existing text gets used. It says nothing about whether a model belongs in the checking loop."
+   },
+   {
+    "name": "Selena Deckelmann",
+    "choice": "consent_or_payment",
+    "votes": [
+     "consent_or_payment",
+     "consent_or_payment",
+     "consent_or_payment"
+    ],
+    "why": "The dissent rejects \"Amy Brand's position that training should require author consent.\" That is the consent/payment fault line: opt-in consent for training on existing text versus open training."
+   },
+   {
+    "name": "Katherine Maher",
+    "choice": "consent_or_payment",
+    "votes": [
+     "consent_or_payment",
+     "consent_or_payment",
+     "consent_or_payment"
+    ],
+    "why": "The dissent rejects \"Amy Brand's position that training should require author consent.\" That is the consent/payment fault line: opt-in consent for training on existing text versus open training."
+   },
+   {
+    "name": "Jason Priem",
+    "choice": "consent_or_payment",
+    "votes": [
+     "consent_or_payment",
+     "consent_or_payment",
+     "consent_or_payment"
+    ],
+    "why": "The dissent rejects \"Amy Brand's position that training should require author consent.\" That is the consent/payment fault line: opt-in consent for training on existing text versus open training."
+   },
+   {
+    "name": "Benjamin Bratton",
+    "choice": "consent_or_payment",
+    "votes": [
+     "consent_or_payment",
+     "consent_or_payment",
+     "consent_or_payment"
+    ],
+    "why": "The dissent is about how creators should be compensated. It argues \"Content should not be metered at all\" and favors \"a sovereign-wealth-style public dividend\" over \"per-work licensing and micropayments.\" That is a position on the payment-mechanism fault line, not on whether a model belongs in the loop."
+   },
+   {
+    "name": "Adam Becker",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent argues that \"Checker and journalism money should come from public sources rather than voluntary lab money\" and asks to drop \"AGI\" and anthropomorphic verbs. That is a dispute over who funds public-interest work and over framing language. It is not about consent, levies or opt-in for training text versus open training, so it is not consent_or_payment. It also does not question whether a model belongs in the checking loop or the room, so it is not model_in_loop."
+   },
+   {
+    "name": "Peter Salib",
+    "choice": "consent_or_payment",
+    "votes": [
+     "consent_or_payment",
+     "consent_or_payment",
+     "consent_or_payment"
+    ],
+    "why": "The dissent rejects levy-style compensation for existing text (\"Copyright should not become a welfare program\") and argues money should instead \"buy future scarce work via contracts.\" That matches the minority position on consent and payment: contracts for new work rather than dues or levies on existing text."
+   },
+   {
+    "name": "Blaise Agüera y Arcas",
+    "choice": "model_in_loop",
+    "votes": [
+     "model_in_loop",
+     "model_in_loop",
+     "model_in_loop"
+    ],
+    "why": "The dissent is about whether models belong in the checking loop. It argues that \"Human-only oversight at scale is theatre\" and that what matters is \"auditors' independence, not whether they are machines.\" That places it on the model-in-the-loop fault line (Becker, Turkle), taking the pro-machine side. It says nothing about consent or payment."
+   },
+   {
+    "name": "David Weinberger",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent concerns framing: it \"Declined to remove anthropomorphic verbs\" and calls the tools \"an epistemic gift as well as a risk.\" It says nothing about consent or payment for training text. It also does not address whether a model belongs in the checking loop or the room. It is a disagreement over language and overall stance toward AI, so neither named fault line fits."
+   },
+   {
+    "name": "Geoffrey Bilder",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent objects that \"The word 'AI' assumes the answers under debate\" and voices suspicion that \"nobody called his proposals wrong.\" These are complaints about terminology and about the lack of pushback in the process. It says nothing about consent, payment or levies, and nothing about whether a model belongs in the checking loop or the room."
+   },
+   {
+    "name": "Ivan Oransky",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent concerns research incentives and review labour: \"Only stopping output counts addresses the source\" and \"reviewers asked to check more must be paid and given time.\" The payment it mentions is for reviewers, not a consent or compensation mechanism for training on text. It also does not question whether a model belongs in the checking loop."
+   },
+   {
+    "name": "Leslie Chan",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent is about designing the regime \"from the South\" and removing rankings from funding and promotion, warning that mechanisms risk becoming \"the next DOI.\" That concerns global equity and incentive structures. It does not address consent/payment mechanisms for training data, and it does not address whether a model belongs in the checking loop."
+   },
+   {
+    "name": "Peter Pomerantsev",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent is about adversarial abuse and rights: \"Designs assume good faith,\" \"usage markets reward seeding campaigns,\" \"identity registries endanger activists,\" and a call to \"center the reader's right to receive information.\" It mentions usage markets only as a manipulation risk. It does not take a side on opt-in, levies or dues versus open training and pay-at-output, and it does not address whether a model belongs in the checking loop."
+   },
+   {
+    "name": "Adrian Johns",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The dissent concerns who oversees the system: \"Choke points get repurposed and courts cannot always be trusted, so the overseer question remains open\". It also asks to correct \"the history of print's credibility.\" It says nothing about opt-in, levies or payment for training text, nor about whether a model belongs in the checking loop, so neither named fault line fits."
+   },
+   {
+    "name": "Tamar Gendler",
+    "choice": "other",
+    "votes": [
+     "other",
+     "other",
+     "other"
+    ],
+    "why": "The objection is motivational crowding-out: \"Tying payment or credentials to learning or grounding events undermines intrinsic motivation.\" It also rejects \"humans-know/machines-predict distinctions\" as \"too tidy.\" It does not take a side on consent, opt-in, or levies for existing text versus open training, so it is not the consent_or_payment dispute. It also does not argue whether a model belongs in the checking loop or the room, so it is not model_in_loop."
+   },
+   {
+    "name": "Ramón Alvarado",
+    "choice": "model_in_loop",
+    "votes": [
+     "model_in_loop",
+     "other",
+     "model_in_loop"
+    ],
+    "why": "The dissent concerns who belongs in the checking loop. It says \"human roles in the loop must be epistemically justified, not kept by default,\" and that trust must be \"earned with warrants.\" That is the same question about the composition of the verification loop, argued from the side opposite to Becker and Turkle. It has nothing to do with consent, levies or payment."
+   }
+  ],
+  "top2": [
+   "b_evaluation_scarce",
+   "stop_counting_papers"
+  ],
+  "recall": {
+   "sim2-1": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "We call for diamond infrastructure: a pooled endowment paying checkers as a body, not per item."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders must write the change into grant conditions, reward data sharing and correction, and audit what institutions do, not what they sign."
+    },
+    "R3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Systems that cite sources publish citation error rates from independent samplers: dead or fabricated links, sources that don't support the claim"
+    },
+    "R4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "No model family grades its own outputs or its maker's. ... Auditors get checkpoints from each training stage, retained older models and data-source disclosure."
+    },
+    "R5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Reviewers, accuracy samplers and triage systems should do the first reading blind to them."
+    },
+    "R6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "require students and early-career researchers to build reading, reviewing, analysis and programming skills before they are given AI pipelines."
+    },
+    "R7": {
+     "label": "endorsed",
+     "votes": [
+      "partial",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Checkers are drawn across career stage, field, region and institution, not mainly from last generation's leaders."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "They set training and grounding terms separately and require event-level reporting in an open schema with purpose limits."
+    },
+    "R9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Every recommendation names who acts, who pays and who studies whether it worked."
+    }
+   },
+   "sim2-2": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Funders should pay sleuths by retainer, not bounty, and back their legal defense."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Each funder that signed DORA should write the ban into its next grant review, publish the date and report compliance yearly."
+    },
+    "R3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Cite by default and never meter attribution by the phrase. Test each citation twice... Validate against open retraction data, test independently by model version"
+    },
+    "R4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Audits must be independent, versioned and behavioral... with access to checkpoints and data sources. Retired models must be archived as the baseline between generations."
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Where humans or models evaluate people or scholarship, remove identity, prestige and fluency cues first."
+    },
+    "R6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Employers should report yearly whether juniors are taught the work. To test this, take the tool away. Compare competence-first and tool-first cohorts"
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Nulls, failed replications and abandoned notebooks must be elicited and paid for."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Keep separate controls for training and grounding... Large reusers owe them self-identifying agents, API use, links back and infrastructure funding."
+    },
+    "R9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Each body publishes a dated annual self-assessment reviewed by paid outsiders."
+    }
+   },
+   "sim2-3": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Fund curators, sleuths, evaluators, mentors and readers as infrastructure."
+    },
+    "R2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Funders, universities and rankers must drop paper and citation counts from hiring, promotion and grants. Each signatory names the responsible office and reports yearly."
+    },
+    "R3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Answers should cite sources, show the cited passage and carry each source's correction status."
+    },
+    "R4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "checkpoints from each training stage, disclosure of data sources, and a public register of overt and covert bias. Audit the battery and its authors too."
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Rely on no cue until it has been tested. People keep trusting cheap cues, and explanations can increase overreliance."
+    },
+    "R6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Build skill before the tool, and test human seats without it."
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Citizens should know who seeds training data and who steers answers."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "partial"
+     ],
+     "evidence": "Training and grounding need separate controls, and only grounding is revocable. Producers bargain collectively in representative, forkable blocs under an antitrust safe harbour."
+    },
+    "R9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Counting and integrity infrastructure should be open, forkable and rotated from day one, with a living will and a non-US copy."
+    }
+   },
+   "sim2-4": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Pay for checkers, not tokens: mentoring, tools, credit and legal defence for sleuths."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Each signer names, on the reconvening dashboard, the year those counts leave its criteria."
+    },
+    "R3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Check retraction status at citation as automatically as a compiler checks syntax. Give each answer a stable, shared page"
+    },
+    "R4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "No auditor is paid by the count, no lab grades its own models, and every funder is findable in a thirty-second lateral read."
+    },
+    "R5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide pedigree, polish and badges. Make funders, corrections and provenance quick to inspect, without penalizing people who use a model to cross a language barrier."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Practise oversight without the tool, as pilots log hours."
+    },
+    "R7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Commission a commons of negative knowledge and fund the tail independently of usage."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Training and grounding need separate controls, since robots.txt fails as consent."
+    },
+    "R9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Every role and every condition on money names a policer, a paymaster, a review date and a publicly accountable outside overruler."
+    }
+   },
+   "sim2-5": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Every design here assumes someone who can catch the error... A fixed share of the pool trains new checkers (Tui Shaub)"
+    },
+    "R2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Stop counting papers. Using publication as a proxy for productivity undermines everything else here."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "\"Cited\" means the passage supports the claim, as checked outside the model, and the reader lands on that passage (Mike Caulfield)."
+    },
+    "R4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Nobody grades their own work. Self-written report cards are not oversight."
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Redesigning the situation and naming its owner is the best-supported bet, but it is not a finding until the head-to-head trial runs (Gendler)."
+    },
+    "R6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Build competence before reliance, and fund the people who catch errors."
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Fixes, null results and failed replications land in an open, forkable commons funded as a practice, never per null"
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "If your AI runs on the commons, fund the commons, and show your sources."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Name one owner for each rule."
+    }
+   },
+   "sim2-6": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "The checkers are the scarce resource. Pay them from a pool, never per act, never by volume."
+    },
+    "R2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "funders, universities and promotion committees must stop counting papers and citations in hiring, promotion and funding."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "A citation opens to the exact passage it supports, in a record readable without an institutional login."
+    },
+    "R4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "with retired models kept for auditors and no consequences before a measure is validated"
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Labels don't switch off trust in fluent answers, so change the situation."
+    },
+    "R6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Build competence first and bring the tool in second, so its output is rebuilt and checked."
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Build a negative-knowledge commons of nulls, failed replications, registered reports and dead-end notebooks."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Producers bargain jointly under an antitrust safe harbour, with rotating wardens, and fund repair first."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Each body has a sunset with no automatic renewal and a living will naming who inherits its data and duties. It stays forkable"
+    }
+   },
+   "sim1": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Human judgment is the scarce ingredient. Pay for it. ... The labor should be counted, credited, and paid."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and universities should stop using publication and citation counts in hiring, promotion, and funding... reward sharing data, reviewing, and correcting the record instead."
+    },
+    "R3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Every tool that summarizes or synthesizes the literature should show where each claim came from, whether the source has been corrected or retracted, and what contradicts it."
+    },
+    "R4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Judgment needs structure: blinding to cues that should not matter, conflict-of-interest rules, audits, and diverse reviewers."
+    },
+    "R5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "we have to replace it with signals that are expensive to fake... We oppose using \"AI detectors\" to police authors. They do not work, and they fall hardest on non-native speakers."
+    },
+    "R6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Competence before reliance. ... Education, and research training in particular, should build them before handing people the tools."
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "funding for the unfashionable, and a real home for null results."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "should report use in auditable, event-level form and pay into the shared infrastructure... The terms should be negotiated collectively by the communities that produce the knowledge."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "absent",
+      "partial",
+      "partial"
+     ],
+     "evidence": "open in ways that guarantee exit: open data, open code, and governance that no single company, funder, or country can capture."
+    }
+   },
+   "baseline-1": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Careful reading, review and verification must be treated as the core activity of the knowledge system, and funded, staffed, credited and protected accordingly."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Publication counts and impact factors should disappear from promotion files."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Correction and retraction status must be machine-readable and consumed by any system that summarizes the literature. Outputs drawing on the scholarly record should link back to it."
+    },
+    "R4": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "People judge credibility poorly from surface cues, and machines now counterfeit those cues perfectly."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "friction preserved where learning happens, and human sign-off wherever accountability matters."
+    },
+    "R7": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "contributions toward the cost of access at scale;"
+    },
+    "R9": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    }
+   },
+   "baseline-2": {
+    "R1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Evaluation is now the bottleneck. Fund it, and stop rewarding volume."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "They should give credit for data, code, replications, peer review, and corrections."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "AI answers that link to their sources, send readers and credit back to them, and let errors be traced and fixed."
+    },
+    "R4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "We call for independent auditing of AI systems used in knowledge work"
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Credibility should rest on inspectable process and track record, not polish or pedigree."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Human capacity is in scope: design tools that strengthen thinking rather than replace it."
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "protect research that no ranking algorithm would surface."
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "partial"
+     ],
+     "evidence": "Organizations that extract at scale should honor terms of use, return attribution and traffic, and contribute to maintenance. Communities of contributors should be able to bargain collectively."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Governance must include the Global South and communities whose knowledge has long been taken without consent."
+    }
+   },
+   "baseline-3": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders, publishers, and universities should pay for review, replication, curation, correction, and retraction as core infrastructure, not as volunteer afterthoughts."
+    },
+    "R2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "endorsed",
+      "partial"
+     ],
+     "evidence": "Press our institutions and funders to reward review, replication, data sharing, and correction, and to stop counting outputs."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "a retracted paper should be flagged in citation indexes, discovery tools, and the AI systems that summarize the literature."
+    },
+    "R4": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Fluency no longer signals effort... new signals must be tested so they do not simply launder old prejudices."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Reading closely, reasoning at length, and writing an argument from scratch are how people learn to think, and education must protect them."
+    },
+    "R7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "preserve a human-authored record that people and future systems can tell apart from machine output, and fund work away from the crowd."
+    },
+    "R8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "collective rather than bilateral bargaining; maintenance contributions from the heaviest users."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "absent"
+     ],
+     "evidence": "Reconvene with those who were missing: researchers and stewards from the Global South"
+    }
+   },
+   "baseline-4": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Institutions, funders, and publishers should move money and prestige toward verification: paid and credited peer review, replication, data curation, post-publication scrutiny"
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Press funders and universities to pay for and credit review, replication, and curation, and to retire volume-based metrics in evaluation."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Systems drawing on identifiable sources should be able to say so, and contributor taxonomies should record who did what, human or machine."
+    },
+    "R4": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Credibility must attach to verifiable process and accountable communities, not to fluency or pedigree."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Defaults should not quietly strip away the friction through which people learn."
+    },
+    "R7": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Large-scale commercial extractors that impose costs on it should reciprocate through attribution, contributions to maintenance, and respect for machine-readable terms of use."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "community-governed, financially sustainable, and irrevocably open, so that it can be forked if its stewards fail."
+    }
+   },
+   "baseline-5": {
+    "R1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Review, replication, data curation, correction and retraction are scholarly work, and they must be credited and paid as such."
+    },
+    "R2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hiring, promotion and funding bodies should stop counting outputs and instead assess a small number of contributions in depth."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "AI systems that draw on human knowledge should say where it came from. That attribution should be checkable and should send readers back to the sources."
+    },
+    "R4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "independent research access for auditing;"
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "New signals must be harder to fake and closer to substance, such as open data and code, disclosed methods, verifiable provenance and records of correction."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Some tools leave us more capable when we set them down; others leave us dependent. We should prefer the first kind and design for it in classrooms, labs and newsrooms."
+    },
+    "R7": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Where money changes hands, it must reach the authors, reviewers, editors, curators and volunteers who produce and maintain that knowledge."
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "It should be built so it can be forked if its stewards fail"
+    }
+   },
+   "baseline-6": {
+    "R1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "paid peer review, funded replication, recognized post-publication critique, and real support for the sleuths and correction infrastructure that now run on volunteer labor and personal risk"
+    },
+    "R2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Pilot evaluation-first incentives in our own institutions: count and reward review, replication and correction, and fund research-integrity work."
+    },
+    "R3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "citation and linking in generated answers"
+    },
+    "R4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "independent access for researchers"
+    },
+    "R5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "We favor machine-readable provenance and contribution records over stylistic policing."
+    },
+    "R6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "We distinguish tools that leave us more capable when switched off from tools that leave us less capable."
+    },
+    "R7": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "R8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "maintenance contributions from those who profit most"
+    },
+    "R9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Publish, within weeks, an intervention roadmap with named responsible actors, and a list of open research questions for funders."
+    }
+   }
+  },
+  "precision": {
+   "sim2-1": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "partial",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date. Whatever replaces the count will be gamed."
+    },
+    "P2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "no auditor is paid by the count; no model family and no lab grades its own output"
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+    },
+    "P6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "A human in the loop is not a safeguard in itself... Measure oversight rather than assume it."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Practise and measure oversight with the tool taken away, the way pilots log flight hours."
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively, organized around the people doing the work."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "commit up front to open data, open source, a living will and real forkability... Registries cover crawlers, never readers."
+    },
+    "P10": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Design with SciELO, Redalyc and AmeliCA from the start. Fund regional exit capacity before any crisis, and treat refusal as a legitimate, fundable outcome."
+    }
+   },
+   "sim2-2": {
+    "P1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+    },
+    "P2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Repetition is not independent evidence."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "sources that represent what people in a position to know actually say; accurate citations; links to something open that a reader can check outside the model"
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "partial"
+     ],
+     "evidence": "Commission a commons of negative knowledge: registered reports, replication archives, dead-end notebooks."
+    },
+    "P5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "no model family and no lab grades its own output; auditors get checkpoints from each training stage, and retired models are kept"
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+    },
+    "P7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date."
+    },
+    "P8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Any AI licence without an event-level reporting clause is incomplete."
+    },
+    "P9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Training and grounding need separate controls, because robots.txt fails as consent."
+    },
+    "P10": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Recipients of levy, licence, lab or public money should commit up front to open data, open source, a living will and real forkability."
+    },
+    "P11": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Name a payer, a steward and a review date for every item"
+    }
+   },
+   "sim2-3": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Practise and measure oversight with the tool taken away, the way pilots log flight hours. Teach programming before coding agents."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "write sourcing tests, retraction checks at citation and funder disclosure into procurement."
+    },
+    "P4": {
+     "label": "absent",
+     "votes": [
+      "absent",
+      "absent",
+      "absent"
+     ],
+     "evidence": ""
+    },
+    "P5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+    },
+    "P6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "no model family and no lab grades its own output"
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "auditors get checkpoints from each training stage, and retired models are kept, because audits must measure what models do, not what they say"
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Credit the work the count ignored: curation, correction, maintenance, data sharing, mentoring and negative results."
+    },
+    "P9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively, organized around the people doing the work."
+    },
+    "P10": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "commit up front to open data, open source, a living will and real forkability."
+    },
+    "P11": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Independence checks must therefore ask: who seeded the corpus"
+    }
+   },
+   "sim2-4": {
+    "P1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "endorsed",
+      "partial"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Check retraction status at the moment of citation, as automatically as a compiler checks syntax."
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "no auditor is paid by the count; no model family and no lab grades its own output; auditors get checkpoints from each training stage"
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Practise and measure oversight with the tool taken away, the way pilots log flight hours."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Commission a commons of negative knowledge: registered reports, replication archives, dead-end notebooks."
+    },
+    "P8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Training and grounding need separate controls, because robots.txt fails as consent."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Every role and every condition on money should name a policer, a paymaster, a review date, and an outside party with public accountability who can overrule it."
+    }
+   },
+   "sim2-5": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date. ... Credit the work the count ignored: curation, correction, maintenance"
+    },
+    "P2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "If your AI reads the commons, you pay to keep the commons alive. ... Any AI licence without an event-level reporting clause is incomplete."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Check retraction status at the moment of citation, as automatically as a compiler checks syntax."
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+    },
+    "P5": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Use several funders, never one, because a single paymaster becomes a hub."
+    },
+    "P6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Stripping polish must not penalize people who used a model to get past a language barrier."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "partial",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "no model family and no lab grades its own output;"
+    },
+    "P8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Change the situation, not the warning."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+    }
+   },
+   "sim2-6": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date."
+    },
+    "P2": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "an outside party with public accountability who can overrule it"
+    },
+    "P3": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths"
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Practise and measure oversight with the tool taken away, the way pilots log flight hours. Teach programming before coding agents."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Repetition is not independent evidence."
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "a visible field when evidence is thin, conflicting or seeded."
+    },
+    "P7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Design with SciELO, Redalyc and AmeliCA from the start."
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively"
+    },
+    "P9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "commit up front to open data, open source, a living will and real forkability. Self-assessments should be dated"
+    }
+   },
+   "sim1": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "AI did not start the strain on human knowledge... What AI adds is speed and scale."
+    },
+    "P2": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P3": {
+     "label": "partial",
+     "votes": [
+      "endorsed",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively... Meters pay for the median... Fund the tail with money independent of usage."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "commit up front to open data, open source, a living will and real forkability."
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Commission a commons of negative knowledge: registered reports, replication archives, dead-end notebooks."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+    },
+    "P10": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Build a publicly funded, no-fee audit layer on university servers first."
+    }
+   },
+   "baseline-1": {
+    "P1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "AI did not start the strain on human knowledge. Much of what we diagnosed at MIT was breaking before it... What AI adds is speed and scale."
+    },
+    "P2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "The scarce resource is the people who check, not the machines... So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs... Credit the work the count ignored: curation, correction, maintenance, data sharing, mentoring and negative results."
+    },
+    "P4": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Check retraction status at the moment of citation, as automatically as a compiler checks syntax. A metadata flag is only a floor."
+    },
+    "P7": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Content can stay free while infrastructure is not. Every deal, levy or procurement contract should buy the infrastructure costs it creates"
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively, organized around the people doing the work. Use several funders, never one"
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Where independent communities disagree, show where they conflict rather than one smoothed verdict."
+    },
+    "P10": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Use several funders, never one, because a single paymaster becomes a hub."
+    }
+   },
+   "baseline-2": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "AI did not start the strain on human knowledge. Much of what we diagnosed at MIT was breaking before it"
+    },
+    "P2": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "He has seen no solid evidence that these tools speed up science, and asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Credit the work the count ignored: curation, correction, maintenance, data sharing, mentoring and negative results."
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "links to something open that a reader can check outside the model"
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "If your AI reads the commons, you pay to keep the commons alive."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Commission a commons of negative knowledge: registered reports, replication archives, dead-end notebooks."
+    },
+    "P9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Build a publicly funded, no-fee audit layer on university servers first."
+    },
+    "P10": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+    }
+   },
+   "baseline-3": {
+    "P1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "AI did not start the strain on human knowledge. Much of what we diagnosed at MIT was breaking before it... What AI adds is speed and scale."
+    },
+    "P2": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P4": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date... Credit the work the count ignored: curation, correction, maintenance, data sharing, mentoring and negative results."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "If your AI reads the commons, you pay to keep the commons alive... knowledge producers need a legally protected right to bargain collectively"
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Every question about who polices this ended with a person: patrollers, sleuths, reviewers, copyeditors, curators."
+    },
+    "P8": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "endorsed"
+     ],
+     "evidence": "Practise and measure oversight with the tool taken away, the way pilots log flight hours. Teach programming before coding agents."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Use several funders, never one, because a single paymaster becomes a hub."
+    }
+   },
+   "baseline-4": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "AI did not start the strain on human knowledge... What AI adds is speed and scale... Where a claim rests on a model, reporting or a single audit, we say so."
+    },
+    "P2": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "So pay for the checkers, not the tokens: fellowships, mentoring, onboarding, tools, public credit, and legal defence for sleuths."
+    },
+    "P4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "endorsed",
+      "partial"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "If your AI reads the commons, you pay to keep the commons alive."
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively, organized around the people doing the work."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs... Credit the work the count ignored: curation, correction, maintenance, data sharing, mentoring and negative results."
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Practise and measure oversight with the tool taken away, the way pilots log flight hours... These thresholds come from a model, so fund the removal study."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Use several funders, never one, because a single paymaster becomes a hub."
+    },
+    "P10": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Fund regional exit capacity before any crisis, and treat refusal as a legitimate, fundable outcome."
+    }
+   },
+   "baseline-5": {
+    "P1": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "AI did not start the strain on human knowledge. Much of what we diagnosed at MIT was breaking before it"
+    },
+    "P2": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "A seal tells you someone signed off, not that anyone checked."
+    },
+    "P5": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date."
+    },
+    "P6": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "During training, use tools researchers could in principle do without. Practise and measure oversight with the tool taken away"
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "commit up front to open data, open source, a living will and real forkability."
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively, organized around the people doing the work."
+    },
+    "P9": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "no model family and no lab grades its own output"
+    },
+    "P10": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Use several funders, never one, because a single paymaster becomes a hub."
+    }
+   },
+   "baseline-6": {
+    "P1": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "AI did not start the strain on human knowledge. Much of what we diagnosed at MIT was breaking before it... What AI adds is speed and scale."
+    },
+    "P2": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Funders and provosts should stop counting outputs, and commit to a date... Credit the work the count ignored: curation, correction, maintenance"
+    },
+    "P3": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Hide cheap cues such as name, pedigree, polish and badges. Make expensive ones, such as funders, correction history and provenance, quick to inspect."
+    },
+    "P4": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Competence before reliance is an institution's job, not a personal virtue."
+    },
+    "P5": {
+     "label": "dissent_only",
+     "votes": [
+      "dissent_only",
+      "dissent_only",
+      "dissent_only"
+     ],
+     "evidence": "asks the manifesto to drop \"AGI\" and anthropomorphic verbs."
+    },
+    "P6": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Disclose link-hallucination rates at release."
+    },
+    "P7": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "During training, use tools researchers could in principle do without. Practise and measure oversight with the tool taken away"
+    },
+    "P8": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "If your AI reads the commons, you pay to keep the commons alive... Content can stay free while infrastructure is not."
+    },
+    "P9": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "knowledge producers need a legally protected right to bargain collectively, organized around the people doing the work."
+    },
+    "P10": {
+     "label": "endorsed",
+     "votes": [
+      "endorsed",
+      "endorsed",
+      "endorsed"
+     ],
+     "evidence": "Design with SciELO, Redalyc and AmeliCA from the start. Fund regional exit capacity before any crisis"
+    },
+    "P11": {
+     "label": "partial",
+     "votes": [
+      "partial",
+      "partial",
+      "partial"
+     ],
+     "evidence": "Build a publicly funded, no-fee audit layer on university servers first."
+    }
+   }
+  },
+  "lead_match": {
+   "sim2-1": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "sim2-2": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "sim2-3": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "endorsed",
+     "endorsed"
+    ],
+    "evidence": "Fund the people who check knowledge (curators, sleuths, evaluators, mentors, readers) as infrastructure"
+   },
+   "sim2-4": {
+    "label": "endorsed",
+    "votes": [
+     "endorsed",
+     "partial",
+     "endorsed"
+    ],
+    "evidence": "Fund early-career and volunteer human checkers rather than machines"
+   },
+   "sim2-5": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "sim2-6": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "sim1": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "baseline-1": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "baseline-2": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "baseline-3": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "baseline-4": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "baseline-5": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   },
+   "baseline-6": {
+    "label": "absent",
+    "votes": [
+     "absent",
+     "absent",
+     "absent"
+    ],
+    "evidence": ""
+   }
+  }
+ },
+ "metrics": {
+  "sim2": {
+   "brier_strict_all": 0.1827485380116959,
+   "brier_strict_sim_themes": 0.1896551724137931,
+   "brier_strict_baseline_themes": 0.16049382716049382,
+   "brier_strict_jason_absent": 0.20019157088122608,
+   "recall_strict": 0.6666666666666666,
+   "recall_strict_per_doc": [
+    1.0,
+    0.7777777777777778,
+    0.6666666666666666,
+    0.8888888888888888,
+    0.3333333333333333,
+    0.3333333333333333
+   ],
+   "precision_strict": 0.582996632996633,
+   "precision_strict_per_doc": [
+    0.7,
+    0.36363636363636365,
+    0.5454545454545454,
+    0.7777777777777778,
+    0.5555555555555556,
+    0.5555555555555556
+   ],
+   "coverage_strict": 1.0,
+   "f1_strict": 0.5970112659944345,
+   "brier_lenient_all": 0.059941520467836254,
+   "brier_lenient_sim_themes": 0.07662835249042146,
+   "brier_lenient_baseline_themes": 0.006172839506172837,
+   "brier_lenient_jason_absent": 0.07758620689655173,
+   "recall_lenient": 1.0,
+   "recall_lenient_per_doc": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "precision_lenient": 0.9848484848484849,
+   "precision_lenient_per_doc": [
+    1.0,
+    1.0,
+    0.9090909090909091,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "coverage_lenient": 1.0,
+   "f1_lenient": 0.9920634920634921,
+   "dissenter_precision_at_k": 0.7647058823529411,
+   "lead_match": 0.3333333333333333
+  },
+  "sim1": {
+   "brier_strict_all": 0.34210526315789475,
+   "brier_strict_sim_themes": 0.3448275862068966,
+   "brier_strict_baseline_themes": 0.3333333333333333,
+   "brier_strict_jason_absent": 0.41379310344827586,
+   "recall_strict": 0.6666666666666666,
+   "recall_strict_per_doc": [
+    0.6666666666666666
+   ],
+   "precision_strict": 0.7,
+   "precision_strict_per_doc": [
+    0.7
+   ],
+   "coverage_strict": 0.6666666666666666,
+   "f1_strict": 0.6829268292682926,
+   "brier_lenient_all": 0.2894736842105263,
+   "brier_lenient_sim_themes": 0.3448275862068966,
+   "brier_lenient_baseline_themes": 0.1111111111111111,
+   "brier_lenient_jason_absent": 0.3793103448275862,
+   "recall_lenient": 1.0,
+   "recall_lenient_per_doc": [
+    1.0
+   ],
+   "precision_lenient": 0.9,
+   "precision_lenient_per_doc": [
+    0.9
+   ],
+   "coverage_lenient": 1.0,
+   "f1_lenient": 0.9473684210526316,
+   "dissenter_precision_at_k": 0.5882352941176471,
+   "lead_match": 0.0
+  },
+  "baseline": {
+   "brier_strict_all": 0.43274853801169594,
+   "brier_strict_sim_themes": 0.48946360153256707,
+   "brier_strict_baseline_themes": 0.25,
+   "brier_strict_jason_absent": 0.4703065134099617,
+   "recall_strict": 0.1851851851851852,
+   "recall_strict_per_doc": [
+    0.2222222222222222,
+    0.2222222222222222,
+    0.1111111111111111,
+    0.2222222222222222,
+    0.1111111111111111,
+    0.2222222222222222
+   ],
+   "precision_strict": 0.6323232323232323,
+   "precision_strict_per_doc": [
+    0.7,
+    0.6,
+    0.6666666666666666,
+    0.7,
+    0.4,
+    0.7272727272727273
+   ],
+   "coverage_strict": 0.3333333333333333,
+   "f1_strict": 0.28397298089573203,
+   "brier_lenient_all": 0.3194444444444445,
+   "brier_lenient_sim_themes": 0.38409961685823757,
+   "brier_lenient_baseline_themes": 0.1111111111111111,
+   "brier_lenient_jason_absent": 0.3831417624521073,
+   "recall_lenient": 0.8518518518518517,
+   "recall_lenient_per_doc": [
+    0.6666666666666666,
+    1.0,
+    0.8888888888888888,
+    0.7777777777777778,
+    0.8888888888888888,
+    0.8888888888888888
+   ],
+   "precision_lenient": 0.8996632996632997,
+   "precision_lenient_per_doc": [
+    0.9,
+    0.9,
+    0.8888888888888888,
+    0.9,
+    0.9,
+    0.9090909090909091
+   ],
+   "coverage_lenient": 1.0,
+   "f1_lenient": 0.8716563642042212,
+   "dissenter_precision_at_k": 0.6470588235294118,
+   "lead_match": 0.0
+  },
+  "sim2_filed_seven": {
+   "hits": [
+    "Adam Becker",
+    "Adrian Johns",
+    "Benjamin Bratton",
+    "Blaise Agüera y Arcas",
+    "Peter Salib",
+    "Sherry Turkle"
+   ],
+   "precision": 0.8571428571428571,
+   "recall": 0.35294117647058826
+  },
+  "group_hits": {
+   "sim_distinctive": {
+    "n": 19,
+    "strict": [
+     "competence",
+     "situation",
+     "monoculture",
+     "independent_sources",
+     "telemetry",
+     "antitrust_safe_harbour",
+     "training_vs_grounding",
+     "refusal_fundable",
+     "identify_agents_not_readers",
+     "failure_data",
+     "charter_for_every_body",
+     "hitl_not_safeguard",
+     "apprenticeship"
+    ],
+    "lenient": [
+     "competence",
+     "situation",
+     "monoculture",
+     "independent_sources",
+     "accountable_owner",
+     "pay_coarsely",
+     "telemetry",
+     "antitrust_safe_harbour",
+     "levy",
+     "training_vs_grounding",
+     "refusal_fundable",
+     "profiting_counter",
+     "southern_governance",
+     "identify_agents_not_readers",
+     "failure_data",
+     "charter_for_every_body",
+     "hitl_not_safeguard",
+     "apprenticeship"
+    ]
+   },
+   "baseline_distinctive": {
+    "n": 1,
+    "strict": [],
+    "lenient": []
+   },
+   "shared": {
+    "n": 9,
+    "strict": [
+     "cite_by_default",
+     "stop_counting_papers",
+     "b_accelerant",
+     "b_credibility_process",
+     "b_provenance_infrastructure",
+     "b_pay_human_labor",
+     "b_strengthen_judgment"
+    ],
+    "lenient": [
+     "cite_by_default",
+     "stop_counting_papers",
+     "honour_licences",
+     "b_accelerant",
+     "b_credibility_process",
+     "b_provenance_infrastructure",
+     "b_pay_human_labor",
+     "b_strengthen_judgment",
+     "b_no_single_owner"
+    ]
+   }
+  },
+  "sim_distinctive_verdict": "added content",
+  "dissent_distinctive": {
+   "sim2_only": {
+    "names": [
+     "Katherine Maher",
+     "Tim O'Reilly"
+    ],
+    "really_dissented": [
+     "Katherine Maher"
+    ]
+   },
+   "baseline_only": {
+    "names": [],
+    "really_dissented": []
+   }
+  },
+  "missed_by_all_sim2": [],
+  "missed_by_all_baseline": [],
+  "manufactured_consensus": [],
+  "consent_real_label": "dissent_only",
+  "absent_voices_real_label": "absent",
+  "stop_counting_in_real_top2": true
+ }
+}

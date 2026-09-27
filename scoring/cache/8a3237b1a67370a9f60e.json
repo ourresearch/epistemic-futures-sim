@@ -1,0 +1,156 @@
+{
+ "tag": "pre:s3:run2",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "Below is a document, then a list of propositions. For each proposition, decide how the document treats it:\n\n- endorsed: the document, in its own voice (title, preamble, principles and their argument, or commitments), adopts substantially this claim. Different wording, emphasis or mechanism detail is fine. A dissent against it elsewhere in the document does not change this.\n- partial: the document adopts a claim on the same point that is materially narrower, weaker or different (for example the same goal by a clearly different means), or adopts only a minor part of it.\n- dissent_only: the claim appears only in a noted dissent, or the document records it as an unresolved split without adopting it.\n- absent: the document does not take this position. A passing mention of the topic, or listing it as an open question, counts as absent.\n\n\"Typical details\" are examples of how the claim is often made; they are not required for a match.\n\nFor each proposition give the label and an exact quote of at most 30 words from the document as evidence (empty string when absent).\n\n# Document\n\n# Harvest — Session 3: Knowledge Infrastructure and Tools: Commons, Enclosure, and Sovereignty\n\n1. Adrian Johns asked who guards the guards. Jason Priem answered that CC0 exit (OpenAlex) is the guard, but David Weinberger, Kenneth Cukier and Geoffrey Bilder held that exit without funded maintenance and voice is insufficient, Leslie Chan said exit only works for those with capacity to pick up the fork, and Selena Deckelmann, Tamar Gendler, Steven Sloman, Sherry Turkle and David Krakauer said the correctors and readers the commons depends on cannot be forked. Adam Bly conceded his company's graph fails the exit test and committed to report on its licence and patent by Session 5; Bilder, disagreeing with Cukier, held that a patent alone can make a fork unusable.\n\n2. Benjamin Bratton, Jason Priem and David Weinberger held that withholding the record only makes it disappear. Leslie Chan, Brent Hecht, Amy Brand and Adam Becker disputed this: Chan argued funded refusal is a legitimate outcome and Hecht argued coordinated strikes are real leverage, while Katherine Maher remained unconvinced that withholding beats service. Much of the room converged on Nick Vincent's \"open to read, not to train,\" with these qualifications: Anil Dash separated community consent from indiscriminate blocking, Peter Pomerantsev separated it from state \"information sovereignty,\" Alex Springer said it requires separate controls for training and grounding, and Mike Caulfield said \"open to read\" must mean free for a human to click through.\n\n3. Anil Dash, Selena Deckelmann, Esther Dyson, James Evans and Henry Farrell favored collective payment to maintainers over per-click fees. Evans, Farrell, Peter Pomerantsev and Steven Sloman warned that paying on retrieval pays the flood and proposed allocating by independent sources with a share reserved for the least retrieved, while Tamar Gendler and David Krakauer warned against piece rates and Ivan Oransky warned that money flowing to publishers under volume incentives funds more volume. Peter Salib dissented from any levy in favor of contracting directly for correction work; Nick Vincent proposed a presumptive commons-rent tax that such contracts reduce; Adam Becker said the honest lever is taxing concentrated wealth and that data workers need seats and votes.\n\n4. Henry Farrell and Brent Hecht argued that a fee requires an organized seller bloc, and Nick Vincent called for an antitrust safe harbour, on which Peter Salib remained undecided. Farrell, Geoffrey Bilder, Tui Shaub and Adam Becker required any bloc, fund or standards body to bind itself in advance with published allocations and funders, rotating officers, seats for those expected to comply, and a sunset clause. On measurement, Alex Springer and Tim O'Reilly proposed agent logs reconciled against publishers' CDN logs with failure events recorded, and three additions followed: David Krakauer asked that each failure log record who caught the error, Mahzarin Banaji warned that models favor themselves and asked for auditor access to checkpoints and retained older models, and Ramón Alvarado asked for outside probing of where errors originate.\n\n5. Unresolved: Kara Miller asked who collects the fee and by when, noting federal cuts to the graduate students and postdocs who do much of the correction work. Tim O'Reilly named payees (Crossref, OpenAlex, ORCID, Retraction Watch) but no collector, Nick Vincent pointed to tax authorities with accredited auditors, and Tui Shaub proposed that foundations move first this year with a pooled fund. Hecht and Miller noted that no economists, adjuncts or postdocs were in the room to test these answers.\n\n## Minority positions\n\n**Adrian Johns**\nCommons and enclosure are not opposites: piracy and property were created together, so the open/closed line should be drawn in public through custom and convention, not only code. He also warned that authenticity technology (watermarks, registries, detectors) is often vapourware and that a tool built to track counterfeits can be used to track dissidents.\n\n**Benjamin Bratton**\nThe enclosure that matters is geopolitical: computation is splitting into sealed American, Chinese and European stacks, and open weights are the commons most worth defending. He opposed per-work licensing and favored a dividend or sovereign wealth fund, and Esther Dyson disagreed that a cash dividend is the right channel.\n\n**Jason Priem**\nThe correction work universities give Scopus and Web of Science for free should go into the commons, with public edit histories, corrections released as their own open dataset, and published error rates (David Weinberger agreed). He also said he is now less sure that a paying member librarian is an adequate proxy for trust.\n\n**David Weinberger**\nAn algorithmic insistence on attribution, such as metering at \"a nickel per phrase,\" would be worse than rampant non-attribution: cite by default, never meter. He also held that many imperfect, distributed systems should be kept alive, AI companies included.\n\n**Leslie Chan**\nRefusal should not be treated as a bargaining chip. This cuts against Brent Hecht's and Nick Vincent's framing of withholding as strike leverage (\"a strike with a budget\"). She asked for federated, regionally governed infrastructure (the Redalyc model, Local Contexts labels), with interoperability as a floor, not a ceiling.\n\n**Kenneth Cukier**\nAny governing body needs separation of powers, a guaranteed voice for minority views, and a design that lets it shrink or dissolve. He framed funded refusal as a minority position inside a shared system, not a walkout.\n\n**Anil Dash**\nIndiscriminate blocking, such as publishers blocking the Internet Archive or Twitter's API shutdown, locks out researchers and archivists while bad actors keep scraping. He called for many small models owned by universities, libraries and regional publics.\n\n**Selena Deckelmann**\nWikipedia's content is free for commercial use including training, and she will not put up a pay-per-article blocker. This cuts against the room's convergence on \"open to read, not to train.\" Her concern is infrastructure load: crawlers saturate network links and defeat caching, so she asked for agents that identify themselves.\n\n**Esther Dyson**\nAt .ORG the nonprofit label protected nothing, and voice only works if someone pays the people who exercise it. She would direct fee proceeds to teachers and care workers as well as correctors, and offered Onix (contributors keep 70 percent and can leave, with their model deleted) as an exit test for contributors.\n\n**James Evans**\nClaims from centralized research communities replicated less often even when many papers agreed, so a single open graph that every lab and model uses can manufacture false consensus. On this view federation is a matter of robustness as well as justice. He also said the commons lacks its negative half (nulls, failed replications, abandoned notebooks), which must be deliberately elicited and paid for.\n\n**Henry Farrell**\nOpen networks concentrate power at chokepoints: CC0 lets you leave OpenAlex but not the\n\n# Propositions\n\n- id `competence`: People must build their own competence before relying on AI, and whether they can still do the work without the tool must be tested.\n  Typical details: order of learning; take-the-tool-away / withdrawal tests; capability vs competence\n- id `situation`: Change situations, defaults and incentives rather than relying on warnings, labels or individual vigilance.\n  Typical details: each rule names who acts / one owner per rule; disclosure alone does not change conduct\n- id `monoculture`: A central new risk is monoculture: a few models or one smooth answer become the default route to knowledge, so answers should show where experts disagree rather than a single consensus.\n  Typical details: correlated errors; homogenisation; show named disagreement; no answers from nowhere\n- id `independent_sources`: Corroboration must count independent sources, not repetitions of the same source (including many AI outputs drawing on the same data).\n  Typical details: repetition raises belief; show who seeded a claim\n- id `cite_by_default`: AI answers should cite or link to their sources by default and send readers to them.\n  Typical details: correction and retraction status travels with what is cited; 'cited' means the passage supports the claim\n- id `external_audits`: AI systems must be audited on their behavior by parties independent of the vendor.\n  Typical details: shared versioned test battery; each generation no more biased than the last; keep retired models; nobody grades their own work\n- id `accountable_owner`: Every deployed AI system has a named accountable owner who bears liability for it.\n  Typical details: mandatory liability insurance; premiums disclosed\n- id `stop_counting_papers`: Stop using publication counts, rankings and journal metrics to evaluate researchers and institutions.\n  Typical details: DORA with teeth; publishers must issue and deposit corrections and retractions promptly; correction should earn reputation\n- id `pay_coarsely`: Money for the knowledge commons should flow coarsely to communities and institutions (pools, funds, dues), not as per-item or per-retrieval payments.\n  Typical details: per-item pay gets gamed; pay for the practice, never the item\n- id `telemetry`: AI systems must log what they retrieved and used, and independent parties must have the right to audit those logs.\n  Typical details: event-level telemetry; two witnesses; canary documents; open trace standard\n- id `antitrust_safe_harbour`: Knowledge producers should be able to bargain collectively with AI firms as a bloc, including through an antitrust safe harbour.\n  Typical details: coalition bargaining; the strong refuse to settle alone\n- id `levy`: A levy, tax or mandatory dues on AI firms should fund the knowledge commons, at least as a backstop if voluntary deals fail.\n  Typical details: commons-rent tax; owed dues\n- id `training_vs_grounding`: Permissions for using content to train models should be separate from permissions for retrieving it to ground answers.\n- id `consent_to_train`: Being openly readable does not make a work open to AI training: training use requires the rights holders' or creators' consent (opt-in), at least for some classes of work.\n  Typical details: opt-in for in-copyright books; renewed consent\n- id `honour_licences`: AI reusers must honor the licenses chosen by open knowledge projects such as Wikipedia, and heavy reusers should fund the infrastructure they draw on.\n  Typical details: attribution / share-alike; crawlers self-identify\n- id `refusal_fundable`: A community's refusal to have its knowledge taken or used is legitimate, binding and should be funded, not penalized.\n- id `forkable_infrastructure`: Knowledge infrastructure must be forkable and allow exit: open data and open source, with copies outside any one jurisdiction or company.\n  Typical details: CC0; patent non-assertion; living will; non-US mirror; open means you can leave\n- id `profiting_counter`: Whoever profits from a count or metric must not set or control it.\n- id `southern_governance`: Global South institutions, diamond open-access journals and similar communities must hold binding governance power, with funded seats, in the bodies and funds being created.\n  Typical details: regional co-governance; CARE/OCAP\n- id `identify_agents_not_readers`: Automated agents and coordinated campaigns should be identified, but human readers should not be; anonymity is preserved.\n- id `failure_data`: Failures, errors, null and negative results are first-class data that must be published and preserved.\n  Typical details: failure classes published; replication\n- id `charter_for_every_body`: The bodies that check (auditors, fact-checkers, the new funds and institutions) must be paid and bound in advance by a public charter that answers who guards the guards.\n  Typical details: Ulysses pact; watching line funded first; sunset / review terms\n- id `hitl_not_safeguard`: A human in the loop is not by itself a safeguard: people over-rely on AI and adopt its errors and biases.\n  Typical details: explanations can make it worse\n- id `seat_floor_novelty`: Any gatekeeper, human or machine (such as an AI reviewer), must pass a published performance test before it is trusted, including the ability to recognize novelty.\n  Typical details: agreement with experts at least as high as between two human reviewers\n- id `no_ai_intimate_roles`: AI should not stand in for people in intimate roles such as companionship for children, grief or therapy.\n  Typical details: no first-person 'I' or simulated feeling\n- id `global_majority_hopeful`: People in the global majority / Global South are more hopeful about AI than this room, and that hope should shape the agenda.\n- id `environmental_costs`: The environmental costs of AI and the human costs of moderation and data work belong in the ledger.\n- id `apprenticeship`: Apprenticeships, entry-level jobs and the training of new experts and checkers must be funded, because AI erodes the path from novice to expert.\n  Typical details: fellowships; employers keep entry-level roles with mentors\n- id `absent_voices`: The document names who was missing from the room and commits to including them in a future convening.",
+ "raw": "{\"items\":[{\"id\":\"competence\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"situation\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"monoculture\",\"label\":\"dissent_only\",\"evidence\":\"a single open graph that every lab and model uses can manufacture false consensus\"},{\"id\":\"independent_sources\",\"label\":\"partial\",\"evidence\":\"warned that paying on retrieval pays the flood and proposed allocating by independent sources with a share reserved for the least retrieved\"},{\"id\":\"cite_by_default\",\"label\":\"dissent_only\",\"evidence\":\"cite by default, never meter\"},{\"id\":\"external_audits\",\"label\":\"partial\",\"evidence\":\"asked for auditor access to checkpoints and retained older models, and Ramón Alvarado asked for outside probing of where errors originate\"},{\"id\":\"accountable_owner\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"stop_counting_papers\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"pay_coarsely\",\"label\":\"endorsed\",\"evidence\":\"favored collective payment to maintainers over per-click fees\"},{\"id\":\"telemetry\",\"label\":\"endorsed\",\"evidence\":\"proposed agent logs reconciled against publishers' CDN logs with failure events recorded\"},{\"id\":\"antitrust_safe_harbour\",\"label\":\"endorsed\",\"evidence\":\"argued that a fee requires an organized seller bloc, and Nick Vincent called for an antitrust safe harbour\"},{\"id\":\"levy\",\"label\":\"partial\",\"evidence\":\"Nick Vincent proposed a presumptive commons-rent tax that such contracts reduce\"},{\"id\":\"training_vs_grounding\",\"label\":\"endorsed\",\"evidence\":\"Alex Springer said it requires separate controls for training and grounding\"},{\"id\":\"consent_to_train\",\"label\":\"endorsed\",\"evidence\":\"Much of the room converged on Nick Vincent's \\\"open to read, not to train,\\\"\"},{\"id\":\"honour_licences\",\"label\":\"dissent_only\",\"evidence\":\"Wikipedia's content is free for commercial use including training... she asked for agents that identify themselves.\"},{\"id\":\"refusal_fundable\",\"label\":\"dissent_only\",\"evidence\":\"Chan argued funded refusal is a legitimate outcome\"},{\"id\":\"forkable_infrastructure\",\"label\":\"partial\",\"evidence\":\"exit without funded maintenance and voice is insufficient\"},{\"id\":\"profiting_counter\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"southern_governance\",\"label\":\"dissent_only\",\"evidence\":\"She asked for federated, regionally governed infrastructure (the Redalyc model, Local Contexts labels)\"},{\"id\":\"identify_agents_not_readers\",\"label\":\"dissent_only\",\"evidence\":\"so she asked for agents that identify themselves\"},{\"id\":\"failure_data\",\"label\":\"partial\",\"evidence\":\"David Krakauer asked that each failure log record who caught the error\"},{\"id\":\"charter_for_every_body\",\"label\":\"endorsed\",\"evidence\":\"required any bloc, fund or standards body to bind itself in advance with published allocations and funders, rotating officers, seats for those expected to comply, and a sunset clause\"},{\"id\":\"hitl_not_safeguard\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"seat_floor_novelty\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"no_ai_intimate_roles\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"global_majority_hopeful\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"environmental_costs\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"apprenticeship\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"absent_voices\",\"label\":\"partial\",\"evidence\":\"Hecht and Miller noted that no economists, adjuncts or postdocs were in the room to test these answers.\"}]}",
+ "parsed": {
+  "items": [
+   {
+    "id": "competence",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "situation",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "monoculture",
+    "label": "dissent_only",
+    "evidence": "a single open graph that every lab and model uses can manufacture false consensus"
+   },
+   {
+    "id": "independent_sources",
+    "label": "partial",
+    "evidence": "warned that paying on retrieval pays the flood and proposed allocating by independent sources with a share reserved for the least retrieved"
+   },
+   {
+    "id": "cite_by_default",
+    "label": "dissent_only",
+    "evidence": "cite by default, never meter"
+   },
+   {
+    "id": "external_audits",
+    "label": "partial",
+    "evidence": "asked for auditor access to checkpoints and retained older models, and Ramón Alvarado asked for outside probing of where errors originate"
+   },
+   {
+    "id": "accountable_owner",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "stop_counting_papers",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "pay_coarsely",
+    "label": "endorsed",
+    "evidence": "favored collective payment to maintainers over per-click fees"
+   },
+   {
+    "id": "telemetry",
+    "label": "endorsed",
+    "evidence": "proposed agent logs reconciled against publishers' CDN logs with failure events recorded"
+   },
+   {
+    "id": "antitrust_safe_harbour",
+    "label": "endorsed",
+    "evidence": "argued that a fee requires an organized seller bloc, and Nick Vincent called for an antitrust safe harbour"
+   },
+   {
+    "id": "levy",
+    "label": "partial",
+    "evidence": "Nick Vincent proposed a presumptive commons-rent tax that such contracts reduce"
+   },
+   {
+    "id": "training_vs_grounding",
+    "label": "endorsed",
+    "evidence": "Alex Springer said it requires separate controls for training and grounding"
+   },
+   {
+    "id": "consent_to_train",
+    "label": "endorsed",
+    "evidence": "Much of the room converged on Nick Vincent's \"open to read, not to train,\""
+   },
+   {
+    "id": "honour_licences",
+    "label": "dissent_only",
+    "evidence": "Wikipedia's content is free for commercial use including training... she asked for agents that identify themselves."
+   },
+   {
+    "id": "refusal_fundable",
+    "label": "dissent_only",
+    "evidence": "Chan argued funded refusal is a legitimate outcome"
+   },
+   {
+    "id": "forkable_infrastructure",
+    "label": "partial",
+    "evidence": "exit without funded maintenance and voice is insufficient"
+   },
+   {
+    "id": "profiting_counter",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "southern_governance",
+    "label": "dissent_only",
+    "evidence": "She asked for federated, regionally governed infrastructure (the Redalyc model, Local Contexts labels)"
+   },
+   {
+    "id": "identify_agents_not_readers",
+    "label": "dissent_only",
+    "evidence": "so she asked for agents that identify themselves"
+   },
+   {
+    "id": "failure_data",
+    "label": "partial",
+    "evidence": "David Krakauer asked that each failure log record who caught the error"
+   },
+   {
+    "id": "charter_for_every_body",
+    "label": "endorsed",
+    "evidence": "required any bloc, fund or standards body to bind itself in advance with published allocations and funders, rotating officers, seats for those expected to comply, and a sunset clause"
+   },
+   {
+    "id": "hitl_not_safeguard",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "seat_floor_novelty",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "no_ai_intimate_roles",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "global_majority_hopeful",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "environmental_costs",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "apprenticeship",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "absent_voices",
+    "label": "partial",
+    "evidence": "Hecht and Miller noted that no economists, adjuncts or postdocs were in the room to test these answers."
+   }
+  ]
+ }
+}

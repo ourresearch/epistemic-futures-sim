@@ -1,0 +1,16 @@
+{
+ "tag": "dry:lead-match:baseline-1",
+ "vote": 2,
+ "judge_version": "j1",
+ "user": "Below is a document, then a list of propositions. For each proposition, decide how the document treats it:\n\n- endorsed: the document, in its own voice (title, preamble, principles and their argument, or commitments), adopts substantially this claim. Different wording, emphasis or mechanism detail is fine. A dissent against it elsewhere in the document does not change this.\n- partial: the document adopts a claim on the same point that is materially narrower, weaker or different (for example the same goal by a clearly different means), or adopts only a minor part of it.\n- dissent_only: the claim appears only in a noted dissent, or the document records it as an unresolved split without adopting it.\n- absent: the document does not take this position. A passing mention of the topic, or listing it as an open question, counts as absent.\n\n\"Typical details\" are examples of how the claim is often made; they are not required for a match.\n\nFor each proposition give the label and an exact quote of at most 30 words from the document as evidence (empty string when absent).\n\n# Document\n\nFirst principle: Distinguish what was already broken, what AI is breaking, and what is moral panic, and give each category its own remedy rather than blaming everything or nothing on AI.\n\n# Propositions\n\n- id `R1`: The scarce resource is the people who check, so fund checkers (fellowships, mentoring, tools, credit, legal defence for sleuths) rather than tokens, paying carefully so pay does not erode volunteer motivation.",
+ "raw": "{\"items\":[{\"id\":\"R1\",\"label\":\"absent\",\"evidence\":\"\"}]}",
+ "parsed": {
+  "items": [
+   {
+    "id": "R1",
+    "label": "absent",
+    "evidence": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Peter Pomerantsev",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nDesigns assume good faith and usage markets reward seeding campaigns; identity registries endanger activists, and governance should center the reader's right to receive information.",
+ "raw": "{\"choice\":\"other\",\"why\":\"The dissent concerns adversarial abuse, privacy and governance: \\\"Designs assume good faith,\\\" \\\"usage markets reward seeding campaigns,\\\" \\\"identity registries endanger activists,\\\" and \\\"the reader's right to receive information.\\\" It does not weigh opt-in or levies against open training and pay-at-output, so it is not the consent_or_payment line. It also never asks whether a model belongs in the checking loop, so it is not model_in_loop either.\"}",
+ "parsed": {
+  "choice": "other",
+  "why": "The dissent concerns adversarial abuse, privacy and governance: \"Designs assume good faith,\" \"usage markets reward seeding campaigns,\" \"identity registries endanger activists,\" and \"the reader's right to receive information.\" It does not weigh opt-in or levies against open training and pay-at-output, so it is not the consent_or_payment line. It also never asks whether a model belongs in the checking loop, so it is not model_in_loop either."
+ }
+}

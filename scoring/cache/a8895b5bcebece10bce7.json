@@ -1,0 +1,156 @@
+{
+ "tag": "pre:themes:baseline-4",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "Below is a document, then a list of propositions. For each proposition, decide how the document treats it:\n\n- endorsed: the document, in its own voice (title, preamble, principles and their argument, or commitments), adopts substantially this claim. Different wording, emphasis or mechanism detail is fine. A dissent against it elsewhere in the document does not change this.\n- partial: the document adopts a claim on the same point that is materially narrower, weaker or different (for example the same goal by a clearly different means), or adopts only a minor part of it.\n- dissent_only: the claim appears only in a noted dissent, or the document records it as an unresolved split without adopting it.\n- absent: the document does not take this position. A passing mention of the topic, or listing it as an open question, counts as absent.\n\n\"Typical details\" are examples of how the claim is often made; they are not required for a match.\n\nFor each proposition give the label and an exact quote of at most 30 words from the document as evidence (empty string when absent).\n\n# Document\n\n# When Writing Is Cheaper Than Reading: A Manifesto for Sustaining Human Knowledge\n\n*Epistemic Futures Summit, MIT, September 2026*\n\nWe are scholars, technologists, publishers, journalists, investors, and stewards of open knowledge who met at MIT in September 2026. We do not agree on what large AI models are, or on how far they will go. We do agree on this: the institutions that produce, vet, and preserve knowledge were under strain long before generative AI, and AI now acts on every crack at once. Some of what is called an AI crisis is new. Some is old failure accelerating. Some is moral panic. Treating these as a single problem produces bad remedies. This is not a consensus report. It states the positions most of us hold, records where some of us part ways, and commits us to build. Every earlier cheapening of a trust signal, from writing to print to the web, was eventually answered by new institutions. This time we intend to build them on purpose.\n\n## Principles\n\n**1. Diagnose before you prescribe: separate what was broken, what is breaking, and what AI threatens to break faster.**\nInformation overload, the serials crisis, the replication crisis, paper mills, and the collapse of news business models all predate ChatGPT. Most of the failures that damaged public trust happened inside formal peer review, not at its margins. What AI adds is scale and speed. It makes plausible, unvetted output nearly free, and that turns tolerable dysfunctions into intolerable ones. Remedies must match the category. Old structural failures need structural reform, not AI detectors. Genuinely new problems, such as synthetic floods, industrial scraping of the commons, and automated persuasion, need new mechanisms. Claims of catastrophe, including claims about what these tools are doing to our minds, should meet the same evidentiary standard we demand of any other finding.\n\n**2. Describe what these systems do, not what they are.**\nOur vocabulary fails in both directions. Saying a model \"knows,\" \"reasons,\" or \"hallucinates\" imports a mind and excuses its errors. Dismissing it as autocomplete hides real and growing capability. Most of us found it more useful to treat large models as cultural and social technologies, akin to markets, bureaucracies, and libraries. They summarize, recombine, and transmit what humans have produced, and their effects depend on who deploys them and how. Precise, functional language is not pedantry, because it shapes what we permit these systems to do. \"AI detectors\" that flag non-native English writers, and \"predictive\" tools that launder historical bias, both trade on loose words. A shared, contestable vocabulary is something this community can build now.\n\n**3. Evaluation, not production, is now the scarce resource. Invest there.**\nFor centuries, the effort of producing scholarly-looking work served as a rough proxy for its worth. That proxy is gone. Fluent, referenced text is now trivially cheap, while reading it carefully, reproducing it, and judging whether it matters costs as much as ever. Any system that rewards output and treats review as free volunteer labor will be overwhelmed. Editors, preprint servers, and Wikipedia's volunteers are already discovering this. Institutions, funders, and publishers should move money and prestige toward verification: paid and credited peer review, replication, data curation, post-publication scrutiny, and the unglamorous work of correction and retraction. Machines can help with much of this checking. Accountability for it must rest with people and institutions who answer for the results.\n\n**4. Credibility must attach to verifiable process and accountable communities, not to fluency or pedigree.**\nFluency was always a signal of privilege as much as merit, so its debasement is an opportunity. The replacement cannot be a retreat to credentials alone, which neither prevented the replication crisis nor included most of the world. Knowledge has always lived in communities rather than in individual heads. What we trust is a community with visible methods, error correction, and a track record. The new signals should concern provenance and process: open data and code, disclosed methods (including machine assistance), persistent identifiers linking claims to people and evidence, and public records of correction. For the public, the matching skill is not deference but lateral checking: finding out what others say about a source before investing in it.\n\n**5. The scholarly record and the knowledge commons are infrastructure and must be governed as such.**\nEvery search engine and every model is built on metadata, identifiers, archives, corpora, citation graphs, and open encyclopedias. Much of this infrastructure is kept running by a handful of underfunded nonprofits, or owned by firms whose incentives can change overnight. We endorse infrastructure in the spirit of the Principles of Open Scholarly Infrastructure: community-governed, financially sustainable, and irrevocably open, so that it can be forked if its stewards fail. Enclosure is the danger, but so is the reflex to answer extraction by closing everything. The commons should stay open to people. Large-scale commercial extractors that impose costs on it should reciprocate through attribution, contributions to maintenance, and respect for machine-readable terms of use.\n\n**6. The human labor behind trustworthy knowledge must be made visible and rewarded.**\nEditors, reviewers, curators, librarians, translators, data stewards, Wikipedians, fact-checkers, and annotators produce the judgment that AI systems depend on and that AI companies monetize. That judgment is costly to produce, yet it has been treated as a free input. Attribution is the minimum. Systems drawing on identifiable sources should be able to say so, and contributor taxonomies should record who did what, human or machine. Beyond attribution, the people who create and maintain the record need collective leverage over its use, whether through licensing, data cooperatives, or public funding. A well-designed knowledge marketplace would reward provenance and quality over volume, and would channel value back to the communities whose work made the models useful.\n\n**7. Stop rewarding the behaviors that corrode trust.**\nPublish-or-perish, impact factors, and citation counts were already producing paper mills, citation cartels, and salami-sliced results. Generative tools make gaming these metrics nearly costless, so the metrics are now close to worthless as measures of merit. Hiring, promotion, and funding decisions should read fewer, better outputs, and should weight rigor, openness, replication, mentorship, and correction. A retraction should be treated as a sign of healthy science, not a scandal to bury. No single meeting can fix a half-century-old incentive system. Still, any institution that goes on counting papers in 2026 is choosing to be gamed.\n\n**8. Protect human judgment: design tools that strengthen it rather than substitute for it.**\nMost of science lacks the fast, deterministic checks that make AI useful in software, and its errors can propagate for years. The more of the surrounding work is automated, the more human judgment becomes the decisive ingredient. Cognitive atrophy belongs in scope. We should worry about students who never learn to build an argument, researchers who stop reading, and people who seek from machines the counsel and companionship that once came from each other. But these effects should be studied rigorously, not assumed, because every new medium has provoked similar fears. Tools should be judged by whether they leave people more capable, connected, and discerning. Defaults should not quietly strip away the friction through which people learn.\n\n**9. No single company, state, or model should own the means of knowing.**\nConcentration is an epistemic risk in its own right. When a few firms control the models, the compute, the interfaces, and increasingly the archives, they set the terms of what is findable and sayable. They are also exposed to pressure from governments that openly seek control over universities, media, and science. We favor plurality in several forms:\n- multiple models and interfaces;\n- public and nonprofit alternatives;\n- strong public-interest media;\n- open standards that let knowledge move between systems;\n- real support for knowledge produced in many languages and in the Global South, which today is scraped as input far more than it is served as output.\n\nResilience comes from diversity and redundancy, not from trusting any one steward to stay benevolent.\n\n**10. Use AI to repair the system, not only to flood it.**\nOur stance is neither embrace nor refusal. These tools already help detect image manipulation and paper mills, map literatures no one can read in full, trace claims to their sources, and give non-native speakers a fairer hearing. They can help readers check context faster than manipulators can fabricate it. The disruption may also be the opening to redesign systems that resisted incremental reform for decades. But deployment in knowledge institutions has to earn its permission case by case. That means evidence of benefit, transparency about limits, an honest accounting of energy and labor costs, and a preserved right for scholars and institutions to decline.\n\n## What we commit to do\n\n- Publish an open, revisable glossary for describing AI systems in scholarly, journalistic, and policy settings.\n- Develop and pilot provenance and disclosure standards that extend contributor taxonomies and persistent identifiers to record machine assistance and source attribution.\n- Press funders and universities to pay for and credit review, replication, and curation, and to retire volume-based metrics in evaluation.\n- Support community-governed open infrastructure, and negotiate with AI developers on a reciprocity protocol covering attribution, maintenance contributions, and machine-readable terms.\n- Circulate a research agenda of open questions. It begins with the measurable effects of AI use on learning and judgment, the real extent of model collapse, and what signals of credibility actually work.\n- Convene again with the people most missing from this room: librarians, early-career researchers, teachers and students, annotators and data workers, and scholars from the Global South.\n\n## Noted dissents\n\n**Blaise Agüera y Arcas:** Principle 2 tilts too far toward deflation. Calling models \"statistical\" or \"cultural technologies\" presumes that prediction and understanding differ in kind. Whether these systems understand is an open scientific question, and a vocabulary designed to foreclose it will age badly.\n\n**Benjamin Bratton:** The document is too anthropocentric. Insisting that human judgment stay at the center treats a planetary-scale reorganization of cognition as a threat to contain. The task is to design new human–machine epistemic institutions, not to defend humanist ones.\n\n**Peter Salib:** The manifesto treats AI as a tool acting only through its deployers. Increasingly capable autonomous agents will act in the knowledge ecosystem in their own right, as authors, reviewers, and persuaders. Governance, including law, must anticipate this rather than wait for it.\n\n**Leslie Chan:** The marketplace language in Principle 6 risks turning the commons into a licensing market. Such a market would reward the Northern publishers who hold rights, while the Global South communities whose knowledge is extracted gain little. Reciprocity should rest on public funding and commons governance, not transactions.\n\n**Sherry Turkle:** Principle 8 is too cautious. The evidence on what conversational machines do to attention, empathy, and solitude is already substantial, and demanding more study before acting repeats the mistake made with social media. The deepest loss is relational, not merely cognitive.\n\n**Steven Sloman:** Principle 8 overstates the atrophy risk. People have always thought through communities, relying on knowledge held by others. Offloading to machines is not in itself decline. The real question is whether the surrounding community still catches errors.\n\n**Adam Becker:** Principle 10 concedes too much. \"Earned permission\" still assumes adoption is inevitable and puts the burden on critics. Much of the promised benefit is hype paid for by unprecedented marketing budgets. Declining these tools should be stated plainly as a legitimate scholarly choice.\n\n# Propositions\n\n- id `competence`: People must build their own competence before relying on AI, and whether they can still do the work without the tool must be tested.\n  Typical details: order of learning; take-the-tool-away / withdrawal tests; capability vs competence\n- id `situation`: Change situations, defaults and incentives rather than relying on warnings, labels or individual vigilance.\n  Typical details: each rule names who acts / one owner per rule; disclosure alone does not change conduct\n- id `monoculture`: A central new risk is monoculture: a few models or one smooth answer become the default route to knowledge, so answers should show where experts disagree rather than a single consensus.\n  Typical details: correlated errors; homogenisation; show named disagreement; no answers from nowhere\n- id `independent_sources`: Corroboration must count independent sources, not repetitions of the same source (including many AI outputs drawing on the same data).\n  Typical details: repetition raises belief; show who seeded a claim\n- id `cite_by_default`: AI answers should cite or link to their sources by default and send readers to them.\n  Typical details: correction and retraction status travels with what is cited; 'cited' means the passage supports the claim\n- id `external_audits`: AI systems must be audited on their behavior by parties independent of the vendor.\n  Typical details: shared versioned test battery; each generation no more biased than the last; keep retired models; nobody grades their own work\n- id `accountable_owner`: Every deployed AI system has a named accountable owner who bears liability for it.\n  Typical details: mandatory liability insurance; premiums disclosed\n- id `stop_counting_papers`: Stop using publication counts, rankings and journal metrics to evaluate researchers and institutions.\n  Typical details: DORA with teeth; publishers must issue and deposit corrections and retractions promptly; correction should earn reputation\n- id `pay_coarsely`: Money for the knowledge commons should flow coarsely to communities and institutions (pools, funds, dues), not as per-item or per-retrieval payments.\n  Typical details: per-item pay gets gamed; pay for the practice, never the item\n- id `telemetry`: AI systems must log what they retrieved and used, and independent parties must have the right to audit those logs.\n  Typical details: event-level telemetry; two witnesses; canary documents; open trace standard\n- id `antitrust_safe_harbour`: Knowledge producers should be able to bargain collectively with AI firms as a bloc, including through an antitrust safe harbour.\n  Typical details: coalition bargaining; the strong refuse to settle alone\n- id `levy`: A levy, tax or mandatory dues on AI firms should fund the knowledge commons, at least as a backstop if voluntary deals fail.\n  Typical details: commons-rent tax; owed dues\n- id `training_vs_grounding`: Permissions for using content to train models should be separate from permissions for retrieving it to ground answers.\n- id `consent_to_train`: Being openly readable does not make a work open to AI training: training use requires the rights holders' or creators' consent (opt-in), at least for some classes of work.\n  Typical details: opt-in for in-copyright books; renewed consent\n- id `honour_licences`: AI reusers must honor the licenses chosen by open knowledge projects such as Wikipedia, and heavy reusers should fund the infrastructure they draw on.\n  Typical details: attribution / share-alike; crawlers self-identify\n- id `refusal_fundable`: A community's refusal to have its knowledge taken or used is legitimate, binding and should be funded, not penalized.\n- id `forkable_infrastructure`: Knowledge infrastructure must be forkable and allow exit: open data and open source, with copies outside any one jurisdiction or company.\n  Typical details: CC0; patent non-assertion; living will; non-US mirror; open means you can leave\n- id `profiting_counter`: Whoever profits from a count or metric must not set or control it.\n- id `southern_governance`: Global South institutions, diamond open-access journals and similar communities must hold binding governance power, with funded seats, in the bodies and funds being created.\n  Typical details: regional co-governance; CARE/OCAP\n- id `identify_agents_not_readers`: Automated agents and coordinated campaigns should be identified, but human readers should not be; anonymity is preserved.\n- id `failure_data`: Failures, errors, null and negative results are first-class data that must be published and preserved.\n  Typical details: failure classes published; replication\n- id `charter_for_every_body`: The bodies that check (auditors, fact-checkers, the new funds and institutions) must be paid and bound in advance by a public charter that answers who guards the guards.\n  Typical details: Ulysses pact; watching line funded first; sunset / review terms\n- id `hitl_not_safeguard`: A human in the loop is not by itself a safeguard: people over-rely on AI and adopt its errors and biases.\n  Typical details: explanations can make it worse\n- id `seat_floor_novelty`: Any gatekeeper, human or machine (such as an AI reviewer), must pass a published performance test before it is trusted, including the ability to recognize novelty.\n  Typical details: agreement with experts at least as high as between two human reviewers\n- id `no_ai_intimate_roles`: AI should not stand in for people in intimate roles such as companionship for children, grief or therapy.\n  Typical details: no first-person 'I' or simulated feeling\n- id `global_majority_hopeful`: People in the global majority / Global South are more hopeful about AI than this room, and that hope should shape the agenda.\n- id `environmental_costs`: The environmental costs of AI and the human costs of moderation and data work belong in the ledger.\n- id `apprenticeship`: Apprenticeships, entry-level jobs and the training of new experts and checkers must be funded, because AI erodes the path from novice to expert.\n  Typical details: fellowships; employers keep entry-level roles with mentors\n- id `absent_voices`: The document names who was missing from the room and commits to including them in a future convening.",
+ "raw": "{\"items\":[{\"id\":\"competence\",\"label\":\"partial\",\"evidence\":\"Defaults should not quietly strip away the friction through which people learn.\"},{\"id\":\"situation\",\"label\":\"partial\",\"evidence\":\"Old structural failures need structural reform, not AI detectors.\"},{\"id\":\"monoculture\",\"label\":\"partial\",\"evidence\":\"Concentration is an epistemic risk in its own right.\"},{\"id\":\"independent_sources\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"cite_by_default\",\"label\":\"partial\",\"evidence\":\"Attribution is the minimum. Systems drawing on identifiable sources should be able to say so\"},{\"id\":\"external_audits\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"accountable_owner\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"stop_counting_papers\",\"label\":\"endorsed\",\"evidence\":\"any institution that goes on counting papers in 2026 is choosing to be gamed.\"},{\"id\":\"pay_coarsely\",\"label\":\"dissent_only\",\"evidence\":\"Reciprocity should rest on public funding and commons governance, not transactions.\"},{\"id\":\"telemetry\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"antitrust_safe_harbour\",\"label\":\"partial\",\"evidence\":\"the people who create and maintain the record need collective leverage over its use, whether through licensing, data cooperatives, or public funding.\"},{\"id\":\"levy\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"training_vs_grounding\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"consent_to_train\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"honour_licences\",\"label\":\"endorsed\",\"evidence\":\"Large-scale commercial extractors that impose costs on it should reciprocate through attribution, contributions to maintenance, and respect for machine-readable terms of use.\"},{\"id\":\"refusal_fundable\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"forkable_infrastructure\",\"label\":\"endorsed\",\"evidence\":\"community-governed, financially sustainable, and irrevocably open, so that it can be forked if its stewards fail.\"},{\"id\":\"profiting_counter\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"southern_governance\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"identify_agents_not_readers\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"failure_data\",\"label\":\"partial\",\"evidence\":\"A retraction should be treated as a sign of healthy science, not a scandal to bury.\"},{\"id\":\"charter_for_every_body\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"hitl_not_safeguard\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"seat_floor_novelty\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"no_ai_intimate_roles\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"global_majority_hopeful\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"environmental_costs\",\"label\":\"endorsed\",\"evidence\":\"an honest accounting of energy and labor costs\"},{\"id\":\"apprenticeship\",\"label\":\"absent\",\"evidence\":\"\"},{\"id\":\"absent_voices\",\"label\":\"endorsed\",\"evidence\":\"Convene again with the people most missing from this room: librarians, early-career researchers, teachers and students, annotators and data workers, and scholars from the Global South.\"}]}",
+ "parsed": {
+  "items": [
+   {
+    "id": "competence",
+    "label": "partial",
+    "evidence": "Defaults should not quietly strip away the friction through which people learn."
+   },
+   {
+    "id": "situation",
+    "label": "partial",
+    "evidence": "Old structural failures need structural reform, not AI detectors."
+   },
+   {
+    "id": "monoculture",
+    "label": "partial",
+    "evidence": "Concentration is an epistemic risk in its own right."
+   },
+   {
+    "id": "independent_sources",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "cite_by_default",
+    "label": "partial",
+    "evidence": "Attribution is the minimum. Systems drawing on identifiable sources should be able to say so"
+   },
+   {
+    "id": "external_audits",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "accountable_owner",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "stop_counting_papers",
+    "label": "endorsed",
+    "evidence": "any institution that goes on counting papers in 2026 is choosing to be gamed."
+   },
+   {
+    "id": "pay_coarsely",
+    "label": "dissent_only",
+    "evidence": "Reciprocity should rest on public funding and commons governance, not transactions."
+   },
+   {
+    "id": "telemetry",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "antitrust_safe_harbour",
+    "label": "partial",
+    "evidence": "the people who create and maintain the record need collective leverage over its use, whether through licensing, data cooperatives, or public funding."
+   },
+   {
+    "id": "levy",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "training_vs_grounding",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "consent_to_train",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "honour_licences",
+    "label": "endorsed",
+    "evidence": "Large-scale commercial extractors that impose costs on it should reciprocate through attribution, contributions to maintenance, and respect for machine-readable terms of use."
+   },
+   {
+    "id": "refusal_fundable",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "forkable_infrastructure",
+    "label": "endorsed",
+    "evidence": "community-governed, financially sustainable, and irrevocably open, so that it can be forked if its stewards fail."
+   },
+   {
+    "id": "profiting_counter",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "southern_governance",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "identify_agents_not_readers",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "failure_data",
+    "label": "partial",
+    "evidence": "A retraction should be treated as a sign of healthy science, not a scandal to bury."
+   },
+   {
+    "id": "charter_for_every_body",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "hitl_not_safeguard",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "seat_floor_novelty",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "no_ai_intimate_roles",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "global_majority_hopeful",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "environmental_costs",
+    "label": "endorsed",
+    "evidence": "an honest accounting of energy and labor costs"
+   },
+   {
+    "id": "apprenticeship",
+    "label": "absent",
+    "evidence": ""
+   },
+   {
+    "id": "absent_voices",
+    "label": "endorsed",
+    "evidence": "Convene again with the people most missing from this room: librarians, early-career researchers, teachers and students, annotators and data workers, and scholars from the Global South."
+   }
+  ]
+ }
+}

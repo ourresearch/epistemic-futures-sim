@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Tamar Gendler",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nTying payment or credentials to learning or grounding events undermines intrinsic motivation, cutting against per-event payment, and humans-know/machines-predict distinctions are too tidy.",
+ "raw": "{\"choice\":\"other\",\"why\":\"The dissent argues that \\\"tying payment or credentials to learning or grounding events undermines intrinsic motivation\\\" and that \\\"humans-know/machines-predict distinctions are too tidy.\\\" This is a motivational and epistemological objection to per-event rewards for learners. It does not take a side in the consent-and-payment dispute over existing training text (opt-in or levies versus open training and paying at output), and it does not address whether a model belongs in the checking loop.\"}",
+ "parsed": {
+  "choice": "other",
+  "why": "The dissent argues that \"tying payment or credentials to learning or grounding events undermines intrinsic motivation\" and that \"humans-know/machines-predict distinctions are too tidy.\" This is a motivational and epistemological objection to per-event rewards for learners. It does not take a side in the consent-and-payment dispute over existing training text (opt-in or levies versus open training and paying at output), and it does not address whether a model belongs in the checking loop."
+ }
+}

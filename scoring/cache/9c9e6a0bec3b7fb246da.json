@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Amy Brand",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nOpen for reading is not open for training, so training should require author consent and retrieval should be favoured over pre-training.",
+ "raw": "{\"choice\":\"consent_or_payment\",\"why\":\"The dissent is about consent as the mechanism governing use of existing text: \\\"training should require author consent.\\\" That is the opt-in position on the consent/payment fault line, set against open training. The preference for retrieval over pre-training follows from the same concern about how existing text gets used. It says nothing about whether a model belongs in the checking loop.\"}",
+ "parsed": {
+  "choice": "consent_or_payment",
+  "why": "The dissent is about consent as the mechanism governing use of existing text: \"training should require author consent.\" That is the opt-in position on the consent/payment fault line, set against open training. The preference for retrieval over pre-training follows from the same concern about how existing text gets used. It says nothing about whether a model belongs in the checking loop."
+ }
+}

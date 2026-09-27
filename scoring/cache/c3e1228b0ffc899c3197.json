@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Adam Becker",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nChecker and journalism money should come from public sources rather than voluntary lab money, and the manifesto should drop \"AGI\" and anthropomorphic verbs.",
+ "raw": "{\"choice\":\"other\",\"why\":\"The dissent argues that \\\"Checker and journalism money should come from public sources rather than voluntary lab money\\\" and asks to drop \\\"AGI\\\" and anthropomorphic verbs. That is a dispute over who funds public-interest work and over framing language. It is not about consent, levies or opt-in for training text versus open training, so it is not consent_or_payment. It also does not question whether a model belongs in the checking loop or the room, so it is not model_in_loop.\"}",
+ "parsed": {
+  "choice": "other",
+  "why": "The dissent argues that \"Checker and journalism money should come from public sources rather than voluntary lab money\" and asks to drop \"AGI\" and anthropomorphic verbs. That is a dispute over who funds public-interest work and over framing language. It is not about consent, levies or opt-in for training text versus open training, so it is not consent_or_payment. It also does not question whether a model belongs in the checking loop or the room, so it is not model_in_loop."
+ }
+}

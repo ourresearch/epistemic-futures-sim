@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Geoffrey Bilder",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nThe word \"AI\" assumes the answers under debate, and he is suspicious nobody called his proposals wrong.",
+ "raw": "{\"choice\":\"other\",\"why\":\"The dissent objects to terminology and to the deliberation process itself: \\\"The word \\\"AI\\\" assumes the answers under debate\\\" and suspicion that \\\"nobody called his proposals wrong.\\\" It says nothing about opt-in, levies, or paying for training data, and nothing about whether a model belongs in the checking loop or the room.\"}",
+ "parsed": {
+  "choice": "other",
+  "why": "The dissent objects to terminology and to the deliberation process itself: \"The word \"AI\" assumes the answers under debate\" and suspicion that \"nobody called his proposals wrong.\" It says nothing about opt-in, levies, or paying for training data, and nothing about whether a model belongs in the checking loop or the room."
+ }
+}

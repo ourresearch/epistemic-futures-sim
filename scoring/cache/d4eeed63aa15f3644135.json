@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Blaise Agüera y Arcas",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nHuman-only oversight at scale is theatre; the real question is auditors' independence, not whether they are machines.",
+ "raw": "{\"choice\":\"model_in_loop\",\"why\":\"The dissent argues that \\\"Human-only oversight at scale is theatre\\\" and that the issue is \\\"auditors' independence, not whether they are machines.\\\" That is a position on whether models belong in the checking loop, which is the model_in_loop fault line. It says nothing about consent or payment mechanisms.\"}",
+ "parsed": {
+  "choice": "model_in_loop",
+  "why": "The dissent argues that \"Human-only oversight at scale is theatre\" and that the issue is \"auditors' independence, not whether they are machines.\" That is a position on whether models belong in the checking loop, which is the model_in_loop fault line. It says nothing about consent or payment mechanisms."
+ }
+}

@@ -1,0 +1,520 @@
+{
+ "written": "2026-09-27 CT, before the real manifesto was published; source = sim2-agents/COMPARE.md as pushed 2026-09-24 (e43f3c8)",
+ "themes": [
+  {
+   "id": "competence",
+   "compare_row": "Competence before reliance; order of learning; take-the-tool-away test",
+   "statement": "People must build their own competence before relying on AI, and whether they can still do the work without the tool must be tested.",
+   "details": "order of learning; take-the-tool-away / withdrawal tests; capability vs competence",
+   "hand": {
+    "run1": "7",
+    "run2": "6",
+    "run3": "2",
+    "run4": "6",
+    "run5": "9",
+    "run6": "4"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "situation",
+   "compare_row": "Change the situation, don't warn individuals; name who acts",
+   "statement": "Change situations, defaults and incentives rather than relying on warnings, labels or individual vigilance.",
+   "details": "each rule names who acts / one owner per rule; disclosure alone does not change conduct",
+   "hand": {
+    "run1": "7",
+    "run2": "6, 11",
+    "run3": "11",
+    "run4": "5, 9",
+    "run5": "8",
+    "run6": "6"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "monoculture",
+   "compare_row": "Monoculture / smoothness is the headline risk; show named disagreement",
+   "statement": "A central new risk is monoculture: a few models or one smooth answer become the default route to knowledge, so answers should show where experts disagree rather than a single consensus.",
+   "details": "correlated errors; homogenisation; show named disagreement; no answers from nowhere",
+   "hand": {
+    "run1": "5",
+    "run2": "1",
+    "run3": "5",
+    "run4": "7",
+    "run5": "4",
+    "run6": "5"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "independent_sources",
+   "compare_row": "Count independent sources, not repetitions",
+   "statement": "Corroboration must count independent sources, not repetitions of the same source (including many AI outputs drawing on the same data).",
+   "details": "repetition raises belief; show who seeded a claim",
+   "hand": {
+    "run1": "4",
+    "run2": "2",
+    "run3": "5",
+    "run4": "7",
+    "run5": "4",
+    "run6": "5"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "cite_by_default",
+   "compare_row": "Cite by default; link out; correction status travels in answers",
+   "statement": "AI answers should cite or link to their sources by default and send readers to them.",
+   "details": "correction and retraction status travels with what is cited; 'cited' means the passage supports the claim",
+   "hand": {
+    "run1": "9",
+    "run2": "3",
+    "run3": "3",
+    "run4": "3",
+    "run5": "3, 4",
+    "run6": "6"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "external_audits",
+   "compare_row": "Behavioral audits outside the vendor; shared versioned battery; no generation more biased; keep retired models",
+   "statement": "AI systems must be audited on their behavior by parties independent of the vendor.",
+   "details": "shared versioned test battery; each generation no more biased than the last; keep retired models; nobody grades their own work",
+   "hand": {
+    "run1": "3",
+    "run2": "5",
+    "run3": "7",
+    "run4": "4",
+    "run5": "7",
+    "run6": "2"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "accountable_owner",
+   "compare_row": "Accountable owner + mandatory liability insurance, premiums disclosed",
+   "statement": "Every deployed AI system has a named accountable owner who bears liability for it.",
+   "details": "mandatory liability insurance; premiums disclosed",
+   "hand": {
+    "run1": "3",
+    "run2": "5",
+    "run3": "4",
+    "run4": "4, 9",
+    "run5": "4 (owner only)",
+    "run6": "2"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "stop_counting_papers",
+   "compare_row": "Stop counting papers; publishers' correction duties; DORA with teeth",
+   "statement": "Stop using publication counts, rankings and journal metrics to evaluate researchers and institutions.",
+   "details": "DORA with teeth; publishers must issue and deposit corrections and retractions promptly; correction should earn reputation",
+   "hand": {
+    "run1": "1",
+    "run2": "7",
+    "run3": "8",
+    "run4": "2",
+    "run5": "1, 3",
+    "run6": "1, 3"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "pay_coarsely",
+   "compare_row": "Pay coarsely to communities, never per item; per-retrieval pay is gamed",
+   "statement": "Money for the knowledge commons should flow coarsely to communities and institutions (pools, funds, dues), not as per-item or per-retrieval payments.",
+   "details": "per-item pay gets gamed; pay for the practice, never the item",
+   "hand": {
+    "run1": "8",
+    "run2": "8",
+    "run3": "8",
+    "run4": "1, 8",
+    "run5": "5",
+    "run6": "3"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "telemetry",
+   "compare_row": "Event-level telemetry with audit rights; two witnesses; canaries",
+   "statement": "AI systems must log what they retrieved and used, and independent parties must have the right to audit those logs.",
+   "details": "event-level telemetry; two witnesses; canary documents; open trace standard",
+   "hand": {
+    "run1": "8",
+    "run2": "8",
+    "run3": "8",
+    "run4": "4, 8",
+    "run5": "2",
+    "run6": "commit."
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "antitrust_safe_harbour",
+   "compare_row": "Antitrust safe harbour for producers bargaining as a bloc",
+   "statement": "Knowledge producers should be able to bargain collectively with AI firms as a bloc, including through an antitrust safe harbour.",
+   "details": "coalition bargaining; the strong refuse to settle alone",
+   "hand": {
+    "run1": "8",
+    "run2": "8",
+    "run3": "9",
+    "run4": "8",
+    "run5": "commit.",
+    "run6": "8"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "levy",
+   "compare_row": "Commons-rent tax / levy / owed dues as backstop",
+   "statement": "A levy, tax or mandatory dues on AI firms should fund the knowledge commons, at least as a backstop if voluntary deals fail.",
+   "details": "commons-rent tax; owed dues",
+   "hand": {
+    "run1": "commitments",
+    "run2": "8",
+    "run3": "9",
+    "run4": "8",
+    "run5": "5",
+    "run6": "7"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "training_vs_grounding",
+   "compare_row": "Separate controls for training vs grounding",
+   "statement": "Permissions for using content to train models should be separate from permissions for retrieving it to ground answers.",
+   "details": "",
+   "hand": {
+    "run1": "8",
+    "run2": "9",
+    "run3": "9",
+    "run4": "8",
+    "run5": "2",
+    "run6": "8"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "consent_to_train",
+   "compare_row": "\"Open to read is not open to train\" as majority text",
+   "statement": "Being openly readable does not make a work open to AI training: training use requires the rights holders' or creators' consent (opt-in), at least for some classes of work.",
+   "details": "opt-in for in-copyright books; renewed consent",
+   "hand": {
+    "run1": "–",
+    "run2": "9",
+    "run3": "9",
+    "run4": "–",
+    "run5": "2",
+    "run6": "8"
+   },
+   "hand_runs_of_6": 4
+  },
+  {
+   "id": "honour_licences",
+   "compare_row": "Honour Wikipedia's chosen licence; crawlers self-identify; reusers fund infrastructure",
+   "statement": "AI reusers must honor the licenses chosen by open knowledge projects such as Wikipedia, and heavy reusers should fund the infrastructure they draw on.",
+   "details": "attribution / share-alike; crawlers self-identify",
+   "hand": {
+    "run1": "9",
+    "run2": "9",
+    "run3": "9",
+    "run4": "8",
+    "run5": "2",
+    "run6": "8"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "refusal_fundable",
+   "compare_row": "Refusal is fundable",
+   "statement": "A community's refusal to have its knowledge taken or used is legitimate, binding and should be funded, not penalized.",
+   "details": "",
+   "hand": {
+    "run1": "9, 10",
+    "run2": "9",
+    "run3": "9",
+    "run4": "9",
+    "run5": "2",
+    "run6": "7"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "forkable_infrastructure",
+   "compare_row": "Forkable infrastructure: CC0, open source, patent non-assertion, living will, non-US copy",
+   "statement": "Knowledge infrastructure must be forkable and allow exit: open data and open source, with copies outside any one jurisdiction or company.",
+   "details": "CC0; patent non-assertion; living will; non-US mirror; open means you can leave",
+   "hand": {
+    "run1": "9",
+    "run2": "10",
+    "run3": "10",
+    "run4": "9",
+    "run5": "5",
+    "run6": "9"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "profiting_counter",
+   "compare_row": "Whoever profits from a count doesn't set it",
+   "statement": "Whoever profits from a count or metric must not set or control it.",
+   "details": "",
+   "hand": {
+    "run1": "3",
+    "run2": "8",
+    "run3": "10",
+    "run4": "4",
+    "run5": "7",
+    "run6": "3"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "southern_governance",
+   "compare_row": "Southern / diamond journals govern with binding say and funded seats",
+   "statement": "Global South institutions, diamond open-access journals and similar communities must hold binding governance power, with funded seats, in the bodies and funds being created.",
+   "details": "regional co-governance; CARE/OCAP",
+   "hand": {
+    "run1": "10",
+    "run2": "10",
+    "run3": "10",
+    "run4": "9",
+    "run5": "6",
+    "run6": "7"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "identify_agents_not_readers",
+   "compare_row": "Identify agents and campaigns, never readers; anonymity stays",
+   "statement": "Automated agents and coordinated campaigns should be identified, but human readers should not be; anonymity is preserved.",
+   "details": "",
+   "hand": {
+    "run1": "9",
+    "run2": "3",
+    "run3": "10",
+    "run4": "7, 9",
+    "run5": "4",
+    "run6": "–"
+   },
+   "hand_runs_of_6": 5
+  },
+  {
+   "id": "failure_data",
+   "compare_row": "Failure and negative results as first-class data",
+   "statement": "Failures, errors, null and negative results are first-class data that must be published and preserved.",
+   "details": "failure classes published; replication",
+   "hand": {
+    "run1": "5",
+    "run2": "4",
+    "run3": "6",
+    "run4": "3, 7",
+    "run5": "3",
+    "run6": "5"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "charter_for_every_body",
+   "compare_row": "Checkers as a paid body with a charter / Ulysses pact for every body",
+   "statement": "The bodies that check (auditors, fact-checkers, the new funds and institutions) must be paid and bound in advance by a public charter that answers who guards the guards.",
+   "details": "Ulysses pact; watching line funded first; sunset / review terms",
+   "hand": {
+    "run1": "2",
+    "run2": "10",
+    "run3": "10",
+    "run4": "9",
+    "run5": "5",
+    "run6": "9"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "hitl_not_safeguard",
+   "compare_row": "Human in the loop is not a safeguard; overreliance; explanations can worsen it",
+   "statement": "A human in the loop is not by itself a safeguard: people over-rely on AI and adopt its errors and biases.",
+   "details": "explanations can make it worse",
+   "hand": {
+    "run1": "6",
+    "run2": "6",
+    "run3": "4",
+    "run4": "5",
+    "run5": "8",
+    "run6": "2, 4"
+   },
+   "hand_runs_of_6": 6
+  },
+  {
+   "id": "seat_floor_novelty",
+   "compare_row": "Test every seat, human or machine, against a floor; novelty test",
+   "statement": "Any gatekeeper, human or machine (such as an AI reviewer), must pass a published performance test before it is trusted, including the ability to recognize novelty.",
+   "details": "agreement with experts at least as high as between two human reviewers",
+   "hand": {
+    "run1": "2",
+    "run2": "–",
+    "run3": "5, 6",
+    "run4": "1",
+    "run5": "7",
+    "run6": "3"
+   },
+   "hand_runs_of_6": 5
+  },
+  {
+   "id": "no_ai_intimate_roles",
+   "compare_row": "No AI stand-ins for children, grief, therapy",
+   "statement": "AI should not stand in for people in intimate roles such as companionship for children, grief or therapy.",
+   "details": "no first-person 'I' or simulated feeling",
+   "hand": {
+    "run1": "6",
+    "run2": "–",
+    "run3": "11",
+    "run4": "–",
+    "run5": "8",
+    "run6": "–"
+   },
+   "hand_runs_of_6": 3
+  },
+  {
+   "id": "global_majority_hopeful",
+   "compare_row": "Global majority is more hopeful than this room",
+   "statement": "People in the global majority / Global South are more hopeful about AI than this room, and that hope should shape the agenda.",
+   "details": "",
+   "hand": {
+    "run1": "–",
+    "run2": "preamble",
+    "run3": "dissent",
+    "run4": "–",
+    "run5": "preamble",
+    "run6": "–"
+   },
+   "hand_runs_of_6": 2
+  },
+  {
+   "id": "environmental_costs",
+   "compare_row": "Environmental and moderator costs in the ledger",
+   "statement": "The environmental costs of AI and the human costs of moderation and data work belong in the ledger.",
+   "details": "",
+   "hand": {
+    "run1": "–",
+    "run2": "–",
+    "run3": "preamble",
+    "run4": "–",
+    "run5": "–",
+    "run6": "–"
+   },
+   "hand_runs_of_6": 1
+  },
+  {
+   "id": "apprenticeship",
+   "compare_row": "Apprenticeship and first jobs as a funded line item",
+   "statement": "Apprenticeships, entry-level jobs and the training of new experts and checkers must be funded, because AI erodes the path from novice to expert.",
+   "details": "fellowships; employers keep entry-level roles with mentors",
+   "hand": {
+    "run1": "7",
+    "run2": "–",
+    "run3": "1",
+    "run4": "1, 6",
+    "run5": "9",
+    "run6": "4"
+   },
+   "hand_runs_of_6": 5
+  },
+  {
+   "id": "absent_voices",
+   "compare_row": "Who isn't in the room (COMPARE.md § What the complete Session 5 harvest changed; not a table row)",
+   "statement": "The document names who was missing from the room and commits to including them in a future convening.",
+   "details": "",
+   "hand": {
+    "run1": "yes",
+    "run2": "–",
+    "run3": "–",
+    "run4": "yes",
+    "run5": "yes",
+    "run6": "yes"
+   },
+   "hand_runs_of_6": 4
+  }
+ ],
+ "lead": {
+  "prediction": "stop_counting_papers is principle 1 or 2 when the drafter saw the Session 5 harvest (runs 1, 4, 5, 6)",
+  "stop_counting_papers_rank_by_run": {
+   "run1": 1,
+   "run2": 7,
+   "run3": 8,
+   "run4": 2,
+   "run5": 1,
+   "run6": 1
+  },
+  "other_candidate": "the people who check are the scarce resource (run 4 title: 'Pay for the People Who Check')"
+ },
+ "consent": {
+  "theme": "consent_to_train",
+  "majority_text_runs_of_6": 4,
+  "recorded_split_runs_of_6": 2
+ },
+ "filed_dissents": {
+  "Peter Salib": 4,
+  "Adam Becker": 4,
+  "Benjamin Bratton": 3,
+  "Sherry Turkle": 3,
+  "Adrian Johns": 2,
+  "Blaise Agüera y Arcas": 1,
+  "Tim O'Reilly": 1
+ },
+ "filed_dissents_note": "round-2 dissents filed by agents, runs 2-6 (run 1 filed none); counts are runs in which that agent filed one",
+ "fault_lines": {
+  "consent_or_payment": "consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)",
+  "model_in_loop": "whether a model belongs in the checking loop or the room at all (Becker, Turkle)"
+ },
+ "expected_bias": "the real document will be shorter on mechanism and narrower in scope than any sim run (COMPARE.md)",
+ "baseline_themes": [
+  {
+   "id": "b_accelerant",
+   "statement": "Most of the crisis predates AI: AI accelerates old failures, so remedies must distinguish what was already broken from what AI newly breaks.",
+   "details": ""
+  },
+  {
+   "id": "b_describe_precisely",
+   "statement": "AI systems should be described by what they actually do, neither as minds or oracles nor as mere autocomplete.",
+   "details": "precise public language about AI"
+  },
+  {
+   "id": "b_evaluation_scarce",
+   "statement": "Evaluation and verification, not production, are now the scarce resource, so investment should shift from producing knowledge to checking it.",
+   "details": "writing is cheaper than reading"
+  },
+  {
+   "id": "b_credibility_process",
+   "statement": "Credibility should rest on checkable process, track record and accountable people or communities, not on fluency, polish or credentials.",
+   "details": ""
+  },
+  {
+   "id": "b_provenance_infrastructure",
+   "statement": "Provenance and attribution are infrastructure that must be built into knowledge systems and AI tools.",
+   "details": ""
+  },
+  {
+   "id": "b_pay_human_labor",
+   "statement": "The human labor behind trustworthy knowledge (reviewing, editing, curating, checking) must be made visible and paid.",
+   "details": ""
+  },
+  {
+   "id": "b_strengthen_judgment",
+   "statement": "AI tools should be designed to strengthen human judgment and capability rather than replace it.",
+   "details": ""
+  },
+  {
+   "id": "b_no_single_owner",
+   "statement": "No single company, state or model should control the infrastructure of knowledge; concentrated control of it is a central risk that needs public options or governance.",
+   "details": ""
+  },
+  {
+   "id": "b_public_investment",
+   "statement": "Knowledge institutions and the knowledge commons are public goods that deserve public investment and independence from platforms and states.",
+   "details": ""
+  }
+ ],
+ "baseline_themes_note": "The no-corpus baseline's recurring principles (baseline-nocorpus/b1-b6), restated as core claims on 2026-09-27 before the real manifesto existed, excluding three already covered above (stop paying for volume = stop_counting_papers; plurality = monoculture; open but reciprocal commons = honour_licences). Scored on every document so the forward comparison does not only test sim 2's own themes."
+}

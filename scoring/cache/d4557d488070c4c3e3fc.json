@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Ramón Alvarado",
+ "vote": 0,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nOnly epistemic trust earned with warrants licenses trust in scientific uses, and human roles in the loop must be epistemically justified, not kept by default.",
+ "raw": "{\"choice\":\"model_in_loop\",\"why\":\"The dissent concerns who belongs in the checking loop. It says \\\"human roles in the loop must be epistemically justified, not kept by default,\\\" and that trust must be \\\"earned with warrants.\\\" That is the same question about the composition of the verification loop, argued from the side opposite to Becker and Turkle. It has nothing to do with consent, levies or payment.\"}",
+ "parsed": {
+  "choice": "model_in_loop",
+  "why": "The dissent concerns who belongs in the checking loop. It says \"human roles in the loop must be epistemically justified, not kept by default,\" and that trust must be \"earned with warrants.\" That is the same question about the composition of the verification loop, argued from the side opposite to Becker and Turkle. It has nothing to do with consent, levies or payment."
+ }
+}

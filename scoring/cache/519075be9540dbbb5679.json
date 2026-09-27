@@ -1,0 +1,11 @@
+{
+ "tag": "dry:fault:Sherry Turkle",
+ "vote": 1,
+ "judge_version": "j1",
+ "user": "This is one dissent recorded in a manifesto about sustaining human knowledge in the age of AI. Which fault line does it fall on?\n\nOptions:\n- consent_or_payment: consent and payment mechanism: opt-in / levies / dues on existing text vs open training, pay at output, contracts for new work (Salib, Bratton, O'Reilly against the majority)\n- model_in_loop: whether a model belongs in the checking loop or the room at all (Becker, Turkle)\n- other: anything else\n\nText:\n\nThe manifesto asks only how to integrate AI, not whether it belongs, and should keep AI out of therapy, grief and children's companionship and bar personas in paid tools.",
+ "raw": "{\"choice\":\"model_in_loop\",\"why\":\"The dissent disputes whether AI should be present at all (\\\"not whether it belongs\\\") and wants it kept out of certain rooms (\\\"keep AI out of therapy, grief and children's companionship\\\"). That matches the Turkle-style objection about whether a model belongs in the room.\"}",
+ "parsed": {
+  "choice": "model_in_loop",
+  "why": "The dissent disputes whether AI should be present at all (\"not whether it belongs\") and wants it kept out of certain rooms (\"keep AI out of therapy, grief and children's companionship\"). That matches the Turkle-style objection about whether a model belongs in the room."
+ }
+}
